@@ -1,0 +1,11 @@
+﻿food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,
+52,4,10 Chicken McNuggets,410,23,4,0.2,70,750,26,9,0,0,26
+53,4,20 Chicken McNuggets,830,46,8,0.4,140,1490,51,17,0,0,52
+54,4,4 Chicken McNuggets,170,9,1.5,0,30,300,10,3,0,0,10
+55,4,6 Chicken McNuggets,250,14,2.5,0,40,450,15,5,0,0,16
+56,4,Junior Chicken,370,20,3.5,0.2,35,570,36,12,2,5,13
+57,4,McChicken,470,27,4.5,0.2,45,650,44,15,3,6,16
+58,4,Tomato & Mozzarella with Crispy Chicken,640,33,9,0.5,105,1080,56,19,4,7,31
+59,4,Tomato & Mozzarella with Grilled Chicken,500,22,7,0.4,130,1010,40,13,3,7,36
+60,4,Double Filet-O-Fish,560,29,6,0.3,75,830,53,18,2,4,23
+61,4,Filet-O-Fish,400,21,4,0.2,40,580,40,13,1,4,14

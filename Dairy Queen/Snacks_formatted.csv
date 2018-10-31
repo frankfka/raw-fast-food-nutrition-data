@@ -1,0 +1,16 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+199,11,Buffalo Chicken Snack Melt,260,13,4.5,0.3,25,940,24,1,4,13,0,0,0,0,0,0,0
+200,11,Cheeseburger,380,16,8.0,0.5,60,710,35,2,6,23,0,0,0,0,0,0,0
+201,11,Chicken Bacon BBQ Snack Melt,270,11,5.0,0.2,35,900,27,1,7,16,0,0,0,0,0,0,0
+202,11,Crispy Chicken Wrap,330,18,4.0,0.3,25,790,31,2,2,12,0,0,0,0,0,0,0
+203,11,FlameThrower Crispy Chicken Wrap,360,21,4.5,0.3,30,820,31,2,1,12,0,0,0,0,0,0,0
+204,11,FlameThrower Grilled Chicken Wrap,290,16,4.0,0.2,30,830,22,1,2,15,0,0,0,0,0,0,0
+205,11,"Fries, Large",490,21,3.0,0.2,0,1490,71,6,1,7,0,0,0,0,0,0,0
+206,11,"Fries, Regular",300,13,2.0,0.1,0,920,44,4,0,4,0,0,0,0,0,0,0
+207,11,Grilled Chicken Wrap,270,14,3.5,0.2,25,800,22,1,2,15,0,0,0,0,0,0,0
+208,11,Lay's Potato Chips - Original,220,14,1.5,0.0,0,270,21,1,0,2,0,0,0,0,0,0,0
+209,11,"Onion Rings, Large",530,27,4.0,0.0,0,1450,64,5,7,9,0,0,0,0,0,0,0
+210,11,"Onion Rings, Regular",260,14,2.0,0.0,0,730,32,2,3,4,0,0,0,0,0,0,0
+211,11,Potato Skins,260,15,6.0,0.3,35,1070,20,3,1,12,0,0,0,0,0,0,0
+212,11,Poutine,480,23,6.0,0.1,20,1700,60,4,1,10,0,0,0,0,0,0,0
+213,11,Pretzel Sticks with Zesty Queso,330,9,3.0,0.0,5,500,52,2,1,9,0,0,0,0,0,0,0

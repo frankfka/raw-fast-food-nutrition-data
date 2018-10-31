@@ -1,0 +1,8 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+214,12,Apple Sauce,50,0,0.0,0.0,0,0,13,1,11,0,0,0,0,0,0,0,0
+215,12,Banana,110,0,0.0,0.0,0,0,27,3,14,1,0,0,0,0,0,0,0
+216,12,Cheeseburger,380,16,8.0,0.5,60,710,35,2,6,23,0,0,0,0,0,0,0
+217,12,Chicken Strips - 2 piece,230,11,1.0,0.1,30,660,18,1,0,14,0,0,0,0,0,0,0
+218,12,"Fries, Child's",260,11,1.5,0.1,0,800,38,3,0,4,0,0,0,0,0,0,0
+219,12,Hamburger,330,13,5.0,0.5,50,500,33,2,6,20,0,0,0,0,0,0,0
+220,12,"Milk, 2% - Small",170,7,2.5,0.2,25,160,16,0,16,11,0,0,0,0,0,0,0

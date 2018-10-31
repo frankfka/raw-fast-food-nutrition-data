@@ -1,0 +1,14 @@
+﻿food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein
+39,3,Bacon & Cheddar Angus,770,41,18,1.5,130,1400,53,2,13,46
+40,3,Big Mac,520,28,10,0.5,65,950,45,3,9,24
+41,3,Cheeseburger,290,11,5,0.4,35,700,33,2,7,15
+42,3,Double Big Mac,680,38,16,1,120,1310,46,3,8,40
+43,3,Double Cheeseburger,420,20,10,0.5,70,1050,35,2,7,24
+44,3,Double Quarter Pounder with Cheese,740,43,20,1.5,145,1240,42,3,9,47
+45,3,Double Quarter Pounder without Cheese,650,37,16,1.5,120,860,39,3,9,42
+46,3,Hamburger,240,8,3,0.2,25,510,32,2,7,12
+47,3,McDouble,370,17,8,0.5,60,860,34,2,7,21
+48,3,Mighty Angus Original,790,43,16,1.5,120,1310,56,3,15,42
+49,3,Quarter Pounder BLT,600,35,13,1,95,1130,42,3,11,31
+50,3,Quarter Pounder with Cheese,520,26,13,1,85,1080,41,3,9,30
+51,3,Quarter Pounder without Cheese,420,20,8,0.5,60,680,39,2,9,24

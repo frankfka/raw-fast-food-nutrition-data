@@ -1,0 +1,31 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+143,9,Sous Vide Egg Whites with Monterey Jack & Peppers,170,7,5,0.2,25,500,13,1,2,13,15,8,10,2,0,0,0
+144,9,"Reduced-Fat Turkey-Style Bacon, Cheddar & Egg White Breakfast Sandwich",210,5,2,0,20,560,26,0,2,18,6,0,10,8,0,0,0
+145,9,Egg & Cheddar on English Muffin,280,13,5,0.2,160,460,27,2,2,12,15,8,10,15,0,0,0
+146,9,"Spinach, Feta & Egg White Breakfast Wrap",290,10,3.5,0.2,20,830,33,6,4,19,70,15,20,15,0,0,0
+147,9,Sous Vide Eggs with Bacon and Gruyere,310,22,14,0.5,185,600,9,0,2,19,25,0,25,6,0,0,0
+148,9,"Bacon, Gouda & Egg on Artisan Roll",370,19,7,0.1,165,850,32,1,1,18,6,15,20,20,0,0,0
+149,9,Steak and Egg Wrap,410,18,5,0.1,170,780,43,2,4,21,15,2,6,30,0,0,0
+150,9,Spinach Quiche,420,24,11,0.5,190,720,36,1,4,15,8,8,25,6,0,0,0
+151,9,"Roasted Ham, Swiss & Egg on Croissant Bun",450,23,12,0.5,220,780,42,1,6,19,10,0,15,20,0,0,0
+152,9,Bacon & Cheddar Breakfast Sandwich,470,23,8,0.5,55,1030,43,2,3,19,6,20,15,15,0,0,0
+153,9,Bacon Quiche,470,27,12,1,210,740,37,1,5,18,4,2,25,10,0,0,0
+154,9,Double Smoked Bacon,490,27,13,0.1,215,910,40,1,7,17,6,2,15,20,0,0,0
+155,9,Carved Ham Breakfast Sandwich,490,25,12,0,225,940,41,1,7,25,15,30,20,15,0,0,0
+156,9,"Sausage, Egg & Cheddar Classic Breakfast Sandwich",500,28,9,0.2,165,920,41,1,3,15,10,0,30,25,0,0,0
+157,9,Spicy Chorizo Monterey Jack and Egg,500,30,9,0.1,210,860,35,3,3,26,20,2,20,20,0,0,0
+158,9,Chicken BLT Sandwich,470,25,2.5,0,60,800,36,3,4,27,20,20,2,15,0,0,0
+159,9,Turkey Pesto Panini,450,17,6,0.2,60,1090,43,1,0,29,20,25,30,25,0,0,0
+160,9,Italian Style Ham and Spicy Salami Panini,480,20,8,0.3,65,1100,49,3,3,26,20,20,20,30,0,0,0
+161,9,Ancho Chipotle Chicken,440,18,7,0,60,1020,46,3,3,24,30,50,25,25,0,0,0
+162,9,Turkey Havarti,440,25,8,0.4,75,1010,32,2,2,26,20,10,15,15,0,0,0
+163,9,Chicken Artichoke,500,25,8,0.2,65,940,38,5,1,28,10,70,25,15,0,0,0
+164,9,Egg Salad Sandwich,490,27,4.5,0,360,850,39,6,5,20,25,15,6,25,0,0,0
+165,9,Turkey & Basil Pesto Sandwich,500,22,6,0.3,75,1230,45,2,2,32,35,210,25,30,0,0,0
+166,9,Holiday Turkey Panini (Frozen),510,12,4,0.1,70,1170,75,3,12,29,4,2,2,35,0,0,0
+167,9,Turkey Rustico Panini (frozen),480,18,6,0,55,1120,53,4,13,33,50,20,25,20,0,0,0
+168,9,Roasted Tomato & Mozzarell Panini (frozen),420,17,5,0,20,820,53,5,0,15,40,6,25,20,0,0,0
+169,9,Ham & Swiss Panini (frozen),360,10,5,0,50,1150,43,1,1,23,4,25,20,15,0,0,0
+170,9,Chicken Santa Fe Panini,360,14,6,0.2,60,770,33,2,1,25,15,90,15,15,0,0,0
+171,9,Old Fashioned Grilled Cheese,580,29,13,0.5,65,1110,57,5,7,28,15,4,45,15,0,0,0
+172,9,BBQ Beef Briscuit,510,22,10,0.3,65,1210,54,3,5,23,15,2,20,30,0,0,0

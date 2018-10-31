@@ -1,0 +1,8 @@
+﻿food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein
+69,6,Apple Slices,40,0,0,0,0,5,10,2,8,0.1
+70,6,Parmesan & Garlic Seasoned Fries,420,23,7,0.3,20,470,47,4,1,5
+71,6,Poutine,510,30,12,1,60,1010,44,3,1,17
+72,6,World Famous Fries - Large,560,27,3.5,0.3,0,420,74,6,0,6
+73,6,World Famous Fries - Medium,350,17,2,0.2,0,260,46,4,0,4
+74,6,World Famous Fries - Mini,120,6,0.5,0,0,90,16,1,0,1
+75,6,World Famous Fries - Small,240,11,1.5,0,0,180,31,3,0,3

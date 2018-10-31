@@ -1,0 +1,25 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein
+1,1,Bacon & Hash Brown More-Ning McWrap,590,31,10,0.4,430,1160,54,8,3,24
+2,1,Bacon 'N Egg Bagel with Multigrain Bagel,620,30,12,0.5,230,1090,63,3,7,24
+3,1,Bacon 'N Egg Bagel with Regular Bagel,600,27,12,0.5,230,1000,63,2,8,24
+4,1,Bacon 'N Egg McMuffin,310,14,6,0.2,200,680,29,2,2,16
+5,1,"Bacon, Egg & Cheese McGriddles",400,17,7,0.2,195,1180,44,2,15,16
+6,1,Big Breakfast,640,38,12,0.4,445,1120,49,3,2,24
+7,1,BLT Bagel with Multigrain Bagel,540,25,9,0.4,50,930,62,3,8,17
+8,1,BLT Bagel with Regular Bagel,520,22,9,0.4,50,840,63,2,8,17
+9,1,Breakfast Burrito,290,15,6,0.3,165,670,25,3,2,13
+10,1,Egg BLT McMuffin,360,19,7,0.3,205,710,30,2,3,16
+11,1,Egg LT Bagel with Multigrain Bagel,520,20,9,0.4,210,810,62,3,7,20
+12,1,Egg LT Bagel with Regular Bagel,490,18,9,0.4,210,720,63,2,8,20
+13,1,Egg McMuffin,290,11,5,0.2,200,760,29,2,3,16
+14,1,English Muffin with Butter,170,4,2,0,10,280,27,2,2,5
+15,1,Feta & Tomato More-Ning McWrap,430,22,8,0.3,425,750,38,6,3,21
+16,1,Fruit & MapleOatmeal,290,2.5,0,0,0,90,62,5,33,5
+17,1,Hash Browns,160,10,1.5,0,0,360,16,2,0,1
+18,1,Hotcakes with Syrup and Butter,600,16,6,0.2,45,660,106,3,57,8
+19,1,Multigrain Bagel with Butter,400,12,6,0.3,25,560,60,3,6,11
+20,1,Regular Bagel with Butter,370,10,5,0.3,25,470,61,2,7,11
+21,1,Sausage 'N Egg McMuffin,430,25,11,0.3,225,850,31,2,2,20
+22,1,Sausage and Hash Brown More-Ning McWrap,710,42,14,0.5,450,1330,57,8,3,28
+23,1,Sausage McGriddles,400,20,8,0.2,30,1100,45,2,14,11
+24,1,Sausage McMuffin,370,20,9,0.3,50,790,31,2,2,14

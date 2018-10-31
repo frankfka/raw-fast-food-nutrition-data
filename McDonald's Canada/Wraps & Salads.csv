@@ -1,0 +1,15 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein
+25,2,Ranch Chicken Snack Wrap with Crispy Chicken,290,13,3.5,0.2,30,640,30,3,2,14
+26,2,Ranch Chicken Snack Wrap with Grilled Chicken,240,9,3,0.2,50,490,24,3,2,17
+27,2,Sweet Chili Signature McWrap with Crispy Chicken,520,23,4.5,0.2,45,1130,56,6,11,23
+28,2,Sweet Chili Signature McWrap with Grilled Chicken,420,14,3.5,0,90,830,44,6,11,30
+29,2,Chicken & Bacon Signature McWrap with Crispy Chicken,600,33,10,0.3,75,1280,48,6,4,30
+30,2,Chicken & Bacon Signature McWrap with Grilled Chicken,500,24,9,0.3,115,980,36,6,4,38
+31,2,Chipotle Chicken Snack Wrap with Crispy Chicken,290,11,3,0.2,25,680,35,3,8,13
+32,2,Chipotle Chicken Snack Wrap with Grilled Chicken,240,7,2.5,0.2,45,530,29,3,8,17
+33,2,Caesar Side Salad,150,8,3,0,25,400,12,1,1,6
+34,2,Garden Fresh Side Salad,40,2,1,0,5,70,3,1,1,3
+35,2,Caesar Salad with Crispy Chicken,520,29,9,0.3,110,1070,30,3,2,30
+36,2,Caesar Salad with Grilled Chicken,390,18,8,0.2,135,990,14,2,2,35
+37,2,Greek Salad with Crispy Chicken,440,21,5,0.3,70,790,39,5,4,27
+38,2,Greek Salad with Grilled Chicken,310,10,3.5,0.2,95,720,24,4,4,33

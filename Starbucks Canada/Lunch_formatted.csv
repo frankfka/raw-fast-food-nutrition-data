@@ -1,0 +1,20 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+124,8,Cheese & Fruit Bistro Box,470,28,12,0.5,50,520,42,7,19,17,15,6,35,15,0,0,0
+125,8,Protein Bistro Box,360,18,6,0.1,210,520,37,5,19,15,15,6,15,15,0,0,0
+126,8,Power Bistro Box,520,34,9,0.5,65,720,30,5,5,25,80,2,35,25,0,0,0
+127,8,Veggie & Hummus,450,20,2.5,0,0,490,54,10,16,16,60,10,8,35,0,0,0
+128,8,PB&J Bistro Box,490,31,7,0.3,30,420,42,4,24,15,140,35,20,15,0,0,0
+129,8,Greek Yogurt & Honey Parfait,290,12,6,0.1,35,100,40,2,27,8,15,2,20,6,0,0,0
+130,8,Peach Raspberry Yogurt Parfait,300,5,1,0,10,105,47,4,19,10,6,10,15,8,0,0,0
+131,8,Strawberry Blueberry Yogurt Parfait,310,5,1,0,10,105,51,3,22,10,4,25,20,8,0,0,0
+132,8,Seasonal Fruit Cup,80,0,0,0,0,15,20,3,17,1,30,80,2,2,0,0,0
+133,8,Zesty Black Bean and Quinoa Wrap,530,29,8,0.4,25,680,55,6,3,14,10,15,10,25,0,0,0
+134,8,Thai Tuna Wrap,510,24,3.5,0.2,30,840,55,3,9,17,15,2,4,20,0,0,0
+135,8,Rice Veggie Salad Bowl,420,23,3,0,0,600,52,9,9,10,290,170,15,30,0,0,0
+136,8,Black Bean Salad Bowl,370,13,2,0,30,690,45,8,13,19,30,50,6,25,0,0,0
+137,8,Whole Grain Oatmeal,160,2.5,0.5,0,0,125,28,4,0,5,0,0,8,10,0,0,0
+138,8,Maple Brown Sugar,50,0,0,0,0,3,13,0,12,0,0,0,2,2,0,0,0
+139,8,"Fruit, Nut & Seed Medley",70,3,1,0,0,0,8,1,5,2,0,0,2,6,0,0,0
+140,8,Brown Sugar,50,0,0,0,0,5,12,0,12,0,0,0,0,2,0,0,0
+141,8,Dried Fruit,100,0.4,0,0,0,0,24,2,22,1,2,2,0,2,0,0,0
+142,8,Nut Medley,100,10,1,0,0,0,2,1,1,2,0,0,2,2,0,0,0
