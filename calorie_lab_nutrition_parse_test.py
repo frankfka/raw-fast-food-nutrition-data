@@ -4,8 +4,8 @@ import requests
 import numpy as np
 import os
 import re
-from collections import OrderedDict
 import bs4 as bs
+from collections import OrderedDict
 
 header = {
   "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36",
@@ -14,14 +14,12 @@ header = {
 no_link = "no_link"
 domain_name = 'http://calorielab.com'
 restaurant_link = 'http://calorielab.com/restaurants/tim-hortons/22'
-dir_path = os.getcwd()
-# These should be unused at the start
-food_id = 2
-menu_id = 2
-restaurant_id = 2
+# restaurant_link = 'http://calorielab.com/restaurants/tim-hortons/ham-and-swiss/22/2618'
 
 def makeRequest(link):
     return requests.get(link, headers=header)
+
+link = 'http://calorielab.com/restaurants/tim-hortons/ham-and-swiss/22/2618'
 
 def get_number_from_string(original_string):
     return re.search(re.compile('[0-9]+,*[0-9]*\.*[0-9]*'), original_string).group(0)
@@ -39,10 +37,10 @@ def parse_food_object(link_to_food):
     for index, row in parsed_nutrition_table.iterrows():
         if 'Calories (%DV' in row['Nutrient'] and not 'calories' in food_dict:
             food_dict['calories'] = get_number_from_string(row['Value'])
-        elif 'Total Fat' in row['Nutrient'] and not 'fat' in food_dict:
-            food_dict['fat'] = get_number_from_string(row['Value'])
-        elif 'Saturated Fat' in row['Nutrient'] and not 'saturated_fat' in food_dict:
-            food_dict['saturated_fat'] = get_number_from_string(row['Value'])
+        elif 'Total Fat' in row['Nutrient'] and not 'total_fat' in food_dict:
+            food_dict['total_fat'] = get_number_from_string(row['Value'])
+        elif 'Saturated Fat' in row['Nutrient'] and not 'sat_fat' in food_dict:
+            food_dict['sat_fat'] = get_number_from_string(row['Value'])
         elif 'Trans Fat' in row['Nutrient'] and not 'trans_fat' in food_dict:
             food_dict['trans_fat'] = get_number_from_string(row['Value'])
         elif 'Cholesterol' in row['Nutrient'] and not 'cholesterol' in food_dict:
@@ -67,57 +65,3 @@ def parse_food_object(link_to_food):
             food_dict['iron'] = get_number_from_string(row['%DV'])
 
     return food_dict
-
-###
-### THIS PART GETS TABLE FOR EACH RESTAURANT AND ITS CORRESPONDING NAME
-###
-# Assumes one table per page (true for calorielab)
-sp = bs.BeautifulSoup(makeRequest(restaurant_link).content, 'lxml')
-
-restaurant_name = sp.select('div[id="results_heading"]')[0].select('span[class="label"]')[0].text
-tb = sp.find('table')
-parsed_food_item_table = pd.read_html(str(tb),encoding='utf-8', header=0)[0]
-
-links = []
-for row in tb.find_all('tr'):
-    if row.find_all('a'):
-        links.append(domain_name + row.find('a').get('href'))
-    else:
-        links.append(no_link)
-# Pop first row because pandas uses first row as index
-links.pop(0)
-parsed_food_item_table['href'] = links
-
-# Make Directory for Restaurant
-
-# Creates a dictionary of menu names and links to items 
-menus = dict()
-for index, row in parsed_food_item_table.iterrows():
-    if np.isnan(row['Cals']):
-        menu_name = re.sub('Menu Category: ', '', row['Food'])
-        current_menu = menu_name
-        menus[current_menu] = []
-    else:
-        menus[current_menu].append(row['href'])
-
-
-food_dataframe = pd.DataFrame(columns=['food_id', 'menu_id','food_name', 'calories', 'fat', 'saturated_fat', 'trans_fat', 'cholesterol', 'sodium', 'carbohydrates', 'fiber', 'sugar', 'protein', 'vit_a', 'vit_c', 'calcium', 'iron', 'is_vegetarian', 'is_vegan', 'is_gf'])
-menu_dataframe = pd.DataFrame(columns=['menu_id', 'menu_name', 'restaurant_id'])
-for menu_name in menus:
-    link_list = menus[menu_name]
-    menu_entry = dict({'menu_id': menu_id, 'menu_name': menu_name, 'restaurant_id': restaurant_id})
-    menu_dataframe = menu_dataframe.append(menu_entry, ignore_index=True)
-    menu_id += 1 
-    for link in link_list:
-        food_details_dict = parse_food_object(link) 
-        food_details_dict['food_id'] = food_id
-        food_id += 1
-        food_details_dict['menu_id'] = menu_id
-        food_details_dict['is_vegetarian'] = 0
-        food_details_dict['is_vegan'] = 0
-        food_details_dict['is_gf'] = 0
-        food_dataframe = food_dataframe.append(food_details_dict, ignore_index=True)
-
-
-food_dataframe.to_csv(str(restaurant_id) + "_" + restaurant_name + "_foods.csv", index=False)
-menu_dataframe.to_csv(str(restaurant_id) + "_" + restaurant_name + "_menus.csv", index=False)
