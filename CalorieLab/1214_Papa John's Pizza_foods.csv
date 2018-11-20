@@ -1,0 +1,73 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+122827,21632,"14"" Cheese Original Crust Pizza",1 slice - 132 g,300,11,3.5,0,20,750,39,2,5,13,6,8,20,10,0,0,0
+122828,21632,"12"" Cheese Original Crust Cheese Pizza",1 slice - 91 g,210,8,2.5,0,15,510,27,1,3,9,4,6,10,2,0,0,0
+122829,21632,"14"" Cheese Thin Crust Cheese Pizaa",1 slice - 96 g,240,13,3.5,0,20,500,22,1,2,10,6,8,15,2,0,0,0
+122830,21632,"12"" Cheese Pan Crust Cheese Pizza",1 slice - 144 g,380,15,7,0,20,980,39,1,4,14,4,8,15,2,0,0,0
+122831,21632,"14"" Pepperoni Original Crust Pizza",1 slice - 128 g,310,13,4,0,20,800,38,2,5,13,6,10,15,20,0,0,0
+122832,21632,"12"" Pepperoni Original Crust Pizza",1 slice - 91 g,220,9,3,0,15,570,27,1,3,9,4,8,8,8,0,0,0
+122833,21632,"14"" Pepperoni Thin Crust Pizza",1 slice - 92 g,260,15,4.5,0,20,580,23,1,2,10,6,10,15,10,0,0,0
+122834,21632,"12"" Pepperoni Pan Crust Pizza",1 slice - 141 g,400,17,8,0,20,1050,38,1,4,14,4,10,10,10,0,0,0
+122835,21632,"14"" Sausage Original Crust Pizza",1 slice - 134 g,330,15,4.5,0,20,810,37,3,5,13,6,6,15,20,0,0,0
+122836,21632,"12"" Sausage Original Crust Pizza",1 slice - 95 g,240,11,3.5,0,15,580,26,2,3,9,4,4,8,8,0,0,0
+122837,21632,"14"" Sausage Thin Crust Pizza",1 slice - 97 g,280,17,5,0,20,590,22,2,2,10,6,8,15,10,0,0,0
+122838,21632,"12"" Sausage Pan Crust Pizza",1 slice - 146 g,410,19,8,0,20,1040,38,2,4,13,4,6,10,10,0,0,0
+122839,21632,"14"" The Works Original Crust Pizza",1 slice - 157 g,330,11,6,0,25,890,39,3,6,14,10,8,15,15,0,0,0
+122840,21632,"12"" The Works Original Crust Pizza",1 slice - 110 g,230,8,3.5,0,15,610,28,2,4,10,8,6,10,4,0,0,0
+122841,21632,"14"" The Works Thin Crust Pizza",1 slice - 120 g,280,14,6,0,25,670,24,2,3,12,10,8,15,8,0,0,0
+122842,21632,"12"" The Works Pan Crust Pizza",1 slice - 167 g,400,15,9,0,25,1100,39,2,5,15,10,8,10,6,0,0,0
+122843,21632,"14"" The Meats Original Crust Pizza",1 slice - 141 g,350,16,5,0,30,920,38,2,5,15,8,8,15,20,0,0,0
+122844,21632,"12"" The Meats Original Crust Pizza",1 slice - 98 g,240,11,3.5,0,20,640,27,1,3,11,4,6,10,15,0,0,0
+122845,21632,"14"" The Meats Thin Crust Pizza",1 slice - 105 g,300,18,5,0,30,700,23,2,2,13,6,8,15,10,0,0,0
+122846,21632,"12"" The Meats Pan Crust Pizza",1 slice - 152 g,420,19,8,0,30,1140,38,1,4,16,4,8,10,10,0,0,0
+122847,21632,"14"" Garden Fresh Original Crust Pizza",1 slice - 160 g,280,9,2.5,0,15,680,40,2,6,11,20,8,15,15,0,0,0
+122848,21632,"12"" Garden Fresh Original Crust Pizza",1 slice - 112 g,200,7,2,0,10,490,28,2,4,8,15,6,10,2,0,0,0
+122849,21632,"14"" Garden Fresh Thin Crust Pizza",1 slice - 123 g,210,11,2.5,0,15,430,23,2,3,8,20,8,10,4,0,0,0
+122850,21632,"12"" Garden Fresh Pan Crust Pizza",1 slice - 173 g,360,13,6,0,15,910,40,2,5,12,20,8,15,4,0,0,0
+122851,21632,"14"" Spinach Alfredo Original Crust Pizza",1 slice - 116 g,280,11,4.5,0,20,630,36,2,4,11,0,6,10,20,0,0,0
+122852,21632,"12"" Spinach Alfredo Original Crust Pizza",1 slice - 82 g,200,8,3,0,15,450,26,1,3,8,0,4,8,6,0,0,0
+122853,21632,"14"" Spinach Alfredo Thin Crust Pizza",1 slice - 79 g,220,13,4.5,0,20,370,19,1,1,8,0,6,10,8,0,0,0
+122854,21632,"12"" Spinach Alfredo Pan Crust Pizza",1 slice - 122 g,360,15,8,0,20,860,36,1,3,12,0,6,10,8,0,0,0
+122855,21632,"14"" Grillen Chicken Alfredo Original Crust Pizza",1 slice - 132 g,310,12,4.5,0,30,720,36,2,4,15,0,6,15,15,0,0,0
+122856,21632,"12"" Grillen Chicken Alfredo Original Crust Pizza",1 slice - 96 g,220,9,3.5,0,28,520,26,1,3,11,0,4,8,2,0,0,0
+122857,21632,"14"" Grillen Chicken Alfredo Thin Crust Pizza",1 slice - 96 g,240,13,4.5,0,30,470,20,1,1,12,0,6,10,4,0,0,0
+122858,21632,"12"" Grillen Chicken Alfredo Pan Crust Pizza",1 slice - 138 g,380,16,8,0,30,950,36,2,3,15,0,6,10,4,0,0,0
+122859,21632,"14"" Hawaiian BBQ Chicken Original Crust Pizza",1 slice - 164 g,340,11,3.5,0,30,960,46,2,8,16,4,6,15,15,0,0,0
+122860,21632,"12"" Hawaiian BBQ Chicken Original Crust Pizza",1 slice - 116 g,240,8,2.5,0,20,690,33,1,6,11,2,6,10,2,0,0,0
+122861,21632,"14"" Hawaiian BBQ Chicken Thin Crust Pizza",1 slice - 127 g,290,14,3.5,0,30,740,31,1,6,13,4,6,15,4,0,0,0
+122862,21632,"12"" Hawaiian BBQ Chicken Pan Crust Pizza",1 slice - 170 g,420,16,7,0,30,1190,46,1,7,16,4,6,15,2,0,0,0
+122863,21632,"14"" BBQ Chicken & Bacon Original Crust Pizza",1 slice - 150 g,340,11,3.5,0,30,960,44,2,7,15,2,6,15,15,0,0,0
+122864,21632,"12"" BBQ Chicken & Bacon Original Crust Pizza",1 slice - 107 g,240,8,2.5,0,20,690,32,1,5,11,0,6,10,2,0,0,0
+122865,21632,"14"" BBQ Chicken & Bacon Thin Crust Pizza",1 slice - 114 g,290,14,3.5,0,30,740,29,1,4,13,2,6,15,4,0,0,0
+122866,21632,"12"" BBQ Chicken & Bacon Pan Crust Pizza",1 slice - 156 g,410,16,7,0,30,1190,44,1,6,16,2,6,15,2,0,0,0
+122867,21632,"14"" Grilled Chicken Club Original Crust Pizza",1 slice - 168 g,320,12,3.5,0,30,820,40,2,6,16,15,8,15,15,0,0,0
+122868,21632,"12"" Grilled Chicken Club Original Crust Pizza",1 slice - 115 g,230,8,2.5,0,20,580,28,1,4,11,8,6,10,2,0,0,0
+122869,21632,"14"" Grilled Chicken Club Thin Crust Pizza",1 slice - 131 g,270,14,3.5,0,30,600,25,1,3,13,15,8,15,4,0,0,0
+122870,21632,"12"" Grilled Chicken Club Pan Crust Pizza",1 slice - 174 g,400,16,7,0,30,1050,39,2,5,16,15,8,10,2,0,0,0
+122871,21632,"14"" Spinach Alfredo Chicken Tomato Original Crust Pizza",1 slice - 144 g,290,11,4,0,25,670,37,2,4,13,6,8,10,20,0,0,0
+122872,21632,"12"" Spinach Alfredo Chicken Tomato Original Crust Pizza",1 slice - 116 g,210,8,3,0,20,490,27,2,3,10,8,8,8,6,0,0,0
+122873,21632,"14"" Spinach Alfredo Chicken Tomato Thin Crust Pizza",1 slice - 110 g,230,13,4.5,0,25,430,21,1,1,10,8,8,10,10,0,0,0
+122874,21632,"12"" Spinach Alfredo Chicken Tomato Pan Crust Pizza",1 slice - 153 g,380,16,8,0,25,910,37,2,3,14,8,8,10,10,0,0,0
+122875,21632,"14"" Spicy Italian Original Crust Pizza",1 slice - 147 g,370,11,10,0,30,960,39,4,5,15,6,8,15,15,0,0,0
+122876,21632,"12"" Spicy Italian Original Crust Pizza",1 slice - 103 g,260,8,7,0,20,680,27,2,4,11,4,6,8,4,0,0,0
+122877,21632,"14"" Spicy Italian Thin Crust Pizza",1 slice - 110 g,320,14,11,0,30,740,24,3,2,12,6,8,15,8,0,0,0
+122878,21632,"12"" Spicy Italian Pan Crust Pizza",1 slice - 150 g,450,15,14,0,30,1190,39,3,4,16,4,8,10,8,0,0,0
+122879,21633,Breadsticks,1 stick - 56 g,140,2,0,0,0,260,26,1,3,4,0,0,0,8,0,0,0
+122880,21633,Cheesesticks,2 sticks - 136 g,370,16,4.5,0,25,830,42,2,4,15,0,15,20,15,0,0,0
+122881,21633,Garlic Parmesan Breadsticks,1 stick - 62 g,170,6,1,0,0,370,26,1,3,5,0,0,0,8,0,0,0
+122882,21633,ChickenStrips,2 chickenstrips - 74 g,160,8,2,0,25,350,10,0,1,10,2,0,0,2,0,0,0
+122883,21633,Spicy Buffalo Wings,2 wings - 73 g,160,11,3.5,0,90,680,1,1,1,14,2,4,2,4,0,0,0
+122884,21633,Mild Chipotle Barbeque Wings,2 wings - 73 g,160,10,3,0,85,570,5,0,3,14,2,4,2,4,0,0,0
+122885,21633,Apple Twist Sweetreat,1/2 pie - 121 g,350,9,4,0,0,550,54,1,23,6,370,0,0,0,0,0,0
+122886,21633,Cinna Swirl Sweetreat,1/2 pie - 106 g,390,14,5,0,0,580,53,1,21,6,0,4,0,4,0,0,0
+122887,21633,Very Berry Sweetreat,1/2 pie - 134 g,400,9,4,0,0,570,67,2,32,6,2,0,0,2,0,0,0
+122888,21634,Special Garlic Dipping Sauce,1 cup - 1 oz - 28 g,150,17,3,0,0,310,0,0,0,0,0,20,0,0,0,0,0
+122889,21634,Pizza Dipping Sauce,1 cup - 1 oz - 28 g,20,0,0,0,0,140,3,0,2,0,6,2,2,0,0,0,0
+122890,21634,Cheese Dipping Sauce,1 cup - 1 oz - 28 g,70,6,1.5,0,0,150,1,0,0,1,0,4,0,0,0,0,0
+122891,21634,Honey Mustard Dipping Sauce,1 cup - 1 oz - 28 g,150,15,2,0,10,120,5,0,4,0,0,0,0,0,0,0,0
+122892,21634,Barbeque Dipping Sauce,1 cup - 1 oz - 28 g,40,0,0,0,0,240,11,0,9,0,2,2,4,4,0,0,0
+122893,21634,Buffalo Hot Dipping Sauce,1 cup - 1 oz - 28 g,15,0.5,0,0,0,890,2,0,2,0,0,0,0,0,0,0,0
+122894,21634,Ranch Dipping Sauce,1 cup - 1 oz - 28 g,110,11,2,0,10,250,1,0,1,1,0,0,2,0,0,0,0
+122895,21634,Blue Cheese Dipping Sauce,1 cup - 1 oz - 28 g,170,18,3.5,0,20,240,1,0,1,1,0,0,0,0,0,0,0
+122896,21634,Crushed Red Pepper,1 packet - 1 g,5,0,0,0,0,0,1,0,0,0,2,8,0,0,0,0,0
+122897,21634,Parmesan Cheese,1 packet - 3.5 g,15,1,0.5,0,5,45,0,0,0,0,0,0,4,0,0,0,0
+122898,21634,Special Seasonings,1 packet - 3 g,5,0,0,0,0,410,1,0,0,0,0,0,0,0,0,0,0

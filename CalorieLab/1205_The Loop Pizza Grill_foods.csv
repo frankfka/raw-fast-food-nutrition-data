@@ -1,0 +1,9 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+122088,21556,Artichoke & Roasted Red Peppers,,467,10,5,0,22,1211,73,4,5,23,0,0,0,0,0,0,0
+122089,21557,Teriyaki Chicken Sandwich,,453,4,0,0,70,3231,70,7,16,43,0,0,0,0,0,0,0
+122090,21557,Spicy Black Bean Burger,,513,6,1,0,0,2157,85,8,11,26,0,0,0,0,0,0,0
+122091,21558,Cajun Fish Wrap,,392,2,0,0,98,1160,51,9,10,45,0,0,0,0,0,0,0
+122092,21559,Chicken Gumbo,6 oz,85,1.5,0.5,0,11,840,14,1,2,5,0,0,0,0,0,0,0
+122093,21559,Chicken Noodle,6 oz,75,1,0.5,0,11,780,11,2,2,6,0,0,0,0,0,0,0
+122094,21559,Italian Style Wedding,6 oz,85,1,1,0,8,855,12,1,2,6,0,0,0,0,0,0,0
+122095,21559,Minestrone,6 oz,60,0.5,0,0,0,803,11,2,2,4,0,0,0,0,0,0,0

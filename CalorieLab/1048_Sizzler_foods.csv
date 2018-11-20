@@ -1,0 +1,4 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+104863,20325,Grilled Salmon,432 g,393,19,4.5,0,117,520,14,7,0,44,0,0,0,0,0,0,0
+104864,20325,Hibachi Chicken,326 g,290,6,1,0,108,520,15,6,0,45,0,0,0,0,0,0,0
+104865,20325,Petite Sizzler Steak,409 g,520,26,11,0,159,1908,11,6,0,61,0,0,0,0,0,0,0

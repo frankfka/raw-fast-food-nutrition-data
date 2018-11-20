@@ -1,0 +1,184 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+33162,2578,Black Walnut Ice Cream,280,19,9,0,50,90,25,1,23,6,2,10,15,2,0,0,0
+33163,2578,Cherries Jubilee,240,12,7,0,45,80,30,1,26,4,2,8,15,2,0,0,0
+33164,2578,Chocolate Almond Ice Cream,300,18,9,0,45,120,32,1,29,7,2,8,15,6,0,0,0
+33165,2578,Chocolate Chip Cookie Dough Ice Cream,290,15,9,1,55,130,36,1,30,5,2,8,15,2,0,0,0
+33166,2578,Chocolate Chip Ice Cream,270,16,10,0,55,95,28,1,26,5,2,10,15,4,0,0,0
+33167,2578,Chocolate Fudge Ice Cream,270,15,10,0,50,140,35,0,32,4,2,10,10,6,0,0,0
+33168,2578,Chocolate Ice Cream,260,14,9,0,50,130,33,0,31,5,2,10,15,4,0,0,0
+33169,2578,Chocolate Oreao Cookie Ice Cream,330,19,8,1,40,180,39,1,32,5,2,8,15,6,0,0,0
+33170,2578,Chocolate Ribbon Ice Cream,240,12,8,0,45,85,31,0,31,4,2,8,15,2,0,0,0
+33171,2578,French Vanilla Ice Cream,280,18,11,0.5,120,85,26,0,25,4,2,15,15,2,0,0,0
+33172,2578,Fudge Brownie Ice Cream,300,19,11,0,45,140,35,1,31,5,2,8,10,6,0,0,0
+33173,2578,German Chocolate Cake Ice Cream,300,16,9,0,45,150,36,1,35,5,2,8,15,6,0,0,0
+33174,2578,Gold Medal Ribbon Ice Cream,260,13,8,0,45,150,34,0,33,5,2,8,15,4,0,0,0
+33175,2578,Jamoca Almond Fudge Ice Cream,270,15,7,0,40,80,31,1,28,6,2,8,15,4,0,0,0
+33176,2578,Jamoca Ice Cream,240,13,9,0,55,90,26,0,24,5,2,10,15,0,0,0,0
+33177,2578,Mint Chocolate Chip Ice Cream,270,16,10,0,55,95,28,1,26,5,2,10,15,4,0,0,0
+33178,2578,Nutty Coconut Ice Cream,300,20,9,0,45,90,28,1,27,6,2,8,15,4,0,0,0
+33179,2578,Old Fashioned Butter Pecan Ice Cream,280,18,9,0,50,95,24,1,24,5,2,10,15,2,0,0,0
+33180,2578,Oreo Cookies 'n Cream Ice Cream,280,15,8,1,50,150,32,1,27,5,2,10,15,4,0,0,0
+33181,2578,Peanut Butter 'n Chocolate Ice Cream,320,20,9,0,45,180,31,1,28,7,2,8,15,4,0,0,0
+33182,2578,Pistachio Almond Ice Cream,290,19,9,0,50,85,25,1,23,7,2,10,15,2,0,0,0
+33183,2578,Pralines 'n Cream Ice Cream,270,14,8,0,45,170,34,0,33,4,2,8,15,2,0,0,0
+33184,2578,Reese's Peanut Butter Cup Ice Cream,300,18,10,0,50,130,31,0,29,6,2,8,15,2,0,0,0
+33185,2578,Rocky Road Ice Cream,290,15,8,0,45,120,36,1,32,5,2,8,15,4,0,0,0
+33186,2578,Vanilla Ice Cream,260,16,10,0.5,65,70,26,0,26,4,2,10,15,0,0,0,0
+33187,2578,Very Berry Strawberry Ice Cream,220,11,7,0,40,70,28,0,27,4,20,8,15,2,0,0,0
+33188,2578,World Class Chocolate Ice Cream,270,15,8,0.5,45,115,33,0,32,5,2,8,15,2,0,0,0
+33189,2578,Banana Nut Ice Cream,260,15,7,0,45,75,27,0,26,5,2,8,15,2,0,0,0
+33190,2578,Bananas 'n Strawberries Ice Cream,220,9,6,0,35,70,35,0,34,3,6,6,10,2,0,0,0
+33191,2578,Baseball Nut™ Ice Cream,270,14,8,0,45,100,32,0,31,5,8,8,15,4,0,0,0
+33192,2578,Blueberry Cheesecake Ice Cream,270,14,8,0.5,55,125,32,0,30,5,2,10,15,2,0,0,0
+33193,2578,Candy Cookie Commotion Ice Cream,300,16,9,0,45,150,36,1,29,5,2,8,15,2,0,0,0
+33194,2578,Chocoholic's Resolution Ice Cream,300,16,9,0,45,130,38,0,35,5,2,8,15,6,0,0,0
+33195,2578,Chocolate Eclair Ice Cream,300,17,11,0,60,130,35,0,29,5,2,10,15,2,0,0,0
+33196,2578,Chocolate Mousse Crossing Ice Cream,270,15,9,0,50,115,32,0,30,5,2,10,15,4,0,0,0
+33197,2578,Chocolate Mousse Royale Ice Cream,310,16,12,0,40,140,38,1,35,6,4,8,15,6,0,0,0
+33198,2578,Cotton Candy Ice Cream,260,12,7,0,45,210,32,0,29,4,2,8,15,0,0,0,0
+33199,2578,Creme Brulee Ice Cream,280,11,7,0,80,115,41,0,34,4,2,8,15,2,0,0,0
+33200,2578,Creole Cheesecake Ice Cream,240,13,8,0,50,90,29,0,26,5,2,10,20,0,0,0,0
+33201,2578,Egg Nog Ice Cream,250,13,8,0,70,90,31,0,30,5,2,10,15,2,0,0,0
+33202,2578,Everyone's Favorite Candy Bar Ice Cream,290,14,8,0,45,160,36,0,31,5,2,8,15,2,0,0,0
+33203,2578,Happy Camper,340,22,11,0,45,190,30,2,26,8,2,8,15,2,0,0,0
+33204,2578,Honest to Goodnuts Ice Cream,300,14,8,0,40,135,38,0,34,5,2,8,15,2,0,0,0
+33205,2578,Hunka Chunka Chip Ice Cream,300,15,8,1,45,170,37,0,33,5,2,10,15,4,0,0,0
+33206,2578,Lemon Custard Ice Cream,260,13,8,0,75,105,30,0,30,5,2,10,20,2,0,0,0
+33207,2578,Love Potion #31™ Ice Cream,270,14,9,0,45,90,34,1,31,4,2,8,15,4,0,0,0
+33208,2578,Macadamia Nuts 'n Cream Ice Cream,290,20,9,0,50,85,25,1,23,5,2,10,15,2,0,0,0
+33209,2578,Mississippi Mudd Ice Cream,270,13,8,0,45,150,38,1,32,4,2,8,10,6,0,0,0
+33210,2578,New York Cheesecake Ice Cream,280,16,10,0,50,135,31,0,27,5,2,10,15,2,0,0,0
+33211,2578,Oregon Blackberry Ice Cream,240,12,8,0,50,85,28,0,27,4,2,10,15,0,0,0,0
+33212,2578,Original Cinn Ice Cream,290,13,8,0,45,130,39,0,37,4,4,8,15,0,0,0,0
+33213,2578,Pink Bubblegum Ice Cream,260,12,8,0,50,80,36,0,34,4,2,10,15,0,0,0,0
+33214,2578,Pumpkin Pie Ice Cream,230,12,7,0,45,90,29,0,28,4,2,8,15,2,0,0,0
+33215,2578,Quarterback Crunch™ Ice Cream,300,17,12,0,45,150,34,0,28,4,2,8,15,2,0,0,0
+33216,2578,Strawberry Cheesecake Ice Cream,270,14,9,0.5,55,115,32,0,30,5,4,10,15,2,0,0,0
+33217,2578,Strawberry Shortcake Ice Cream,280,14,9,0,45,130,34,0,28,4,4,8,15,2,0,0,0
+33218,2578,Tax Crunch Ice Cream,300,18,8,0,45,135,32,1,29,5,2,8,15,2,0,0,0
+33219,2578,Tea of tranquility,270,13,7,1,45,110,36,0,29,4,2,8,15,2,0,0,0
+33220,2578,Tiramisu Ice Cream,260,13,8,0,60,120,32,0,26,5,2,10,15,0,0,0,0
+33221,2578,Trick Oreo Treat Ice Cream,300,16,9,0,45,150,36,1,29,5,2,8,15,2,0,0,0
+33222,2578,True Blue Ginger Ice Cream,270,13,8,0,50,140,33,0,27,4,2,10,15,2,0,0,0
+33223,2578,Truffle In Paradise™ Ice Cream,330,21,12,0,50,75,34,1,31,5,2,10,15,6,0,0,0
+33224,2578,Turtle Cheesecake Ice Cream,290,16,9,0,50,160,34,1,29,5,2,10,15,2,0,0,0
+33225,2578,Winter White Chocolate Ice Cream,270,14,10,0,40,95,32,1,30,4,8,8,15,2,0,0,0
+33226,2578,2 Scoop Hot Fudge Sundae,530,29,19,0,85,200,62,0,52,8,2,15,20,2,0,0,0
+33227,2578,3 Scoop Hot Fudge Sundae,750,41,27,0,125,280,86,0,74,11,4,25,30,2,0,0,0
+33228,2578,Banana Royale,630,27,16,0,85,250,91,5,73,9,15,15,25,6,0,0,0
+33229,2578,Banana Split,"1,030",39,23,0,135,190,168,7,140,12,30,25,35,6,0,0,0
+33230,2578,Chocolate Bliss Sundae,880,42,22,1,120,540,121,5,99,12,2,10,25,35,0,0,0
+33231,2578,Happy Camper Waffle cone Sundae,820,41,18,0.5,65,490,107,5,69,17,2,10,20,14,0,0,0
+33232,2578,Peanut Butter Pie Sundae,850,59,21,0.5,60,450,68,5,52,18,2,10,20,8,0,0,0
+33233,2578,Tiramisu Sundae,790,39,22,1.5,125,170,101,1,82,10,2,25,20,6,0,0,0
+33234,2579,Kiwi Bold Breeze,680,1,0,0,0,60,174,5,162,1,250,2,15,15,0,0,0
+33235,2579,Kiwi Bold Breeze,470,0.5,0,0,0,40,120,4,111,1,170,2,10,10,0,0,0
+33236,2579,Kiwi Bold Breeze,340,0,0,0,0,30,87,3,81,1,130,2,8,8,0,0,0
+33237,2579,Mango Bold Breeze,690,2,0,0,0,20,169,3,164,1,25,280,4,2,0,0,0
+33238,2579,Mango Bold Breeze,470,1.5,0,0,0,15,116,2,113,1,15,190,4,2,0,0,0
+33239,2579,Mango Bold Breeze,340,1,0,0,0,10,84,2,82,1,10,140,2,2,0,0,0
+33240,2579,Strawberry Citrus Bold Breeze,700,1.5,0,0,0,20,178,6,170,3,160,2,8,10,0,0,0
+33241,2579,Strawberry Citrus Bold Breeze,480,1,0,0,0,15,122,4,117,2,110,0,6,6,0,0,0
+33242,2579,Strawberry Citrus Bold Breeze,350,1,0,0,0,10,89,3,85,1,80,0,4,6,0,0,0
+33243,2579,Kiwi Banana Creamy Bold Breeze,960,1.5,0.5,0,5,190,239,9,213,10,270,4,40,20,0,0,0
+33244,2579,Kiwi Banana Creamy Bold Breeze,710,1.5,0,0,5,150,176,7,155,8,190,4,30,15,0,0,0
+33245,2579,Kiwi Banana Creamy Bold Breeze,480,1,0,0,0,95,119,4,106,5,140,2,20,10,0,0,0
+33246,2579,Kiwi Creamy Bold Breeze,620,1,0,0,5,150,152,4,142,7,180,2,30,10,0,0,0
+33247,2579,Kiwi Creamy Bold Breeze,440,0.5,0,0,0,95,107,3,100,4,130,2,20,8,0,0,0
+33248,2579,Kiwi Pineapple Creamy Bold Breeze,870,1.5,0,0,5,190,215,6,200,8,260,2,40,15,0,0,0
+33249,2579,Mango Banana Creamy Bold Breeze,970,3,0.5,0,5,150,233,6,215,10,45,280,30,4,0,0,0
+33250,2579,Mango Banana Creamy Bold Breeze,720,2.5,0,0,5,120,172,5,156,8,35,190,25,4,0,0,0
+33251,2579,Mango Banana Creamy Bold Breeze,480,1.5,0,0,0,75,116,3,108,5,20,140,15,2,0,0,0
+33252,2579,Strawberry Banana Creamy Bold Breeze,980,2.5,0.5,0,5,150,242,9,221,11,170,2,35,10,0,0,0
+33253,2579,Strawberry Banana Creamy Bold Breeze,730,2,0,0,5,120,178,7,160,9,120,2,25,10,0,0,0
+33254,2579,Strawberry Banana Creamy Bold Breeze,490,1.5,0,0,0,75,121,5,110,5,90,2,15,6,0,0,0
+33255,2579,Strawberry Citrus Creamy Bold Breeze,890,2.5,0,0,5,150,218,6,208,10,160,2,35,10,0,0,0
+33256,2579,Strawberry Citrus Creamy Bold Breeze,630,1.5,0,0,5,120,154,4,147,8,110,2,25,8,0,0,0
+33257,2579,Strawberry Citrus Creamy Bold Breeze,450,1,0,0,0,75,109,3,104,5,80,0,15,6,0,0,0
+33258,2579,Wild Mango Creamy Bold Breeze,870,3,0,0,5,150,209,4,202,8,30,280,30,4,0,0,0
+33259,2579,Wild Mango Creamy Bold Breeze,620,2,0,0,5,120,148,3,144,7,20,190,25,2,0,0,0
+33260,2579,Wild Mango Creamy Bold Breeze,440,1.5,0,0,0,75,104,2,101,4,15,140,15,2,0,0,0
+33261,2579,Chocolate Shake,990,40,25,1,135,440,149,1,142,20,6,30,60,10,0,0,0
+33262,2579,Chocolate Shake,620,30,18,1,105,300,81,1,77,15,4,25,45,8,0,0,0
+33263,2579,Chocolate Shake,"1,000",45,28,0,175,290,133,0,131,19,6,40,60,2,0,0,0
+33264,2579,Chocolate Shake,690,33,21,0,130,210,85,0,83,13,4,30,45,0,0,0,0
+33265,2579,Espresso Shake,790,45,28,0,175,300,80,0,76,19,8,40,60,2,0,0,0
+33266,2579,Vanilla Shake,980,45,28,0,175,640,125,0,117,19,6,40,60,2,0,0,0
+33267,2579,Vanilla Shake,680,33,21,0,130,380,81,0,76,13,4,30,45,2,0,0,0
+33268,2579,Brownie Blast,"1,100",42,20,1,185,650,174,5,149,18,4,20,40,45,0,0,0
+33269,2579,Brownie Blast,860,33,16,1,140,490,133,4,114,14,2,15,30,35,0,0,0
+33270,2579,Brownie Blast,580,24,12,1,90,320,88,3,75,9,2,10,20,25,0,0,0
+33271,2579,Cappuccino Blast,620,24,15,0,95,200,94,0,85,12,4,20,40,0,0,0,0
+33272,2579,Cappuccino Blast,660,28,17,0,105,220,97,0,85,12,4,25,40,0,0,0,0
+33273,2579,Cappuccino Blast Chocolate,680,19,12,0.5,65,210,123,0,120,10,2,15,30,4,0,0,0
+33274,2579,Cappuccino Blast Chocolate,450,12,8,0,45,140,81,0,79,6,2,10,20,2,0,0,0
+33275,2579,Cappuccino Blast Low Fat,220,2,1.5,0,10,115,45,0,44,6,2,4,20,0,0,0,0
+33276,2579,Cappuccino Blast,460,19,12,0,75,150,66,0,65,9,4,20,30,0,0,0,0
+33277,2579,Cappuccino Blast Mocha,750,23,15,0,90,170,128,0,64,11,4,20,35,0,0,0,0
+33278,2579,Cappuccino Blast Mocha,540,18,12,0,70,140,87,0,86,8,2,15,30,0,0,0,0
+33279,2579,Cappuccino Blast Mocha,380,12,7,0,45,85,64,0,32,5,2,10,20,0,0,0,0
+33280,2579,Cappuccino Blast Mocha,790,25,16,0,100,190,136,0,100,11,4,20,35,0,0,0,0
+33281,2579,Cappuccino Blast Mocha,620,21,13,0,80,160,100,0,51,9,4,20,30,0,0,0,0
+33282,2579,Cappuccino Blast Mocha,370,13,8,0,50,100,58,0,57,6,2,10,20,0,0,0,0
+33283,2579,Cappuccino Blast Nonfat,210,0,0,0,5,120,45,0,44,7,2,4,20,0,0,0,0
+33284,2579,Cappuccino Blast,300,12,7,0,45,95,43,0,42,6,2,10,20,0,0,0,0
+33285,2579,Cappuccino Blast Turtle,990,28,16,0.5,90,630,155,1,128,13,4,20,45,2,0,0,0
+33286,2579,Cappuccino Blast Turtle,710,23,13,0.5,70,500,121,0,100,10,4,15,35,2,0,0,0
+33287,2579,Cappuccino Blast Turtle,480,16,9,0,50,340,82,0,67,7,2,10,20,0,0,0,0
+33288,2579,Cappuccino Blast,480,21,13,0,80,160,67,0,66,9,4,20,30,0,0,0,0
+33289,2579,Cappuccino Blast,330,14,9,0,55,110,48,0,42,6,2,10,20,0,0,0,0
+33290,2579,Nutty Smore's Blast,"1,180",40,19,1,75,560,192,2,149,15,4,20,35,10,0,0,0
+33291,2579,Nutty Smore's Blast,870,32,14,1,60,410,134,2,105,12,2,15,25,8,0,0,0
+33292,2579,Nutty Smore's Blast,620,23,11,1,45,280,97,1,76,8,2,10,20,6,0,0,0
+33293,2579,Oreo N'cookies Blast,"1,030",39,18,1.5,85,610,155,3,125,17,4,20,45,15,0,0,0
+33294,2579,Oreo N'cookies Blast,800,31,14,1,70,460,118,2,95,13,2,15,35,15,0,0,0
+33295,2579,Oreo N'cookies Blast,550,22,10,0.5,45,330,81,2,64,9,2,10,20,6,0,0,0
+33296,2580,"Chocolate Chip Ice Cream/Devil's Food 9"" Round Ice Cream Cake",410,23,11,0,70,320,51,2,38,6,2,10,15,15,0,0,0
+33297,2580,"Oreo Cookies 'n Cream Ice Cream/Devil's Food 9"" Round Ice Cream Cake",430,23,10,0.5,65,390,55,1,41,7,2,10,15,6,0,0,0
+33298,2580,"Pralines 'n Cream Ice Cream/Devil's Food 9"" Round Ice Cream Cake",430,20,8,0,50,380,65,1,47,6,2,8,15,0,0,0,0
+33299,2580,Chocolate Chip Ice Cream/Chocolate Roll Ice Cream Cake,290,15,6,0,40,340,41,2,28,4,4,6,10,6,0,0,0
+33300,2580,Mint Chocolate Chip Ice Cream/Chocolate Roll Ice Cream Cake,290,14,6,0,45,240,36,2,28,5,4,6,10,10,0,0,0
+33301,2580,Vanilla Ice Cream/Chocolate Roll Ice Cream Cake,270,14,4,0,45,340,39,2,27,4,2,8,10,8,0,0,0
+33302,2580,Chocolate Chip Ice Cream/Devil's Food Sheet Ice Cream Cake,330,18,8,0,55,240,40,1,32,5,2,8,15,4,0,0,0
+33303,2580,Mint Chocolate Chip Ice Cream/Devil's Food Sheet Ice Cream Cake,290,18,8,0,50,200,33,1,26,4,2,8,10,10,0,0,0
+33304,2580,Oreo Cookies 'n Cream Ice Cream/White Sponge Sheet Ice Cream Cake,300,14,7,0,45,270,40,1,33,5,2,6,10,2,0,0,0
+33305,2580,Pralines 'n Cream Ice Cream/White Sponge Sheet Ice Cream Cake,300,16,6,0,40,280,49,1,34,5,2,6,10,0,0,0,0
+33306,2580,Vanilla Ice Cream/Devil's Food Sheet Ice Cream Cake,300,19,9,0,40,220,39,1,27,4,2,8,10,8,0,0,0
+33307,2580,Chocolate Chip Ice Cream/Devil's Food Heart Ice Cream Cake,330,18,8,0,55,240,40,1,29,5,2,8,10,10,0,0,0
+33308,2580,Oreo Cookies 'n Cream Heart Ice Cream Cake,300,16,9,1,50,180,35,1,30,5,2,10,15,4,0,0,0
+33309,2580,Oreo Cookies 'n Cream Ice Cream/Devil's Food Heart Ice Cream Cake,330,17,7,0.5,50,290,41,1,30,5,2,6,10,10,0,0,0
+33310,2580,Vanilla Ice Cream Heart Ice Cream Cake,290,18,11,0,70,80,29,0,29,5,2,15,15,0,0,0,0
+33311,2580,Vanilla Ice Cream/Devil's Food Heart Ice Cream Cake,340,19,9,0,60,220,39,1,31,5,2,8,10,10,0,0,0
+33312,2581,Espresso 'n Cream Low Fat Ice Cream,180,4,1.5,0,10,120,32,1,29,5,4,2,15,2,0,0,0
+33313,2581,Berries 'n Banana (No Sugar Added Low Fat Ice Cream),110,2,1,0,10,125,25,1,7,5,50,10,15,2,0,0,0
+33314,2581,Blueberry Swirl Ice Cream,130,2,1,0,10,140,31,1,7,4,2,10,15,0,0,0,0
+33315,2581,Caramel Turtle (No Sugar Added Low Fat Ice Cream),160,4,3,0,10,130,37,0,7,5,2,10,15,2,0,0,0
+33316,2581,Chocolate Chip (No Sugar Added Low Fat Ice Cream),170,4.5,3.5,0,10,110,30,1,8,4,2,15,15,15,0,0,0
+33317,2581,Chocolate Chocolate Chip (No Sugar Added Low Fat Ice Cream),150,4.5,3.5,0,10,140,30,1,7,6,2,15,15,20,0,0,0
+33318,2581,Chocolate Cookie (No Sugar Added Low Fat Ice Cream),160,5,2,0.5,10,190,34,1,7,6,2,10,15,15,0,0,0
+33319,2581,Mad About Chocolate NSA Lowfat Ice Cream,160,5,3.5,0,10,125,36,1,6,5,2,10,15,15,0,0,0
+33320,2581,Pineapple Coconut (No Sugar Added Low Fat Ice Cream),150,2,1.5,0,10,105,27,0,9,4,4,10,15,0,0,0,0
+33321,2581,Tin Roof Sundae (No Sugar Added Low Fat Ice Cream),190,3,1.5,0,10,105,34,1,9,4,2,10,15,0,0,0,0
+33322,2581,Maui Brownie Madness Low Fat Yogurt,210,4,1.5,0,10,140,41,2,34,6,2,0,15,6,0,0,0
+33323,2581,Perils of Praline Low Fat Yogurt,190,3.5,1.5,0,5,170,37,1,34,5,2,0,15,2,0,0,0
+33324,2581,Vanilla Nonfat Yogurt,150,0,0,0,5,105,32,0,31,6,2,0,20,0,0,0,0
+33325,2581,Chocolate Nonfat Soft Serve Yogurt,120,0,0,0,0,85,25,1,22,4,2,0,15,2,0,0,0
+33326,2581,Peppermint Nonfat Soft Serve Yogurt,110,0,0,0,0,75,24,0,23,4,2,0,15,0,0,0,0
+33327,2581,Red Raspberry Nonfat Soft Serve Yogurt,110,0,0,0,0,75,25,0,24,4,2,0,15,2,0,0,0
+33328,2581,Vanilla Nonfat Soft Serve Yogurt,110,0,0,0,0,80,23,0,22,4,2,0,15,0,0,0,0
+33329,2581,Truly Free Butter Pecan No Sugar Added Nonfat Soft Serve Yogurt,90,0,0,0,5,90,17,1,6,4,2,0,15,0,0,0,0
+33330,2581,Truly Free Cafe Mocha Nonfat Soft Serve Yogurt,90,0,0,0,5,85,18,1,7,4,2,0,15,0,0,0,0
+33331,2581,Truly Free Chocolate No Sugar Added Nonfat Soft Serve Yogurt,80,0,0,0,0,80,15,0,6,4,2,0,15,2,0,0,0
+33332,2581,Truly Free Strawberry Patch No Sugar Added Nonfat Soft Serve Yogurt,90,0,0,0,5,85,17,1,6,4,2,0,15,0,0,0,0
+33333,2581,Truly Free Vanilla No Sugar Added Nonfat Soft Serve Yogurt,90,0,0,0,5,85,17,1,6,4,2,0,15,0,0,0,0
+33334,2581,Blue Raspberry Sherbet,160,2,1.5,0,10,40,34,0,34,1,2,2,4,2,0,0,0
+33335,2581,Orange Sherbet,160,2,1.5,0,10,40,34,0,34,1,4,2,6,0,0,0,0
+33336,2581,Rainbow Sherbet,160,2,1.5,0,10,40,34,0,34,1,2,2,4,0,0,0,0
+33337,2581,Red Raspberry Sherbet,160,2,1,0,10,40,36,0,35,1,2,2,4,4,0,0,0
+33338,2581,Rock 'n Pop Swirl Sherbet,190,4,3,0,10,45,37,0,36,1,0,2,4,0,0,0,0
+33339,2581,Twisted Chip Sherbet,180,3,2,0,10,35,36,0,36,1,4,2,4,2,0,0,0
+33340,2581,Wild 'N Reckless Spirit Sherbet,160,2,1.5,0,10,40,33,0,33,1,0,2,6,0,0,0,0
+33341,2581,Daiquiri Ice,130,0,0,0,0,15,34,0,34,0,0,0,0,0,0,0,0
+33342,2581,Margarita Ice,130,0,0,0,0,15,34,0,34,0,0,0,0,0,0,0,0
+33343,2581,Pineapple Ice/Sorbet,140,0,0,0,0,10,36,0,36,0,2,0,0,0,0,0,0
+33344,2581,Watermelon Ice,130,0,0,0,0,15,34,0,34,0,0,0,0,0,0,0,0

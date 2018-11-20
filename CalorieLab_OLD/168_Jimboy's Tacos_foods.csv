@@ -1,0 +1,163 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+15866,1220,Bean,190,12,3.5,0,15,410,16,3,0,6,2,4,15,4,0,0,0
+15867,1220,Ground Beef,220,14,5,0,45,480,15,2,1,10,2,10,15,4,0,0,0
+15868,1220,Chicken,200,11,3.5,0,40,160,12,2,0,12,4,4,15,6,0,0,0
+15869,1220,Shredded Beef,190,11,3.5,0,15,350,13,2,0,13,2,8,15,8,0,0,0
+15870,1220,Steak,190,10,3,0,10,440,15,2,1,14,8,6,15,8,0,0,0
+15871,1220,Jimboy's Fish Taco,233,15,0,0,0,164,16,0,0,10,0,0,0,0,0,0,0
+15872,1220,Carnitas (Pork) Taco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15873,1221,Ground Beef,460,25,10,0,90,"1,130",35,2,1,23,6,20,25,10,0,0,0
+15874,1221,Chicken,400,20,7,0,85,470,29,2,1,26,8,8,25,15,0,0,0
+15875,1221,Shredded Beef,400,19,8,0,25,860,30,3,1,27,4,15,25,20,0,0,0
+15876,1221,Steak,400,18,7,0,25,890,33,3,2,29,6,6,30,20,0,0,0
+15877,1222,Bean,530,28,8,0,25,"1,330",55,6,0,16,2,6,30,20,0,0,0
+15878,1222,Ground Beef,610,32,12,0,120,"1,460",50,2,29,29,4,20,30,15,0,0,0
+15879,1222,Chicken,590,29,9,0,90,"1,630",45,3,0,37,2,15,30,25,0,0,0
+15880,1222,Shredded Beef,540,24,9,0,25,"1,160",45,3,0,36,2,15,30,30,0,0,0
+15881,1223,Ground Beef,620,33,11,0,75,"1,610",57,5,0,25,4,15,30,20,0,0,0
+15882,1223,Chicken,580,28,8,0,70,"1,010",52,5,0,28,4,6,35,25,0,0,0
+15883,1223,Shredded Beef,580,28,9,0,25,"1,330",53,6,0,29,2,15,35,30,0,0,0
+15884,1224,Ground Beef,670,35,14,0,85,"1,790",63,8,2,27,15,25,35,25,0,0,0
+15885,1224,Chicken,630,31,11,0,80,"1,290",58,8,1,29,20,15,40,30,0,0,0
+15886,1224,Shredded Beef,610,29,11,0,35,"1,480",58,8,1,31,15,20,35,35,0,0,0
+15887,1224,Steak,600,28,10,0,35,"1,500",59,8,2,32,15,15,40,35,0,0,0
+15888,1225,Cheese,400,25,12,0,50,520,27,2,0,18,0,10,40,10,0,0,0
+15889,1225,Ground Beef,480,29,13,0,80,760,31,2,0,23,2,20,45,10,0,0,0
+15890,1225,Chicken,450,26,12,0,75,560,28,2,0,24,2,10,45,15,0,0,0
+15891,1225,Shredded Beef,450,26,12,0,50,750,28,2,0,25,0,20,45,15,0,0,0
+15892,1226,Cheese (Includes Rice),350,20,11,0,50,980,28,2,0,16,2,30,40,10,0,0,0
+15893,1226,Ground Beef (Includes Rice),470,23,12,0,80,"1,600",45,2,1,21,6,35,35,15,0,0,0
+15894,1226,Chicken (Includes Rice),460,21,11,0,65,900,42,2,1,25,4,30,45,15,0,0,0
+15895,1226,Shredded Beef (Includes Rice),300,17,10,0,45,730,16,2,0,22,4,35,40,10,0,0,0
+15896,1227,Bean,290,20,4,0,15,690,23,5,2,8,15,8,15,10,0,0,0
+15897,1227,Ground Beef,360,24,6,0,45,930,26,5,2,14,15,15,20,10,0,0,0
+15898,1227,Chicken,330,21,4.5,0,40,720,23,5,2,15,15,8,15,10,0,0,0
+15899,1227,Shredded Beef,330,21,4.5,0,15,910,23,5,2,16,15,10,15,15,0,0,0
+15900,1228,Bean,530,29,10,0,35,"1,480",50,10,4,18,30,20,30,25,0,0,0
+15901,1228,Ground Beef,660,37,14,0,100,"1,960",56,10,5,30,30,35,30,25,0,0,0
+15902,1228,Chicken,610,31,11,0,95,"1,290",50,10,4,33,35,20,35,30,0,0,0
+15903,1228,Shredded Beef,610,31,11,0,35,"1,680",51,10,4,35,30,30,35,35,0,0,0
+15904,1229,Ground Beef,780,40,12,0,35,"2,540",78,12,1,29,15,60,25,25,0,0,0
+15905,1229,Chicken,830,45,11,0,70,"1,890",86,9,1,26,15,15,30,20,0,0,0
+15906,1229,Shredded Beef,830,44,12,0,20,"2,250",87,9,1,27,10,15,30,25,0,0,0
+15907,1230,Ground Beef,230,17,2.5,0,20,170,16,3,0,5,4,4,6,4,0,0,0
+15908,1231,Ground Beef (Patty),370,27,9,0,60,550,17,2,1,15,10,10,15,10,0,0,0
+15909,1232,Bean Taco,190,12,3.5,0,15,410,16,3,0,6,2,4,15,4,0,0,0
+15910,1232,Bean Burrito,530,28,8,0,25,"1,330",55,6,0,16,2,6,30,20,0,0,0
+15911,1232,Bean Tostada,290,20,4,0,15,690,23,5,2,8,15,8,15,10,0,0,0
+15912,1232,Veggie Burrito,500,17,4.5,0,15,"1,300",72,7,2,15,15,8,20,25,0,0,0
+15913,1232,Cheese Enchilada & Rice,350,20,11,0,50,980,28,2,0,16,2,30,40,10,0,0,0
+15914,1232,Chile Relleno & Rice,530,32,10,0,285,"1,310",40,2,1,20,35,50,30,20,0,0,0
+15915,1232,Cheese Quesadilla,400,25,12,0,50,520,27,2,0,18,0,10,40,10,0,0,0
+15916,1232,Side Spanish Rice,260,5,0,0,0,780,48,1,1,5,2,2,2,15,0,0,0
+15917,1232,Side Pinto Beans,180,11,2,0,5,880,16,5,0,6,2,2,6,8,0,0,0
+15918,1232,Reg.Nachos (Chips & Cheese),360,19,4.5,0,5,810,43,4,0,6,0,4,15,6,0,0,0
+15919,1233,Ground Beef Taco & Chips,510,29,8,0,45,780,51,5,1,14,2,10,25,8,0,0,0
+15920,1233,Cheese Quesadilla & Chips,690,40,14,0,50,820,63,5,0,21,0,15,50,15,0,0,0
+15921,1233,Kid-Size Bean Burrito & Chips,480,25,5,0,10,880,54,6,0,11,0,4,15,15,0,0,0
+15922,1234,"8"" Flour Tortilla",170,3.5,1,0,0,240,28,2,0,4,0,0,2,10,0,0,0
+15923,1234,"6"" Corn Tortilla",60,0.5,0,0,0,40,12,1,0,1,0,0,4,2,0,0,0
+15924,1234,Corn Chips,280,15,3,0,0,300,36,4,0,4,0,2,8,4,0,0,0
+15925,1234,Side Guacamole,90,8,1.5,0,0,40,4,2,0,1,6,2,0,2,0,0,0
+15926,1234,Side Sour Cream,110,11,7,0,25,30,2,0,0,2,0,8,6,0,0,0,0
+15927,1234,Side Cheese Sauce,70,4,1.5,0,5,510,7,0,0,2,0,2,4,0,0,0,0
+15928,1234,Side Salsa Cruda,10,0,0,0,0,200,2,1,1,0,15,6,0,2,0,0,0
+15929,1234,French Fries,700,34,6,0,0,460,89,8,0,10,45,0,4,10,0,0,0
+15930,1235,Guacamole,35,3,0,0,0,25,2,1,1,0,6,2,0,2,0,0,0
+15931,1235,Sour Cream,50,5,2.5,0,10,85,2,0,0,1,4,6,4,2,0,0,0
+15932,1235,Guacamole & Sour Cream,90,8,3,0,10,100,4,1,1,1,8,6,4,2,0,0,0
+15933,1236,ChocoTaco,390,21,11,0,15,160,47,1,32,5,0,0,8,6,0,0,0
+15934,1236,Cinnamon Churro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15935,1236,Creme-Filled Churro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15936,1237,Combination Plate BASE,470,15,3,0,5,"1,470",71,7,2,12,15,6,10,25,0,0,0
+15937,1237,Cheese Enchilada,390,27,17,0,80,"1,070",16,2,0,22,4,40,60,6,0,0,0
+15938,1237,Ground Beef Enchilada,330,20,12,0,80,"1,190",19,2,0,19,4,35,35,6,0,0,0
+15939,1237,Chicken Enchilada,320,18,10,0,65,590,16,2,0,22,4,30,45,8,0,0,0
+15940,1237,Shredded Beef Enchilada,300,17,10,0,45,730,16,2,0,22,4,35,40,10,0,0,0
+15941,1237,Bean Taco,190,12,3.5,0,15,410,16,3,0,6,2,4,15,4,0,0,0
+15942,1237,Ground Beef Taco,220,14,5,0,45,480,15,2,1,10,2,10,15,4,0,0,0
+15943,1237,Chicken Taco,200,11,3.5,0,40,160,12,2,0,12,4,4,15,6,0,0,0
+15944,1237,Shredded Beef Taco,190,11,3.5,0,15,350,13,2,0,13,2,8,15,8,0,0,0
+15945,1237,Bean Burrito,530,28,8,0,25,"1,330",55,6,0,16,2,6,30,20,0,0,0
+15946,1237,Ground Beef Combo Burrito,620,33,11,0,75,"1,610",57,5,0,25,4,15,30,20,0,0,0
+15947,1237,Chicken Combo Burrito,580,28,8,0,70,"1,010",52,5,0,28,4,6,35,25,0,0,0
+15948,1237,Shredded Beef Combo Burrito,580,28,9,0,25,"1,330",53,6,0,29,2,15,35,30,0,0,0
+15949,1237,Chile Relleno,300,24,8,0,235,670,8,2,0,14,30,40,25,10,0,0,0
+15950,1237,Combination Plate #4 (Carne Asada),"1,300",46,13,0,25,"2,910",165,22,4,64,30,15,30,80,0,0,0
+15951,1237,Combination Plate # 1 (Cheese Enchilada),860,42,20,0,85,"2,540",87,9,2,34,19,46,70,31,0,0,0
+15952,1237,Combination Plate # 1 (Ground Beef Enchilada),800,35,15,0,85,"2,660",90,9,2,31,19,41,45,31,0,0,0
+15953,1237,Combination Plate # 1 (Chicken Enchilada),790,33,13,0,70,"2,060",87,9,2,34,19,36,55,33,0,0,0
+15954,1237,Combination Plate # 1 (Shredded Beef Enchilada),770,32,13,0,50,"2,200",87,9,2,34,19,41,50,35,0,0,0
+15955,1237,Combination Plate # 2 (Bean Burrito),"1,000",43,11,0,30,"2,800",126,13,2,28,17,12,40,45,0,0,0
+15956,1237,Combination Plate # 2 (Ground Beef Combo Burrito),"1,090",48,14,0,80,"3,080",128,12,2,37,19,21,40,45,0,0,0
+15957,1237,Combination Plate # 2 (Chicken Combo Burrito),"1,050",43,11,0,75,"2,480",123,12,2,40,19,12,45,50,0,0,0
+15958,1237,Combination Plate # 2 (Shredded Beef Combo Burrito),"1,050",43,12,0,30,"2,800",124,13,2,41,17,21,45,55,0,0,0
+15959,1237,Combination Plate # 3 (Chile Relleno),770,39,11,0,240,"2,140",79,9,2,26,45,46,35,35,0,0,0
+15960,1237,Combination Plate #5 (Cheese Enchilada and Bean Burrito),"1,390",70,28,0,110,"3,870",142,15,2,50,21,52,100,51,0,0,0
+15961,1237,Combination Plate #5 (Cheese Enchilada and Ground Beef Combo Burrito),"1,480",75,31,0,160,"4,150",144,14,2,59,23,61,100,51,0,0,0
+15962,1237,Combination Plate #5 (Cheese Enchilada and Chicken Combo Burrito),"1,440",70,28,0,155,"3,550",139,14,2,62,23,52,105,56,0,0,0
+15963,1237,Combination Plate #5 (Cheese Enchilada and Shredded Beef Combo Burrito),"1,440",70,29,0,110,"3,870",140,15,2,63,21,61,105,61,0,0,0
+15964,1237,Combination Plate #5 (Ground Beef Enchilada and Bean Burrito),"1,330",63,23,0,110,"3,990",145,15,2,47,21,47,75,51,0,0,0
+15965,1237,Combination Plate #5 (Ground Beef Enchilada and Ground Beef Combo Burrito),"1,420",68,26,0,160,"4,270",147,14,2,56,23,56,75,51,0,0,0
+15966,1237,Combination Plate #5 (Ground Beef Enchilada and Chicken Combo Burrito),"1,380",63,23,0,155,"3,670",142,14,2,59,23,47,80,56,0,0,0
+15967,1237,Combination Plate #5 (Ground Beef Enchilada and Shredded Beef Combo Burrito),"1,380",63,24,0,110,"3,990",143,15,2,60,21,56,80,61,0,0,0
+15968,1237,Combination Plate #5 (Chicken Enchilada and Bean Burrito),"1,320",61,21,0,95,"3,390",142,15,2,50,21,42,85,53,0,0,0
+15969,1237,Combination Plate #5 (Chicken Enchilada and Ground Beef Combo Burrito),"1,410",66,24,0,145,"3,670",144,14,2,59,23,51,85,53,0,0,0
+15970,1237,Combination Plate #5 (Chicken Enchilada and Chicken Combo Burrito),"1,370",61,21,0,140,"3,070",139,14,2,62,23,42,90,58,0,0,0
+15971,1237,Combination Plate #5 (Chicken Enchilada and Shredded Beef Combo Burrito),"1,370",61,22,0,95,"3,390",140,15,2,63,21,51,90,63,0,0,0
+15972,1237,Combination Plate #5 (Shredded Beef Enchilada and Bean Burrito),"1,300",60,21,0,75,"3,530",142,15,2,50,21,47,80,55,0,0,0
+15973,1237,Combination Plate #5 (Shredded Beef Enchilada and Ground Beef Combo Burrito),"1,390",65,24,0,125,"3,810",144,14,2,59,23,56,80,55,0,0,0
+15974,1237,Combination Plate #5 (Shredded Beef Enchilada and Chicken Combo Burrito),"1,350",60,21,0,120,"3,210",139,14,2,62,23,47,85,60,0,0,0
+15975,1237,Combination Plate #5 (Shredded Beef Enchilada and Shredded Beef Combo Burrito),"1,350",60,22,0,75,"3,530",140,15,2,63,21,56,85,65,0,0,0
+15976,1237,Combination Plate #6 (Cheese Enchilada and Bean Taco),"1,050",54,23.5,0,100,"2,950",103,12,2,40,21,50,85,35,0,0,0
+15977,1237,Combination Plate #6 (Cheese Enchilada and Ground Beef Taco),"1,080",56,25,0,130,"3,020",102,11,3,44,21,56,85,35,0,0,0
+15978,1237,Combination Plate #6 (Cheese Enchilada and Chicken Taco),"1,060",53,23.5,0,125,"2,700",99,11,2,46,23,50,85,37,0,0,0
+15979,1237,Combination Plate #6 (Cheese Enchilada and Shredded Beef Taco),"1,050",53,23.5,0,100,"2,890",100,11,2,47,21,54,85,39,0,0,0
+15980,1237,Combination Plate #6 (Ground Beef Enchilada and Bean Taco),990,47,18.5,0,100,"3,070",106,12,2,37,21,45,60,35,0,0,0
+15981,1237,Combination Plate #6 (Ground Beef Enchilada and Ground Beef Taco),"1,020",49,20,0,130,"3,140",105,11,3,41,21,51,60,35,0,0,0
+15982,1237,Combination Plate #6 (Ground Beef Enchilada and Chicken Taco),"1,000",46,18.5,0,125,"2,820",102,11,2,43,23,45,60,37,0,0,0
+15983,1237,Combination Plate #6 (Ground Beef Enchilada and Shredded Beef Taco),990,46,18.5,0,100,"3,010",103,11,2,44,21,49,60,39,0,0,0
+15984,1237,Combination Plate #6 (Chicken Enchilada and Bean Taco),980,45,16.5,0,85,"2,470",103,12,2,40,21,40,70,37,0,0,0
+15985,1237,Combination Plate #6 (Chicken Enchilada and Ground Beef Taco),"1,010",47,18,0,115,"2,540",102,11,3,44,21,46,70,37,0,0,0
+15986,1237,Combination Plate #6 (Chicken Enchilada and Chicken Taco),990,44,16.5,0,110,"2,220",99,11,2,46,23,40,70,39,0,0,0
+15987,1237,Combination Plate #6 (Chicken Enchilada and Shredded Beef Taco),980,44,16.5,0,85,"2,410",100,11,2,47,21,44,70,41,0,0,0
+15988,1237,Combination Plate #6 (Shredded Beef Enchilada and Bean Taco),960,44,16.5,0,65,"2,610",103,12,2,40,21,45,65,39,0,0,0
+15989,1237,Combination Plate #6 (Shredded Beef Enchilada and Ground Beef Taco),990,46,18,0,95,"2,680",102,11,3,44,21,51,65,39,0,0,0
+15990,1237,Combination Plate #6 (Shredded Beef Enchilada and Chicken Taco),970,43,16.5,0,90,"2,360",99,11,2,46,23,45,65,41,0,0,0
+15991,1237,Combination Plate #6 (Shredded Beef Enchilada and Shredded Beef Taco),960,43,16.5,0,65,"2,550",100,11,2,47,21,49,65,43,0,0,0
+15992,1237,Combination Plate #7 Two Bean Taco,850,39,10,0,35,"2,290",103,13,2,24,19,14,40,33,0,0,0
+15993,1237,Combination Plate #7 Two Ground Beef Taco,910,43,13,0,95,"2,430",101,11,4,32,19,26,40,33,0,0,0
+15994,1237,Combination Plate #7 Two Chicken Taco,870,37,10,0,85,"1,790",95,11,2,36,23,14,40,37,0,0,0
+15995,1237,Combination Plate #7 Two Shredded Beef Taco,850,37,10,0,35,"2,170",97,11,2,38,19,22,40,41,0,0,0
+15996,1237,Combination Plate #7 (Two Bean Taco and Two Ground Beef Taco),"1,290",67,20,0,125,"3,250",133,17,4,44,23,34,70,41,0,0,0
+15997,1237,Combination Plate #7 (Two Bean Taco and Two Chicken Taco),"1,250",61,17,0,115,"2,610",127,17,2,48,27,22,70,45,0,0,0
+15998,1237,Combination Plate #7 (Two Bean Taco and Two Shredded Beef Taco),"1,230",61,17,0,65,"2,990",129,17,2,50,23,30,70,49,0,0,0
+15999,1237,Combination Plate #7 (Two Ground Beef Taco and Two Chicken Taco),"1,310",65,20,0,175,"2,750",125,15,4,56,27,34,70,45,0,0,0
+16000,1237,Combination Plate #7 (Two Ground Beef Taco and Two Shredded Beef Taco),"1,290",65,20,0,125,"3,130",127,15,4,58,23,42,70,49,0,0,0
+16001,1237,Combination Plate #7 (Two Chicken Taco and Two Shredded Beef Taco),"1,250",59,17,0,115,"2,490",121,15,2,62,27,30,70,53,0,0,0
+16002,1237,Combination Plate #8 Two Cheese Enchilada,"1,250",69,37,0,165,"3,610",103,11,2,56,23,86,130,37,0,0,0
+16003,1237,Combination Plate #8 Two Ground Beef Enchilada,"1,130",55,27,0,165,"3,850",109,11,2,50,23,76,80,37,0,0,0
+16004,1237,Combination Plate #8 Two Chicken Enchilada,"1,110",51,23,0,135,"2,650",103,11,2,56,23,66,100,41,0,0,0
+16005,1237,Combination Plate #8 Two Shredded Beef Enchilada,"1,070",49,23,0,95,"2,930",103,11,2,56,23,76,90,45,0,0,0
+16006,1237,Combination Plate #8 (Two Cheese Enchilada and Two Ground Beef Enchilada),"1,910",109,61,0,325,"5,990",141,15,2,94,31,156,200,49,0,0,0
+16007,1237,Combination Plate #8 (Two Cheese Enchilada and Two Chicken Enchilada),"1,110",51,23,0,135,"2,650",103,11,2,56,23,66,100,41,0,0,0
+16008,1237,Combination Plate #8 (Two Cheese Enchilada and Two Shredded Beef Enchilada),"1,070",49,23,0,95,"2,930",103,11,2,56,23,76,90,45,0,0,0
+16009,1237,Combination Plate #8 (Two Ground Beef Enchilada and Two Chicken Enchilada),"1,770",91,47,0,295,"5,030",141,15,2,94,31,136,170,53,0,0,0
+16010,1237,Combination Plate #8 (Two Ground Beef Enchilada and Two Shredded Beef Enchilada),"1,730",89,47,0,255,"5,310",141,15,2,94,31,146,160,57,0,0,0
+16011,1237,Combination Plate #8 (Two Chicken Enchilada and Two Shredded Beef Enchilada),"1,710",85,43,0,225,"4,110",135,15,2,100,31,136,180,61,0,0,0
+16012,1237,Combination Plate #9 (Bean Taco and Bean Burrito),"1,190",55,14.5,0,45,"3,210",142,16,2,34,19,16,55,49,0,0,0
+16013,1237,Combination Plate #9 (Bean Taco and Ground Beef Combo Burrito),"1,280",60,17.5,0,95,"3,490",144,15,2,43,21,25,55,49,0,0,0
+16014,1237,Combination Plate #9 (Bean Taco and Chicken Combo Burrito),"1,240",55,14.5,0,90,"2,890",139,15,2,46,21,16,60,54,0,0,0
+16015,1237,Combination Plate #9 (Bean Taco and Shredded Beef Combo Burrito),"1,240",55,15.5,0,45,"3,210",140,16,2,47,19,25,60,59,0,0,0
+16016,1237,Combination Plate #9 (Ground Beef Taco and Bean Burrito),"1,220",57,16,0,75,"3,280",141,15,3,38,19,22,55,49,0,0,0
+16017,1237,Combination Plate #9 (Ground Beef Taco and Ground Beef Combo Burrito),"1,310",62,19,0,125,"3,560",143,14,3,47,21,31,55,49,0,0,0
+16018,1237,Combination Plate #9 (Ground Beef Taco and Chicken Combo Burrito),"1,270",57,16,0,120,"2,960",138,14,3,50,21,22,60,54,0,0,0
+16019,1237,Combination Plate #9 (Ground Beef Taco and Shredded Beef Combo Burrito),"1,270",57,17,0,75,"3,280",139,15,3,51,19,31,60,59,0,0,0
+16020,1237,Combination Plate #9 (Chicken Taco and Bean Burrito),"1,200",54,14.5,0,70,"2,960",138,15,2,40,21,16,55,51,0,0,0
+16021,1237,Combination Plate #9 (Chicken Taco and Ground Beef Combo Burrito),"1,290",59,17.5,0,120,"3,240",140,14,2,49,23,25,55,51,0,0,0
+16022,1237,Combination Plate #9 (Chicken Taco and Chicken Combo Burrito),"1,250",54,14.5,0,115,"2,640",135,14,2,52,23,16,60,56,0,0,0
+16023,1237,Combination Plate #9 (Chicken Taco and Shredded Beef Combo Burrito),"1,250",54,15.5,0,70,"2,960",136,15,2,53,21,25,60,61,0,0,0
+16024,1237,Combination Plate #9 (Shredded Beef Taco and Bean Burrito),"1,190",54,14.5,0,45,"3,150",139,15,2,41,19,20,55,53,0,0,0
+16025,1237,Combination Plate #9 (Shredded Beef Taco and Ground Beef Combo Burrito),"1,280",59,17.5,0,95,"3,430",141,14,2,50,21,29,55,53,0,0,0
+16026,1237,Combination Plate #9 (Shredded Beef Taco and Chicken Combo Burrito),"1,240",54,14.5,0,90,"2,830",136,14,2,53,21,20,60,58,0,0,0
+16027,1237,Combination Plate #9 (Shredded Beef Taco and Shredded Beef Combo Burrito),"1,240",54,15.5,0,45,"3,150",137,15,2,54,19,29,60,63,0,0,0

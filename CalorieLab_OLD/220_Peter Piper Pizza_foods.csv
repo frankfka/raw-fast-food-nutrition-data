@@ -1,0 +1,99 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+23365,1660,Original Crust Cheese Pizza,300,9,4.5,0,25,470,37,2,2,18,0,0,0,0,0,0,0
+23366,1660,Thin Crust Cheese Pizza,150,5,3,0,15,290,14,1,1,10,0,0,0,0,0,0,0
+23367,1660,Hand-tossed Crust Cheese Pizza,290,9,4.5,0,25,590,38,2,4,17,0,0,0,0,0,0,0
+23368,1660,Pan Crust Cheese Pizza,290,9,4.5,0,25,590,38,2,4,17,0,0,0,0,0,0,0
+23369,1660,Original Crust Pepperoni Pizza,300,10,4.5,0,20,550,36,2,2,16,0,0,0,0,0,0,0
+23370,1660,Thin Crust Pepperoni Pizza,150,6,3,0,15,340,13,1,1,9,0,0,0,0,0,0,0
+23371,1660,Hand-tossed Crust Pepperoni Pizza,290,10,4.5,0,20,670,37,2,4,14,0,0,0,0,0,0,0
+23372,1660,Pan Crust Pepperoni Pizza,330,10,4.5,0,20,710,44,2,4,15,0,0,0,0,0,0,0
+23373,1660,Original Crust Sausage Pizza,310,10,4.5,0,25,580,38,2,3,17,0,0,0,0,0,0,0
+23374,1660,Thin Crust Sausage Pizza,150,7,3,0,15,360,14,1,2,10,0,0,0,0,0,0,0
+23375,1660,Hand-tossed Crust Sausage Pizza,310,10,4.5,0,25,690,39,2,4,15,0,0,0,0,0,0,0
+23376,1660,Pan Crust Sausage Pizza,340,11,4.5,0,25,740,46,3,4,16,0,0,0,0,0,0,0
+23377,1660,Original Crust Ham & Pineapple Pizza,280,7,3.5,0,20,530,38,2,4,17,0,0,0,0,0,0,0
+23378,1660,Thin Crust Ham & Pineapple Pizza,130,4,2.5,0,15,320,15,1,3,9,0,0,0,0,0,0,0
+23379,1660,Hand-tossed Crust Ham & Pineapple Pizza,280,7,3.5,0,20,640,39,2,5,15,0,0,0,0,0,0,0
+23380,1660,Pan Crust Ham & Pineapple Pizza,310,7,3.5,0,20,690,46,2,6,16,0,0,0,0,0,0,0
+23381,1660,Original Crust Pepperoni & Sausage Pizza,310,11,4.5,0,25,600,37,2,2,17,0,0,0,0,0,0,0
+23382,1660,Thin Crust Pepperoni & Sausage Pizza,150,7,3,0,15,370,14,1,2,9,0,0,0,0,0,0,0
+23383,1660,Hand-tossed Crust Pepperoni & Sausage Pizza,310,11,4.5,0,25,710,38,2,4,15,0,0,0,0,0,0,0
+23384,1660,Pan Crust Pepperoni & Sausage Pizza,340,11,4.5,0,25,760,45,2,4,16,0,0,0,0,0,0,0
+23385,1661,Original Crust Cheese Pizza,260,8,4.5,0,20,420,32,1,2,17,0,0,0,0,0,0,0
+23386,1661,Thin Crust Cheese Pizza,140,5,3.5,0,15,290,13,1,1,10,0,0,0,0,0,0,0
+23387,1661,Hand-tossed Crust Cheese Pizza,260,8,4,0,20,530,33,1,3,15,0,0,0,0,0,0,0
+23388,1661,Pan Crust Cheese Pizza,290,8,4.5,0,20,560,38,2,3,16,0,0,0,0,0,0,0
+23389,1661,Original Crust Pepperoni Pizza,260,8,4,0,20,490,32,1,2,14,0,0,0,0,0,0,0
+23390,1661,Thin Crust Pepperoni Pizza,140,6,3,0,15,340,13,1,1,9,0,0,0,0,0,0,0
+23391,1661,Hand-tossed Crust Pepperoni Pizza,260,8,4,0,20,590,33,1,3,13,0,0,0,0,0,0,0
+23392,1661,Pan Crust Pepperoni Pizza,280,9,4,0,20,620,37,2,3,13,0,0,0,0,0,0,0
+23393,1661,Original Crust Sausage Pizza,280,10,4.5,0,20,530,33,2,2,16,0,0,0,0,0,0,0
+23394,1661,Thin Crust Sausage Pizza,150,7,3,0,15,370,14,1,2,10,0,0,0,0,0,0,0
+23395,1661,Hand-tossed Crust Sausage Pizza,280,10,4,0,20,630,34,2,3,14,0,0,0,0,0,0,0
+23396,1661,Pan Crust Sausage Pizza,300,10,4,0,20,660,39,2,4,15,0,0,0,0,0,0,0
+23397,1661,Original Crust Ham & Pineapple Pizza,250,6,3,0,20,470,33,1,4,15,0,0,0,0,0,0,0
+23398,1661,Thin Crust Ham & Pineapple Pizza,130,4,2.5,0,15,320,14,1,3,9,0,0,0,0,0,0,0
+23399,1661,Hand-tossed Crust Ham & Pineapple Pizza,250,6,3,0,20,570,35,1,5,13,0,0,0,0,0,0,0
+23400,1661,Pan Crust Ham & Pineapple Pizza,270,6,3,0,20,600,39,2,5,14,0,0,0,0,0,0,0
+23401,1661,Original Crust Pepperoni & Sausage Pizza,280,10,4.5,0,25,540,32,2,2,15,0,0,0,0,0,0,0
+23402,1661,Thin Crust Pepperoni & Sausage Pizza,150,7,3.5,0,15,370,13,1,2,9,0,0,0,0,0,0,0
+23403,1661,Hand-tossed Crust Pepperoni & Sausage Pizza,280,10,4.5,0,25,640,33,2,3,14,0,0,0,0,0,0,0
+23404,1661,Pan Crust Pepperoni & Sausage Pizza,300,10,4.5,0,25,670,38,2,4,14,0,0,0,0,0,0,0
+23405,1662,Original Crust Chicago Classic Pizza,300,10,4.5,0,20,550,38,2,3,17,0,0,0,0,0,0,0
+23406,1662,Thin Crust Chicago Classic Pizza,150,6,3,0,15,340,15,1,2,9,0,0,0,0,0,0,0
+23407,1662,Hand-tossed Crust Chicago Classic Pizza,300,10,4.5,0,20,660,39,2,4,15,0,0,0,0,0,0,0
+23408,1662,Pan Crust Chicago Classic Pizza,340,10,4.5,0,20,710,46,3,4,16,0,0,0,0,0,0,0
+23409,1662,Original Crust New York 3 Cheese Pizza With Pepperoni,380,16,7,0,30,710,38,2,3,21,0,0,0,0,0,0,0
+23410,1662,Thin Crust New York 3 Cheese Pizza With Pepperoni,200,10,4.5,0,20,440,14,1,2,12,0,0,0,0,0,0,0
+23411,1662,Hand-tossed Crust New York 3 Cheese Pizza With Pepperoni,380,16,7,0,30,830,39,2,4,19,0,0,0,0,0,0,0
+23412,1662,Pan Crust New York 3 Cheese Pizza With Pepperoni,410,16,7,0,30,870,46,2,4,20,0,0,0,0,0,0,0
+23413,1662,Original Crust California Veggie Pizza,200,6,3,0,15,430,23,2,3,12,0,0,0,0,0,0,0
+23414,1662,Thin Crust California Veggie Pizza,130,4.5,2,0,10,290,15,1,2,8,0,0,0,0,0,0,0
+23415,1662,Hand-tossed Crust California Veggie Pizza,270,7,3,0,15,560,39,2,4,13,0,0,0,0,0,0,0
+23416,1662,Pan Crust California Veggie Pizza,300,7,3,0,15,610,47,3,4,14,0,0,0,0,0,0,0
+23417,1662,Original Crust 5 Meat Supreme Pizza,350,13,6,0,35,850,38,2,3,21,0,0,0,0,0,0,0
+23418,1662,Thin Crust 5 Meat Supreme Pizza,180,8,4,0,25,540,14,1,2,12,0,0,0,0,0,0,0
+23419,1662,Hand-tossed Crust 5 Meat Supreme Pizza,350,13,6,0,35,970,38,2,4,19,0,0,0,0,0,0,0
+23420,1662,Pan Crust 5 Meat Supreme Pizza,380,13,6,0,35,"1,010",46,2,4,20,0,0,0,0,0,0,0
+23421,1662,Original Crust The Werx Pizza,320,11,4.5,0,25,670,38,2,3,17,0,0,0,0,0,0,0
+23422,1662,Thin Crust The Werx Pizza,160,7,3,0,15,420,14,1,2,10,0,0,0,0,0,0,0
+23423,1662,Hand-tossed Crust The Werx Pizza,310,11,4.5,0,25,790,39,2,4,16,0,0,0,0,0,0,0
+23424,1662,Pan Crust The Werx Pizza,350,11,4.5,0,25,830,46,2,5,16,0,0,0,0,0,0,0
+23425,1662,Original Crust SmokeHouse Pizza,370,15,5,0,30,890,38,2,3,23,0,0,0,0,0,0,0
+23426,1662,Thin Crust SmokeHouse Pizza,200,9,3.5,0,20,570,15,1,2,13,0,0,0,0,0,0,0
+23427,1662,Hand-tossed Crust SmokeHouse Pizza,370,15,5,0,30,"1,010",39,2,4,21,0,0,0,0,0,0,0
+23428,1662,Pan Crust SmokeHouse Pizza,400,15,5,0,30,"1,050",46,2,5,22,0,0,0,0,0,0,0
+23429,1663,Original Crust Chicago Classic Pizza,270,9,4,0,20,500,33,2,2,15,0,0,0,0,0,0,0
+23430,1663,Thin Crust Chicago Classic Pizza,150,6,3,0,15,350,14,1,2,9,0,0,0,0,0,0,0
+23431,1663,Hand-tossed Crust Chicago Classic Pizza,270,9,4,0,20,600,34,2,4,14,0,0,0,0,0,0,0
+23432,1663,Pan Crust Chicago Classic Pizza,290,9,4,0,20,630,39,2,4,14,0,0,0,0,0,0,0
+23433,1663,Original Crust New York 3 Cheese Pizza With Pepperoni,340,14,6,0,30,630,32,1,2,19,0,0,0,0,0,0,0
+23434,1663,Thin Crust New York 3 Cheese Pizza With Pepperoni,200,10,4.5,0,20,450,14,1,2,12,0,0,0,0,0,0,0
+23435,1663,Hand-tossed Crust New York 3 Cheese Pizza With Pepperoni,340,14,6,0,30,740,34,2,3,17,0,0,0,0,0,0,0
+23436,1663,Pan Crust New York 3 Cheese Pizza With Pepperoni,360,15,6,0,30,760,39,2,4,18,0,0,0,0,0,0,0
+23437,1663,Original Crust California Veggie Pizza,240,6,3,0,15,400,33,2,2,13,0,0,0,0,0,0,0
+23438,1663,Thin Crust California Veggie Pizza,130,4,2,0,10,270,14,1,2,8,0,0,0,0,0,0,0
+23439,1663,Hand-tossed Crust California Veggie Pizza,240,6,3,0,15,500,34,2,4,12,0,0,0,0,0,0,0
+23440,1663,Pan Crust California Veggie Pizza,260,6,3,0,15,530,39,2,4,12,0,0,0,0,0,0,0
+23441,1663,Original Crust 5 Meat Supreme Pizza,320,13,6,0,35,820,33,2,2,20,0,0,0,0,0,0,0
+23442,1663,Thin Crust 5 Meat Supreme Pizza,190,9,4,0,25,580,14,1,2,13,0,0,0,0,0,0,0
+23443,1663,Hand-tossed Crust 5 Meat Supreme Pizza,320,13,5,0,35,920,34,2,3,18,0,0,0,0,0,0,0
+23444,1663,Pan Crust 5 Meat Supreme Pizza,340,13,5,0,35,950,39,2,4,19,0,0,0,0,0,0,0
+23445,1663,Original Crust The Werx Pizza,290,10,4.5,0,25,630,33,2,3,16,0,0,0,0,0,0,0
+23446,1663,Thin Crust The Werx Pizza,160,7,3,0,20,440,14,1,2,10,0,0,0,0,0,0,0
+23447,1663,Hand-tossed Crust The Werx Pizza,280,10,4,0,25,730,34,2,4,14,0,0,0,0,0,0,0
+23448,1663,Pan Crust The Werx Pizza,310,10,4,0,25,760,39,2,4,15,0,0,0,0,0,0,0
+23449,1663,Original Crust SmokeHouse Pizza,340,13,5,0,30,840,33,2,3,21,0,0,0,0,0,0,0
+23450,1663,Thin Crust SmokeHouse Pizza,200,10,3.5,0,20,600,14,1,2,14,0,0,0,0,0,0,0
+23451,1663,Hand-tossed Crust SmokeHouse Pizza,340,13,4.5,0,30,940,34,2,4,19,0,0,0,0,0,0,0
+23452,1663,Pan Crust SmokeHouse Pizza,360,14,4.5,0,30,970,39,2,4,20,0,0,0,0,0,0,0
+23453,1664,Side,20,0,0,0,0,30,4,1,1,2,0,0,0,0,0,0,0
+23454,1664,Garden,50,0,0,0,0,45,10,2,4,3,0,0,0,0,0,0,0
+23455,1664,Italian Chef,290,16,4,0,45,"1,910",14,2,5,24,0,0,0,0,0,0,0
+23456,1664,Chicken Caesar,200,8,1,0,35,900,10,4,3,21,0,0,0,0,0,0,0
+23457,1664,Family,20,0,0,0,0,25,4,0,1,1,0,0,0,0,0,0,0
+23458,1665,Garlic Cheese Bread,310,14,4,0,10,610,37,2,2,10,0,0,0,0,0,0,0
+23459,1665,Wings,110,8,2,0,40,190,0,0,1,9,0,0,0,0,0,0,0
+23460,1665,Chicken Strips,300,9,1,0,50,940,26,0,0,26,0,0,0,0,0,0,0
+23461,1665,Breadsticks,250,10,1.5,0,0,760,36,0,4,7,0,0,0,0,0,0,0
+23462,1665,Cinnamon Crunch Dessert,220,1.5,0,0,0,220,49,2,13,5,0,0,0,0,0,0,0

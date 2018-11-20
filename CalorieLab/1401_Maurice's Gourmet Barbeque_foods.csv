@@ -1,0 +1,15 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+142188,23060,"Shrimp, French Fried",,190,9,0,0,160,0,0,0,0,0,0,0,0,0,0,0,0
+142189,23060,"Shrimp, Water Uncooked",,77,0.7,0,0,82.3,0,0,0,0,0,0,0,0,0,0,0,0
+142190,23060,"Trout, Fresh Water, Uncooked",,112,5,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0
+142191,23060,"Perch, Lake/Yellow, Uncooked",,74,0.8,0,0,77.1,0,0,0,0,0,0,0,0,0,0,0,0
+142192,23060,"Perch, Ocean, Uncooked",,90,0.8,0,0,77.1,0,0,0,0,0,0,0,0,0,0,0,0
+142193,23060,"Tuna, Light, In Oil",,178,10.2,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0
+142194,23061,"Chicken, Skinless Breast",,116,1.5,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0
+142195,23061,"Chicken, Skin-on, Roasted Thigh",,152,6.7,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0
+142196,23061,"Turkey, Skinless, Baked Breast",,119,1.9,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0
+142197,23061,"Turkey, Skinless, Drumstick",,143,4.4,0,0,67,0,0,0,0,0,0,0,0,0,0,0,0
+142198,23061,"Turkey, Skin-on, Roasted",,142,4.7,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0
+142199,23062,Broiled Rib Steak,,200,10.9,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0
+142200,23062,"Filet Mignon, Chateaubriand",,200,10.9,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0
+142201,23062,New York Steak,,174,7.9,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0

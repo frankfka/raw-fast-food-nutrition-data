@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+7308,552,Vegetarian Egg White Omelette,505,23,0,0,15,275,54,7,0,21,0,0,0,0,0,0,0
+7309,552,Bistro Burger Veggie Patty With Salad,650,16,0,0,25,"1,145",101,17,0,29,0,0,0,0,0,0,0
+7310,553,Classic Turkey Sandwich,670,25,0,0,155,550,56,7,0,60,0,0,0,0,0,0,0
+7311,553,Good Earth Sandwich,535,25,0,0,30,625,67,12,0,18,0,0,0,0,0,0,0
+7312,554,Mushroom Jack Turkey Burger,700,21,0,0,105,"1,845",73,8,0,47,0,0,0,0,0,0,0
+7313,555,Rosemary Chicken,655,12,0,0,145,"1,440",68,12,0,67,0,0,0,0,0,0,0

@@ -1,0 +1,31 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+136047,22775,Original Glazed,1 doughnut - 52 g,200,12,3,0,0,0.1,22,0.5,10,2,0,0,0,0,0,0,0
+136048,22775,Original Glazed,100 g,385,23,6,0,0,0.2,42,1,19,4,0,0,0,0,0,0,0
+136049,22775,Glazed Raspberry Flavour,1 doughnut - 86 g,300,16,4,0,0,0.1,39,1,21,3,0,0,0,0,0,0,0
+136050,22775,Glazed Raspberry Flavour,100 g,349,19,5,0,0,0.2,45,1,24,3,0,0,0,0,0,0,0
+136051,22775,Chocolate Iced Glazed,1 doughnut - 66 g,250,12,3,0,0,0.1,33,1,21,3,0,0,0,0,0,0,0
+136052,22775,Chocolate Iced Glazed,100 g,379,18,5,0,0,0.2,50,1,32,5,0,0,0,0,0,0,0
+136053,22775,Chocolate Iced,1 doughnut - 71 g,260,12,3,0,0,0.1,38,1,24,3,0,0,0,0,0,0,0
+136054,22775,Chocolate Iced,100 g,366,17,4,0,0,0.1,54,1,34,4,0,0,0,0,0,0,0
+136055,22775,Glazed Lemon Filled,1 doughnut - 85 g,290,16,4,0,0,0.1,34,1,18,3,0,0,0,0,0,0,0
+136056,22775,Glazed Lemon Filled,100 g,341,19,5,0,0,0.2,40,1,21,4,0,0,0,0,0,0,0
+136057,22775,Chocolate Iced,1 doughnut - 87 g,350,21,5,0,0,0.1,39,0.5,23,3,0,0,0,0,0,0,0
+136058,22775,Chocolate Iced,100 g,402,24,6,0,0,0.2,45,1,26,3,0,0,0,0,0,0,0
+136059,22775,Powdered Strawberry Filled,1 doughnut - 74 g,260,16,4,0,0,0.1,26,1,9,3,0,0,0,0,0,0,0
+136060,22775,Powdered Strawberry Filled,100 g,351,22,5,0,0,0.2,35,1,12,4,0,0,0,0,0,0,0
+136061,22775,Glazed Chocolate Cake,1 doughnut - 80 g,340,18,4.5,0,0,0.3,42,1,27,3,0,0,0,0,0,0,0
+136062,22775,Glazed Chocolate Cake,100 g,425,23,6,0,0,0.4,53,1,34,4,0,0,0,0,0,0,0
+136063,22775,Maple Flavour Iced,1 doughnut - 66 g,240,12,3,0,0,0.1,32,0.5,20,2,0,0,0,0,0,0,0
+136064,22775,Maple Flavour Iced,100 g,364,18,5,0,0,0.2,48,1,30,3,0,0,0,0,0,0,0
+136065,22775,Vanilla Cake,1 doughnut - 80 g,340,18,4.5,0,0,0.3,42,1,27,3,0,0,0,0,0,0,0
+136066,22775,Vanilla Cake,100 g,425,23,6,0,0,0.4,53,1,34,4,0,0,0,0,0,0,0
+136067,22775,Glazed Cruller,1 doughnut - 54 g,240,14,3.5,0,0,0.2,26,0.5,14,2,0,0,0,0,0,0,0
+136068,22775,Glazed Cruller,100 g,444,26,6,0,0,0.4,48,1,26,4,0,0,0,0,0,0,0
+136069,22775,Powdered Blueberry Filled,1 doughnut - 86 g,290,16,4,0,0,0.1,32,1,14,3,0,0,0,0,0,0,0
+136070,22775,Powdered Blueberry Filled,100 g,337,19,5,0,0,0.2,41,1,21,3,0,0,0,0,0,0,0
+136071,22775,Chocolate Iced Custard Filled,1 doughnut - 87 g,300,17,4,0,0,0.2,35,0.5,17,3,0,0,0,0,0,0,0
+136072,22775,Chocolate Iced Custard Filled,100 g,345,20,5,0,0,0.2,40,1,20,3,0,0,0,0,0,0,0
+136073,22775,Cinnamon Apple Filled,1 doughnut - 81 g,290,16,4,0,0,0.2,32,1,14,3,0,0,0,0,0,0,0
+136074,22775,Cinnamon Apple Filled,100 g,358,20,5,0,0,0.2,40,1,17,4,0,0,0,0,0,0,0
+136075,22775,Glazed With Creme Flavour Filling,1 doughnut - 86 g,340,20,5,0,0,0.1,39,1,23,3,0,0,0,0,0,0,0
+136076,22775,Glazed With Creme Flavour Filling,100 g,395,23,6,0,0,0.2,45,1,27,3,0,0,0,0,0,0,0

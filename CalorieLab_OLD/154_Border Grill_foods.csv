@@ -1,0 +1,4 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+14728,1127,Trio of Ceviches,145,6,1,0,60,775,8,1,0,16,0,0,0,0,0,0,0
+14729,1127,Mexican Chopped Salad,310,21,3,0,0,875,27,7,0,6,0,0,0,0,0,0,0
+14730,1127,Grilled Salmon with Tomato and Herb Salsa,400,25,6.5,0,110,"1,715",7,2,0,36,0,0,0,0,0,0,0

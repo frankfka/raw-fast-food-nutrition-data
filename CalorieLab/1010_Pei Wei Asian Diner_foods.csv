@@ -1,0 +1,132 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+100212,20036,Minced Chicken with Cool Lettuce Wraps,1/2 serving,250,4,0,0,0,0,31,3,15,22,0,0,0,0,0,0,0
+100213,20036,Edamame,1/2 serving,156,8,0,0,0,0,12,5,4,14,0,0,0,0,0,0,0
+100214,20036,Crispy Potstickers (4 Pieces),1/2 serving,130,7,0,0,0,0,10,0,1,6,0,0,0,0,0,0,0
+100215,20036,Pei Wei Spring Rolls (2 Rolls),1/2 serving,90,5,0,0,0,0,11,1,3,2,0,0,0,0,0,0,0
+100216,20036,Crab Wontons (4 Pieces),1/2 serving,190,13,0,0,0,0,9,0,0,8,0,0,0,0,0,0,0
+100217,20036,Wonton Soup,cup,110,1.5,0,0,0,0,23,3,4,5,0,0,0,0,0,0,0
+100218,20036,Wonton Soup,bowl,260,4.5,0,0,0,0,49,6,8,12,0,0,0,0,0,0,0
+100219,20036,Hot & Sour Soup,cup,150,9,0,0,0,0,11,2,0,7,0,0,0,0,0,0,0
+100220,20036,Hot & Sour Soup,bowl,500,28,0,0,0,0,37,6,1,24,0,0,0,0,0,0,0
+100221,20037,Asian Chopped Chicken Salad,1/2 serving,280,15,0,0,0,0,13,2,4,24,0,0,0,0,0,0,0
+100222,20037,Asian Chopped Chicken Salad,1/2 serving,200,8,0,0,0,0,10,2,2,23,0,0,0,0,0,0,0
+100223,20037,Pei Wei Spicy Chicken Salad,1/2 serving,350,16,0,0,0,0,28,2,8,22,0,0,0,0,0,0,0
+100224,20037,Pei Wei Spicy Chicken Salad,1/2 serving,210,2.5,0,0,0,0,23,2,3,22,0,0,0,0,0,0,0
+100225,20037,Vietnamese Chicken Salad Rolls,1/3 serving,80,4,0,0,0,0,9,1,3,3,0,0,0,0,0,0,0
+100226,20038,Sweet Chile Sauce,1 serving - 2 oz,140,0,0,0,0,0,34,2,28,0,0,0,0,0,0,0,0
+100227,20038,Thai Peanut Sauce,1 serving - 2 oz,168,11,0,0,0,0,15,1,11,5,0,0,0,0,0,0,0
+100228,20038,Lettuce Wrap Sauce,1 serving - 2 oz,70,4.5,0,0,0,0,2,0,1,4,0,0,0,0,0,0,0
+100229,20038,Lime Vinaigrette,1 serving - 2 oz,230,20,0,0,0,0,13,0,11,0,0,0,0,0,0,0,0
+100230,20038,Sesame Ginger Dressing,1 serving - 2 oz,170,16,0,0,0,0,5,0,4,1,0,0,0,0,0,0,0
+100231,20038,Rice Sticks,1 cup - 2 oz,130,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+100232,20038,Fortune Cookie,1 serving - 2 oz,30,0,0,0,0,0,7,0,3,0,0,0,0,0,0,0,0
+100233,20039,Soba Miso Bowl - Chicken,1/2 serving,420,8,0,0,0,0,53,5,5,34,0,0,0,0,0,0,0
+100234,20039,Soba Miso Bowl - Pork,1/2 serving,450,13,0,0,0,0,53,5,5,31,0,0,0,0,0,0,0
+100235,20039,Soba Miso Bowl - Beef,1/2 serving,530,18,0,0,0,0,53,5,5,38,0,0,0,0,0,0,0
+100236,20039,Soba Miso Bowl - Vegetables & Tofu,1/2 serving,360,7,0,0,0,0,57,7,7,19,0,0,0,0,0,0,0
+100237,20039,Soba Miso Bowl - Shrimp,1/2 serving,360,6,0,0,0,0,51,5,5,26,0,0,0,0,0,0,0
+100238,20039,Soba Miso Bowl - Scallops,1/2 serving,350,5,0,0,0,0,52,5,5,24,0,0,0,0,0,0,0
+100239,20039,Dan Dan Noodles - Chicken,1/2 serving,390,7,0,0,0,0,54,3,9,26,0,0,0,0,0,0,0
+100240,20039,Pad Thai - Chicken,1/2 serving,560,20,0,0,0,0,61,2,19,35,0,0,0,0,0,0,0
+100241,20039,Pad Thai - Pork,1/2 serving,590,25,0,0,0,0,62,2,19,32,0,0,0,0,0,0,0
+100242,20039,Pad Thai - Beef,1/2 serving,670,30,0,0,0,0,63,2,19,40,0,0,0,0,0,0,0
+100243,20039,Pad Thai - Vegetables & Tofu,1/2 serving,470,17,0,0,0,0,66,4,21,18,0,0,0,0,0,0,0
+100244,20039,Pad Thai - Shrimp,1/2 serving,490,17,0,0,0,0,60,2,19,27,0,0,0,0,0,0,0
+100245,20039,Pad Thai - Scallops,1/2 serving,480,16,0,0,0,0,61,2,19,25,0,0,0,0,0,0,0
+100246,20039,Lo Mein Noodles - Chicken,1/2 serving,460,11,0,0,0,0,61,5,9,31,0,0,0,0,0,0,0
+100247,20039,Lo Mein Noodles - Pork,1/2 serving,490,16,0,0,0,0,62,5,9,28,0,0,0,0,0,0,0
+100248,20039,Lo Mein Noodles - Beef,1/2 serving,570,21,0,0,0,0,61,5,9,36,0,0,0,0,0,0,0
+100249,20039,Lo Mein Noodles - Vegetables & Tofu,1/2 serving,400,8,0,0,0,0,66,7,11,16,0,0,0,0,0,0,0
+100250,20039,Lo Mein Noodles - Shrimp,1/2 serving,400,8,0,0,0,0,60,5,9,23,0,0,0,0,0,0,0
+100251,20039,Lo Mein Noodles - Scallops,1/2 serving,390,8,0,0,0,0,61,5,9,21,0,0,0,0,0,0,0
+100252,20039,Japanese Udon Noodles - Chicken,1/2 serving,490,16,0,0,0,0,57,4,10,28,0,0,0,0,0,0,0
+100253,20039,Japanese Udon Noodles - Pork,1/2 serving,520,21,0,0,0,0,57,4,10,25,0,0,0,0,0,0,0
+100254,20039,Japanese Udon Noodles - Beef,1/2 serving,600,26,0,0,0,0,57,4,10,32,0,0,0,0,0,0,0
+100255,20039,Japanese Udon Noodles - Vegetables & Tofu,1/2 serving,440,16,0,0,0,0,63,6,13,11,0,0,0,0,0,0,0
+100256,20039,Japanese Udon Noodles - Shrimp,1/2 serving,460,16,0,0,0,0,57,4,10,20,0,0,0,0,0,0,0
+100257,20039,Japanese Udon Noodles - Scallops,1/2 serving,450,16,0,0,0,0,58,4,10,18,0,0,0,0,0,0,0
+100258,20039,Teriyaki Bowl - Chicken,1/2 serving,460,7,0,0,0,0,64,4,21,28,0,0,0,0,0,0,0
+100259,20039,Teriyaki Bowl - Pork,1/2 serving,490,13,0,0,0,0,64,4,21,25,0,0,0,0,0,0,0
+100260,20039,Teriyaki Bowl - Beef,1/2 serving,580,17,0,0,0,0,66,4,21,33,0,0,0,0,0,0,0
+100261,20039,Teriyaki Bowl - Vegetables & Tofu,1/2 serving,410,6,0,0,0,0,71,7,24,13,0,0,0,0,0,0,0
+100262,20039,Teriyaki Bowl - Shrimp,1/2 serving,410,5,0,0,0,0,64,4,21,20,0,0,0,0,0,0,0
+100263,20039,Teriyaki Bowl - Scallops,1/2 serving,400,5,0,0,0,0,65,4,21,18,0,0,0,0,0,0,0
+100264,20039,Teriyaki Bowl - Chicken,1/2 serving,440,6,0,0,0,0,60,3,21,28,0,0,0,0,0,0,0
+100265,20039,Teriyaki Bowl - Pork,1/2 serving,470,11,0,0,0,0,61,3,21,24,0,0,0,0,0,0,0
+100266,20039,Teriyaki Bowl - Beef,1/2 serving,560,16,0,0,0,0,62,3,21,32,0,0,0,0,0,0,0
+100267,20039,Teriyaki Bowl - Vegetables & Tofu,1/2 serving,390,5,0,0,0,0,68,5,24,13,0,0,0,0,0,0,0
+100268,20039,Teriyaki Bowl - Shrimp,1/2 serving,390,4.5,0,0,0,0,61,3,21,20,0,0,0,0,0,0,0
+100269,20039,Teriyaki Bowl - Scallops,1/2 serving,380,3.5,0,0,0,0,62,3,21,18,0,0,0,0,0,0,0
+100270,20039,Fried Rice - Chicken,1/2 serving,470,11,0,0,0,0,56,3,9,31,0,0,0,0,0,0,0
+100271,20039,Fried Rice - Pork,1/2 serving,500,16,0,0,0,0,57,3,9,28,0,0,0,0,0,0,0
+100272,20039,Fried Rice - Beef,1/2 serving,580,21,0,0,0,0,56,3,9,35,0,0,0,0,0,0,0
+100273,20039,Fried Rice - Vegetables & Tofu,1/2 serving,380,7,0,0,0,0,60,5,12,16,0,0,0,0,0,0,0
+100274,20039,Fried Rice - Shrimp,1/2 serving,420,10,0,0,0,0,55,3,9,23,0,0,0,0,0,0,0
+100275,20039,Fried Rice - Scallops,1/2 serving,410,9,0,0,0,0,56,3,9,21,0,0,0,0,0,0,0
+100276,20040,Brown Rice,1/2 serving,100,0.5,0,0,0,0,20,2,0,2,0,0,0,0,0,0,0
+100277,20040,White Rice,1/2 serving,110,0,0,0,0,0,24,0,0,2,0,0,0,0,0,0,0
+100278,20040,Egg Noodles,1/2 serving,210,2.5,0,0,0,0,39,2,0,7,0,0,0,0,0,0,0
+100279,20040,Rice Noodles,1/2 serving,130,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+100280,20041,Spicy Korean - Chicken,1/2 serving,350,11,0,0,0,0,26,3,12,35,0,0,0,0,0,0,0
+100281,20041,Spicy Korean - Pork,1/2 serving,390,18,0,0,0,0,27,3,12,31,0,0,0,0,0,0,0
+100282,20041,Spicy Korean - Beef,1/2 serving,490,24,0,0,0,0,26,3,12,41,0,0,0,0,0,0,0
+100283,20041,Spicy Korean - Vegetables & Tofu,1/2 serving,240,9,0,0,0,0,27,4,14,15,0,0,0,0,0,0,0
+100284,20041,Spicy Korean - Shrimp,1/2 serving,280,9,0,0,0,0,24,3,12,26,0,0,0,0,0,0,0
+100285,20041,Spicy Korean - Scallops,1/2 serving,270,8,0,0,0,0,25,3,12,23,0,0,0,0,0,0,0
+100286,20041,Mongolian - Chicken,1/2 serving,280,9,0,0,0,0,14,1,8,30,0,0,0,0,0,0,0
+100287,20041,Mongolian - Pork,1/2 serving,320,16,0,0,0,0,15,1,8,26,0,0,0,0,0,0,0
+100288,20041,Mongolian - Beef,1/2 serving,420,22,0,0,0,0,14,1,8,36,0,0,0,0,0,0,0
+100289,20041,Mongolian - Vegetables & Tofu,1/2 serving,180,6,0,0,0,0,19,3,11,10,0,0,0,0,0,0,0
+100290,20041,Mongolian - Shrimp,1/2 serving,210,6,0,0,0,0,12,1,8,21,0,0,0,0,0,0,0
+100291,20041,Mongolian - Scallops,1/2 serving,190,6,0,0,0,0,13,1,8,18,0,0,0,0,0,0,0
+100292,20041,Asian Coconut Curry - Chicken,1/2 serving,380,19,0,0,0,0,23,2,10,30,0,0,0,0,0,0,0
+100293,20041,Asian Coconut Curry - Pork,1/2 serving,420,26,0,0,0,0,24,2,10,25,0,0,0,0,0,0,0
+100294,20041,Asian Coconut Curry - Beef,1/2 serving,550,37,0,0,0,0,20,2,10,36,0,0,0,0,0,0,0
+100295,20041,Asian Coconut Curry - Vegetables & Tofu,1/2 serving,220,14,0,0,0,0,19,2,11,8,0,0,0,0,0,0,0
+100296,20041,Asian Coconut Curry - Shrimp,1/2 serving,300,17,0,0,0,0,18,2,10,21,0,0,0,0,0,0,0
+100297,20041,Asian Coconut Curry - Scallops,1/2 serving,290,16,0,0,0,0,19,2,10,18,0,0,0,0,0,0,0
+100298,20041,Blazing Noodles - Chicken,1/2 serving,420,22,0,0,0,0,22,4,11,30,0,0,0,0,0,0,0
+100299,20041,Blazing Noodles - Pork,1/2 serving,460,29,0,0,0,0,23,4,11,26,0,0,0,0,0,0,0
+100300,20041,Blazing Noodles - Beef,1/2 serving,570,36,0,0,0,0,23,4,11,36,0,0,0,0,0,0,0
+100301,20041,Blazing Noodles - Vegetables & Tofu,1/2 serving,300,17,0,0,0,0,27,6,14,10,0,0,0,0,0,0,0
+100302,20041,Blazing Noodles - Shrimp,1/2 serving,380,22,0,0,0,0,23,4,11,21,0,0,0,0,0,0,0
+100303,20041,Blazing Noodles - Scallops,1/2 serving,370,21,0,0,0,0,24,4,11,18,0,0,0,0,0,0,0
+100304,20041,Pei Wei Spicy - Chicken,1/2 serving,330,13,0,0,0,0,25,2,8,28,0,0,0,0,0,0,0
+100305,20041,Pei Wei Spicy - Pork,1/2 serving,380,20,0,0,0,0,26,2,8,23,0,0,0,0,0,0,0
+100306,20041,Pei Wei Spicy - Beef,1/2 serving,480,26,0,0,0,0,25,2,8,34,0,0,0,0,0,0,0
+100307,20041,Pei Wei Spicy - Vegetables & Tofu,1/2 serving,250,16,0,0,0,0,21,3,8,6,0,0,0,0,0,0,0
+100308,20041,Pei Wei Spicy - Shrimp,1/2 serving,300,11,0,0,0,0,29,2,8,19,0,0,0,0,0,0,0
+100309,20041,Pei Wei Spicy - Scallops,1/2 serving,270,10,0,0,0,0,27,2,8,16,0,0,0,0,0,0,0
+100310,20041,Ginger Broccoli - Chicken,1/2 serving,300,9,0,0,0,0,19,2,11,31,0,0,0,0,0,0,0
+100311,20041,Ginger Broccoli - Pork,1/2 serving,340,16,0,0,0,0,20,2,11,26,0,0,0,0,0,0,0
+100312,20041,Ginger Broccoli - Beef,1/2 serving,450,22,0,0,0,0,19,2,11,37,0,0,0,0,0,0,0
+100313,20041,Ginger Broccoli - Vegetables & Tofu,1/2 serving,170,3.5,0,0,0,0,23,4,14,10,0,0,0,0,0,0,0
+100314,20041,Ginger Broccoli - Shrimp,1/2 serving,230,7,0,0,0,0,18,2,11,22,0,0,0,0,0,0,0
+100315,20041,Ginger Broccoli - Scallops,1/2 serving,220,6,0,0,0,0,19,2,11,19,0,0,0,0,0,0,0
+100316,20041,Mandarin Kung Pao - Chicken,1/2 serving,450,21,0,0,0,0,28,3,10,34,0,0,0,0,0,0,0
+100317,20041,Mandarin Kung Pao - Pork,1/2 serving,500,29,0,0,0,0,28,3,10,30,0,0,0,0,0,0,0
+100318,20041,Mandarin Kung Pao - Beef,1/2 serving,610,34,0,0,0,0,31,3,10,40,0,0,0,0,0,0,0
+100319,20041,Mandarin Kung Pao - Vegetables & Tofu,1/2 serving,290,15,0,0,0,0,23,4,10,13,0,0,0,0,0,0,0
+100320,20041,Mandarin Kung Pao - Shrimp,1/2 serving,400,19,0,0,0,0,28,3,10,25,0,0,0,0,0,0,0
+100321,20041,Mandarin Kung Pao - Scallops,1/2 serving,400,19,0,0,0,0,32,3,10,22,0,0,0,0,0,0,0
+100322,20041,Orange Peel - Chicken,1/2 serving,520,18,0,0,0,0,52,3,33,36,0,0,0,0,0,0,0
+100323,20041,Orange Peel - Pork,1/2 serving,560,25,0,0,0,0,53,3,33,31,0,0,0,0,0,0,0
+100324,20041,Orange Peel - Beef,1/2 serving,660,31,0,0,0,0,52,3,33,42,0,0,0,0,0,0,0
+100325,20041,Orange Peel - Vegetables & Tofu,1/2 serving,330,10,0,0,0,0,46,4,33,14,0,0,0,0,0,0,0
+100326,20041,Orange Peel - Shrimp,1/2 serving,460,16,0,0,0,0,51,3,33,27,0,0,0,0,0,0,0
+100327,20041,Orange Peel - Scallops,1/2 serving,440,15,0,0,0,0,52,3,33,24,0,0,0,0,0,0,0
+100328,20041,Honey Seared - Chicken,1/2 serving,420,15,0,0,0,0,45,1,17,21,0,0,0,0,0,0,0
+100329,20041,Honey Seared - Pork,1/2 serving,460,21,0,0,0,0,46,1,17,18,0,0,0,0,0,0,0
+100330,20041,Honey Seared - Shrimp,1/2 serving,370,14,0,0,0,0,43,0,17,14,0,0,0,0,0,0,0
+100331,20041,Lemon Pepper - Chicken,1/2 serving,440,20,0,0,0,0,34,2,18,31,0,0,0,0,0,0,0
+100332,20041,Lemon Pepper - Pork,1/2 serving,480,28,0,0,0,0,35,2,18,26,0,0,0,0,0,0,0
+100333,20041,Lemon Pepper - Beef,1/2 serving,550,31,0,0,0,0,32,2,18,36,0,0,0,0,0,0,0
+100334,20041,Lemon Pepper - Vegetables & Tofu,1/2 serving,230,10,0,0,0,0,29,4,19,10,0,0,0,0,0,0,0
+100335,20041,Lemon Pepper - Shrimp,1/2 serving,380,18,0,0,0,0,34,2,18,22,0,0,0,0,0,0,0
+100336,20041,Lemon Pepper - Scallops,1/2 serving,360,17,0,0,0,0,35,2,18,16,0,0,0,0,0,0,0
+100337,20041,Sweet & Sour - Chicken,1/2 serving,440,13,0,0,0,0,61,2,30,21,0,0,0,0,0,0,0
+100338,20041,Sweet & Sour - Pork,1/2 serving,480,18,0,0,0,0,61,2,30,18,0,0,0,0,0,0,0
+100339,20041,Sweet & Sour - Shrimp,1/2 serving,390,11,0,0,0,0,59,2,30,14,0,0,0,0,0,0,0
+100340,20042,Kid's Wei Teriyaki Chicken,1/2 serving,240,5,0,0,0,0,20,0,18,23,0,0,0,0,0,0,0
+100341,20042,Kid's Wei Honey Seared Chicken,1/2 serving,290,17,0,0,0,0,19,0,8,16,0,0,0,0,0,0,0
+100342,20042,Kid's Wei Lo Mein Chicken,1/2 serving,180,7,0,0,0,0,7,0,3,20,0,0,0,0,0,0,0

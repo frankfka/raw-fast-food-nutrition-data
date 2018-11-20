@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+43607,3182,Fresh Chili,25,0.9,0.4,0,5.8,73,1.1,0,1,3.3,1,35,1,3,0,0,0
+43608,3182,Fresh Chili,173,6.3,2.6,0,40.3,514,8,0,7,22.7,7,246,1,19,0,0,0
+43609,3183,Cheese Coney with Onions,221,12,0,0,48.5,447,16.3,0,0,12.7,0,0,0,0,0,0,0
+43610,3183,Cheese Coney with Onions,257,14,0,0,56.3,519,18.9,0,0,14.7,0,0,0,0,0,0,0
+43611,3184,Chili Spaghetti,240,5.2,0,0,16.7,0.7,23.5,0,0,25.3,0,0,0,0,0,0,0
+43612,3184,3-Ways,447,23.1,0,0,28.9,1.1,35,0,0,39.2,0,0,0,0,0,0,0

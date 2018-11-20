@@ -1,0 +1,6 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+517,35,Baingan Bharta,315,16,2.5,0,0,610,44,21,19,7,0,0,0,0,0,0,0
+518,36,Fish Curry,645,23,5,0,145,"1,365",42,9,16,71,0,0,0,0,0,0,0
+519,37,Chicken Vindaloo,605,28,5,0,125,725,38,6,10,50,0,0,0,0,0,0,0
+520,37,Tandoori Chicken,270,15,4,0,85,395,4,1,3,27,0,0,0,0,0,0,0
+521,38,Basmati Rice Pilaf,220,0,0,0,0,0,48,1,0,5,0,0,0,0,0,0,0

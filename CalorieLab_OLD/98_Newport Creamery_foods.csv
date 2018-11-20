@@ -1,0 +1,5 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+8727,668,Non Fat Vanilla Yogurt,100,0,0,0,0,0,22,0,20,0,0,0,0,0,0,0,0
+8728,668,Vanilla Yogurt,120,3,0,0,10,0,10,0,19,0,0,0,0,0,0,0,0
+8729,668,Vanilla No Sugar Added,100,3,0,0,15,0,19,0,10,0,0,0,0,0,0,0,0
+8730,668,Chocolate No Sugar Added,110,3,0,0,10,0,22,0,5,0,0,0,0,0,0,0,0

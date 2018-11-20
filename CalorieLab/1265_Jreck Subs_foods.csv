@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+128036,22103,Ham & Cheese Sub On Wheat,1/2 sub sandwich - 140 g,230,4,1.4,0,15,920,35,5,6,10,14,4,3,9,0,0,0
+128037,22103,Ham & Cheese Sub On White,1/2 sub sandwich - 130 g,240,4,1.4,0,26,1100,36,3,6,16,14,4,3,6,0,0,0
+128038,22103,Roast Sub Beef On Wheat,1/2 sub sandwich - 174 g,240,3.5,1,0,25,630,35,5,6,18,14,4,3,15,0,0,0
+128039,22103,Roast Sub Beef On White,1/2 sub sandwich - 163 g,250,3.5,1,0,25,710,36,3,6,18,14,4,3,12,0,0,0
+128040,22103,Turkey Breast Sub On Wheat,1/2 sub sandwich - 174 g,220,3,0.5,0,25,850,35,5,5,16,14,4,2,11,0,0,0
+128041,22103,Turkey Breast Sub On White,1/2 sub sandwich - 163 g,230,3,0.5,0,25,930,35,3,5,16,14,4,3,8,0,0,0

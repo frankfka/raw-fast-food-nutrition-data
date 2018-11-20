@@ -1,0 +1,36 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+116456,21257,Beef Taco Soft Corn,1 taco - 161 g,250,10,4,0,30,440,28,4,1,13,0,0,0,0,0,0,0
+116457,21257,Beef Taco Soft Flour,1 taco - 146 g,250,11,4.5,0,30,520,24,3,1,13,0,0,0,0,0,0,0
+116458,21257,Beef Taco Crisp,1 taco - 138 g,210,11,4.5,0,30,400,16,3,1,12,0,0,0,0,0,0,0
+116459,21257,Chicken Taco Soft Corn,1 taco - 161 g,230,8,35,0,35,420,27,4,2,13,0,0,0,0,0,0,0
+116460,21257,Chicken Taco Soft Flour,1 taco - 146 g,230,9,3,0,35,500,23,2,2,14,0,0,0,0,0,0,0
+116461,21257,Chicken Taco Crisp,1 taco - 138 g,190,9,3,0,35,380,15,2,2,12,0,0,0,0,0,0,0
+116462,21257,Pork Taco Soft Corn,1 taco - 160 g,220,6,2.5,0,30,430,27,4,1,14,0,0,0,0,0,0,0
+116463,21257,Pork Taco Soft Flour,1 taco - 145 g,220,7,3,0,30,510,24,3,1,15,0,0,0,0,0,0,0
+116464,21257,Pork Taco Crisp,1 taco - 135 g,170,6,2.5,0,30,390,16,3,1,13,0,0,0,0,0,0,0
+116465,21258,Beef & Bean Burrito,1 burrito - 228 g,510,24,8,0,40,900,52,9,2,22,0,0,0,0,0,0,0
+116466,21258,Beef & Bean Burrito Suizo,1 burrito - 314 g,640,34,14,0,70,1170,55,10,4,30,0,0,0,0,0,0,0
+116467,21258,Chicken & Bean Burrito,1 burrito - 228 g,480,21,6,0,50,870,51,9,2,22,0,0,0,0,0,0,0
+116468,21258,Chicken & Bean Burrito Suizo,1 burrito - 314 g,610,31,13,0,80,1140,54,9,4,30,0,0,0,0,0,0,0
+116469,21258,Pork & Bean Burrito,1 burrito - 228 g,470,19,6,0,40,890,51,9,2,24,0,0,0,0,0,0,0
+116470,21258,Pork & Bean Burrito Suizo,1 burrito - 314 g,600,29,12,0,70,1150,54,10,4,32,0,0,0,0,0,0,0
+116471,21259,Beef & Bean Tostada,1 tostada - 186 g,380,23,8,0,40,680,26,5,2,15,0,0,0,0,0,0,0
+116472,21259,Beef & Bean Tostada Suiza,1 tostada - 184 g,440,29,11,0,55,750,26,4,3,19,0,0,0,0,0,0,0
+116473,21259,Chicken & Bean Tostada,1 tostada - 186 g,360,21,6,0,45,660,21,6,5,15,0,0,0,0,0,0,0
+116474,21259,Chicken & Bean Tostada Suiza,1 tostada - 184 g,410,26,10,0,60,740,25,4,2,19,0,0,0,0,0,0,0
+116475,21259,Pork & Bean Tostada,1 tostada - 186 g,350,20,6,0,35,670,26,5,2,16,0,0,0,0,0,0,0
+116476,21259,Pork & Bean Tostada Suiza,1 tostada - 184 g,410,25,9,0,55,740,26,4,2,20,0,0,0,0,0,0,0
+116477,21260,Beef Flauta - Plain,1 flauta - 57 g,160,9,1.5,0,20,170,10,2,0,8,0,0,0,0,0,0,0
+116478,21260,Beef Flauta with Cheese and Sauce,1 serving - 80 g,190,12,3,0,25,300,11,2,0,10,0,0,0,0,0,0,0
+116479,21260,Chicken Flauta - Plain,1 flauta - 57 g,190,10,0,0,0,120,16,2,0,8,0,0,0,0,0,0,0
+116480,21260,Chicken Flauta with Sauce & Cheese,1 flauta - 80 g,230,13,2,0,10,250,17,2,0,11,0,0,0,0,0,0,0
+116481,21261,Beef Taco Salad with Salsa,1 salad - 4 oz - 536 g,550,26,10,0,60,1570,52,8,9,27,0,0,0,0,0,0,0
+116482,21261,Beef Taco Salad with Salsa - no shell,1 salad - 4 oz - 475 g,330,19,9,0,60,1300,20,6,9,22,0,0,0,0,0,0,0
+116483,21261,Chicken Taco Salad with Salsa,1 salad - 4 oz - 536 g,520,23,8,0,70,1540,51,7,9,27,0,0,0,0,0,0,0
+116484,21261,Chicken Taco Salad with Salsa - no shell,1 salad - 4 oz - 475 g,300,16,7,0,70,1270,19,6,9,22,0,0,0,0,0,0,0
+116485,21261,Pork Taco Salad with Salsa,1 salad - 4 oz - 536 g,500,20,7,0,55,1560,52,8,9,29,0,0,0,0,0,0,0
+116486,21261,Pork Taco Salad with Salsa - no shell,1 salad - 4 oz - 475 g,290,13,7,0,55,1280,19,6,9,24,0,0,0,0,0,0,0
+116487,21262,Beef Enchilada Suiza,1 enchilada - 124 g,220,11,5,0,35,420,16,2,1,13,0,0,0,0,0,0,0
+116488,21262,Pork Enchilada Suiza,1 suiza - 124 g,190,8,4,0,35,410,15,2,1,14,0,0,0,0,0,0,0
+116489,21263,Refried Beans with Mexican Cheese,1 serving - 126 g,300,20,9,0,30,510,22,8,2,10,0,0,0,0,0,0,0
+116490,21263,Spanish Rice with Ranchera Sauce,1 serving - 112 g,140,6,0.5,0,0,410,21,1,1,2,0,0,0,0,0,0,0

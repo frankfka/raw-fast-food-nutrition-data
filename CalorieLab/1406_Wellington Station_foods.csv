@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+142925,23126,Broiled Salmon Steak,2.5 cups,715,21,3.5,0,180,295,56,9,6,74,0,0,0,0,0,0,0
+142926,23127,Southwestern Salad,3 cups,405,20,8.5,0,105,540,18,9,2,41,0,0,0,0,0,0,0
+142927,23128,Teriyaki Chicken,1 cup,650,12,4,0,135,2155,80,6,26,55,0,0,0,0,0,0,0
+142928,23129,"Eggplant, Zucchini & Sweet Red Pepper Stew",2.5 cups,400,15,2,0,0,245,50,8,14,6,0,0,0,0,0,0,0
+142929,23130,Garbanzo Stir-Fry,1 cup,175,8,1,0,0,330,20,6,3,7,0,0,0,0,0,0,0
+142930,23130,Vegetarian Shepherd's Pie,1 cup,375,8,1,0,0,300,65,12,6,14,0,0,0,0,0,0,0

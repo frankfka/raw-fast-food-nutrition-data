@@ -1,0 +1,20 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+136028,22774,Original Glazed,1 doughnut - 52 g,200,12,3,4,5,95,22,1,10,2,2,0,6,6,0,0,0
+136029,22774,Chocolate Iced Glazed,1 doughnut - 70 g,260,13,3.5,4,5,105,35,1,24,3,2,0,6,6,0,0,0
+136030,22774,Chocolate Iced Glazed,1 doughnut - 70 g,260,12,3,4,5,95,37,1,24,3,2,0,6,6,0,0,0
+136031,22774,Chocolate Iced Kreme Filled,1 doughnut - 90 g,360,22,5,6,5,150,40,1,24,3,2,0,8,8,0,0,0
+136032,22774,Chocolate Iced Custard Filled,1 doughnut - 90 g,310,17,4.5,6,5,150,37,1,20,3,2,0,8,8,0,0,0
+136033,22774,Glazed Kreme Filled,1 doughnut - 90 g,360,21,5,6,5,150,40,1,24,3,2,0,8,8,0,0,0
+136034,22774,Glazed Raspberry Filled,1 doughnut - 80 g,290,15,4,5,5,120,36,1,20,3,2,0,8,10,0,0,0
+136035,22774,Glazed Lemon Filled,1 doughnut - 80 g,270,15,4,5,5,130,33,1,17,3,2,0,8,6,0,0,0
+136036,22774,Glazed Chocolate Cake,1 doughnut - 80 g,300,15,3.5,5,5,310,41,2,26,3,0,0,0,10,0,0,0
+136037,22774,Cinnamon Apple Filled,1 doughnut - 80 g,280,16,4,5,5,150,32,1,14,3,2,0,8,8,0,0,0
+136038,22774,Caramel Kreme Crunch,1 doughnut - 90 g,350,19,4.5,5,5,135,43,1,25,3,2,0,8,8,0,0,0
+136039,22774,Glazed Cruller,1 doughnut - 50 g,220,13,3,4,15,220,24,0,13,2,0,0,2,8,0,0,0
+136040,22774,Maple Iced Glazed,1 doughnut - 70 g,250,12,3,4,5,105,34,1,21,3,2,0,6,6,0,0,0
+136041,22774,Cinnamon Bun,1 doughnut - 70 g,270,17,4,5,5,130,29,1,13,3,2,0,8,8,0,0,0
+136042,22774,New York Cheesecake,1 doughnut - 90 g,320,19,6,6,10,190,35,1,17,4,2,0,8,8,0,0,0
+136043,22774,Pumpkin Spice Cake,1 doughnut - 80 g,340,18,4.5,6,20,300,42,1,26,3,0,0,2,10,0,0,0
+136044,22774,Key Lime Pie,1 doughnut - 90 g,320,17,4.5,5,5,150,39,1,22,3,2,0,8,8,0,0,0
+136045,22774,Cookies And Kreme Doughnut,1 doughnut - 99 g,400,22,5,6,5,160,38,1,28,4,2,0,8,15,0,0,0
+136046,22774,Strawberry Shortcake,1 doughnut - 95 g,360,20,5,6,10,160,42,1,22,4,2,0,8,8,0,0,0

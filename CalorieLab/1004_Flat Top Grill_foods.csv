@@ -1,0 +1,25 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+100118,20015,Asian Sesame Ginger,1 ladle - 1 fl oz,28,2,0,0,0,232,3,0,0,1,0,0,0,0,0,0,0
+100119,20015,Black Bean Garlic,1 ladle - 1 fl oz,15,0,0,0,0,596,3,0,0,1,0,0,0,0,0,0,0
+100120,20015,Indian Coconut Curry,1 ladle - 1 fl oz,42,2.7,0,0,0,130,4.5,0,0,0.5,0,0,0,0,0,0,0
+100121,20015,Kung Pao Hoisin,1 ladle - 1 fl oz,46,1.6,0,0,0,649,7,0,0,1.6,0,0,0,0,0,0,0
+100122,20015,Pad Thai,1 ladle - 1 fl oz,40,0.5,0,0,0,420,9.2,0,0,0.6,0,0,0,0,0,0,0
+100123,20015,Really Wild Mushroom,1 ladle - 1 fl oz,26,1.8,0,0,0,0,2.6,0,0,0,0,0,0,0,0,0,0
+100124,20015,Flat Top Grill Sauce,1 ladle - 1 fl oz,19,0,0,0,0,488,4.4,0,0,0.6,0,0,0,0,0,0,0
+100125,20015,Garlic Water,1 ladle - 1 fl oz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100126,20015,Ginger Water,1 ladle - 1 fl oz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100127,20015,Red Hot Chili,1 ladle - 1 fl oz,41,1.3,0,0,0,686,7.8,0,0,0,0,0,0,0,0,0,0
+100128,20015,Honey Mustard,1 ladle - 1 fl oz,43,1.2,0,0,0,328,9.8,0,0,1,0,0,0,0,0,0,0
+100129,20015,Hot Mustard,1 ladle - 1 fl oz,37,2.6,0,0,0,0,2,0,0,1.9,0,0,0,0,0,0,0
+100130,20015,Horseradish Tofu,1 ladle - 1 fl oz,128,13.8,0,0,0,133,1.3,0,0,0.4,0,0,0,0,0,0,0
+100131,20015,Nonfat Spicy Lime Basil,1 ladle - 1 fl oz,21,0,0,0,0,226,5,0,0,0.3,0,0,0,0,0,0,0
+100132,20015,Peanut Sauce,1 ladle - 1 fl oz,53,4.2,0,0,0,0,2.9,0,0,2.3,0,0,0,0,0,0,0
+100133,20015,Soy Sesame,1 ladle - 1 fl oz,39,1.2,0,0,0,458,6.7,0,0,0.6,0,0,0,0,0,0,0
+100134,20015,Sweet & Sour,1 ladle - 1 fl oz,33,0.5,0,0,0,314,7.1,0,0,0,0,0,0,0,0,0,0
+100135,20015,Teriyaki Sauce,1 ladle - 1 fl oz,15,0,0,0,0,321,2,0,0,1,0,0,0,0,0,0,0
+100136,20015,Vietnamese Soy,1 ladle - 1 fl oz,20,0,0,0,0,810,4,0,0,1,0,0,0,0,0,0,0
+100137,20015,Vindahoo,1 ladle - 1 fl oz,71,4,0,0,0,321,6,0,0,0,0,0,0,0,0,0,0
+100138,20015,Rice Wine Vinegar,1 ladle - 1 fl oz,12,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0
+100139,20015,Sesame Oil,1 ladle - 1 fl oz,98,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100140,20015,Cucumber Vinaigrette,1 ladle - 1 fl oz,64,1.2,0,0,0,458,6.7,0,0,0,0,0,0,0,0,0,0
+100141,20015,Roti Prata Flatbread,1 ladle - 1 fl oz,0,8,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0

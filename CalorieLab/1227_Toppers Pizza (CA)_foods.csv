@@ -1,0 +1,4 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+123909,21722,Chicken Pizza,100 g,210,7,3,0,25,1370,25,2,3,11,0,10,30,35,0,0,0
+123910,21722,Pepperoni Pizza,80 g,200,7,3,0,15,920,27,2,2,10,0,8,20,20,0,0,0
+123911,21722,Veggie Pizza,100 g,240,11,5,0,20,1300,23,2,3,11,0,15,30,30,0,0,0

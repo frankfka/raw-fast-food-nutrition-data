@@ -1,0 +1,25 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+21970,1521,7.5 oz Cheese Pizza (Personal Microwavable),350,18,6,0,30,700,35,2,2,12,2,8,20,15,0,0,0
+21971,1521,18 oz Cheese Pizza (feeds 2-3),370,19,6,0,30,770,38,2,2,12,2,10,20,15,0,0,0
+21972,1521,26 oz Cheese Pizza (Family - feeds 3-4),400,21,7,0,35,800,39,2,3,14,2,10,25,15,0,0,0
+21973,1521,52 oz Cheese 2-pack,400,21,7,0,35,800,39,2,3,14,2,10,25,15,0,0,0
+21974,1521,7.5 oz Four Cheese Pizza (Personal Microwavable),350,18,6,0,30,700,35,2,2,12,6,8,20,15,0,0,0
+21975,1521,18 oz Four Cheese Pizza (feeds 2-3),370,19,6,0,30,770,38,2,2,12,2,10,20,15,0,0,0
+21976,1521,8 oz Sausage Pizza (Personal Microwavable),400,21,7,0,45,850,35,2,2,17,2,8,20,15,0,0,0
+21977,1521,20 oz Sausage Pizza (feeds 2-3),440,22,7,0,55,970,39,2,2,20,2,10,20,15,0,0,0
+21978,1521,30 oz Sausage Pizza (Family - feeds 3-4),370,19,6,0,45,820,33,2,2,17,2,8,15,15,0,0,0
+21979,1521,60 oz Sausage 2-pack,370,19,6,0,45,820,33,2,2,17,2,8,15,15,0,0,0
+21980,1521,7.5 oz Pepperoni Pizza (Personal Microwavable),370,19,7,0,30,780,35,2,2,12,2,8,20,15,0,0,0
+21981,1521,18 oz Pepperoni Pizza (feeds 2-3),400,21,7,0,30,870,39,2,3,13,2,10,20,15,0,0,0
+21982,1521,30 oz Pepperoni Pizza (Family - feeds 3-4),420,23,8,0,40,900,39,2,3,15,2,10,25,15,0,0,0
+21983,1521,9 oz Sausage Pepperoni Pizza (Personal Microwavable),420,21,7,0,40,990,35,2,3,21,2,8,25,15,0,0,0
+21984,1521,21 oz Sausage Pepperoni Pizza (feeds 2-3),370,18,6,0,40,900,31,1,2,19,2,6,20,15,0,0,0
+21985,1521,31 oz Sausage Pepperoni Pizza (Family - feeds 3-4),390,21,7,0,50,900,33,2,2,17,2,8,15,15,0,0,0
+21986,1521,62 oz Sausage Pepperoni 2-pack,390,21,7,0,50,900,33,2,2,17,2,8,15,15,0,0,0
+21987,1521,26 oz Cheese Plum Tomato Pizza (Family - feeds 3-4),400,21,7,0,35,740,39,2,3,14,10,10,25,15,0,0,0
+21988,1521,8 oz Grilled Vegetable Pizza (Personal Microwavable),330,15,4.5,0,15,720,36,2,3,13,20,10,20,15,0,0,0
+21989,1521,10 oz Sausage Pizza with Grilled Vegetables (Personal Microwavable),400,21,7,0,45,860,36,2,3,18,20,15,20,15,0,0,0
+21990,1521,32 oz Sausage Pizza with Grilled Vegetables (Family - feeds 3-4),360,18,6,0,40,800,34,2,2,16,10,10,15,15,0,0,0
+21991,1522,22 oz Cheese Deep Dish Pizza,420,21,6,0,30,900,46,2,3,13,4,10,20,15,0,0,0
+21992,1522,25 oz Sausage Deep Dish Pizza,390,20,6,0,45,810,37,2,2,17,10,8,15,15,0,0,0
+21993,1522,24 oz Pepperoni Deep Dish Pizza,360,18,6,0,25,800,37,2,3,113,2,8,15,15,0,0,0

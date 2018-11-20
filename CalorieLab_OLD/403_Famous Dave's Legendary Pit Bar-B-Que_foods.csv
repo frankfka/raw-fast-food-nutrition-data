@@ -1,0 +1,95 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+42418,3053,"Ultimate BBQ Burger,   lb.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42419,3053,"Dave's Favorite,   lb.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42420,3053,"Devil's Spit Burger,   lb.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42421,3053,"Char-Grilled Cheeseburger,   lb.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42422,3053,Char-Grilled Chicken Sandwich,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42423,3053,Hickory Chicken Sandwich,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42424,3053,Cajun Chicken Sandwich,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42425,3054,Smoked Salmon Caesar Salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42426,3054,Jumbo Grilled Chicken Caesar Salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42427,3054,Jumbo Caesar Salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42428,3054,Crispy Chicken Salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42429,3054,Dave's Sassy BBQ Salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42430,3054,Chicken Wild Rice Soup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42431,3054,Dave's Famous Chili,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42432,3054,Fresh Garden Salad or Caesar Salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42433,3054,Cup of Soup & Garden or Caesar Salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42434,3055,Georgia Chopped Pork Sandwich (Lunch Portion),510,15,4.5,0,80,"2,390",62,12,3,37,0,0,0,0,0,0,0
+42435,3056,Sweetwater Catfish Fingers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42436,3056,Sweet and Sassy Grilled Salmon Platter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42437,3057,Potato Salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42438,3057,Creamy Coleslaw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42439,3057,Wilbur Beans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42440,3057,Drunkin' Apples,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42441,3057,Famous Fries,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42442,3057,Firecracker Green Beans (w/bacon),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42443,3057,Garlic Red-Skin Mashed Potatoes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42444,3058,Dave's Sampler Platter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42445,3058,Sweetwater Catfish Fingers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42446,3058,Rib Tips with Fries,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42447,3058,Onion String Basket,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42448,3058,Chicken Tenders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42449,3058,Smoked Salmon Spread with Fire-grilled Flatbread,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42450,3058,BBQ Chicken Wings (choice of Hot or Mild),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42451,3058,Buffalo Chicken Wings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42452,3059,All-American BBQ Feast (serves 4-5),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42453,3059,Feast for Two (serves 2-3),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42454,3060,Two-Meat Combo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42455,3060,Texas Beef Brisket,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42456,3060,Georgia Chopped Pork,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42457,3060,Chicken Tenders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42458,3060,BBQ or Buffalo Chicken Wings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42459,3060,Barbeque Chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42460,3060,Country Roasted Chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42461,3060,Rib Tips,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42462,3060,Rib-N-Meat Combo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42463,3061,"XXL Ribs, ""The Big Slab"", 12-bone",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42464,3061,"LG Ribs, Half Slab, 6-bone",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42465,3061,"Regular Ribs, 1/3 Slab, 4-bone",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42466,3062,"Georgia Chopped Pork - The real ""thang""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42467,3062,Texas Manhandler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42468,3062,Texas Beef Brisket,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42469,3062,Barbeque Chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42470,3063,"Soup, Salad and Potato Specials",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42471,3063,"Soup, Salad and Potato Specials",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42472,3063,"Soup, Salad and Potato Specials",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42473,3063,BBQ Stuffed Potato,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42474,3063,Sandwich Specials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42475,3063,Sandwich Specials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42476,3063,Sandwich Specials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42477,3063,Platter Specials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42478,3063,Platter Specials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42479,3063,Platter Specials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42480,3063,Classic Combo Specials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42481,3063,Classic Combo Specials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42482,3063,Classic Combo Specials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42483,3064,Country Roasted or Barbeque Chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42484,3064,Rib Dinner,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42485,3064,Macaroni & Cheese,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42486,3064,Chicken Tenders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42487,3064,Georgia Chopped Pork Sandwich,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42488,3064,Kid's Burger or Cheeseburger,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42489,3064,Ice Cream Sundae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42490,3064,Root Beer Float,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42491,3065,BBQ Rib Tips,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42492,3065,Hot Link Sausage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42493,3065,Georgia Chopped Pork,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42494,3065,BBQ Pulled Chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42495,3065,Texas Beef Brisket,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42496,3065,BBQ Spareribs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42497,3065,Baby Back Ribs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42498,3065,BBQ or Buffalo Chicken Wings (Dozen),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42499,3065,Country-Roasted Chicken (whole),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42500,3065,Barbeque Chicken (whole),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42501,3065,Corn Bread Muffins (6 or 12),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42502,3065,Potato Salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42503,3065,Coleslaw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42504,3065,Drunkin' Apples,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42505,3065,Wilbur Beans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42506,3065,Firecracker Green Beans (w/bacon),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42507,3065,Garlic Red-Skin Mashed Potatoes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42508,3066,Our Famous Bread Pudding,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42509,3066,Hot Fudge Kahlua Brownie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42510,3066,Our Famous Sundae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42511,3066,Better Than Mom's Pecan Pie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

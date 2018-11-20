@@ -1,0 +1,9 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+141536,22998,Tropical Sno-Lite Flavors,4 oz,28,0,0,0,0,0,11,0,1,0,0,0,0,0,0,0,0
+141537,22998,Tropical Sno-Lite Flavors,8 oz,56,0,0,0,0,0,21,0,1,0,0,0,0,0,0,0,0
+141538,22998,Tropical Sno-Lite Flavors,12 oz,84,0,0,0,0,0,31,0,1,0,0,0,0,0,0,0,0
+141539,22998,Tropical Sno-Lite Flavors,16 oz,112,0,0,0,0,0,42,0,2,0,0,0,0,0,0,0,0
+141540,22999,Tropical Sno-Lite flavors + Creem Topping,4 oz,58,6,0,0,0,0,17,0,6,1,0,0,0,0,0,0,0
+141541,22999,Tropical Sno-Lite flavors + Creem Topping,8 oz,116,11,0,0,0,0,32,0,12,1,0,0,0,0,0,0,0
+141542,22999,Tropical Sno-Lite flavors + Creem Topping,12 oz,174,17,0,0,0,0,48,0,17,1,0,0,0,0,0,0,0
+141543,22999,Tropical Sno-Lite flavors + Creem Topping,16 oz,232,22,0,0,0,0,64,0,22,1,0,0,0,0,0,0,0

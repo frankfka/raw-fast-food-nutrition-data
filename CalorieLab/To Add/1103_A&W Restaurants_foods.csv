@@ -1,0 +1,112 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+109577,20751,Deluxe Bacon Double Cheeseburger,318 g,800,48,17,4,165,1600,47,2,10,45,10,40,30,25,0,0,0
+109578,20751,Deluxe Double Cheeseburger,303 g,720,42,15,4,150,1370,46,2,10,41,10,40,30,25,0,0,0
+109579,20751,Deluxe Bacon Cheeseburger,238 g,570,33,10,3.5,90,1200,41,2,10,27,10,25,20,15,0,0,0
+109580,20751,Deluxe Hamburger,212 g,460,26,7,3.5,65,840,37,2,9,21,10,6,15,15,0,0,0
+109581,20751,Deluxe Cheeseburger,227 g,510,28,8,3.5,80,1020,41,2,9,24,10,25,20,15,0,0,0
+109582,20751,Hamburger,159 g,430,22,7,3.5,55,730,37,3,8,26,4,4,10,25,0,0,0
+109583,20751,Cheeseburger,173 g,470,24,8,3.5,70,910,40,2,10,24,4,20,20,15,0,0,0
+109584,20751,Grilled Chicken Sandwich,263 g,430,15,3.5,1.5,90,1080,37,4,10,37,10,4,10,20,0,0,0
+109585,20751,Crispy Chicken Sandwich,269 g,580,25,5,3,65,1390,57,5,8,32,10,6,10,25,0,0,0
+109586,20751,Chicken Strips,3 pieces - 159 g,500,29,5,2,55,1050,32,2,2,28,0,0,6,15,0,0,0
+109587,20751,Extra Chicken Strip,1 piece - 53 g,170,10,1.5,0.5,20,350,11,1,1,9,0,0,2,4,0,0,0
+109588,20752,Ranch,28 g,160,17,2.5,0,15,240,2,0,1,0,0,0,0,0,0,0,0
+109589,20752,BBQ,28 g,40,0,0,0,0,230,10,0,6,0,0,0,0,2,0,0,0
+109590,20752,Honey Mustard,28 g,100,6,1.5,0,0,170,12,0,6,0,0,0,0,0,0,0,0
+109591,20752,Sweet & Sour,28 g,45,0,0,0,0,120,12,0,7,0,2,0,0,0,0,0,0
+109592,20753,Hot Dog (plain),90 g,280,17,6,1,35,710,22,1,4,11,0,2,4,8,0,0,0
+109593,20753,Coney (Chili) Dog,126 g,310,18,7,1,40,870,24,2,5,13,2,4,6,10,0,0,0
+109594,20753,Coney (Chili) / Cheese Dog,154 g,350,21,8,1,45,1070,27,2,5,13,2,4,8,10,0,0,0
+109595,20753,Cheese Dog,126 g,320,20,7,1,40,910,25,1,4,11,2,2,6,8,0,0,0
+109596,20754,Kids Fries,113 g,310,13,3.5,4,0,460,45,4,0,3,30,0,0,0,0,0,0
+109597,20754,Large Fries,156 g,430,18,4.5,5.5,0,640,61,6,1,5,45,0,0,0,0,0,0
+109598,20754,Chili Fries,170 g,370,16,4.5,4,10,780,49,5,2,8,30,8,2,4,0,0,0
+109599,20754,Cheese Fries,170 g,380,19,5,4,5,870,50,4,0,4,30,0,4,0,0,0,0
+109600,20754,Chili / Cheese Fries,198 g,400,19,5,4,10,990,51,5,2,8,30,8,4,4,0,0,0
+109601,20754,Onion Rings,113 g,350,17,3.5,6.5,5,720,45,2,3,5,2,0,2,2,0,0,0
+109602,20754,Cheese Curds,142 g,570,40,21,1,105,1220,27,2,3,27,0,35,80,10,0,0,0
+109603,20754,Chili Bowl,225 g,190,6,2,0,20,640,22,5,9,12,2,30,8,15,0,0,0
+109604,20755,A&W Regular Root Beer,small - 15 fl oz,220,0,0,0,0,40,57,0,29,0,0,0,0,0,0,0,0
+109605,20755,A&W Regular Root Beer,medium - 20 fl oz,290,0,0,0,0,50,76,0,76,0,0,0,0,0,0,0,0
+109606,20755,A&W Regular Root Beer,large - 32 fl oz,460,0,0,0,0,85,121,0,121,0,0,0,0,0,0,0,0
+109607,20755,A&W Diet Root Beer,small - 15 fl oz,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0
+109608,20755,A&W Diet Root Beer,medium - 20 fl oz,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0
+109609,20755,A&W Diet Root Beer,large - 32 fl oz,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0
+109610,20756,A&W Root Beer Float,small - 411 g,330,5,3,0,40,100,70,0,57,2,0,8,8,0,0,0,0
+109611,20756,A&W Root Beer Float,medium - 468 g,350,5,3,0,40,105,77,0,64,2,0,8,8,0,0,0,0
+109612,20756,A&W Root Beer Float,large - 794 g,640,10,6,0.5,75,200,136,0,110,4,0,15,15,0,0,0,0
+109613,20756,A&W Diet Root Beer Float,small - 411 g,170,5,3,0,40,100,30,0,17,2,0,8,8,0,0,0,0
+109614,20756,A&W Diet Root Beer Float,medium - 468 g,170,5,3,0,40,105,30,0,17,2,0,8,8,0,0,0,0
+109615,20756,A&W Diet Root Beer Float,large - 794 g,350,10,6,0.5,75,200,60,0,34,4,0,15,15,0,0,0,0
+109616,20757,Cola,small - 11 fl oz,145,0,0,0,0,23,37,0,37,0,0,0,0,0,0,0,0
+109617,20757,Cola,medium - 15 fl oz,195,0,0,0,0,28,51,0,51,0,0,0,0,0,0,0,0
+109618,20757,Cola,large - 22 fl oz,290,0,0,0,0,43,74,0,74,0,0,0,0,0,0,0,0
+109619,20757,Diet Cola,small - 11 fl oz,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0
+109620,20757,Diet Cola,medium - 15 fl oz,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0
+109621,20757,Diet Cola,large - 22 fl oz,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0
+109622,20757,Sprite,large - 624 g,290,0,0,0,0,60,72,0,72,0,0,0,0,0,0,0,0
+109623,20757,Sprite,medium - 425 g,200,0,0,0,0,40,49,0,49,0,0,0,0,0,0,0,0
+109624,20757,Sprite,small - 312 g,150,0,0,0,0,30,36,0,36,0,0,0,0,0,0,0,0
+109625,20758,Caramel Sundae,189 g,340,9,4,0,35,250,57,0,13,8,0,20,20,2,0,0,0
+109626,20758,Caramel Sundae (Extra Oreo's),246 g,620,21,7,0,35,550,98,2,35,10,0,20,20,20,0,0,0
+109627,20758,Caramel Sundae (Extra Plain M&Ms),246 g,620,21,12,0,40,290,98,1,50,11,0,20,25,6,0,0,0
+109628,20758,Caramel Sundae (Extra Reese's Peanut Butter Cups),246 g,650,27,10,0,40,370,88,2,42,14,0,20,25,6,0,0,0
+109629,20758,"Caramel Sundae (Extra Plain M&Ms, Extra Oreo's)",303 g,900,33,15,0,40,590,139,3,72,13,0,20,25,20,0,0,0
+109630,20758,"Caramel Sundae (Extra Oreo's, Extra Reese's Peanut Butter Cups)",303 g,930,39,13,0,40,670,129,4,64,16,0,20,25,20,0,0,0
+109631,20758,"Caramel Sundae (Extra Plain M&Ms, Extra Oreo's, Extra Reese's Peanut Butter Cups)",360 g,1210,51,21,0,45,710,170,5,101,19,0,20,30,25,0,0,0
+109632,20758,"Caramel Sundae (Extra Plain M&Ms, Extra Reese's Peanut Butter Cups)",303 g,930,39,18,0,45,410,129,3,79,17,0,20,30,8,0,0,0
+109633,20758,Chocolate Cone,kids - 108 g,180,4.5,3.5,0,15,85,30,1,18,4,0,10,10,6,0,0,0
+109634,20758,Chocolate Cone,regular - 157 g,250,7,5,0,25,125,41,1,27,6,0,15,15,10,0,0,0
+109635,20758,Chocolate Milkshake,large - 760 g,1120,46,29,0,200,320,160,3,96,18,0,50,45,15,0,0,0
+109636,20758,Chocolate Milkshake,medium - 475 g,700,29,18,0,125,200,100,2,60,11,0,30,30,8,0,0,0
+109637,20758,Chocolate Milkshake,small - 356 g,520,22,13,0,95,150,75,2,45,8,0,25,20,6,0,0,0
+109638,20758,Hot Fudge Sundae,189 g,350,11,6,0,30,140,54,1,15,8,0,15,20,2,0,0,0
+109639,20758,Hot Fudge Sundae (Extra Oreo's),246 g,630,23,9,0,30,440,95,3,37,10,0,15,20,20,0,0,0
+109640,20758,"Hot Fudge Sundae (Extra Plain M&Ms, Extra Oreo's)",303 g,910,35,17,0,35,480,136,4,74,13,0,15,25,20,0,0,0
+109641,20758,"Hot Fudge Sundae (Extra Plain M&Ms, Extra Oreo's, Extra Reese's Peanut Butter Cups)",360 g,1220,53,23,0,40,600,167,6,103,19,0,15,30,25,0,0,0
+109642,20758,"Hot Fudge Sundae (Extra Oreo's, Extra Reese's Peanut Butter Cups)",303 g,940,41,15,0,35,560,126,5,66,16,0,15,25,20,0,0,0
+109643,20758,"Hot Fudge Sundae (Extra Plain M&Ms, Extra Reese's Peanut Butter Cups)",303 g,940,41,20,0,40,300,126,4,81,17,0,15,30,8,0,0,0
+109644,20758,Hot Fudge Sundae (Extra Plain M&Ms),246 g,630,23,14,0,35,180,95,2,52,11,0,15,25,6,0,0,0
+109645,20758,Hot Fudge Sundae (Extra Reese's Peanut Butter Cups),246 g,660,29,12,0,35,260,85,3,44,14,0,15,25,6,0,0,0
+109646,20758,M&M Polar Swirl™ (Plain M&Ms),large - 510 g,1070,38,23,0,80,430,160,1,137,21,0,45,60,10,0,0,0
+109647,20758,M&M Polar Swirl™ (Extra Plain M&Ms),large - 567 g,1350,50,31,0,85,470,201,2,174,24,0,45,70,15,0,0,0
+109648,20758,M&M Polar Swirl™ (Plain M&Ms),medium - 397 g,800,28,17,0,60,340,120,1,103,17,0,35,50,8,0,0,0
+109649,20758,M&M Polar Swirl™ (Extra Plain M&Ms),medium - 454 g,1080,40,25,0,65,380,161,2,140,20,0,35,60,10,0,0,0
+109650,20758,M&M Polar Swirl™ (Plain M&Ms),small - 341 g,720,25,16,0,50,290,107,1,92,14,0,30,45,6,0,0,0
+109651,20758,M&M Polar Swirl™ (Extra Plain M&Ms),small - 398 g,1000,37,24,0,55,330,148,2,129,17,0,30,50,10,0,0,0
+109652,20758,Oreo Polar Swirl™ (Oreo's),large - 510 g,1070,38,15,0,70,830,160,3,115,20,0,45,60,30,0,0,0
+109653,20758,Oreo Polar Swirl™ (Extra Oreo's),large - 567 g,1350,50,18,0,70,1130,201,5,137,22,0,45,60,45,0,0,0
+109654,20758,Oreo Polar Swirl™ (Oreo's),medium - 397 g,800,28,12,0,55,610,120,2,88,16,0,35,45,20,0,0,0
+109655,20758,Oreo Polar Swirl™ (Extra Oreo's),medium - 454 g,1080,40,14,0,55,910,161,4,110,18,0,35,45,35,0,0,0
+109656,20758,Oreo Polar Swirl™ (Oreo's),small - 341 g,720,25,10,0,45,560,107,2,77,13,0,30,40,20,0,0,0
+109657,20758,Oreo Polar Swirl™ (Extra Oreo's),small - 398 g,1000,37,13,0,45,860,148,4,99,15,0,30,40,35,0,0,0
+109658,20758,Reese's Polar Swirl™ (Reese's Peanut Butter Cups),large - 510 g,1110,47,20,0,80,560,145,3,125,26,0,45,60,10,0,0,0
+109659,20758,Reese's Polar Swirl™ (Extra Reese's Peanut Butter Cups),large - 567 g,1420,65,26,0,85,680,176,5,154,32,0,45,70,15,0,0,0
+109660,20758,Reese's Polar Swirl™ (Reese's Peanut Butter Cups),medium - 397 g,830,34,15,0,60,430,110,2,95,20,0,35,50,8,0,0,0
+109661,20758,Reese's Polar Swirl™ (Extra Reese's Peanut Butter Cups),medium - 454 g,1140,52,21,0,65,550,141,4,124,26,0,35,50,10,0,0,0
+109662,20758,Reese's Polar Swirl™ (Reese's Peanut Butter Cups),small - 341 g,750,31,14,0,50,380,97,2,84,17,0,30,40,6,0,0,0
+109663,20758,Reese's Polar Swirl™ (Extra Reese's Peanut Butter Cups),small - 398 g,1060,49,20,0,55,500,128,4,113,23,0,30,45,10,0,0,0
+109664,20758,Strawberry Milkshake,large - 760 g,1070,46,29,0,185,290,144,0,83,18,0,45,60,10,0,0,0
+109665,20758,Strawberry Milkshake,medium - 475 g,670,29,18,0,115,180,90,0,52,11,0,25,40,6,0,0,0
+109666,20758,Strawberry Milkshake,small - 356 g,500,22,13,0,85,135,67,0,39,8,0,20,30,4,0,0,0
+109667,20758,Strawberry Sundae,189 g,300,8,4,0,30,140,47,0,12,7,0,15,20,2,0,0,0
+109668,20758,Strawberry Sundae (Extra Oreo's),246 g,580,20,7,0,30,440,88,2,34,9,0,15,20,20,0,0,0
+109669,20758,"Strawberry Sundae (Extra Plain M&Ms, Extra Oreo's)",303 g,860,32,15,0,35,480,129,3,71,12,0,15,25,20,0,0,0
+109670,20758,"Strawberry Sundae (Extra Plain M&Ms, Extra Oreo's, Extra Reese's Peanut Butter Cups)",360 g,1170,50,21,0,40,600,160,5,100,18,0,15,30,25,0,0,0
+109671,20758,"Strawberry Sundae (Extra Oreo's, Extra Reese's Peanut Butter Cups)",303 g,890,38,13,0,35,560,119,4,63,15,0,15,25,20,0,0,0
+109672,20758,"Strawberry Sundae (Extra Plain M&Ms, Extra Reese's Peanut Butter Cups)",303 g,890,38,18,0,40,300,119,3,78,16,0,15,30,8,0,0,0
+109673,20758,Strawberry Sundae (Extra Plain M&Ms),246 g,580,20,12,0,35,180,88,1,49,10,0,15,25,6,0,0,0
+109674,20758,Strawberry Sundae (Extra Reese's Peanut Butter Cups),246 g,610,26,10,0,35,260,78,2,41,13,0,15,25,6,0,0,0
+109675,20758,Vanilla Cone,kids - 108 g,180,4.5,2.5,0,15,100,30,0,20,5,0,10,15,2,0,0,0
+109676,20758,Vanilla Cone,regular - 157 g,260,7,4,0,25,150,41,0,29,7,0,15,20,2,0,0,0
+109677,20758,Vanilla Milkshake,large - 760 g,1150,50,30,0,215,340,155,0,91,19,0,40,70,15,0,0,0
+109678,20758,Vanilla Milkshake,medium - 475 g,720,31,19,0,135,210,97,0,57,12,0,25,45,8,0,0,0
+109679,20758,Vanilla Milkshake,small - 356 g,540,23,14,0,100,160,73,0,43,9,0,20,35,6,0,0,0
+109680,20758,Vanilla Sundae,189 g,310,8,4,0,30,140,52,0,18,7,0,15,20,2,0,0,0
+109681,20758,Vanilla Sundae (Extra Oreo's),246 g,590,20,7,0,30,440,93,2,40,9,0,15,20,20,0,0,0
+109682,20758,"Vanilla Sundae (Extra Plain M&Ms, Extra Oreo's)",303 g,870,32,15,0,35,480,134,3,77,12,0,15,25,20,0,0,0
+109683,20758,"Vanilla Sundae (Extra Plain M&Ms, Extra Oreo's, Extra Reese's Peanut Butter Cups)",360 g,1180,50,21,0,40,600,165,5,106,18,0,15,30,25,0,0,0
+109684,20758,Vanilla Sundae (Extra Plain M&Ms),246 g,590,20,12,0,35,180,93,1,55,10,0,15,25,6,0,0,0
+109685,20758,"Vanilla Sundae (Extra Plain M&Ms, Extra Reese's Peanut Butter Cups)",303 g,900,38,18,0,40,300,124,3,84,16,0,15,30,8,0,0,0
+109686,20758,Vanilla Sundae (Extra Reese's Peanut Butter Cups),246 g,620,26,10,0,35,260,83,2,47,13,0,15,25,6,0,0,0
+109687,20758,"Vanilla Sundae (Extra Oreo's, Extra Reese's Peanut Butter Cups)",303 g,900,38,13,0,35,560,124,4,69,15,0,15,25,20,0,0,0

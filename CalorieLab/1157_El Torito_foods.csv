@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+114882,21154,Grilled Chicken Quesadilla Lite,,585,22,0,0,480,1195,48,4,0,50,0,0,0,0,0,0,0
+114883,21154,Sonora Burrito Lite,,700,21,0,0,330,2330,63,8,0,64,0,0,0,0,0,0,0
+114884,21154,Spinach Enchiladas – Special Request,,470,25,0,0,45,1665,44,7,0,16,0,0,0,0,0,0,0
+114885,21154,Grilled Soft Chicken Tacos – Special Request,,675,24,0,0,155,1555,51,4,0,63,0,0,0,0,0,0,0
+114886,21154,Frijoles de la Olla,4 oz,155,1,0,0,0,400,29,8,0,9,0,0,0,0,0,0,0
+114887,21154,Mexican – Style Rice,4 oz,150,1,0,0,0,540,32,0,0,3,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+100469,20066,Chicken Bowl,460 g,730,15,3.5,0,130,1330,101,4,20,45,6,2,4,35,0,0,0
+100470,20066,Veggie Bowl,500 g,440,1,0,0,0,880,99,5,10,9,50,180,4,80,0,0,0
+100471,20066,Beef Bowl,472 g,620,7,2.5,0,65,2560,102,3,19,33,6,2,4,45,0,0,0
+100472,20066,Teriyaki Special,576 g,740,13,3,0,110,1340,111,8,23,42,60,180,6,90,0,0,0
+100473,20066,Hot & Spicy Chicken,473 g,730,15,3.5,0,130,2060,101,3,17,44,10,15,4,40,0,0,0
+100474,20066,Chicken Curry Bowl,528 g,660,17,6,0,85,1390,92,3,13,31,15,100,4,35,0,0,0
+100475,20066,Yakisoba,548 g,360,4.5,1,0,80,1730,56,7,17,25,80,220,10,70,0,0,0
+100476,20067,Teriyaki Chicken Salad,290 g,360,13,3,0,110,1320,26,5,20,35,15,10,4,15,0,0,0

@@ -1,0 +1,163 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+115497,21204,Bean,112 g,190,12,3.5,0,15,410,16,3,0,6,2,4,15,4,0,0,0
+115498,21204,Ground Beef,106 g,220,14,5,0,45,480,15,2,1,10,2,10,15,4,0,0,0
+115499,21204,Chicken,106 g,200,11,3.5,0,40,160,12,2,0,12,4,4,15,6,0,0,0
+115500,21204,Shredded Beef,106 g,190,11,3.5,0,15,350,13,2,0,13,2,8,15,8,0,0,0
+115501,21204,Steak,134 g,190,10,3,0,10,440,15,2,1,14,8,6,15,8,0,0,0
+115502,21204,Jimboy's Fish Taco,129 g,233,15,0,0,0,164,16,0,0,10,0,0,0,0,0,0,0
+115503,21204,Carnitas (Pork) Taco,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115504,21205,Ground Beef,208 g,460,25,10,0,90,1130,35,2,1,23,6,20,25,10,0,0,0
+115505,21205,Chicken,208 g,400,20,7,0,85,470,29,2,1,26,8,8,25,15,0,0,0
+115506,21205,Shredded Beef,208 g,400,19,8,0,25,860,30,3,1,27,4,15,25,20,0,0,0
+115507,21205,Steak,222 g,400,18,7,0,25,890,33,3,2,29,6,6,30,20,0,0,0
+115508,21206,Bean,255 g,530,28,8,0,25,1330,55,6,0,16,2,6,30,20,0,0,0
+115509,21206,Ground Beef,213 g,610,32,12,0,120,1460,50,2,29,29,4,20,30,15,0,0,0
+115510,21206,Chicken,213 g,590,29,9,0,90,1630,45,3,0,37,2,15,30,25,0,0,0
+115511,21206,Shredded Beef,213 g,540,24,9,0,25,1160,45,3,0,36,2,15,30,30,0,0,0
+115512,21207,Ground Beef,284 g,620,33,11,0,75,1610,57,5,0,25,4,15,30,20,0,0,0
+115513,21207,Chicken,284 g,580,28,8,0,70,1010,52,5,0,28,4,6,35,25,0,0,0
+115514,21207,Shredded Beef,284 g,580,28,9,0,25,1330,53,6,0,29,2,15,35,30,0,0,0
+115515,21208,Ground Beef,392 g,670,35,14,0,85,1790,63,8,2,27,15,25,35,25,0,0,0
+115516,21208,Chicken,406 g,630,31,11,0,80,1290,58,8,1,29,20,15,40,30,0,0,0
+115517,21208,Shredded Beef,392 g,610,29,11,0,35,1480,58,8,1,31,15,20,35,35,0,0,0
+115518,21208,Steak,401 g,600,28,10,0,35,1500,59,8,2,32,15,15,40,35,0,0,0
+115519,21209,Cheese,109 g,400,25,12,0,50,520,27,2,0,18,0,10,40,10,0,0,0
+115520,21209,Ground Beef,144 g,480,29,13,0,80,760,31,2,0,23,2,20,45,10,0,0,0
+115521,21209,Chicken,144 g,450,26,12,0,75,560,28,2,0,24,2,10,45,15,0,0,0
+115522,21209,Shredded Beef,144 g,450,26,12,0,50,750,28,2,0,25,0,20,45,15,0,0,0
+115523,21210,Cheese (Includes Rice),168 g,350,20,11,0,50,980,28,2,0,16,2,30,40,10,0,0,0
+115524,21210,Ground Beef (Includes Rice),253 g,470,23,12,0,80,1600,45,2,1,21,6,35,35,15,0,0,0
+115525,21210,Chicken (Includes Rice),253 g,460,21,11,0,65,900,42,2,1,25,4,30,45,15,0,0,0
+115526,21210,Shredded Beef (Includes Rice),168 g,300,17,10,0,45,730,16,2,0,22,4,35,40,10,0,0,0
+115527,21211,Bean,241 g,290,20,4,0,15,690,23,5,2,8,15,8,15,10,0,0,0
+115528,21211,Ground Beef,276 g,360,24,6,0,45,930,26,5,2,14,15,15,20,10,0,0,0
+115529,21211,Chicken,276 g,330,21,4.5,0,40,720,23,5,2,15,15,8,15,10,0,0,0
+115530,21211,Shredded Beef,276 g,330,21,4.5,0,15,910,23,5,2,16,15,10,15,15,0,0,0
+115531,21212,Bean,513 g,530,29,10,0,35,1480,50,10,4,18,30,20,30,25,0,0,0
+115532,21212,Ground Beef,584 g,660,37,14,0,100,1960,56,10,5,30,30,35,30,25,0,0,0
+115533,21212,Chicken,584 g,610,31,11,0,95,1290,50,10,4,33,35,20,35,30,0,0,0
+115534,21212,Shredded Beef,584 g,610,31,11,0,35,1680,51,10,4,35,30,30,35,35,0,0,0
+115535,21213,Ground Beef,393 g,780,40,12,0,35,2540,78,12,1,29,15,60,25,25,0,0,0
+115536,21213,Chicken,420 g,830,45,11,0,70,1890,86,9,1,26,15,15,30,20,0,0,0
+115537,21213,Shredded Beef,420 g,830,44,12,0,20,2250,87,9,1,27,10,15,30,25,0,0,0
+115538,21214,Ground Beef,3 pieces - 90 g,230,17,2.5,0,20,170,16,3,0,5,4,4,6,4,0,0,0
+115539,21215,Ground Beef (Patty),183 g,370,27,9,0,60,550,17,2,1,15,10,10,15,10,0,0,0
+115540,21216,Bean Taco,112 g,190,12,3.5,0,15,410,16,3,0,6,2,4,15,4,0,0,0
+115541,21216,Bean Burrito,255 g,530,28,8,0,25,1330,55,6,0,16,2,6,30,20,0,0,0
+115542,21216,Bean Tostada,241 g,290,20,4,0,15,690,23,5,2,8,15,8,15,10,0,0,0
+115543,21216,Veggie Burrito,354 g,500,17,4.5,0,15,1300,72,7,2,15,15,8,20,25,0,0,0
+115544,21216,Cheese Enchilada & Rice,168 g,350,20,11,0,50,980,28,2,0,16,2,30,40,10,0,0,0
+115545,21216,Chile Relleno & Rice,304 g,530,32,10,0,285,1310,40,2,1,20,35,50,30,20,0,0,0
+115546,21216,Cheese Quesadilla,109 g,400,25,12,0,50,520,27,2,0,18,0,10,40,10,0,0,0
+115547,21216,Side Spanish Rice,164 g,260,5,0,0,0,780,48,1,1,5,2,2,2,15,0,0,0
+115548,21216,Side Pinto Beans,213 g,180,11,2,0,5,880,16,5,0,6,2,2,6,8,0,0,0
+115549,21216,Reg.Nachos (Chips & Cheese),162 g,360,19,4.5,0,5,810,43,4,0,6,0,4,15,6,0,0,0
+115550,21217,Ground Beef Taco & Chips,170 g,510,29,8,0,45,780,51,5,1,14,2,10,25,8,0,0,0
+115551,21217,Cheese Quesadilla & Chips,166 g,690,40,14,0,50,820,63,5,0,21,0,15,50,15,0,0,0
+115552,21217,Kid-Size Bean Burrito & Chips,179 g,480,25,5,0,10,880,54,6,0,11,0,4,15,15,0,0,0
+115553,21218,"8"" Flour Tortilla",52 g,170,3.5,1,0,0,240,28,2,0,4,0,0,2,10,0,0,0
+115554,21218,"6"" Corn Tortilla",27 g,60,0.5,0,0,0,40,12,1,0,1,0,0,4,2,0,0,0
+115555,21218,Corn Chips,69 g,280,15,3,0,0,300,36,4,0,4,0,2,8,4,0,0,0
+115556,21218,Side Guacamole,2 oz - 55 g,90,8,1.5,0,0,40,4,2,0,1,6,2,0,2,0,0,0
+115557,21218,Side Sour Cream,2 oz - 55 g,110,11,7,0,25,30,2,0,0,2,0,8,6,0,0,0,0
+115558,21218,Side Cheese Sauce,2 oz - 59 g,70,4,1.5,0,5,510,7,0,0,2,0,2,4,0,0,0,0
+115559,21218,Side Salsa Cruda,2 oz - 50 g,10,0,0,0,0,200,2,1,1,0,15,6,0,2,0,0,0
+115560,21218,French Fries,250 g,700,34,6,0,0,460,89,8,0,10,45,0,4,10,0,0,0
+115561,21219,Guacamole,34 g,35,3,0,0,0,25,2,1,1,0,6,2,0,2,0,0,0
+115562,21219,Sour Cream,42 g,50,5,2.5,0,10,85,2,0,0,1,4,6,4,2,0,0,0
+115563,21219,Guacamole & Sour Cream,61 g,90,8,3,0,10,100,4,1,1,1,8,6,4,2,0,0,0
+115564,21220,ChocoTaco,113 g,390,21,11,0,15,160,47,1,32,5,0,0,8,6,0,0,0
+115565,21220,Cinnamon Churro,92 g,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115566,21220,Creme-Filled Churro,89 g,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115567,21221,Combination Plate BASE,354 g,470,15,3,0,5,1470,71,7,2,12,15,6,10,25,0,0,0
+115568,21221,Cheese Enchilada,168 g,390,27,17,0,80,1070,16,2,0,22,4,40,60,6,0,0,0
+115569,21221,Ground Beef Enchilada,168 g,330,20,12,0,80,1190,19,2,0,19,4,35,35,6,0,0,0
+115570,21221,Chicken Enchilada,168 g,320,18,10,0,65,590,16,2,0,22,4,30,45,8,0,0,0
+115571,21221,Shredded Beef Enchilada,168 g,300,17,10,0,45,730,16,2,0,22,4,35,40,10,0,0,0
+115572,21221,Bean Taco,112 g,190,12,3.5,0,15,410,16,3,0,6,2,4,15,4,0,0,0
+115573,21221,Ground Beef Taco,106 g,220,14,5,0,45,480,15,2,1,10,2,10,15,4,0,0,0
+115574,21221,Chicken Taco,106 g,200,11,3.5,0,40,160,12,2,0,12,4,4,15,6,0,0,0
+115575,21221,Shredded Beef Taco,106 g,190,11,3.5,0,15,350,13,2,0,13,2,8,15,8,0,0,0
+115576,21221,Bean Burrito,255 g,530,28,8,0,25,1330,55,6,0,16,2,6,30,20,0,0,0
+115577,21221,Ground Beef Combo Burrito,284 g,620,33,11,0,75,1610,57,5,0,25,4,15,30,20,0,0,0
+115578,21221,Chicken Combo Burrito,284 g,580,28,8,0,70,1010,52,5,0,28,4,6,35,25,0,0,0
+115579,21221,Shredded Beef Combo Burrito,284 g,580,28,9,0,25,1330,53,6,0,29,2,15,35,30,0,0,0
+115580,21221,Chile Relleno,128 g,300,24,8,0,235,670,8,2,0,14,30,40,25,10,0,0,0
+115581,21221,Combination Plate #4 (Carne Asada),754 g,1300,46,13,0,25,2910,165,22,4,64,30,15,30,80,0,0,0
+115582,21221,Combination Plate # 1 (Cheese Enchilada),522 g,860,42,20,0,85,2540,87,9,2,34,19,46,70,31,0,0,0
+115583,21221,Combination Plate # 1 (Ground Beef Enchilada),522 g,800,35,15,0,85,2660,90,9,2,31,19,41,45,31,0,0,0
+115584,21221,Combination Plate # 1 (Chicken Enchilada),522 g,790,33,13,0,70,2060,87,9,2,34,19,36,55,33,0,0,0
+115585,21221,Combination Plate # 1 (Shredded Beef Enchilada),522 g,770,32,13,0,50,2200,87,9,2,34,19,41,50,35,0,0,0
+115586,21221,Combination Plate # 2 (Bean Burrito),609 g,1000,43,11,0,30,2800,126,13,2,28,17,12,40,45,0,0,0
+115587,21221,Combination Plate # 2 (Ground Beef Combo Burrito),638 g,1090,48,14,0,80,3080,128,12,2,37,19,21,40,45,0,0,0
+115588,21221,Combination Plate # 2 (Chicken Combo Burrito),638 g,1050,43,11,0,75,2480,123,12,2,40,19,12,45,50,0,0,0
+115589,21221,Combination Plate # 2 (Shredded Beef Combo Burrito),638 g,1050,43,12,0,30,2800,124,13,2,41,17,21,45,55,0,0,0
+115590,21221,Combination Plate # 3 (Chile Relleno),482 g,770,39,11,0,240,2140,79,9,2,26,45,46,35,35,0,0,0
+115591,21221,Combination Plate #5 (Cheese Enchilada and Bean Burrito),777 g,1390,70,28,0,110,3870,142,15,2,50,21,52,100,51,0,0,0
+115592,21221,Combination Plate #5 (Cheese Enchilada and Ground Beef Combo Burrito),806 g,1480,75,31,0,160,4150,144,14,2,59,23,61,100,51,0,0,0
+115593,21221,Combination Plate #5 (Cheese Enchilada and Chicken Combo Burrito),806 g,1440,70,28,0,155,3550,139,14,2,62,23,52,105,56,0,0,0
+115594,21221,Combination Plate #5 (Cheese Enchilada and Shredded Beef Combo Burrito),806 g,1440,70,29,0,110,3870,140,15,2,63,21,61,105,61,0,0,0
+115595,21221,Combination Plate #5 (Ground Beef Enchilada and Bean Burrito),777 g,1330,63,23,0,110,3990,145,15,2,47,21,47,75,51,0,0,0
+115596,21221,Combination Plate #5 (Ground Beef Enchilada and Ground Beef Combo Burrito),806 g,1420,68,26,0,160,4270,147,14,2,56,23,56,75,51,0,0,0
+115597,21221,Combination Plate #5 (Ground Beef Enchilada and Chicken Combo Burrito),806 g,1380,63,23,0,155,3670,142,14,2,59,23,47,80,56,0,0,0
+115598,21221,Combination Plate #5 (Ground Beef Enchilada and Shredded Beef Combo Burrito),806 g,1380,63,24,0,110,3990,143,15,2,60,21,56,80,61,0,0,0
+115599,21221,Combination Plate #5 (Chicken Enchilada and Bean Burrito),777 g,1320,61,21,0,95,3390,142,15,2,50,21,42,85,53,0,0,0
+115600,21221,Combination Plate #5 (Chicken Enchilada and Ground Beef Combo Burrito),806 g,1410,66,24,0,145,3670,144,14,2,59,23,51,85,53,0,0,0
+115601,21221,Combination Plate #5 (Chicken Enchilada and Chicken Combo Burrito),806 g,1370,61,21,0,140,3070,139,14,2,62,23,42,90,58,0,0,0
+115602,21221,Combination Plate #5 (Chicken Enchilada and Shredded Beef Combo Burrito),806 g,1370,61,22,0,95,3390,140,15,2,63,21,51,90,63,0,0,0
+115603,21221,Combination Plate #5 (Shredded Beef Enchilada and Bean Burrito),777 g,1300,60,21,0,75,3530,142,15,2,50,21,47,80,55,0,0,0
+115604,21221,Combination Plate #5 (Shredded Beef Enchilada and Ground Beef Combo Burrito),806 g,1390,65,24,0,125,3810,144,14,2,59,23,56,80,55,0,0,0
+115605,21221,Combination Plate #5 (Shredded Beef Enchilada and Chicken Combo Burrito),806 g,1350,60,21,0,120,3210,139,14,2,62,23,47,85,60,0,0,0
+115606,21221,Combination Plate #5 (Shredded Beef Enchilada and Shredded Beef Combo Burrito),806 g,1350,60,22,0,75,3530,140,15,2,63,21,56,85,65,0,0,0
+115607,21221,Combination Plate #6 (Cheese Enchilada and Bean Taco),634 g,1050,54,23.5,0,100,2950,103,12,2,40,21,50,85,35,0,0,0
+115608,21221,Combination Plate #6 (Cheese Enchilada and Ground Beef Taco),628 g,1080,56,25,0,130,3020,102,11,3,44,21,56,85,35,0,0,0
+115609,21221,Combination Plate #6 (Cheese Enchilada and Chicken Taco),628 g,1060,53,23.5,0,125,2700,99,11,2,46,23,50,85,37,0,0,0
+115610,21221,Combination Plate #6 (Cheese Enchilada and Shredded Beef Taco),628 g,1050,53,23.5,0,100,2890,100,11,2,47,21,54,85,39,0,0,0
+115611,21221,Combination Plate #6 (Ground Beef Enchilada and Bean Taco),634 g,990,47,18.5,0,100,3070,106,12,2,37,21,45,60,35,0,0,0
+115612,21221,Combination Plate #6 (Ground Beef Enchilada and Ground Beef Taco),628 g,1020,49,20,0,130,3140,105,11,3,41,21,51,60,35,0,0,0
+115613,21221,Combination Plate #6 (Ground Beef Enchilada and Chicken Taco),628 g,1000,46,18.5,0,125,2820,102,11,2,43,23,45,60,37,0,0,0
+115614,21221,Combination Plate #6 (Ground Beef Enchilada and Shredded Beef Taco),628 g,990,46,18.5,0,100,3010,103,11,2,44,21,49,60,39,0,0,0
+115615,21221,Combination Plate #6 (Chicken Enchilada and Bean Taco),634 g,980,45,16.5,0,85,2470,103,12,2,40,21,40,70,37,0,0,0
+115616,21221,Combination Plate #6 (Chicken Enchilada and Ground Beef Taco),628 g,1010,47,18,0,115,2540,102,11,3,44,21,46,70,37,0,0,0
+115617,21221,Combination Plate #6 (Chicken Enchilada and Chicken Taco),628 g,990,44,16.5,0,110,2220,99,11,2,46,23,40,70,39,0,0,0
+115618,21221,Combination Plate #6 (Chicken Enchilada and Shredded Beef Taco),628 g,980,44,16.5,0,85,2410,100,11,2,47,21,44,70,41,0,0,0
+115619,21221,Combination Plate #6 (Shredded Beef Enchilada and Bean Taco),634 g,960,44,16.5,0,65,2610,103,12,2,40,21,45,65,39,0,0,0
+115620,21221,Combination Plate #6 (Shredded Beef Enchilada and Ground Beef Taco),628 g,990,46,18,0,95,2680,102,11,3,44,21,51,65,39,0,0,0
+115621,21221,Combination Plate #6 (Shredded Beef Enchilada and Chicken Taco),628 g,970,43,16.5,0,90,2360,99,11,2,46,23,45,65,41,0,0,0
+115622,21221,Combination Plate #6 (Shredded Beef Enchilada and Shredded Beef Taco),628 g,960,43,16.5,0,65,2550,100,11,2,47,21,49,65,43,0,0,0
+115623,21221,Combination Plate #7 Two Bean Taco,578 g,850,39,10,0,35,2290,103,13,2,24,19,14,40,33,0,0,0
+115624,21221,Combination Plate #7 Two Ground Beef Taco,566 g,910,43,13,0,95,2430,101,11,4,32,19,26,40,33,0,0,0
+115625,21221,Combination Plate #7 Two Chicken Taco,566 g,870,37,10,0,85,1790,95,11,2,36,23,14,40,37,0,0,0
+115626,21221,Combination Plate #7 Two Shredded Beef Taco,566 g,850,37,10,0,35,2170,97,11,2,38,19,22,40,41,0,0,0
+115627,21221,Combination Plate #7 (Two Bean Taco and Two Ground Beef Taco),790 g,1290,67,20,0,125,3250,133,17,4,44,23,34,70,41,0,0,0
+115628,21221,Combination Plate #7 (Two Bean Taco and Two Chicken Taco),790 g,1250,61,17,0,115,2610,127,17,2,48,27,22,70,45,0,0,0
+115629,21221,Combination Plate #7 (Two Bean Taco and Two Shredded Beef Taco),790 g,1230,61,17,0,65,2990,129,17,2,50,23,30,70,49,0,0,0
+115630,21221,Combination Plate #7 (Two Ground Beef Taco and Two Chicken Taco),778 g,1310,65,20,0,175,2750,125,15,4,56,27,34,70,45,0,0,0
+115631,21221,Combination Plate #7 (Two Ground Beef Taco and Two Shredded Beef Taco),778 g,1290,65,20,0,125,3130,127,15,4,58,23,42,70,49,0,0,0
+115632,21221,Combination Plate #7 (Two Chicken Taco and Two Shredded Beef Taco),778 g,1250,59,17,0,115,2490,121,15,2,62,27,30,70,53,0,0,0
+115633,21221,Combination Plate #8 Two Cheese Enchilada,690 g,1250,69,37,0,165,3610,103,11,2,56,23,86,130,37,0,0,0
+115634,21221,Combination Plate #8 Two Ground Beef Enchilada,690 g,1130,55,27,0,165,3850,109,11,2,50,23,76,80,37,0,0,0
+115635,21221,Combination Plate #8 Two Chicken Enchilada,690 g,1110,51,23,0,135,2650,103,11,2,56,23,66,100,41,0,0,0
+115636,21221,Combination Plate #8 Two Shredded Beef Enchilada,690 g,1070,49,23,0,95,2930,103,11,2,56,23,76,90,45,0,0,0
+115637,21221,Combination Plate #8 (Two Cheese Enchilada and Two Ground Beef Enchilada),"1,026 g",1910,109,61,0,325,5990,141,15,2,94,31,156,200,49,0,0,0
+115638,21221,Combination Plate #8 (Two Cheese Enchilada and Two Chicken Enchilada),690 g,1110,51,23,0,135,2650,103,11,2,56,23,66,100,41,0,0,0
+115639,21221,Combination Plate #8 (Two Cheese Enchilada and Two Shredded Beef Enchilada),690 g,1070,49,23,0,95,2930,103,11,2,56,23,76,90,45,0,0,0
+115640,21221,Combination Plate #8 (Two Ground Beef Enchilada and Two Chicken Enchilada),"1,026 g",1770,91,47,0,295,5030,141,15,2,94,31,136,170,53,0,0,0
+115641,21221,Combination Plate #8 (Two Ground Beef Enchilada and Two Shredded Beef Enchilada),"1,026 g",1730,89,47,0,255,5310,141,15,2,94,31,146,160,57,0,0,0
+115642,21221,Combination Plate #8 (Two Chicken Enchilada and Two Shredded Beef Enchilada),"1,026 g",1710,85,43,0,225,4110,135,15,2,100,31,136,180,61,0,0,0
+115643,21221,Combination Plate #9 (Bean Taco and Bean Burrito),721 g,1190,55,14.5,0,45,3210,142,16,2,34,19,16,55,49,0,0,0
+115644,21221,Combination Plate #9 (Bean Taco and Ground Beef Combo Burrito),750 g,1280,60,17.5,0,95,3490,144,15,2,43,21,25,55,49,0,0,0
+115645,21221,Combination Plate #9 (Bean Taco and Chicken Combo Burrito),750 g,1240,55,14.5,0,90,2890,139,15,2,46,21,16,60,54,0,0,0
+115646,21221,Combination Plate #9 (Bean Taco and Shredded Beef Combo Burrito),750 g,1240,55,15.5,0,45,3210,140,16,2,47,19,25,60,59,0,0,0
+115647,21221,Combination Plate #9 (Ground Beef Taco and Bean Burrito),715 g,1220,57,16,0,75,3280,141,15,3,38,19,22,55,49,0,0,0
+115648,21221,Combination Plate #9 (Ground Beef Taco and Ground Beef Combo Burrito),744 g,1310,62,19,0,125,3560,143,14,3,47,21,31,55,49,0,0,0
+115649,21221,Combination Plate #9 (Ground Beef Taco and Chicken Combo Burrito),744 g,1270,57,16,0,120,2960,138,14,3,50,21,22,60,54,0,0,0
+115650,21221,Combination Plate #9 (Ground Beef Taco and Shredded Beef Combo Burrito),744 g,1270,57,17,0,75,3280,139,15,3,51,19,31,60,59,0,0,0
+115651,21221,Combination Plate #9 (Chicken Taco and Bean Burrito),715 g,1200,54,14.5,0,70,2960,138,15,2,40,21,16,55,51,0,0,0
+115652,21221,Combination Plate #9 (Chicken Taco and Ground Beef Combo Burrito),744 g,1290,59,17.5,0,120,3240,140,14,2,49,23,25,55,51,0,0,0
+115653,21221,Combination Plate #9 (Chicken Taco and Chicken Combo Burrito),744 g,1250,54,14.5,0,115,2640,135,14,2,52,23,16,60,56,0,0,0
+115654,21221,Combination Plate #9 (Chicken Taco and Shredded Beef Combo Burrito),744 g,1250,54,15.5,0,70,2960,136,15,2,53,21,25,60,61,0,0,0
+115655,21221,Combination Plate #9 (Shredded Beef Taco and Bean Burrito),715 g,1190,54,14.5,0,45,3150,139,15,2,41,19,20,55,53,0,0,0
+115656,21221,Combination Plate #9 (Shredded Beef Taco and Ground Beef Combo Burrito),744 g,1280,59,17.5,0,95,3430,141,14,2,50,21,29,55,53,0,0,0
+115657,21221,Combination Plate #9 (Shredded Beef Taco and Chicken Combo Burrito),744 g,1240,54,14.5,0,90,2830,136,14,2,53,21,20,60,58,0,0,0
+115658,21221,Combination Plate #9 (Shredded Beef Taco and Shredded Beef Combo Burrito),744 g,1240,54,15.5,0,45,3150,137,15,2,54,19,29,60,63,0,0,0

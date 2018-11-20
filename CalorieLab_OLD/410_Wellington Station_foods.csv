@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+43294,3142,Broiled Salmon Steak,715,21,3.5,0,180,295,56,9,6,74,0,0,0,0,0,0,0
+43295,3143,Southwestern Salad,405,20,8.5,0,105,540,18,9,2,41,0,0,0,0,0,0,0
+43296,3144,Teriyaki Chicken,650,12,4,0,135,"2,155",80,6,26,55,0,0,0,0,0,0,0
+43297,3145,"Eggplant, Zucchini & Sweet Red Pepper Stew",400,15,2,0,0,245,50,8,14,6,0,0,0,0,0,0,0
+43298,3146,Garbanzo Stir-Fry,175,8,1,0,0,330,20,6,3,7,0,0,0,0,0,0,0
+43299,3146,Vegetarian Shepherd's Pie,375,8,1,0,0,300,65,12,6,14,0,0,0,0,0,0,0

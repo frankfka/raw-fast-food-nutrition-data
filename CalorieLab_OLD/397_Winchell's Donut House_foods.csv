@@ -1,0 +1,9 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+42281,3027,Glazed Round,230,15,0,0,0,120,27,0,0,1.5,0,0,0,0,0,0,0
+42282,3027,Chocolate Round,240,16,0,0,0,125,29,0,0,4,0,0,0,0,0,0,0
+42283,3027,Glazed Twist,230,15,0,0,0,120,27,0,0,1.5,0,0,0,0,0,0,0
+42284,3027,Chocolate Twist,240,16,0,0,0,125,29,0,0,4,0,0,0,0,0,0,0
+42285,3027,Chocolate Bar,240,16,0,0,0,125,29,0,0,4,0,0,0,0,0,0,0
+42286,3028,Traditional Cake,215,14,0,0,0,215,26,0,0,1.5,0,0,0,0,0,0,0
+42287,3028,Chocolate Iced Cake,230,15,0,0,0,220,28,0,0,2,0,0,0,0,0,0,0
+42288,3029,Croissant,260,17,0,0,0,280,28,0,0,5,0,0,0,0,0,0,0

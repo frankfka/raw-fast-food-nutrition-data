@@ -1,0 +1,15 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+123895,21718,Ranch Pizza,1/8 pizza - 138 g,370,21,7,0,35,660,31,1,3,13,15,6,15,10,0,0,0
+123896,21718,Veggie Pizza,1/8 pizza - 147 g,240,8,3.5,0,20,420,33,2,3,10,20,10,15,15,0,0,0
+123897,21718,Snappy Meat Topper,1/8 pizza - 167 g,430,23,10,0,70,1000,31,1,2,23,2,8,20,15,0,0,0
+123898,21718,Supreme Pizza,1/8 pizza - 151 g,340,17,7,0,40,730,32,2,3,14,15,6,15,15,0,0,0
+123899,21718,Hawaiian Pizza,1/8 pizza - 158 g,370,18,8,0,50,840,33,1,4,19,6,8,20,15,0,0,0
+123900,21718,Snapperoni Pizza,1/8 pizza - 141 g,390,22,10,0,50,990,31,1,3,17,2,8,20,15,0,0,0
+123901,21718,Buffalo Grilled Chicken Pizza,1/8 pizza - 140 g,250,8,3.5,0,35,840,32,2,2,14,20,10,15,10,0,0,0
+123902,21719,Cheese Pizza,1/8 pizza - 101 g,220,7,3.5,0,20,360,30,1,2,9,2,6,15,10,0,0,0
+123903,21719,Pepperoni Pizza,1/8 pizza - 130 g,340,17,8,0,40,760,31,1,2,15,2,8,20,15,0,0,0
+123904,21720,Steak & Cheese - Hoagie Bun,5 oz - 140 g,380,6,1.5,0,0,730,68,3,4,13,0,1,102,4,0,0,0
+123905,21720,Steak & Cheese - Hoagie Patty,4 oz - 113 g,290,22,9,0,50,600,5,2,1,21,0,3,64,3,0,0,0
+123906,21720,Grilled Chicken Breast,1 piece - 87 g,110,4.5,1.5,0,50,530,3,0,2,14,0,0,0,0,0,0,0
+123907,21721,Snappy Wings,3 pieces - 74 g,160,11,3,0,85,310,0,0,0,15,0,2,2,6,0,0,0
+123908,21721,Chicken Snappers,2 pieces - 82 g,150,5,1,0,25,35,12,0,0,13,0,0,0,0,0,0,0

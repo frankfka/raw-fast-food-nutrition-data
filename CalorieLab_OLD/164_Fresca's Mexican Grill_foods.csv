@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+15486,1185,Especial Burrito,510,19,6,0,85,930,47,3,0,37,0,0,0,0,0,0,0
+15487,1186,Chicken Avocado Salad,405,21,9,0,125,545,10,5,0,45,0,0,0,0,0,0,0
+15488,1187,Dos Tacos,515,12,5,0,65,550,68,3,0,30,0,0,0,0,0,0,0
+15489,1188,Fajitas Platter,685,24,4,0,75,"1,520",80,14,0,41,0,0,0,0,0,0,0
+15490,1189,Veggie Rice Bowl,300,5,0,0,0,930,55,11,0,11,0,0,0,0,0,0,0
+15491,1189,Side Dish: Rice & Beans,195,4,0,0,0,270,32,7,0,7,0,0,0,0,0,0,0

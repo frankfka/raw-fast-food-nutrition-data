@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+132704,22553,Roasted Chicken Pasta,2 cups,595,26,5.5,0,100,325,43,4,0,43,0,0,0,0,0,0,0
+132705,22554,Oak Grilled Swordfish,2 cups,630,12,3,0,80,300,81,11,0,49,0,0,0,0,0,0,0
+132706,22555,Spaghettini Pomodoro with Jumbo Prawns,1.5 cups,675,22,2.5,0,295,820,85,7,0,37,0,0,0,0,0,0,0
+132707,22556,Hawaiian Ahi Salad,1.5 cups,295,12,1.5,0,60,130,18,4,0,30,0,0,0,0,0,0,0
+132708,22557,Oak Grilled Vegetable Platter,5 cups,275,13,7.5,0,35,270,39,16,0,10,0,0,0,0,0,0,0
+132709,22558,Grilled Lean Limousin Filet Mignon,3 cups,695,14,6,0,150,220,98,11,0,54,0,0,0,0,0,0,0

@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+115117,21169,Especial Burrito,0.5 cup,510,19,6,0,85,930,47,3,0,37,0,0,0,0,0,0,0
+115118,21170,Chicken Avocado Salad,2 cups,405,21,9,0,125,545,10,5,0,45,0,0,0,0,0,0,0
+115119,21171,Dos Tacos,0.5 cup,515,12,5,0,65,550,68,3,0,30,0,0,0,0,0,0,0
+115120,21172,Fajitas Platter,1.5 cups,685,24,4,0,75,1520,80,14,0,41,0,0,0,0,0,0,0
+115121,21173,Veggie Rice Bowl,2 cups,300,5,0,0,0,930,55,11,0,11,0,0,0,0,0,0,0
+115122,21173,Side Dish: Rice & Beans,0.5 cup,195,4,0,0,0,270,32,7,0,7,0,0,0,0,0,0,0

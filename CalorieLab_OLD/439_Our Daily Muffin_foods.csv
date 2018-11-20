@@ -1,0 +1,10 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+47911,3466,Apple Muffin,150,0,0,0,0,100,31,8,19,5,0,0,0,0,0,0,0
+47912,3466,Blueberry Muffin,140,0,0,0,0,100,31,8,18,5,0,0,0,0,0,0,0
+47913,3466,Carrot Muffin,150,0,0,0,0,100,32,8,20,5,0,0,0,0,0,0,0
+47914,3466,Cranberry Orange Muffin,140,0,0,0,0,100,31,8,18,5,0,0,0,0,0,0,0
+47915,3467,Chocolate Muffin,140,0.5,0,0,0,70,31,5,18,2,0,0,0,0,0,0,0
+47916,3467,Vanilla Bean,120,0,0,0,0,35,28,2,11,1,0,0,0,6,0,0,0
+47917,3467,Orange,120,0,0,0,0,35,28,2,11,1,0,0,0,6,0,0,0
+47918,3467,Cinnamon Raisin,120,0,0,0,0,35,28,2,11,1,0,0,0,6,0,0,0
+47919,3467,Chocolate,120,0,0,0,0,35,28,2,11,1,0,0,0,6,0,0,0

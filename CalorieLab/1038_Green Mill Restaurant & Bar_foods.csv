@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+103935,20237,Greek Chicken Salad,,432,6,2,0,0,0,0,10,0,0,0,0,0,0,0,0,0
+103936,20237,Cilantro Lime Shrimp Salad,,365,7,3,0,0,0,0,14,0,0,0,0,0,0,0,0,0
+103937,20237,Thai Chicken Salad,,365,10,2,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+103938,20237,Grilled Meditranean Sandwich,,375,6,3,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+103939,20237,Lemon Pepper Chicken,,290,7,3,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+103940,20237,Low Calorie Chicken Pizza,,520,12,4,0,0,0,0,9,0,0,0,0,0,0,0,0,0

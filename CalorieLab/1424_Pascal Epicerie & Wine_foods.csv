@@ -1,0 +1,6 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+144545,23294,Salade Nicoise,1.5 cups,325,8,2,0,245,265,23,4,0,39,0,0,0,0,0,0,0
+144546,23294,Spinach Chicken Salad,2 cup,230,5,1,0,95,155,8,4,0,39,0,0,0,0,0,0,0
+144547,23294,Salmon Salad,1.5 cups,250,9,1.5,0,80,195,9,4,0,32,0,0,0,0,0,0,0
+144548,23294,Free Range Chicken Breast Provencal,1.5 cups,530,19,4,0,180,840,18,5,0,69,0,0,0,0,0,0,0
+144549,23295,Braised Seabass with Thyme Crust,1 cup,530,22,9.5,0,90,610,48,6,0,34,0,0,0,0,0,0,0

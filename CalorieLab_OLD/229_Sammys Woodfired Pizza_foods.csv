@@ -1,0 +1,8 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+24257,1730,Roast Chicken Pesto Wrap,480,20,8,0,155,"1,485",22,5,0,52,0,0,0,0,0,0,0
+24258,1731,Tomato Angel Hair Pasta,700,18,3,0,15,65,115,9,0,24,0,0,0,0,0,0,0
+24259,1732,Chinese Chicken Salad,450,12,1.5,0,85,"1,010",47,8,0,40,0,0,0,0,0,0,0
+24260,1732,Chopped Chicken Salad,425,11,2,0,90,"3,690",30,6,0,52,0,0,0,0,0,0,0
+24261,1732,Oak Roasted Salmon on Ponzu Salad,470,19,2,0,110,"2,200",21,5,0,50,0,0,0,0,0,0,0
+24262,1732,Oak Roasted Asian Portobello Mushroom,110,5,1,0,5,900,10,3,0,7,0,0,0,0,0,0,0
+24263,1733,Fresh Tomato Basil Soup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

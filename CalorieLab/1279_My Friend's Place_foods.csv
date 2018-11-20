@@ -1,0 +1,11 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+128932,22188,Turkey Broccoli Melt,1/4 cup,295,7,3,0,77,1221,26,0,2,35,0,0,0,0,0,0,0
+128933,22188,Grilled Chicken Breast on Pita,1/2 cup,324,6,0,0,110,1073,24,0,1,44,0,0,0,0,0,0,0
+128934,22188,Turkey Breast on pita,1/2 cup,220,2,0,0,60,1038,25,0,2,27,0,0,0,0,0,0,0
+128935,22188,Ham on rye,1/2 cup,321,6,2,0,70,1824,40,2,6,25,0,0,0,0,0,0,0
+128936,22188,Roast Beef on wheat,1/2 cup,329,6,1,0,60,1584,42,6,6,28,0,0,0,0,0,0,0
+128937,22188,Corned Beef on rye,1/2 cup,297,5,1,0,50,1424,38,2,2,27,0,0,0,0,0,0,0
+128938,22188,Pastrami on rye,1/2 cup,297,5,1,0,50,1424,38,2,2,27,0,0,0,0,0,0,0
+128939,22189,Grilled Chicken Breast Salad,2 cups,215,7,3,0,56,540,13,2,0,25,0,0,0,0,0,0,0
+128940,22190,Italian Wedding Soup,6 oz,82,2,2,0,8,630,12,2,2,5,0,0,0,0,0,0,0
+128941,22190,Mexican Chicken Tortilla Soup,6 oz,140,2,2,0,8,615,15,2,2,6,0,0,0,0,0,0,0

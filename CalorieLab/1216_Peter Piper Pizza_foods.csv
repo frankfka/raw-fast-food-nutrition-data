@@ -1,0 +1,99 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+122996,21644,Original Crust Cheese Pizza,1/8 pizza - 111 g,300,9,4.5,0,25,470,37,2,2,18,0,0,0,0,0,0,0
+122997,21644,Thin Crust Cheese Pizza,1/12 pizza - 52 g,150,5,3,0,15,290,14,1,1,10,0,0,0,0,0,0,0
+122998,21644,Hand-tossed Crust Cheese Pizza,1/8 pizza - 110 g,290,9,4.5,0,25,590,38,2,4,17,0,0,0,0,0,0,0
+122999,21644,Pan Crust Cheese Pizza,1/8 pizza - 110 g,290,9,4.5,0,25,590,38,2,4,17,0,0,0,0,0,0,0
+123000,21644,Original Crust Pepperoni Pizza,1/8 pizza - 105 g,300,10,4.5,0,20,550,36,2,2,16,0,0,0,0,0,0,0
+123001,21644,Thin Crust Pepperoni Pizza,1/12 pizza - 48 g,150,6,3,0,15,340,13,1,1,9,0,0,0,0,0,0,0
+123002,21644,Hand-tossed Crust Pepperoni Pizza,1/8 pizza - 104 g,290,10,4.5,0,20,670,37,2,4,14,0,0,0,0,0,0,0
+123003,21644,Pan Crust Pepperoni Pizza,1/8 pizza - 118 g,330,10,4.5,0,20,710,44,2,4,15,0,0,0,0,0,0,0
+123004,21644,Original Crust Sausage Pizza,1/8 pizza - 116 g,310,10,4.5,0,25,580,38,2,3,17,0,0,0,0,0,0,0
+123005,21644,Thin Crust Sausage Pizza,1/12 pizza - 55 g,150,7,3,0,15,360,14,1,2,10,0,0,0,0,0,0,0
+123006,21644,Hand-tossed Crust Sausage Pizza,1/8 pizza - 115 g,310,10,4.5,0,25,690,39,2,4,15,0,0,0,0,0,0,0
+123007,21644,Pan Crust Sausage Pizza,1/8 pizza - 129 g,340,11,4.5,0,25,740,46,3,4,16,0,0,0,0,0,0,0
+123008,21644,Original Crust Ham & Pineapple Pizza,1/8 pizza - 116 g,280,7,3.5,0,20,530,38,2,4,17,0,0,0,0,0,0,0
+123009,21644,Thin Crust Ham & Pineapple Pizza,1/12 pizza - 55 g,130,4,2.5,0,15,320,15,1,3,9,0,0,0,0,0,0,0
+123010,21644,Hand-tossed Crust Ham & Pineapple Pizza,1/8 pizza - 115 g,280,7,3.5,0,20,640,39,2,5,15,0,0,0,0,0,0,0
+123011,21644,Pan Crust Ham & Pineapple Pizza,1/8 pizza - 129 g,310,7,3.5,0,20,690,46,2,6,16,0,0,0,0,0,0,0
+123012,21644,Original Crust Pepperoni & Sausage Pizza,1/8 pizza - 112 g,310,11,4.5,0,25,600,37,2,2,17,0,0,0,0,0,0,0
+123013,21644,Thin Crust Pepperoni & Sausage Pizza,1/12 pizza - 53 g,150,7,3,0,15,370,14,1,2,9,0,0,0,0,0,0,0
+123014,21644,Hand-tossed Crust Pepperoni & Sausage Pizza,1/8 pizza - 111 g,310,11,4.5,0,25,710,38,2,4,15,0,0,0,0,0,0,0
+123015,21644,Pan Crust Pepperoni & Sausage Pizza,1/8 pizza - 125 g,340,11,4.5,0,25,760,45,2,4,16,0,0,0,0,0,0,0
+123016,21645,Original Crust Cheese Pizza,1/12 pizza - 98 g,260,8,4.5,0,20,420,32,1,2,17,0,0,0,0,0,0,0
+123017,21645,Thin Crust Cheese Pizza,1/16 pizza - 51 g,140,5,3.5,0,15,290,13,1,1,10,0,0,0,0,0,0,0
+123018,21645,Hand-tossed Crust Cheese Pizza,1/12 pizza - 98 g,260,8,4,0,20,530,33,1,3,15,0,0,0,0,0,0,0
+123019,21645,Pan Crust Cheese Pizza,1/12 pizza - 107 g,290,8,4.5,0,20,560,38,2,3,16,0,0,0,0,0,0,0
+123020,21645,Original Crust Pepperoni Pizza,1/12 pizza - 92 g,260,8,4,0,20,490,32,1,2,14,0,0,0,0,0,0,0
+123021,21645,Thin Crust Pepperoni Pizza,1/16 pizza - 47 g,140,6,3,0,15,340,13,1,1,9,0,0,0,0,0,0,0
+123022,21645,Hand-tossed Crust Pepperoni Pizza,1/12 pizza - 92 g,260,8,4,0,20,590,33,1,3,13,0,0,0,0,0,0,0
+123023,21645,Pan Crust Pepperoni Pizza,1/12 pizza - 101 g,280,9,4,0,20,620,37,2,3,13,0,0,0,0,0,0,0
+123024,21645,Original Crust Sausage Pizza,1/12 pizza - 104 g,280,10,4.5,0,20,530,33,2,2,16,0,0,0,0,0,0,0
+123025,21645,Thin Crust Sausage Pizza,1/16 pizza - 56 g,150,7,3,0,15,370,14,1,2,10,0,0,0,0,0,0,0
+123026,21645,Hand-tossed Crust Sausage Pizza,1/12 pizza - 104 g,280,10,4,0,20,630,34,2,3,14,0,0,0,0,0,0,0
+123027,21645,Pan Crust Sausage Pizza,1/12 pizza - 113 g,300,10,4,0,20,660,39,2,4,15,0,0,0,0,0,0,0
+123028,21645,Original Crust Ham & Pineapple Pizza,1/12 pizza - 103 g,250,6,3,0,20,470,33,1,4,15,0,0,0,0,0,0,0
+123029,21645,Thin Crust Ham & Pineapple Pizza,1/16 pizza - 56 g,130,4,2.5,0,15,320,14,1,3,9,0,0,0,0,0,0,0
+123030,21645,Hand-tossed Crust Ham & Pineapple Pizza,1/12 pizza - 103 g,250,6,3,0,20,570,35,1,5,13,0,0,0,0,0,0,0
+123031,21645,Pan Crust Ham & Pineapple Pizza,1/12 pizza - 112 g,270,6,3,0,20,600,39,2,5,14,0,0,0,0,0,0,0
+123032,21645,Original Crust Pepperoni & Sausage Pizza,1/12 pizza - 99 g,280,10,4.5,0,25,540,32,2,2,15,0,0,0,0,0,0,0
+123033,21645,Thin Crust Pepperoni & Sausage Pizza,1/16 pizza - 52 g,150,7,3.5,0,15,370,13,1,2,9,0,0,0,0,0,0,0
+123034,21645,Hand-tossed Crust Pepperoni & Sausage Pizza,1/12 pizza - 99 g,280,10,4.5,0,25,640,33,2,3,14,0,0,0,0,0,0,0
+123035,21645,Pan Crust Pepperoni & Sausage Pizza,1/12 pizza - 109 g,300,10,4.5,0,25,670,38,2,4,14,0,0,0,0,0,0,0
+123036,21646,Original Crust Chicago Classic Pizza,1/8 pizza - 121 g,300,10,4.5,0,20,550,38,2,3,17,0,0,0,0,0,0,0
+123037,21646,Thin Crust Chicago Classic Pizza,1/12 pizza - 59 g,150,6,3,0,15,340,15,1,2,9,0,0,0,0,0,0,0
+123038,21646,Hand-tossed Crust Chicago Classic Pizza,1/8 pizza - 121 g,300,10,4.5,0,20,660,39,2,4,15,0,0,0,0,0,0,0
+123039,21646,Pan Crust Chicago Classic Pizza,1/8 pizza - 135 g,340,10,4.5,0,20,710,46,3,4,16,0,0,0,0,0,0,0
+123040,21646,Original Crust New York 3 Cheese Pizza With Pepperoni,1/8 pizza - 127 g,380,16,7,0,30,710,38,2,3,21,0,0,0,0,0,0,0
+123041,21646,Thin Crust New York 3 Cheese Pizza With Pepperoni,1/12 pizza - 63 g,200,10,4.5,0,20,440,14,1,2,12,0,0,0,0,0,0,0
+123042,21646,Hand-tossed Crust New York 3 Cheese Pizza With Pepperoni,1/8 pizza - 127 g,380,16,7,0,30,830,39,2,4,19,0,0,0,0,0,0,0
+123043,21646,Pan Crust New York 3 Cheese Pizza With Pepperoni,1/8 pizza - 141 g,410,16,7,0,30,870,46,2,4,20,0,0,0,0,0,0,0
+123044,21646,Original Crust California Veggie Pizza,1/8 pizza - 91 g,200,6,3,0,15,430,23,2,3,12,0,0,0,0,0,0,0
+123045,21646,Thin Crust California Veggie Pizza,1/12 pizza - 61 g,130,4.5,2,0,10,290,15,1,2,8,0,0,0,0,0,0,0
+123046,21646,Hand-tossed Crust California Veggie Pizza,1/8 pizza - 119 g,270,7,3,0,15,560,39,2,4,13,0,0,0,0,0,0,0
+123047,21646,Pan Crust California Veggie Pizza,1/8 pizza - 134 g,300,7,3,0,15,610,47,3,4,14,0,0,0,0,0,0,0
+123048,21646,Original Crust 5 Meat Supreme Pizza,1/8 pizza - 127 g,350,13,6,0,35,850,38,2,3,21,0,0,0,0,0,0,0
+123049,21646,Thin Crust 5 Meat Supreme Pizza,1/12 pizza - 63 g,180,8,4,0,25,540,14,1,2,12,0,0,0,0,0,0,0
+123050,21646,Hand-tossed Crust 5 Meat Supreme Pizza,1/8 pizza - 126 g,350,13,6,0,35,970,38,2,4,19,0,0,0,0,0,0,0
+123051,21646,Pan Crust 5 Meat Supreme Pizza,1/8 pizza - 140 g,380,13,6,0,35,1010,46,2,4,20,0,0,0,0,0,0,0
+123052,21646,Original Crust The Werx Pizza,1/8 pizza - 140 g,320,11,4.5,0,25,670,38,2,3,17,0,0,0,0,0,0,0
+123053,21646,Thin Crust The Werx Pizza,1/12 pizza - 71 g,160,7,3,0,15,420,14,1,2,10,0,0,0,0,0,0,0
+123054,21646,Hand-tossed Crust The Werx Pizza,1/8 pizza - 139 g,310,11,4.5,0,25,790,39,2,4,16,0,0,0,0,0,0,0
+123055,21646,Pan Crust The Werx Pizza,1/8 pizza - 153 g,350,11,4.5,0,25,830,46,2,5,16,0,0,0,0,0,0,0
+123056,21646,Original Crust SmokeHouse Pizza,1/8 pizza - 130 g,370,15,5,0,30,890,38,2,3,23,0,0,0,0,0,0,0
+123057,21646,Thin Crust SmokeHouse Pizza,1/12 pizza - 65 g,200,9,3.5,0,20,570,15,1,2,13,0,0,0,0,0,0,0
+123058,21646,Hand-tossed Crust SmokeHouse Pizza,1/8 pizza - 129 g,370,15,5,0,30,1010,39,2,4,21,0,0,0,0,0,0,0
+123059,21646,Pan Crust SmokeHouse Pizza,1/8 pizza - 143 g,400,15,5,0,30,1050,46,2,5,22,0,0,0,0,0,0,0
+123060,21647,Original Crust Chicago Classic Pizza,1/12 pizza - 111 g,270,9,4,0,20,500,33,2,2,15,0,0,0,0,0,0,0
+123061,21647,Thin Crust Chicago Classic Pizza,1/16 pizza - 61 g,150,6,3,0,15,350,14,1,2,9,0,0,0,0,0,0,0
+123062,21647,Hand-tossed Crust Chicago Classic Pizza,1/12 pizza - 111 g,270,9,4,0,20,600,34,2,4,14,0,0,0,0,0,0,0
+123063,21647,Pan Crust Chicago Classic Pizza,1/12 pizza - 120 g,290,9,4,0,20,630,39,2,4,14,0,0,0,0,0,0,0
+123064,21647,Original Crust New York 3 Cheese Pizza With Pepperoni,1/12 pizza - 112 g,340,14,6,0,30,630,32,1,2,19,0,0,0,0,0,0,0
+123065,21647,Thin Crust New York 3 Cheese Pizza With Pepperoni,1/16 pizza - 62 g,200,10,4.5,0,20,450,14,1,2,12,0,0,0,0,0,0,0
+123066,21647,Hand-tossed Crust New York 3 Cheese Pizza With Pepperoni,1/12 pizza - 113 g,340,14,6,0,30,740,34,2,3,17,0,0,0,0,0,0,0
+123067,21647,Pan Crust New York 3 Cheese Pizza With Pepperoni,1/12 pizza - 122 g,360,15,6,0,30,760,39,2,4,18,0,0,0,0,0,0,0
+123068,21647,Original Crust California Veggie Pizza,1/12 pizza - 106 g,240,6,3,0,15,400,33,2,2,13,0,0,0,0,0,0,0
+123069,21647,Thin Crust California Veggie Pizza,1/16 pizza - 57 g,130,4,2,0,10,270,14,1,2,8,0,0,0,0,0,0,0
+123070,21647,Hand-tossed Crust California Veggie Pizza,1/12 pizza - 106 g,240,6,3,0,15,500,34,2,4,12,0,0,0,0,0,0,0
+123071,21647,Pan Crust California Veggie Pizza,1/12 pizza - 115 g,260,6,3,0,15,530,39,2,4,12,0,0,0,0,0,0,0
+123072,21647,Original Crust 5 Meat Supreme Pizza,1/12 pizza - 115 g,320,13,6,0,35,820,33,2,2,20,0,0,0,0,0,0,0
+123073,21647,Thin Crust 5 Meat Supreme Pizza,1/16 pizza - 64 g,190,9,4,0,25,580,14,1,2,13,0,0,0,0,0,0,0
+123074,21647,Hand-tossed Crust 5 Meat Supreme Pizza,1/12 pizza - 115 g,320,13,5,0,35,920,34,2,3,18,0,0,0,0,0,0,0
+123075,21647,Pan Crust 5 Meat Supreme Pizza,1/12 pizza - 125 g,340,13,5,0,35,950,39,2,4,19,0,0,0,0,0,0,0
+123076,21647,Original Crust The Werx Pizza,1/12 pizza - 128 g,290,10,4.5,0,25,630,33,2,3,16,0,0,0,0,0,0,0
+123077,21647,Thin Crust The Werx Pizza,1/16 pizza - 74 g,160,7,3,0,20,440,14,1,2,10,0,0,0,0,0,0,0
+123078,21647,Hand-tossed Crust The Werx Pizza,1/12 pizza - 128 g,280,10,4,0,25,730,34,2,4,14,0,0,0,0,0,0,0
+123079,21647,Pan Crust The Werx Pizza,1/12 pizza - 137 g,310,10,4,0,25,760,39,2,4,15,0,0,0,0,0,0,0
+123080,21647,Original Crust SmokeHouse Pizza,1/12 pizza - 116 g,340,13,5,0,30,840,33,2,3,21,0,0,0,0,0,0,0
+123081,21647,Thin Crust SmokeHouse Pizza,1/16 pizza - 65 g,200,10,3.5,0,20,600,14,1,2,14,0,0,0,0,0,0,0
+123082,21647,Hand-tossed Crust SmokeHouse Pizza,1/12 pizza - 116 g,340,13,4.5,0,30,940,34,2,4,19,0,0,0,0,0,0,0
+123083,21647,Pan Crust SmokeHouse Pizza,1/12 pizza - 126 g,360,14,4.5,0,30,970,39,2,4,20,0,0,0,0,0,0,0
+123084,21648,Side,1 salad - 145 g,20,0,0,0,0,30,4,1,1,2,0,0,0,0,0,0,0
+123085,21648,Garden,1 salad - 250 g,50,0,0,0,0,45,10,2,4,3,0,0,0,0,0,0,0
+123086,21648,Italian Chef,1 salad - 371 g,290,16,4,0,45,1910,14,2,5,24,0,0,0,0,0,0,0
+123087,21648,Chicken Caesar,1 salad - 229 g,200,8,1,0,35,900,10,4,3,21,0,0,0,0,0,0,0
+123088,21648,Family,1 salad - 114 g,20,0,0,0,0,25,4,0,1,1,0,0,0,0,0,0,0
+123089,21649,Garlic Cheese Bread,2 slices - 92 g,310,14,4,0,10,610,37,2,2,10,0,0,0,0,0,0,0
+123090,21649,Wings,2 pieces - 48 g,110,8,2,0,40,190,0,0,1,9,0,0,0,0,0,0,0
+123091,21649,Chicken Strips,2 pieces - 138 g,300,9,1,0,50,940,26,0,0,26,0,0,0,0,0,0,0
+123092,21649,Breadsticks,2 sticks - 69 g,250,10,1.5,0,0,760,36,0,4,7,0,0,0,0,0,0,0
+123093,21649,Cinnamon Crunch Dessert,2-3 slices - 86 g,220,1.5,0,0,0,220,49,2,13,5,0,0,0,0,0,0,0

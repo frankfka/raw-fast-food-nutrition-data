@@ -1,0 +1,73 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+23196,1648,"14"" Cheese Original Crust Pizza",300,11,3.5,0,20,750,39,2,5,13,6,8,20,10,0,0,0
+23197,1648,"12"" Cheese Original Crust Cheese Pizza",210,8,2.5,0,15,510,27,1,3,9,4,6,10,2,0,0,0
+23198,1648,"14"" Cheese Thin Crust Cheese Pizaa",240,13,3.5,0,20,500,22,1,2,10,6,8,15,2,0,0,0
+23199,1648,"12"" Cheese Pan Crust Cheese Pizza",380,15,7,0,20,980,39,1,4,14,4,8,15,2,0,0,0
+23200,1648,"14"" Pepperoni Original Crust Pizza",310,13,4,0,20,800,38,2,5,13,6,10,15,20,0,0,0
+23201,1648,"12"" Pepperoni Original Crust Pizza",220,9,3,0,15,570,27,1,3,9,4,8,8,8,0,0,0
+23202,1648,"14"" Pepperoni Thin Crust Pizza",260,15,4.5,0,20,580,23,1,2,10,6,10,15,10,0,0,0
+23203,1648,"12"" Pepperoni Pan Crust Pizza",400,17,8,0,20,"1,050",38,1,4,14,4,10,10,10,0,0,0
+23204,1648,"14"" Sausage Original Crust Pizza",330,15,4.5,0,20,810,37,3,5,13,6,6,15,20,0,0,0
+23205,1648,"12"" Sausage Original Crust Pizza",240,11,3.5,0,15,580,26,2,3,9,4,4,8,8,0,0,0
+23206,1648,"14"" Sausage Thin Crust Pizza",280,17,5,0,20,590,22,2,2,10,6,8,15,10,0,0,0
+23207,1648,"12"" Sausage Pan Crust Pizza",410,19,8,0,20,"1,040",38,2,4,13,4,6,10,10,0,0,0
+23208,1648,"14"" The Works Original Crust Pizza",330,11,6,0,25,890,39,3,6,14,10,8,15,15,0,0,0
+23209,1648,"12"" The Works Original Crust Pizza",230,8,3.5,0,15,610,28,2,4,10,8,6,10,4,0,0,0
+23210,1648,"14"" The Works Thin Crust Pizza",280,14,6,0,25,670,24,2,3,12,10,8,15,8,0,0,0
+23211,1648,"12"" The Works Pan Crust Pizza",400,15,9,0,25,"1,100",39,2,5,15,10,8,10,6,0,0,0
+23212,1648,"14"" The Meats Original Crust Pizza",350,16,5,0,30,920,38,2,5,15,8,8,15,20,0,0,0
+23213,1648,"12"" The Meats Original Crust Pizza",240,11,3.5,0,20,640,27,1,3,11,4,6,10,15,0,0,0
+23214,1648,"14"" The Meats Thin Crust Pizza",300,18,5,0,30,700,23,2,2,13,6,8,15,10,0,0,0
+23215,1648,"12"" The Meats Pan Crust Pizza",420,19,8,0,30,"1,140",38,1,4,16,4,8,10,10,0,0,0
+23216,1648,"14"" Garden Fresh Original Crust Pizza",280,9,2.5,0,15,680,40,2,6,11,20,8,15,15,0,0,0
+23217,1648,"12"" Garden Fresh Original Crust Pizza",200,7,2,0,10,490,28,2,4,8,15,6,10,2,0,0,0
+23218,1648,"14"" Garden Fresh Thin Crust Pizza",210,11,2.5,0,15,430,23,2,3,8,20,8,10,4,0,0,0
+23219,1648,"12"" Garden Fresh Pan Crust Pizza",360,13,6,0,15,910,40,2,5,12,20,8,15,4,0,0,0
+23220,1648,"14"" Spinach Alfredo Original Crust Pizza",280,11,4.5,0,20,630,36,2,4,11,0,6,10,20,0,0,0
+23221,1648,"12"" Spinach Alfredo Original Crust Pizza",200,8,3,0,15,450,26,1,3,8,0,4,8,6,0,0,0
+23222,1648,"14"" Spinach Alfredo Thin Crust Pizza",220,13,4.5,0,20,370,19,1,1,8,0,6,10,8,0,0,0
+23223,1648,"12"" Spinach Alfredo Pan Crust Pizza",360,15,8,0,20,860,36,1,3,12,0,6,10,8,0,0,0
+23224,1648,"14"" Grillen Chicken Alfredo Original Crust Pizza",310,12,4.5,0,30,720,36,2,4,15,0,6,15,15,0,0,0
+23225,1648,"12"" Grillen Chicken Alfredo Original Crust Pizza",220,9,3.5,0,28,520,26,1,3,11,0,4,8,2,0,0,0
+23226,1648,"14"" Grillen Chicken Alfredo Thin Crust Pizza",240,13,4.5,0,30,470,20,1,1,12,0,6,10,4,0,0,0
+23227,1648,"12"" Grillen Chicken Alfredo Pan Crust Pizza",380,16,8,0,30,950,36,2,3,15,0,6,10,4,0,0,0
+23228,1648,"14"" Hawaiian BBQ Chicken Original Crust Pizza",340,11,3.5,0,30,960,46,2,8,16,4,6,15,15,0,0,0
+23229,1648,"12"" Hawaiian BBQ Chicken Original Crust Pizza",240,8,2.5,0,20,690,33,1,6,11,2,6,10,2,0,0,0
+23230,1648,"14"" Hawaiian BBQ Chicken Thin Crust Pizza",290,14,3.5,0,30,740,31,1,6,13,4,6,15,4,0,0,0
+23231,1648,"12"" Hawaiian BBQ Chicken Pan Crust Pizza",420,16,7,0,30,"1,190",46,1,7,16,4,6,15,2,0,0,0
+23232,1648,"14"" BBQ Chicken & Bacon Original Crust Pizza",340,11,3.5,0,30,960,44,2,7,15,2,6,15,15,0,0,0
+23233,1648,"12"" BBQ Chicken & Bacon Original Crust Pizza",240,8,2.5,0,20,690,32,1,5,11,0,6,10,2,0,0,0
+23234,1648,"14"" BBQ Chicken & Bacon Thin Crust Pizza",290,14,3.5,0,30,740,29,1,4,13,2,6,15,4,0,0,0
+23235,1648,"12"" BBQ Chicken & Bacon Pan Crust Pizza",410,16,7,0,30,"1,190",44,1,6,16,2,6,15,2,0,0,0
+23236,1648,"14"" Grilled Chicken Club Original Crust Pizza",320,12,3.5,0,30,820,40,2,6,16,15,8,15,15,0,0,0
+23237,1648,"12"" Grilled Chicken Club Original Crust Pizza",230,8,2.5,0,20,580,28,1,4,11,8,6,10,2,0,0,0
+23238,1648,"14"" Grilled Chicken Club Thin Crust Pizza",270,14,3.5,0,30,600,25,1,3,13,15,8,15,4,0,0,0
+23239,1648,"12"" Grilled Chicken Club Pan Crust Pizza",400,16,7,0,30,"1,050",39,2,5,16,15,8,10,2,0,0,0
+23240,1648,"14"" Spinach Alfredo Chicken Tomato Original Crust Pizza",290,11,4,0,25,670,37,2,4,13,6,8,10,20,0,0,0
+23241,1648,"12"" Spinach Alfredo Chicken Tomato Original Crust Pizza",210,8,3,0,20,490,27,2,3,10,8,8,8,6,0,0,0
+23242,1648,"14"" Spinach Alfredo Chicken Tomato Thin Crust Pizza",230,13,4.5,0,25,430,21,1,1,10,8,8,10,10,0,0,0
+23243,1648,"12"" Spinach Alfredo Chicken Tomato Pan Crust Pizza",380,16,8,0,25,910,37,2,3,14,8,8,10,10,0,0,0
+23244,1648,"14"" Spicy Italian Original Crust Pizza",370,11,10,0,30,960,39,4,5,15,6,8,15,15,0,0,0
+23245,1648,"12"" Spicy Italian Original Crust Pizza",260,8,7,0,20,680,27,2,4,11,4,6,8,4,0,0,0
+23246,1648,"14"" Spicy Italian Thin Crust Pizza",320,14,11,0,30,740,24,3,2,12,6,8,15,8,0,0,0
+23247,1648,"12"" Spicy Italian Pan Crust Pizza",450,15,14,0,30,"1,190",39,3,4,16,4,8,10,8,0,0,0
+23248,1649,Breadsticks,140,2,0,0,0,260,26,1,3,4,0,0,0,8,0,0,0
+23249,1649,Cheesesticks,370,16,4.5,0,25,830,42,2,4,15,0,15,20,15,0,0,0
+23250,1649,Garlic Parmesan Breadsticks,170,6,1,0,0,370,26,1,3,5,0,0,0,8,0,0,0
+23251,1649,ChickenStrips,160,8,2,0,25,350,10,0,1,10,2,0,0,2,0,0,0
+23252,1649,Spicy Buffalo Wings,160,11,3.5,0,90,680,1,1,1,14,2,4,2,4,0,0,0
+23253,1649,Mild Chipotle Barbeque Wings,160,10,3,0,85,570,5,0,3,14,2,4,2,4,0,0,0
+23254,1649,Apple Twist Sweetreat,350,9,4,0,0,550,54,1,23,6,370,0,0,0,0,0,0
+23255,1649,Cinna Swirl Sweetreat,390,14,5,0,0,580,53,1,21,6,0,4,0,4,0,0,0
+23256,1649,Very Berry Sweetreat,400,9,4,0,0,570,67,2,32,6,2,0,0,2,0,0,0
+23257,1650,Special Garlic Dipping Sauce,150,17,3,0,0,310,0,0,0,0,0,20,0,0,0,0,0
+23258,1650,Pizza Dipping Sauce,20,0,0,0,0,140,3,0,2,0,6,2,2,0,0,0,0
+23259,1650,Cheese Dipping Sauce,70,6,1.5,0,0,150,1,0,0,1,0,4,0,0,0,0,0
+23260,1650,Honey Mustard Dipping Sauce,150,15,2,0,10,120,5,0,4,0,0,0,0,0,0,0,0
+23261,1650,Barbeque Dipping Sauce,40,0,0,0,0,240,11,0,9,0,2,2,4,4,0,0,0
+23262,1650,Buffalo Hot Dipping Sauce,15,0.5,0,0,0,890,2,0,2,0,0,0,0,0,0,0,0
+23263,1650,Ranch Dipping Sauce,110,11,2,0,10,250,1,0,1,1,0,0,2,0,0,0,0
+23264,1650,Blue Cheese Dipping Sauce,170,18,3.5,0,20,240,1,0,1,1,0,0,0,0,0,0,0
+23265,1650,Crushed Red Pepper,5,0,0,0,0,0,1,0,0,0,2,8,0,0,0,0,0
+23266,1650,Parmesan Cheese,15,1,0.5,0,5,45,0,0,0,0,0,0,4,0,0,0,0
+23267,1650,Special Seasonings,5,0,0,0,0,410,1,0,0,0,0,0,0,0,0,0,0

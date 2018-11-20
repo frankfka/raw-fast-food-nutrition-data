@@ -1,0 +1,8 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+135006,22679,Glazed Raised,40 g,140,9,2,0,6.5,110,20,1,8,0,0,0,0,0,0,0,0
+135007,22679,Iced Raised,50 g,190,9,2,0,6.5,110,23,1,8,0,0,0,0,0,0,0,0
+135008,22679,Glazed Raised - Cholesterol Free,40 g,140,6,0,0,0,120,20,1,8,0,0,0,0,0,0,0,0
+135009,22679,Iced Raised - Cholesterol Free,50 g,190,6,0,0,0,120,23,1,8,0,0,0,0,0,0,0,0
+135010,22680,Plain Cake,55 g,210,10,1,0,33,210,27,2,8,0,0,0,0,0,0,0,0
+135011,22680,Iced Cake,85 g,340,14.5,0.5,0,33,230,48,3,19,0,0,0,0,0,0,0,0
+135012,22680,Chocolate Cake - Low Cholesterol,55 g,210,10,1,0,20.5,210,27,2,8,0,0,0,0,0,0,0,0

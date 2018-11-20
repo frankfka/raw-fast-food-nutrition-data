@@ -1,0 +1,16 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+32869,2536,Baked Fish Dinner,390,5,0,0,10,750,49,5,4,36,0,0,0,0,0,0,0
+32870,2536,Baked Chicken Dinner,350,3.5,0.6,0,60,880,49,5,4,30,0,0,0,0,0,0,0
+32871,2536,Shrimp Scampi Dinner,370,5,0.6,0,170,340,50,5,4,29,0,0,0,0,0,0,0
+32872,2536,Baked Salmon Dinner,470,8,0,0,30,940,58,5,12,40,0,0,0,0,0,0,0
+32873,2537,Carb Counter Fish Dinner,350,17,2,0,20,880,19,6,8,33,0,0,0,0,0,0,0
+32874,2537,Carb Counter Chicken Dinner,320,15,2.5,0,70,"1,010",19,6,8,27,0,0,0,0,0,0,0
+32875,2538,Baked Potato,190,0,0,0,0,15,44,4,3,4,0,0,0,0,0,0,0
+32876,2538,Breadstick,150,6,2,0,5,150,22,1,0,3,0,0,0,0,0,0,0
+32877,2538,Cole Slaw,170,12,1.5,0,10,305,13,2,9,1,0,0,0,0,0,0,0
+32878,2538,Corn on the Cob,150,2.5,0,0,0,20,34,2,8,5,0,0,0,0,0,0,0
+32879,2538,Fresh Steamed Broccoli,25,0.5,0,0,0,25,5,3,2,3,0,0,0,0,0,0,0
+32880,2538,Green Beans,90,2.5,1,0,5,505,15,4,4,2,0,0,0,0,0,0,0
+32881,2538,Tucan-style Vegetables,30,0,0,0,0,10,7,2,3,1,0,0,0,0,0,0,0
+32882,2538,Rice Pilaf,160,0.5,0,0,0,625,35,1,2,4,0,0,0,0,0,0,0
+32883,2538,Side Salad,30,0.5,0,0,0,20,6,2,3,2,0,0,0,0,0,0,0

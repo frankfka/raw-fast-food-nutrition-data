@@ -1,0 +1,32 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+116289,21243,Mandarin Chicken Wrap,345 g,513,14,3,0,42,1143,66,4,0,27,0,0,0,0,0,0,0
+116290,21243,Optional: Oriental Salad Dressing,28 g,132,11,2,0,0,416,7,0,0,0,0,0,0,0,0,0,0
+116291,21243,Marinated Steak Gourmet Wrap,515 g,737,13,2,0,38,1672,118,5,0,31,0,0,0,0,0,0,0
+116292,21243,Optional: Cheddar/Monterey Jack Cheese,14 g,55,4,3,0,14,93,1,0,0,3,0,0,0,0,0,0,0
+116293,21243,Optional: Sour Cream,14 g,30,3,2,0,6,8,1,0,0,1,0,0,0,0,0,0,0
+116294,21243,Chicken Club Salad Wrap,260 g,559,21,6,0,60,1465,56,3,0,31,0,0,0,0,0,0,0
+116295,21243,Optional: Ranch dressing,28 g,104,10,1,0,5,293,2,0,0,0,0,0,0,0,0,0,0
+116296,21243,Optional: Guacamole,28 g,46,4,1,0,0,106,3,1,0,1,0,0,0,0,0,0,0
+116297,21243,Optional: Cheddar/Monterey Jack Cheese,14 g,55,4,3,0,14,93,1,0,0,3,0,0,0,0,0,0,0
+116298,21243,Marinated Chicken Gourmet Mini Wrap,284 g,441,7,2,0,26,926,69,3,0,20,0,0,0,0,0,0,0
+116299,21243,Optional: Cheddar/Monterey Jack Cheese,7 g,27,2,2,0,7,46,1,0,0,2,0,0,0,0,0,0,0
+116300,21243,Optional: Sour Cream,14 g,30,3,2,0,6,8,1,0,0,1,0,0,0,0,0,0,0
+116301,21243,"Bowery ""Smothered Traditional""",565 g,807,18,8,0,27,1740,128,6,0,27,0,0,0,0,0,0,0
+116302,21243,Optional: Sour Cream,14 g,30,3,2,0,6,8,1,0,0,1,0,0,0,0,0,0,0
+116303,21243,"Times Square ""Smothered Traditional""",508 g,779,12,3,0,84,1780,110,3,0,45,0,0,0,0,0,0,0
+116304,21243,Optional: Sour Cream,14 g,30,3,2,0,6,8,1,0,0,1,0,0,0,0,0,0,0
+116305,21243,Chicken Caesar Salad Wrap,239 g,499,14,5,0,53,1388,56,3,0,31,0,0,0,0,0,0,0
+116306,21243,Optional: Caesar Salad Dressing,28 g,104,10,2,0,5,293,1,0,0,1,0,0,0,0,0,0,0
+116307,21243,Vegetarian Wrap,536 g,712,9,2,0,0,1492,129,7,0,22,0,0,0,0,0,0,0
+116308,21243,Optional: Guacamole,28 g,46,4,1,0,0,106,3,1,0,1,0,0,0,0,0,0,0
+116309,21243,Optional: Cheddar/Monterey Jack Cheese,14 g,55,4,3,0,14,93,0,0,0,0,0,0,0,0,0,0,0
+116310,21243,Optional: Sour Cream,14 g,30,3,2,0,6,8,0,0,0,0,0,0,0,0,0,0,0
+116311,21243,Marinated Chicken Fajita Wrap,501 g,697,11,3,0,42,1904,112,4,0,30,0,0,0,0,0,0,0
+116312,21243,Optional: Cheddar/Monterey Jack Cheese,14 g,55,4,3,0,14,93,1,0,0,3,0,0,0,0,0,0,0
+116313,21243,Optional: Sour Cream,14 g,30,3,2,0,6,8,1,0,0,1,0,0,0,0,0,0,0
+116314,21243,Marinated Chicken Gourmet Wrap,508 g,741,11,3,0,42,1567,118,5,0,34,0,0,0,0,0,0,0
+116315,21243,Optional: Cheddar/Monterey Jack Cheese,14 g,55,4,3,0,14,93,1,0,0,3,0,0,0,0,0,0,0
+116316,21243,Optional: Sour Cream,14 g,30,3,2,0,6,8,1,0,0,1,0,0,0,0,0,0,0
+116317,21243,Shrimp Gourmet Wrap,508 g,696,10,2,0,111,1390,116,5,0,30,0,0,0,0,0,0,0
+116318,21243,Optional: Cheddar/Monterey Jack Cheese,14 g,55,4,3,0,14,93,1,0,0,3,0,0,0,0,0,0,0
+116319,21243,Optional: Sour Cream,14 g,30,3,2,0,6,8,1,0,0,1,0,0,0,0,0,0,0

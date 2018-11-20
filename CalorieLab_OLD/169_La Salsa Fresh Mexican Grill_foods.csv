@@ -1,0 +1,344 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+16028,1238,Carnitas Guadalajara Taco,322,17,5,0,119,617,30,4,3,20,0,0,0,0,0,0,0
+16029,1238,Carnitas Guadalajara Taco w/ Chips and salsa,522,27,7,0,119,797,55,5,3,23,0,0,0,0,0,0,0
+16030,1238,Baja Fish Taco,451,26,6,0,52,447,42,5,4,26,0,0,0,0,0,0,0
+16031,1238,Baja Fish Taco w/ Chips and salsa,651,36,8,0,52,627,67,6,4,29,0,0,0,0,0,0,0
+16032,1238,Sonora Fish Taco,236,11,7,0,105,549,19,3,2,21,0,0,0,0,0,0,0
+16033,1238,Sonora Fish Taco w/ Chips and salsa,436,21,9,0,105,729,44,4,2,24,0,0,0,0,0,0,0
+16034,1238,Baja Style Shrimp,370,26,7,0,89,473,29,7,4,18,0,0,0,0,0,0,0
+16035,1238,Baja Style Shrimp w/ Chips and salsa,570,36,9,0,89,653,54,8,4,21,0,0,0,0,0,0,0
+16036,1238,Taco La Salsa No Meat,179,7,3,0,79,33,27,3,1,8,0,0,0,0,0,0,0
+16037,1238,Taco La Salsa No Meat w/ Chips and salsa,379,17,5,0,79,213,52,4,1,11,0,0,0,0,0,0,0
+16038,1238,Taco La Salsa With Chicken,267,10,4,0,126,416,29,3,2,24,0,0,0,0,0,0,0
+16039,1238,Taco La Salsa With Chicken w/ Chips and salsa,467,20,6,0,126,596,54,4,2,27,0,0,0,0,0,0,0
+16040,1238,Taco La Salsa With Steak,277,12,5,0,125,460,28,4,2,21,0,0,0,0,0,0,0
+16041,1238,Taco La Salsa With Steak w/ Chips and salsa,477,22,7,0,125,640,53,5,2,24,0,0,0,0,0,0,0
+16042,1238,Taco La Salsa With Carnitas,246,9,4,0,110,385,28,3,2,19,0,0,0,0,0,0,0
+16043,1238,Taco La Salsa With Carnitas w/ Chips and salsa,446,19,6,0,110,565,53,4,2,22,0,0,0,0,0,0,0
+16044,1238,Taquitos,"1,909",109,22,0,167,"3,084",162,35,6,89,0,0,0,0,0,0,0
+16045,1238,Taquitos w/ Chips and salsa,"2,109",119,24,0,167,"3,264",187,36,6,92,0,0,0,0,0,0,0
+16046,1239,The NO Rice NO Beans™ Burrito No Meat,678,36,16,0,59,"1,694",68,7,8,26,0,0,0,0,0,0,0
+16047,1239,The NO Rice NO Beans™ Burrito No Meat w/ Chips and salsa,878,46,18,0,59,"1,874",93,8,8,29,0,0,0,0,0,0,0
+16048,1239,The NO Rice NO Beans™ Burrito With Chicken,810,40,17,0,129,"2,269",70,7,9,49,0,0,0,0,0,0,0
+16049,1239,The NO Rice NO Beans™ Burrito With Chicken w/ Chips and salsa,"1,010",50,19,0,129,"2,449",95,8,9,52,0,0,0,0,0,0,0
+16050,1239,The NO Rice NO Beans™ Burrito With Steak,824,44,19,0,128,"2,334",69,8,9,46,0,0,0,0,0,0,0
+16051,1239,The NO Rice NO Beans™ Burrito With Steak w/ Chips and salsa,"1,024",54,21,0,128,"2,514",94,9,9,49,0,0,0,0,0,0,0
+16052,1239,The NO Rice NO Beans™ Burrito With Carnitas,779,40,18,0,106,"2,223",69,7,9,43,0,0,0,0,0,0,0
+16053,1239,The NO Rice NO Beans™ Burrito With Carnitas w/ Chips and salsa,979,50,20,0,106,"2,403",94,8,9,46,0,0,0,0,0,0,0
+16054,1239,Fire-Roasted Bowl No Meat Without Beans,518,30,13,0,174,"1,617",64,8,9,19,0,0,0,0,0,0,0
+16055,1239,Fire-Roasted Bowl No Meat Without Beans w/ Chips and salsa,718,40,15,0,174,"1,797",89,9,9,22,0,0,0,0,0,0,0
+16056,1239,Fire-Roasted Bowl No Meat With Black Beans,606,31,14,0,174,"1,827",81,12,13,25,0,0,0,0,0,0,0
+16057,1239,Fire-Roasted Bowl No Meat With Black Beans w/ Chips and salsa,806,41,16,0,174,"2,007",106,13,13,28,0,0,0,0,0,0,0
+16058,1239,Fire-Roasted Bowl No Meat With Pinto Beans,595,31,14,0,174,"1,827",78,12,10,24,0,0,0,0,0,0,0
+16059,1239,Fire-Roasted Bowl No Meat With Pinto Beans w/ Chips and salsa,795,41,16,0,174,"2,007",103,13,10,27,0,0,0,0,0,0,0
+16060,1239,Fire-Roasted Bowl With Chicken Without Beans,650,34,14,0,244,"2,192",66,8,10,42,0,0,0,0,0,0,0
+16061,1239,Fire-Roasted Bowl With Chicken Without Beans w/ Chips and salsa,850,44,16,0,244,"2,372",91,9,10,45,0,0,0,0,0,0,0
+16062,1239,Fire-Roasted Bowl With Chicken With Black Beans,738,35,15,0,244,"2,402",83,12,14,48,0,0,0,0,0,0,0
+16063,1239,Fire-Roasted Bowl With Chicken With Black Beans w/ Chips and salsa,938,45,17,0,244,"2,582",108,13,14,51,0,0,0,0,0,0,0
+16064,1239,Fire-Roasted Bowl With Chicken With Pinto Beans,727,35,15,0,244,"2,402",80,12,11,47,0,0,0,0,0,0,0
+16065,1239,Fire-Roasted Bowl With Chicken With Pinto Beans w/ Chips and salsa,927,45,17,0,244,"2,582",105,13,11,50,0,0,0,0,0,0,0
+16066,1239,Fire-Roasted Bowl With Steak Without Beans,664,38,16,0,243,"2,257",65,9,10,39,0,0,0,0,0,0,0
+16067,1239,Fire-Roasted Bowl With Steak Without Beans w/ Chips and salsa,864,48,18,0,243,"2,437",90,10,10,42,0,0,0,0,0,0,0
+16068,1239,Fire-Roasted Bowl With Steak With Black Beans,752,39,17,0,243,"2,467",82,13,14,45,0,0,0,0,0,0,0
+16069,1239,Fire-Roasted Bowl With Steak With Black Beans w/ Chips and salsa,952,49,19,0,243,"2,647",107,14,14,48,0,0,0,0,0,0,0
+16070,1239,Fire-Roasted Bowl With Steak With Pinto Beans,741,39,17,0,243,"2,467",79,13,11,44,0,0,0,0,0,0,0
+16071,1239,Fire-Roasted Bowl With Steak With Pinto Beans w/ Chips and salsa,941,49,19,0,243,"2,647",104,14,11,47,0,0,0,0,0,0,0
+16072,1239,Fire-Roasted Bowl With Carnitas Without Beans,619,34,15,0,221,"2,146",65,8,10,36,0,0,0,0,0,0,0
+16073,1239,Fire-Roasted Bowl With Carnitas Without Beans w/ Chips and salsa,819,44,17,0,221,"2,326",90,9,10,39,0,0,0,0,0,0,0
+16074,1239,Fire-Roasted Bowl With Carnitas With Black Beans,707,35,16,0,221,"2,356",82,12,14,42,0,0,0,0,0,0,0
+16075,1239,Fire-Roasted Bowl With Carnitas With Black Beans w/ Chips and salsa,907,45,18,0,221,"2,536",107,13,14,45,0,0,0,0,0,0,0
+16076,1239,Fire-Roasted Bowl With Carnitas With Pinto Beans,696,35,16,0,221,"2,356",79,12,11,41,0,0,0,0,0,0,0
+16077,1239,Fire-Roasted Bowl With Carnitas With Pinto Beans w/ Chips and salsa,896,45,18,0,221,"2,536",104,13,11,44,0,0,0,0,0,0,0
+16078,1239,Baja Fish Burrito,921,56,15,0,238,"1,743",67,8,8,53,0,0,0,0,0,0,0
+16079,1239,Baja Fish Burrito w/ Chips and salsa,"1,121",66,17,0,238,"1,923",92,9,8,56,0,0,0,0,0,0,0
+16080,1239,Sonora Fish Burrito,630,25,13,0,209,"1,587",63,4,5,45,0,0,0,0,0,0,0
+16081,1239,Sonora Fish Burrito w/ Chips and salsa,830,35,15,0,209,"1,767",88,5,5,48,0,0,0,0,0,0,0
+16082,1239,Los Cabos Shrimp Burrito,786,40,23,0,359,"2,228",88,14,10,43,0,0,0,0,0,0,0
+16083,1239,Los Cabos Shrimp Burrito w/ Chips and salsa,986,50,25,0,359,"2,408",113,15,10,46,0,0,0,0,0,0,0
+16084,1239,Grande Burrito No Meat Without Beans,662,33,15,0,172,"1,626",80,6,7,22,0,0,0,0,0,0,0
+16085,1239,Grande Burrito No Meat Without Beans w/ Chips and salsa,862,43,17,0,172,"1,806",105,7,7,25,0,0,0,0,0,0,0
+16086,1239,Grande Burrito No Meat With Black Beans,751,34,16,0,172,"1,836",97,10,8,28,0,0,0,0,0,0,0
+16087,1239,Grande Burrito No Meat With Black Beans w/ Chips and salsa,951,44,18,0,172,"2,016",122,11,8,31,0,0,0,0,0,0,0
+16088,1239,Grande Burrito No Meat With Pinto Beans,739,34,16,0,172,"1,836",94,10,8,27,0,0,0,0,0,0,0
+16089,1239,Grande Burrito No Meat With Pinto Beans w/ Chips and salsa,939,44,18,0,172,"2,016",119,11,8,30,0,0,0,0,0,0,0
+16090,1239,Grande Burrito With Chicken Without Beans,794,37,16,0,242,"2,201",82,6,8,45,0,0,0,0,0,0,0
+16091,1239,Grande Burrito With Chicken Without Beans w/ Chips and salsa,994,47,18,0,242,"2,381",107,7,8,48,0,0,0,0,0,0,0
+16092,1239,Grande Burrito With Chicken With Black Beans,883,38,17,0,242,"2,411",99,10,9,51,0,0,0,0,0,0,0
+16093,1239,Grande Burrito With Chicken With Black Beans w/ Chips and salsa,"1,083",48,19,0,242,"2,591",124,11,9,54,0,0,0,0,0,0,0
+16094,1239,Grande Burrito With Chicken With Pinto Beans,871,38,17,0,242,"2,411",96,10,9,50,0,0,0,0,0,0,0
+16095,1239,Grande Burrito With Chicken With Pinto Beans w/ Chips and salsa,"1,071",48,19,0,242,"2,591",121,11,9,53,0,0,0,0,0,0,0
+16096,1239,Grande Burrito With Steak Without Beans,808,41,18,0,241,"2,266",81,7,8,42,0,0,0,0,0,0,0
+16097,1239,Grande Burrito With Steak Without Beans w/ Chips and salsa,"1,008",51,20,0,241,"2,446",106,8,8,45,0,0,0,0,0,0,0
+16098,1239,Grande Burrito With Steak With Black Beans,897,42,19,0,241,"2,476",98,11,9,48,0,0,0,0,0,0,0
+16099,1239,Grande Burrito With Steak With Black Beans w/ Chips and salsa,"1,097",52,21,0,241,"2,656",123,12,9,51,0,0,0,0,0,0,0
+16100,1239,Grande Burrito With Steak With Pinto Beans,885,42,19,0,241,"2,476",95,11,9,47,0,0,0,0,0,0,0
+16101,1239,Grande Burrito With Steak With Pinto Beans w/ Chips and salsa,"1,085",52,21,0,241,"2,656",120,12,9,50,0,0,0,0,0,0,0
+16102,1239,Grande Burrito With Carnitas Without Beans,763,37,17,0,219,"2,154",81,6,8,39,0,0,0,0,0,0,0
+16103,1239,Grande Burrito With Carnitas Without Beans w/ Chips and salsa,963,47,19,0,219,"2,334",106,7,8,42,0,0,0,0,0,0,0
+16104,1239,Grande Burrito With Carnitas With Black Beans,852,38,18,0,219,"2,364",98,10,9,45,0,0,0,0,0,0,0
+16105,1239,Grande Burrito With Carnitas With Black Beans w/ Chips and salsa,"1,052",48,20,0,219,"2,544",123,11,9,48,0,0,0,0,0,0,0
+16106,1239,Grande Burrito With Carnitas With Pinto Beans,840,38,18,0,219,"2,364",95,10,9,44,0,0,0,0,0,0,0
+16107,1239,Grande Burrito With Carnitas With Pinto Beans w/ Chips and salsa,"1,040",48,20,0,219,"2,544",120,11,9,47,0,0,0,0,0,0,0
+16108,1239,Original Gourmet Burrito No Meat,519,24,10,0,159,"1,202",61,4,4,18,0,0,0,0,0,0,0
+16109,1239,Original Gourmet Burrito No Meat w/ Chips and salsa,719,34,12,0,159,"1,382",86,5,4,21,0,0,0,0,0,0,0
+16110,1239,Original Gourmet Burrito With Chicken,651,28,11,0,229,"1,777",63,4,5,41,0,0,0,0,0,0,0
+16111,1239,Original Gourmet Burrito With Chicken w/ Chips and salsa,851,38,13,0,229,"1,957",88,5,5,44,0,0,0,0,0,0,0
+16112,1239,Original Gourmet Burrito With Steak,665,32,13,0,228,"1,842",62,5,5,38,0,0,0,0,0,0,0
+16113,1239,Original Gourmet Burrito With Steak w/ Chips and salsa,865,42,15,0,228,"2,022",87,6,5,41,0,0,0,0,0,0,0
+16114,1239,Original Gourmet Burrito With Carnitas,620,28,11,0,206,"1,730",62,4,5,34,0,0,0,0,0,0,0
+16115,1239,Original Gourmet Burrito With Carnitas w/ Chips and salsa,820,38,13,0,206,"1,910",87,5,5,37,0,0,0,0,0,0,0
+16116,1239,Three Pepper Fajita Burrito Burrito No Meat,719,35,17,0,319,"2,058",85,8,8,32,0,0,0,0,0,0,0
+16117,1239,Three Pepper Fajita Burrito Burrito No Meat w/ Chips and salsa,919,45,19,0,319,"2,238",110,9,8,35,0,0,0,0,0,0,0
+16118,1239,Three Pepper Fajita Burrito Burrito With Chicken,851,39,18,0,389,"2,633",87,8,9,55,0,0,0,0,0,0,0
+16119,1239,Three Pepper Fajita Burrito Burrito With Chicken w/ Chips and salsa,"1,051",49,20,0,389,"2,813",112,9,9,58,0,0,0,0,0,0,0
+16120,1239,Three Pepper Fajita Burrito Burrito With Steak,865,43,20,0,388,"2,698",86,9,9,52,0,0,0,0,0,0,0
+16121,1239,Three Pepper Fajita Burrito Burrito With Steak w/ Chips and salsa,"1,065",53,22,0,388,"2,878",111,10,9,55,0,0,0,0,0,0,0
+16122,1239,Three Pepper Fajita Burrito Burrito With Carnitas,820,39,18,0,366,"2,586",86,8,9,48,0,0,0,0,0,0,0
+16123,1239,Three Pepper Fajita Burrito Burrito With Carnitas w/ Chips and salsa,"1,020",49,20,0,366,"2,766",111,9,9,51,0,0,0,0,0,0,0
+16124,1239,Three Pepper Fajita Burrito with Shrimp,784,37,19,0,430,"2,268",86,12,9,42,0,0,0,0,0,0,0
+16125,1239,California Burrito™ No Meat Without Beans,662,31,14,0,239,"1,407",80,8,6,34,0,0,0,0,0,0,0
+16126,1239,California Burrito™ No Meat Without Beans w/ Chips and salsa,862,41,16,0,239,"1,587",105,9,6,37,0,0,0,0,0,0,0
+16127,1239,California Burrito™ No Meat With Black Beans,751,32,15,0,239,"1,617",96,12,7,40,0,0,0,0,0,0,0
+16128,1239,California Burrito™ No Meat With Black Beans w/ Chips and salsa,951,42,17,0,239,"1,797",121,13,7,43,0,0,0,0,0,0,0
+16129,1239,California Burrito™ No Meat With Pinto Beans,739,32,15,0,239,"1,617",94,12,7,39,0,0,0,0,0,0,0
+16130,1239,California Burrito™ No Meat With Pinto Beans w/ Chips and salsa,939,42,17,0,239,"1,797",119,13,7,42,0,0,0,0,0,0,0
+16131,1239,California Burrito™ With Chicken Without Beans,794,35,15,0,309,"1,982",82,8,7,57,0,0,0,0,0,0,0
+16132,1239,California Burrito™ With Chicken Without Beans w/ Chips and salsa,994,45,17,0,309,"2,162",107,9,7,60,0,0,0,0,0,0,0
+16133,1239,California Burrito™ With Chicken With Black Beans,883,36,16,0,309,"2,192",98,12,8,63,0,0,0,0,0,0,0
+16134,1239,California Burrito™ With Chicken With Black Beans w/ Chips and salsa,"1,083",46,18,0,309,"2,372",123,13,8,66,0,0,0,0,0,0,0
+16135,1239,California Burrito™ With Chicken With Pinto Beans,871,36,16,0,309,"2,192",96,12,8,62,0,0,0,0,0,0,0
+16136,1239,California Burrito™ With Chicken With Pinto Beans w/ Chips and salsa,"1,071",46,18,0,309,"2,372",121,13,8,65,0,0,0,0,0,0,0
+16137,1239,California Burrito™ With Steak Without Beans,808,39,17,0,308,"2,047",81,9,7,54,0,0,0,0,0,0,0
+16138,1239,California Burrito™ With Steak Without Beans w/ Chips and salsa,"1,008",49,19,0,308,"2,227",106,10,7,57,0,0,0,0,0,0,0
+16139,1239,California Burrito™ With Steak With Black Beans,897,40,18,0,308,"2,257",97,13,8,60,0,0,0,0,0,0,0
+16140,1239,California Burrito™ With Steak With Black Beans w/ Chips and salsa,"1,097",50,20,0,308,"2,437",122,14,8,63,0,0,0,0,0,0,0
+16141,1239,California Burrito™ With Steak With Pinto Beans,885,40,18,0,308,"2,257",95,13,8,59,0,0,0,0,0,0,0
+16142,1239,California Burrito™ With Steak With Pinto Beans w/ Chips and salsa,"1,085",50,20,0,308,"2,437",120,14,8,62,0,0,0,0,0,0,0
+16143,1239,California Burrito™ With Carnitas Without Beans,763,35,15,0,286,"1,935",81,8,7,50,0,0,0,0,0,0,0
+16144,1239,California Burrito™ With Carnitas Without Beans w/ Chips and salsa,963,45,17,0,286,"2,115",106,9,7,53,0,0,0,0,0,0,0
+16145,1239,California Burrito™ With Carnitas With Black Beans,852,36,16,0,286,"2,145",97,12,8,56,0,0,0,0,0,0,0
+16146,1239,California Burrito™ With Carnitas With Black Beans w/ Chips and salsa,"1,052",46,18,0,286,"2,325",122,13,8,59,0,0,0,0,0,0,0
+16147,1239,California Burrito™ With Carnitas With Pinto Beans,840,36,16,0,286,"2,145",95,12,8,55,0,0,0,0,0,0,0
+16148,1239,California Burrito™ With Carnitas With Pinto Beans w/ Chips and salsa,"1,040",46,18,0,286,"2,325",120,13,8,58,0,0,0,0,0,0,0
+16149,1239,California Veggie Burrito Without Beans,662,31,14,0,239,"1,407",80,8,6,34,0,0,0,0,0,0,0
+16150,1239,California Veggie Burrito Without Beans w/ Chips and salsa,862,41,16,0,239,"1,587",105,9,6,37,0,0,0,0,0,0,0
+16151,1239,California Veggie Burrito With Black Beans,751,32,15,0,239,"1,617",96,12,7,40,0,0,0,0,0,0,0
+16152,1239,California Veggie Burrito With Black Beans w/ Chips and salsa,951,42,17,0,239,"1,797",121,13,7,43,0,0,0,0,0,0,0
+16153,1239,California Veggie Burrito With Pinto Beans,739,32,15,0,239,"1,617",94,12,7,39,0,0,0,0,0,0,0
+16154,1239,California Veggie Burrito With Pinto Beans w/ Chips and salsa,939,42,17,0,239,"1,797",119,13,7,42,0,0,0,0,0,0,0
+16155,1239,Bean and Cheese Burrito No Meat Without Beans,458,19,9,0,159,911,55,8,2,16,0,0,0,0,0,0,0
+16156,1239,Bean and Cheese Burrito No Meat Without Beans w/ Chips and salsa,658,29,11,0,159,"1,091",80,9,2,19,0,0,0,0,0,0,0
+16157,1239,Bean and Cheese Burrito No Meat With Black Beans,636,20,10,0,159,"1,330",87,16,3,27,0,0,0,0,0,0,0
+16158,1239,Bean and Cheese Burrito No Meat With Black Beans w/ Chips and salsa,836,30,12,0,159,"1,510",112,17,3,30,0,0,0,0,0,0,0
+16159,1239,Bean and Cheese Burrito No Meat With Pinto Beans,611,20,10,0,159,"1,331",83,15,4,25,0,0,0,0,0,0,0
+16160,1239,Bean and Cheese Burrito No Meat With Pinto Beans w/ Chips and salsa,811,30,12,0,159,"1,511",108,16,4,28,0,0,0,0,0,0,0
+16161,1239,Bean and Cheese Burrito With Chicken Without Beans,590,23,10,0,229,"1,486",57,8,3,39,0,0,0,0,0,0,0
+16162,1239,Bean and Cheese Burrito With Chicken Without Beans w/ Chips and salsa,790,33,12,0,229,"1,666",82,9,3,42,0,0,0,0,0,0,0
+16163,1239,Bean and Cheese Burrito With Chicken With Black Beans,768,24,11,0,229,"1,905",89,16,4,50,0,0,0,0,0,0,0
+16164,1239,Bean and Cheese Burrito With Chicken With Black Beans w/ Chips and salsa,968,34,13,0,229,"2,085",114,17,4,53,0,0,0,0,0,0,0
+16165,1239,Bean and Cheese Burrito With Chicken With Pinto Beans,743,24,11,0,229,"1,906",85,15,5,48,0,0,0,0,0,0,0
+16166,1239,Bean and Cheese Burrito With Chicken With Pinto Beans w/ Chips and salsa,943,34,13,0,229,"2,086",110,16,5,51,0,0,0,0,0,0,0
+16167,1239,Bean and Cheese Burrito With Steak Without Beans,604,27,12,0,228,"1,551",56,9,3,36,0,0,0,0,0,0,0
+16168,1239,Bean and Cheese Burrito With Steak Without Beans w/ Chips and salsa,804,37,14,0,228,"1,731",81,10,3,39,0,0,0,0,0,0,0
+16169,1239,Bean and Cheese Burrito With Steak With Black Beans,782,28,13,0,228,"1,970",88,17,4,47,0,0,0,0,0,0,0
+16170,1239,Bean and Cheese Burrito With Steak With Black Beans w/ Chips and salsa,982,38,15,0,228,"2,150",113,18,4,50,0,0,0,0,0,0,0
+16171,1239,Bean and Cheese Burrito With Steak With Pinto Beans,757,28,13,0,228,"1,971",84,16,5,45,0,0,0,0,0,0,0
+16172,1239,Bean and Cheese Burrito With Steak With Pinto Beans w/ Chips and salsa,957,38,15,0,228,"2,151",109,17,5,48,0,0,0,0,0,0,0
+16173,1239,Bean and Cheese Burrito With Carnitas Without Beans,559,23,10,0,206,"1,439",56,8,3,32,0,0,0,0,0,0,0
+16174,1239,Bean and Cheese Burrito With Carnitas Without Beans w/ Chips and salsa,759,33,12,0,206,"1,619",81,9,3,35,0,0,0,0,0,0,0
+16175,1239,Bean and Cheese Burrito With Carnitas With Black Beans,737,24,11,0,206,"1,858",88,16,4,43,0,0,0,0,0,0,0
+16176,1239,Bean and Cheese Burrito With Carnitas With Black Beans w/ Chips and salsa,937,34,13,0,206,"2,038",113,17,4,46,0,0,0,0,0,0,0
+16177,1239,Bean and Cheese Burrito With Carnitas With Pinto Beans,712,24,11,0,206,"1,859",84,15,5,41,0,0,0,0,0,0,0
+16178,1239,Bean and Cheese Burrito With Carnitas With Pinto Beans w/ Chips and salsa,912,34,13,0,206,"2,039",109,16,5,44,0,0,0,0,0,0,0
+16179,1240,Stuffed Fajita Quesadilla™ No Meat,807,53,24,0,467,"1,986",54,12,10,41,0,0,0,0,0,0,0
+16180,1240,Stuffed Fajita Quesadilla™ No Meat w/ Chips and salsa,"1,007",63,26,0,467,"2,166",79,13,10,44,0,0,0,0,0,0,0
+16181,1240,Stuffed Fajita Quesadilla™ With Chicken,939,57,25,0,537,"2,561",56,12,11,64,0,0,0,0,0,0,0
+16182,1240,Stuffed Fajita Quesadilla™ With Chicken w/ Chips and salsa,"1,139",67,27,0,537,"2,741",81,13,11,67,0,0,0,0,0,0,0
+16183,1240,Stuffed Fajita Quesadilla™ With Steak,953,60,27,0,535,"2,626",55,13,11,61,0,0,0,0,0,0,0
+16184,1240,Stuffed Fajita Quesadilla™ With Steak w/ Chips and salsa,"1,153",70,29,0,535,"2,806",80,14,11,64,0,0,0,0,0,0,0
+16185,1240,Stuffed Fajita Quesadilla™ With Carnitas,908,57,25,0,514,"2,514",55,12,11,57,0,0,0,0,0,0,0
+16186,1240,Stuffed Fajita Quesadilla™ With Carnitas w/ Chips and salsa,"1,108",67,27,0,514,"2,694",80,13,11,60,0,0,0,0,0,0,0
+16187,1240,Classic Quesadilla No Meat,892,57,31,0,647,"1,269",60,4,5,40,0,0,0,0,0,0,0
+16188,1240,Classic Quesadilla No Meat w/ Chips and salsa,"1,092",67,33,0,647,"1,449",85,5,5,43,0,0,0,0,0,0,0
+16189,1240,Classic Quesadilla With Chicken,"1,024",61,32,0,717,"1,844",62,4,6,63,0,0,0,0,0,0,0
+16190,1240,Classic Quesadilla With Chicken w/ Chips and salsa,"1,224",71,34,0,717,"2,024",87,5,6,66,0,0,0,0,0,0,0
+16191,1240,Classic Quesadilla With Steak,"1,038",65,34,0,716,"1,909",61,5,6,60,0,0,0,0,0,0,0
+16192,1240,Classic Quesadilla With Steak w/ Chips and salsa,"1,238",75,36,0,716,"2,089",86,6,6,63,0,0,0,0,0,0,0
+16193,1240,Classic Quesadilla With Carnitas,993,61,32,0,694,"1,797",61,4,6,56,0,0,0,0,0,0,0
+16194,1240,Classic Quesadilla With Carnitas w/ Chips and salsa,"1,193",71,34,0,694,"1,977",86,5,6,59,0,0,0,0,0,0,0
+16195,1240,Grande Quesadilla No Meat Without Beans,982,59,32,0,648,"1,858",78,6,7,43,0,0,0,0,0,0,0
+16196,1240,Grande Quesadilla No Meat Without Beans w/ Chips and salsa,"1,182",69,34,0,648,"2,038",103,7,7,46,0,0,0,0,0,0,0
+16197,1240,Grande Quesadilla No Meat With Black Beans,"1,071",60,33,0,648,"2,068",94,10,8,49,0,0,0,0,0,0,0
+16198,1240,Grande Quesadilla No Meat With Black Beans w/ Chips and salsa,"1,271",70,35,0,648,"2,248",119,11,8,52,0,0,0,0,0,0,0
+16199,1240,Grande Quesadilla No Meat With Pinto Beans,"1,059",60,33,0,648,"2,068",92,10,8,48,0,0,0,0,0,0,0
+16200,1240,Grande Quesadilla No Meat With Pinto Beans w/ Chips and salsa,"1,259",70,35,0,648,"2,248",117,11,8,51,0,0,0,0,0,0,0
+16201,1240,Grande Quesadilla With Chicken Without Beans,"1,114",63,33,0,718,"2,433",80,6,8,66,0,0,0,0,0,0,0
+16202,1240,Grande Quesadilla With Chicken Without Beans w/ Chips and salsa,"1,314",73,35,0,718,"2,613",105,7,8,69,0,0,0,0,0,0,0
+16203,1240,Grande Quesadilla With Chicken With Black Beans,"1,203",64,34,0,718,"2,643",96,10,9,72,0,0,0,0,0,0,0
+16204,1240,Grande Quesadilla With Chicken With Black Beans w/ Chips and salsa,"1,403",74,36,0,718,"2,823",121,11,9,75,0,0,0,0,0,0,0
+16205,1240,Grande Quesadilla With Chicken With Pinto Beans,"1,191",64,34,0,718,"2,643",94,10,9,71,0,0,0,0,0,0,0
+16206,1240,Grande Quesadilla With Chicken With Pinto Beans w/ Chips and salsa,"1,391",74,36,0,718,"2,823",119,11,9,74,0,0,0,0,0,0,0
+16207,1240,Grande Quesadilla With Steak Without Beans,"1,128",67,35,0,717,"2,498",79,7,8,63,0,0,0,0,0,0,0
+16208,1240,Grande Quesadilla With Steak Without Beans w/ Chips and salsa,"1,328",77,37,0,717,"2,678",104,8,8,66,0,0,0,0,0,0,0
+16209,1240,Grande Quesadilla With Steak With Black Beans,"1,217",68,36,0,717,"2,708",95,11,9,69,0,0,0,0,0,0,0
+16210,1240,Grande Quesadilla With Steak With Black Beans w/ Chips and salsa,"1,417",78,38,0,717,"2,888",120,12,9,72,0,0,0,0,0,0,0
+16211,1240,Grande Quesadilla With Steak With Pinto Beans,"1,205",68,36,0,717,"2,708",93,11,9,68,0,0,0,0,0,0,0
+16212,1240,Grande Quesadilla With Steak With Pinto Beans w/ Chips and salsa,"1,405",78,38,0,717,"2,888",118,12,9,71,0,0,0,0,0,0,0
+16213,1240,Grande Quesadilla With Carnitas Without Beans,"1,083",63,33,0,695,"2,386",79,6,8,59,0,0,0,0,0,0,0
+16214,1240,Grande Quesadilla With Carnitas Without Beans w/ Chips and salsa,"1,283",73,35,0,695,"2,566",104,7,8,62,0,0,0,0,0,0,0
+16215,1240,Grande Quesadilla With Carnitas With Black Beans,"1,172",64,34,0,695,"2,596",95,10,9,65,0,0,0,0,0,0,0
+16216,1240,Grande Quesadilla With Carnitas With Black Beans w/ Chips and salsa,"1,372",74,36,0,695,"2,776",120,11,9,68,0,0,0,0,0,0,0
+16217,1240,Grande Quesadilla With Carnitas With Pinto Beans,"1,160",64,34,0,695,"2,596",93,10,9,64,0,0,0,0,0,0,0
+16218,1240,Grande Quesadilla With Carnitas With Pinto Beans w/ Chips and salsa,"1,360",74,36,0,695,"2,776",118,11,9,67,0,0,0,0,0,0,0
+16219,1241,Carnitas Guadalajara Taco Platter Without Beans,444,20,7,0,122,619,56,6,4,22,0,0,0,0,0,0,0
+16220,1241,Carnitas Guadalajara Taco Platter Without Beans w/ Chips and salsa,644,30,9,0,122,799,81,7,4,25,0,0,0,0,0,0,0
+16221,1241,Carnitas Guadalajara Taco Platter With Black Beans,563,21,8,0,122,899,77,11,5,29,0,0,0,0,0,0,0
+16222,1241,Carnitas Guadalajara Taco Platter With Black Beans w/ Chips and salsa,763,31,10,0,122,"1,079",102,12,5,32,0,0,0,0,0,0,0
+16223,1241,Carnitas Guadalajara Taco Platter With Pinto Beans,546,21,8,0,122,899,75,11,5,28,0,0,0,0,0,0,0
+16224,1241,Carnitas Guadalajara Taco Platter With Pinto Beans w/ Chips and salsa,746,31,10,0,122,"1,079",100,12,5,31,0,0,0,0,0,0,0
+16225,1241,Two Soft Tacos Platter No Meat Without Beans,480,19,8,0,165,568,76,7,1,20,0,0,0,0,0,0,0
+16226,1241,Two Soft Tacos Platter No Meat Without Beans w/ Chips and salsa,680,29,10,0,165,748,101,8,1,23,0,0,0,0,0,0,0
+16227,1241,Two Soft Tacos Platter No Meat With Black Beans,599,20,9,0,165,848,98,13,2,28,0,0,0,0,0,0,0
+16228,1241,Two Soft Tacos Platter No Meat With Black Beans w/ Chips and salsa,799,30,11,0,165,"1,028",123,14,2,31,0,0,0,0,0,0,0
+16229,1241,Two Soft Tacos Platter No Meat With Pinto Beans,582,20,9,0,165,848,95,12,2,26,0,0,0,0,0,0,0
+16230,1241,Two Soft Tacos Platter No Meat With Pinto Beans w/ Chips and salsa,782,30,11,0,165,"1,028",120,13,2,29,0,0,0,0,0,0,0
+16231,1241,Two Soft Tacos Platter With Chicken Without Beans,568,22,9,0,212,951,78,7,2,36,0,0,0,0,0,0,0
+16232,1241,Two Soft Tacos Platter With Chicken Without Beans w/ Chips and salsa,768,32,11,0,212,"1,131",103,8,2,39,0,0,0,0,0,0,0
+16233,1241,Two Soft Tacos Platter With Chicken With Black Beans,687,23,10,0,212,"1,231",100,13,3,44,0,0,0,0,0,0,0
+16234,1241,Two Soft Tacos Platter With Chicken With Black Beans w/ Chips and salsa,887,33,12,0,212,"1,411",125,14,3,47,0,0,0,0,0,0,0
+16235,1241,Two Soft Tacos Platter With Chicken With Pinto Beans,670,23,10,0,212,"1,231",97,12,3,42,0,0,0,0,0,0,0
+16236,1241,Two Soft Tacos Platter With Chicken With Pinto Beans w/ Chips and salsa,870,33,12,0,212,"1,411",122,13,3,45,0,0,0,0,0,0,0
+16237,1241,Two Soft Tacos Platter With Steak Without Beans,578,24,10,0,211,995,77,8,2,33,0,0,0,0,0,0,0
+16238,1241,Two Soft Tacos Platter With Steak Without Beans w/ Chips and salsa,778,34,12,0,211,"1,175",102,9,2,36,0,0,0,0,0,0,0
+16239,1241,Two Soft Tacos Platter With Steak With Black Beans,697,25,11,0,211,"1,275",99,14,3,41,0,0,0,0,0,0,0
+16240,1241,Two Soft Tacos Platter With Steak With Black Beans w/ Chips and salsa,897,35,13,0,211,"1,455",124,15,3,44,0,0,0,0,0,0,0
+16241,1241,Two Soft Tacos Platter With Steak With Pinto Beans,680,25,11,0,211,"1,275",96,13,3,39,0,0,0,0,0,0,0
+16242,1241,Two Soft Tacos Platter With Steak With Pinto Beans w/ Chips and salsa,880,35,13,0,211,"1,455",121,14,3,42,0,0,0,0,0,0,0
+16243,1241,Two Soft Tacos Platter With Carnitas Without Beans,548,22,9,0,197,921,77,7,2,31,0,0,0,0,0,0,0
+16244,1241,Two Soft Tacos Platter With Carnitas Without Beans w/ Chips and salsa,748,32,11,0,197,"1,101",102,8,2,34,0,0,0,0,0,0,0
+16245,1241,Two Soft Tacos Platter With Carnitas With Black Beans,667,23,10,0,197,"1,201",99,13,3,39,0,0,0,0,0,0,0
+16246,1241,Two Soft Tacos Platter With Carnitas With Black Beans w/ Chips and salsa,867,33,12,0,197,"1,381",124,14,3,42,0,0,0,0,0,0,0
+16247,1241,Two Soft Tacos Platter With Carnitas With Pinto Beans,650,23,10,0,197,"1,201",96,12,3,37,0,0,0,0,0,0,0
+16248,1241,Two Soft Tacos Platter With Carnitas With Pinto Beans w/ Chips and salsa,850,33,12,0,197,"1,381",121,13,3,40,0,0,0,0,0,0,0
+16249,1241,Cheese Enchilada Platter Without Beans,666,38,22,0,483,"1,943",62,5,8,30,0,0,0,0,0,0,0
+16250,1241,Cheese Enchilada Platter Without Beans w/ Chips and salsa,866,48,24,0,483,"2,123",87,6,8,33,0,0,0,0,0,0,0
+16251,1241,Cheese Enchilada Platter With Black Beans,666,38,22,0,483,"1,943",62,5,8,30,0,0,0,0,0,0,0
+16252,1241,Cheese Enchilada Platter With Black Beans w/ Chips and salsa,866,48,24,0,483,"2,123",87,6,8,33,0,0,0,0,0,0,0
+16253,1241,Cheese Enchilada Platter With Pinto Beans,666,38,22,0,483,"1,943",62,5,8,30,0,0,0,0,0,0,0
+16254,1241,Cheese Enchilada Platter With Pinto Beans w/ Chips and salsa,866,48,24,0,483,"2,123",87,6,8,33,0,0,0,0,0,0,0
+16255,1241,Three Pepper Fajita Platter No Meat Without Beans,"1,221",38,14,0,173,"1,213",208,18,8,38,0,0,0,0,0,0,0
+16256,1241,Three Pepper Fajita Platter No Meat Without Beans w/ Chips and salsa,"1,421",48,16,0,173,"1,393",233,19,8,41,0,0,0,0,0,0,0
+16257,1241,Three Pepper Fajita Platter No Meat With Black Beans,"1,340",39,15,0,173,"1,493",230,24,9,45,0,0,0,0,0,0,0
+16258,1241,Three Pepper Fajita Platter No Meat With Black Beans w/ Chips and salsa,"1,540",49,17,0,173,"1,673",255,25,9,48,0,0,0,0,0,0,0
+16259,1241,Three Pepper Fajita Platter No Meat With Pinto Beans,"1,323",39,15,0,173,"1,493",227,23,9,45,0,0,0,0,0,0,0
+16260,1241,Three Pepper Fajita Platter No Meat With Pinto Beans w/ Chips and salsa,"1,523",49,17,0,173,"1,673",252,24,9,48,0,0,0,0,0,0,0
+16261,1241,Three Pepper Fajita Platter With Chicken Without Beans,"1,484",46,16,0,313,"2,362",212,18,10,84,0,0,0,0,0,0,0
+16262,1241,Three Pepper Fajita Platter With Chicken Without Beans w/ Chips and salsa,"1,684",56,18,0,313,"2,542",237,19,10,87,0,0,0,0,0,0,0
+16263,1241,Three Pepper Fajita Platter With Chicken With Black Beans,"1,603",47,17,0,313,"2,642",234,24,11,91,0,0,0,0,0,0,0
+16264,1241,Three Pepper Fajita Platter With Chicken With Black Beans w/ Chips and salsa,"1,803",57,19,0,313,"2,822",259,25,11,94,0,0,0,0,0,0,0
+16265,1241,Three Pepper Fajita Platter With Chicken With Pinto Beans,"1,586",47,17,0,313,"2,642",231,23,11,91,0,0,0,0,0,0,0
+16266,1241,Three Pepper Fajita Platter With Chicken With Pinto Beans w/ Chips and salsa,"1,786",57,19,0,313,"2,822",256,24,11,94,0,0,0,0,0,0,0
+16267,1241,Three Pepper Fajita Platter With Steak Without Beans,"1,513",53,20,0,310,"2,493",210,20,9,77,0,0,0,0,0,0,0
+16268,1241,Three Pepper Fajita Platter With Steak Without Beans w/ Chips and salsa,"1,713",63,22,0,310,"2,673",235,21,9,80,0,0,0,0,0,0,0
+16269,1241,Three Pepper Fajita Platter With Steak With Black Beans,"1,632",54,21,0,310,"2,773",232,26,10,84,0,0,0,0,0,0,0
+16270,1241,Three Pepper Fajita Platter With Steak With Black Beans w/ Chips and salsa,"1,832",64,23,0,310,"2,953",257,27,10,87,0,0,0,0,0,0,0
+16271,1241,Three Pepper Fajita Platter With Steak With Pinto Beans,"1,615",54,21,0,310,"2,773",229,25,10,84,0,0,0,0,0,0,0
+16272,1241,Three Pepper Fajita Platter With Steak With Pinto Beans w/ Chips and salsa,"1,815",64,23,0,310,"2,953",254,26,10,87,0,0,0,0,0,0,0
+16273,1241,Three Pepper Fajita Platter With Carnitas Without Beans,"1,221",38,14,0,173,"1,213",208,18,8,38,0,0,0,0,0,0,0
+16274,1241,Three Pepper Fajita Platter With Carnitas Without Beans w/ Chips and salsa,"1,421",48,16,0,173,"1,393",233,19,8,41,0,0,0,0,0,0,0
+16275,1241,Three Pepper Fajita Platter With Carnitas With Black Beans,"1,340",39,15,0,173,"1,493",230,24,9,45,0,0,0,0,0,0,0
+16276,1241,Three Pepper Fajita Platter With Carnitas With Black Beans w/ Chips and salsa,"1,540",49,17,0,173,"1,673",255,25,9,48,0,0,0,0,0,0,0
+16277,1241,Three Pepper Fajita Platter With Carnitas With Pinto Beans,"1,323",39,15,0,173,"1,493",227,23,9,45,0,0,0,0,0,0,0
+16278,1241,Three Pepper Fajita Platter With Carnitas With Pinto Beans w/ Chips and salsa,"1,523",49,17,0,173,"1,673",252,24,9,48,0,0,0,0,0,0,0
+16279,1241,Taquitos & Quesadilla Platter No Meat Without Beans,"2,026",116,42,0,735,"3,386",172,24,10,86,0,0,0,0,0,0,0
+16280,1241,Taquitos & Quesadilla Platter No Meat Without Beans w/ Chips and salsa,"2,226",126,44,0,735,"3,566",197,25,10,89,0,0,0,0,0,0,0
+16281,1241,Taquitos & Quesadilla Platter No Meat With Black Beans,"2,145",117,43,0,735,"3,666",194,30,11,94,0,0,0,0,0,0,0
+16282,1241,Taquitos & Quesadilla Platter No Meat With Black Beans w/ Chips and salsa,"2,345",127,45,0,735,"3,846",219,31,11,97,0,0,0,0,0,0,0
+16283,1241,Taquitos & Quesadilla Platter No Meat With Pinto Beans,"2,128",117,43,0,735,"3,666",191,29,11,93,0,0,0,0,0,0,0
+16284,1241,Taquitos & Quesadilla Platter No Meat With Pinto Beans w/ Chips and salsa,"2,328",127,45,0,735,"3,846",216,30,11,96,0,0,0,0,0,0,0
+16285,1241,Taquitos & Quesadilla Platter With Chicken Without Beans,"2,158",120,43,0,805,"3,961",174,24,11,109,0,0,0,0,0,0,0
+16286,1241,Taquitos & Quesadilla Platter With Chicken Without Beans w/ Chips and salsa,"2,358",130,45,0,805,"4,141",199,25,11,112,0,0,0,0,0,0,0
+16287,1241,Taquitos & Quesadilla Platter With Chicken With Black Beans,"2,277",121,44,0,805,"4,241",196,30,12,117,0,0,0,0,0,0,0
+16288,1241,Taquitos & Quesadilla Platter With Chicken With Black Beans w/ Chips and salsa,"2,477",131,46,0,805,"4,421",221,31,12,120,0,0,0,0,0,0,0
+16289,1241,Taquitos & Quesadilla Platter With Chicken With Pinto Beans,"2,260",121,44,0,805,"4,241",193,29,12,116,0,0,0,0,0,0,0
+16290,1241,Taquitos & Quesadilla Platter With Chicken With Pinto Beans w/ Chips and salsa,"2,460",131,46,0,805,"4,421",218,30,12,119,0,0,0,0,0,0,0
+16291,1241,Taquitos & Quesadilla Platter With Steak Without Beans,"2,172",124,45,0,804,"4,026",173,25,11,106,0,0,0,0,0,0,0
+16292,1241,Taquitos & Quesadilla Platter With Steak Without Beans w/ Chips and salsa,"2,372",134,47,0,804,"4,206",198,26,11,109,0,0,0,0,0,0,0
+16293,1241,Taquitos & Quesadilla Platter With Steak With Black Beans,"2,291",125,46,0,804,"4,306",195,31,12,114,0,0,0,0,0,0,0
+16294,1241,Taquitos & Quesadilla Platter With Steak With Black Beans w/ Chips and salsa,"2,491",135,48,0,804,"4,486",220,32,12,117,0,0,0,0,0,0,0
+16295,1241,Taquitos & Quesadilla Platter With Steak With Pinto Beans,"2,274",125,46,0,804,"4,306",192,30,12,113,0,0,0,0,0,0,0
+16296,1241,Taquitos & Quesadilla Platter With Steak With Pinto Beans w/ Chips and salsa,"2,474",135,48,0,804,"4,486",217,31,12,116,0,0,0,0,0,0,0
+16297,1241,Taquitos & Quesadilla Platter With Carnitas Without Beans,"2,127",120,44,0,782,"3,915",173,24,11,103,0,0,0,0,0,0,0
+16298,1241,Taquitos & Quesadilla Platter With Carnitas Without Beans w/ Chips and salsa,"2,327",130,46,0,782,"4,095",198,25,11,106,0,0,0,0,0,0,0
+16299,1241,Taquitos & Quesadilla Platter With Carnitas With Black Beans,"2,246",121,45,0,782,"4,195",195,30,12,111,0,0,0,0,0,0,0
+16300,1241,Taquitos & Quesadilla Platter With Carnitas With Black Beans w/ Chips and salsa,"2,446",131,47,0,782,"4,375",220,31,12,114,0,0,0,0,0,0,0
+16301,1241,Taquitos & Quesadilla Platter With Carnitas With Pinto Beans,"2,229",121,45,0,782,"4,195",192,29,12,110,0,0,0,0,0,0,0
+16302,1241,Taquitos & Quesadilla Platter With Carnitas With Pinto Beans w/ Chips and salsa,"2,429",131,47,0,782,"4,375",217,30,12,113,0,0,0,0,0,0,0
+16303,1241,Enchilada Platter No Meat Without Beans,510,24,13,0,245,"1,895",62,5,7,20,0,0,0,0,0,0,0
+16304,1241,Enchilada Platter No Meat Without Beans w/ Chips and salsa,710,34,15,0,245,"2,075",87,6,7,23,0,0,0,0,0,0,0
+16305,1241,Enchilada Platter No Meat With Black Beans,628,25,14,0,245,"2,175",84,10,8,27,0,0,0,0,0,0,0
+16306,1241,Enchilada Platter No Meat With Black Beans w/ Chips and salsa,828,35,16,0,245,"2,355",109,11,8,30,0,0,0,0,0,0,0
+16307,1241,Enchilada Platter No Meat With Pinto Beans,611,25,14,0,245,"2,175",80,10,8,26,0,0,0,0,0,0,0
+16308,1241,Enchilada Platter No Meat With Pinto Beans w/ Chips and salsa,811,35,16,0,245,"2,355",105,11,8,29,0,0,0,0,0,0,0
+16309,1241,Enchilada Platter With Chicken Without Beans,685,29,15,0,338,"2,661",65,5,8,51,0,0,0,0,0,0,0
+16310,1241,Enchilada Platter With Chicken Without Beans w/ Chips and salsa,885,39,17,0,338,"2,841",90,6,8,54,0,0,0,0,0,0,0
+16311,1241,Enchilada Platter With Chicken With Black Beans,803,30,16,0,338,"2,941",87,10,9,58,0,0,0,0,0,0,0
+16312,1241,Enchilada Platter With Chicken With Black Beans w/ Chips and salsa,"1,003",40,18,0,338,"3,121",112,11,9,61,0,0,0,0,0,0,0
+16313,1241,Enchilada Platter With Chicken With Pinto Beans,786,30,16,0,338,"2,941",83,10,9,57,0,0,0,0,0,0,0
+16314,1241,Enchilada Platter With Chicken With Pinto Beans w/ Chips and salsa,986,40,18,0,338,"3,121",108,11,9,60,0,0,0,0,0,0,0
+16315,1241,Enchilada Platter With Steak Without Beans,705,34,17,0,337,"2,748",64,7,8,46,0,0,0,0,0,0,0
+16316,1241,Enchilada Platter With Steak Without Beans w/ Chips and salsa,905,44,19,0,337,"2,928",89,8,8,49,0,0,0,0,0,0,0
+16317,1241,Enchilada Platter With Steak With Black Beans,823,35,18,0,337,"3,028",86,12,9,53,0,0,0,0,0,0,0
+16318,1241,Enchilada Platter With Steak With Black Beans w/ Chips and salsa,"1,023",45,20,0,337,"3,208",111,13,9,56,0,0,0,0,0,0,0
+16319,1241,Enchilada Platter With Steak With Pinto Beans,806,35,18,0,337,"3,028",82,12,9,52,0,0,0,0,0,0,0
+16320,1241,Enchilada Platter With Steak With Pinto Beans w/ Chips and salsa,"1,006",45,20,0,337,"3,208",107,13,9,55,0,0,0,0,0,0,0
+16321,1241,Enchilada Platter With Carnitas Without Beans,645,29,15,0,307,"2,599",63,5,8,42,0,0,0,0,0,0,0
+16322,1241,Enchilada Platter With Carnitas Without Beans w/ Chips and salsa,845,39,17,0,307,"2,779",88,6,8,45,0,0,0,0,0,0,0
+16323,1241,Enchilada Platter With Carnitas With Black Beans,763,30,16,0,307,"2,879",85,10,9,49,0,0,0,0,0,0,0
+16324,1241,Enchilada Platter With Carnitas With Black Beans w/ Chips and salsa,963,40,18,0,307,"3,059",110,11,9,52,0,0,0,0,0,0,0
+16325,1241,Enchilada Platter With Carnitas With Pinto Beans,746,30,16,0,307,"2,879",81,10,9,48,0,0,0,0,0,0,0
+16326,1241,Enchilada Platter With Carnitas With Pinto Beans w/ Chips and salsa,946,40,18,0,307,"3,059",106,11,9,51,0,0,0,0,0,0,0
+16327,1242,Chile Lime Salad No Meat,643,46,12,0,33,"1,245",49,10,18,21,0,0,0,0,0,0,0
+16328,1242,Chile Lime Salad No Meat w/ Chips and salsa,843,56,14,0,33,"1,425",74,11,18,24,0,0,0,0,0,0,0
+16329,1242,Chile Lime Salad With Chicken,775,50,13,0,103,"1,820",51,10,19,44,0,0,0,0,0,0,0
+16330,1242,Chile Lime Salad With Chicken w/ Chips and salsa,975,60,15,0,103,"2,000",76,11,19,47,0,0,0,0,0,0,0
+16331,1242,Chile Lime Salad With Steak,789,54,15,0,102,"1,885",50,11,19,41,0,0,0,0,0,0,0
+16332,1242,Chile Lime Salad With Steak w/ Chips and salsa,989,64,17,0,102,"2,065",75,12,19,44,0,0,0,0,0,0,0
+16333,1242,Chile Lime Salad With Carnitas,643,46,12,0,33,"1,245",49,10,18,21,0,0,0,0,0,0,0
+16334,1242,Chile Lime Salad With Carnitas w/ Chips and salsa,843,56,14,0,33,"1,425",74,11,18,24,0,0,0,0,0,0,0
+16335,1242,Taco Salad No Meat Without Beans,738,39,17,0,173,"1,021",87,6,9,21,0,0,0,0,0,0,0
+16336,1242,Taco Salad No Meat With Black Beans,857,40,18,0,173,"1,301",108,11,10,28,0,0,0,0,0,0,0
+16337,1242,Taco Salad No Meat With Pinto Beans,840,40,18,0,173,"1,301",106,11,10,27,0,0,0,0,0,0,0
+16338,1242,Taco Salad With Chicken Without Beans,870,43,18,0,243,"1,596",89,6,10,44,0,0,0,0,0,0,0
+16339,1242,Taco Salad With Chicken With Black Beans,989,44,19,0,243,"1,876",110,11,11,51,0,0,0,0,0,0,0
+16340,1242,Taco Salad With Chicken With Pinto Beans,972,44,19,0,243,"1,876",108,11,11,50,0,0,0,0,0,0,0
+16341,1242,Taco Salad With Steak Without Beans,884,47,20,0,242,"1,661",88,7,10,41,0,0,0,0,0,0,0
+16342,1242,Taco Salad With Steak With Black Beans,"1,003",48,21,0,242,"1,941",109,12,11,48,0,0,0,0,0,0,0
+16343,1242,Taco Salad With Steak With Pinto Beans,986,48,21,0,242,"1,941",107,12,11,47,0,0,0,0,0,0,0
+16344,1242,Taco Salad With Carnitas Without Beans,839,43,18,0,220,"1,549",88,6,10,37,0,0,0,0,0,0,0
+16345,1242,Taco Salad With Carnitas With Black Beans,958,44,19,0,220,"1,829",109,11,11,44,0,0,0,0,0,0,0
+16346,1242,Taco Salad With Carnitas With Pinto Beans,941,44,19,0,220,"1,829",107,11,11,43,0,0,0,0,0,0,0
+16347,1242,Chipotle Shrimp Salad,798,56,15,0,216,"1,896",52,14,9,28,0,0,0,0,0,0,0
+16348,1243,Nachos No Meat Without Beans,"1,384",82,35,0,490,"1,611",126,9,6,38,0,0,0,0,0,0,0
+16349,1243,Nachos No Meat With Black Beans,"1,473",83,36,0,490,"1,821",143,13,7,44,0,0,0,0,0,0,0
+16350,1243,Nachos No Meat With Pinto Beans,"1,461",83,36,0,490,"1,821",140,13,7,43,0,0,0,0,0,0,0
+16351,1243,Nachos With Chicken Without Beans,"1,516",86,36,0,560,"2,186",128,9,7,61,0,0,0,0,0,0,0
+16352,1243,Nachos With Chicken With Black Beans,"1,605",87,37,0,560,"2,396",145,13,8,67,0,0,0,0,0,0,0
+16353,1243,Nachos With Chicken With Pinto Beans,"1,593",87,37,0,560,"2,396",142,13,8,66,0,0,0,0,0,0,0
+16354,1243,Nachos With Steak Without Beans,"1,530",90,38,0,559,"2,251",127,10,7,58,0,0,0,0,0,0,0
+16355,1243,Nachos With Steak With Black Beans,"1,619",91,39,0,559,"2,461",144,14,8,64,0,0,0,0,0,0,0
+16356,1243,Nachos With Steak With Pinto Beans,"1,607",91,39,0,559,"2,461",141,14,8,63,0,0,0,0,0,0,0
+16357,1243,Nachos With Carnitas Without Beans,"1,485",86,37,0,537,"2,140",127,9,7,55,0,0,0,0,0,0,0
+16358,1243,Nachos With Carnitas With Black Beans,"1,574",87,38,0,537,"2,350",144,13,8,61,0,0,0,0,0,0,0
+16359,1243,Nachos With Carnitas With Pinto Beans,"1,562",87,38,0,537,"2,350",141,13,8,60,0,0,0,0,0,0,0
+16360,1243,"Chips, Guacamole and Salsa","1,182",68,18,0,0,"1,810",125,11,3,17,0,0,0,0,0,0,0
+16361,1244,Beans Without Beans,20,2,1,0,4,86,0,0,0,2,0,0,0,0,0,0,0
+16362,1244,Beans With Black Beans,198,3,2,0,4,505,33,8,2,13,0,0,0,0,0,0,0
+16363,1244,Beans With Pinto Beans,173,3,2,0,4,506,28,7,2,12,0,0,0,0,0,0,0
+16364,1244,Rice,122,5,2,0,5,497,22,1,1,3,0,0,0,0,0,0,0
+16365,1245,Bean and Cheese Burrito Kids Plate Without Beans,662,22,11,0,160,"1,603",96,8,4,25,0,0,0,0,0,0,0
+16366,1245,Bean and Cheese Burrito Kids Plate With Black Beans,781,23,12,0,160,"1,883",117,13,5,32,0,0,0,0,0,0,0
+16367,1245,Bean and Cheese Burrito Kids Plate With Pinto Beans,764,23,12,0,160,"1,883",115,13,5,31,0,0,0,0,0,0,0
+16368,1245,Quesadilla Kids Plate Without Beans,464,22,11,0,240,968,53,2,1,17,0,0,0,0,0,0,0
+16369,1245,Quesadilla Kids Plate With Black Beans,583,23,12,0,240,"1,248",74,7,2,24,0,0,0,0,0,0,0
+16370,1245,Quesadilla Kids Plate With Pinto Beans,566,23,12,0,240,"1,248",72,7,2,23,0,0,0,0,0,0,0

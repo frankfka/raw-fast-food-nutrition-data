@@ -1,0 +1,25 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+121601,21505,7.5 oz Cheese Pizza (Personal Microwavable),1/2 pizza - 7.5 oz - 128 g,350,18,6,0,30,700,35,2,2,12,2,8,20,15,0,0,0
+121602,21505,18 oz Cheese Pizza (feeds 2-3),1/4 pizza - 18 oz - 142 g,370,19,6,0,30,770,38,2,2,12,2,10,20,15,0,0,0
+121603,21505,26 oz Cheese Pizza (Family - feeds 3-4),1/6 pizza - 26 oz - 151 g,400,21,7,0,35,800,39,2,3,14,2,10,25,15,0,0,0
+121604,21505,52 oz Cheese 2-pack,1/6 pizza - 52 oz - 151 g,400,21,7,0,35,800,39,2,3,14,2,10,25,15,0,0,0
+121605,21505,7.5 oz Four Cheese Pizza (Personal Microwavable),1/2 pizza - 7.5 oz - 128 g,350,18,6,0,30,700,35,2,2,12,6,8,20,15,0,0,0
+121606,21505,18 oz Four Cheese Pizza (feeds 2-3),1/4 pizza - 18 oz - 142 g,370,19,6,0,30,770,38,2,2,12,2,10,20,15,0,0,0
+121607,21505,8 oz Sausage Pizza (Personal Microwavable),1/2 pizza - 8 oz - 149 g,400,21,7,0,45,850,35,2,2,17,2,8,20,15,0,0,0
+121608,21505,20 oz Sausage Pizza (feeds 2-3),1/4 pizza - 20 oz - 170 g,440,22,7,0,55,970,39,2,2,20,2,10,20,15,0,0,0
+121609,21505,30 oz Sausage Pizza (Family - feeds 3-4),1/7 pizza - 30 oz - 144 g,370,19,6,0,45,820,33,2,2,17,2,8,15,15,0,0,0
+121610,21505,60 oz Sausage 2-pack,1/7 pizza - 60 oz - 144 g,370,19,6,0,45,820,33,2,2,17,2,8,15,15,0,0,0
+121611,21505,7.5 oz Pepperoni Pizza (Personal Microwavable),1/2 pizza - 7.5 oz - 132 g,370,19,7,0,30,780,35,2,2,12,2,8,20,15,0,0,0
+121612,21505,18 oz Pepperoni Pizza (feeds 2-3),1/4 pizza - 18 oz - 147 g,400,21,7,0,30,870,39,2,3,13,2,10,20,15,0,0,0
+121613,21505,30 oz Pepperoni Pizza (Family - feeds 3-4),1/6 pizza - 30 oz - 156 g,420,23,8,0,40,900,39,2,3,15,2,10,25,15,0,0,0
+121614,21505,9 oz Sausage Pepperoni Pizza (Personal Microwavable),1/2 pizza - 9 oz - 153 g,420,21,7,0,40,990,35,2,3,21,2,8,25,15,0,0,0
+121615,21505,21 oz Sausage Pepperoni Pizza (feeds 2-3),1/5 pizza - 21 oz - 140 g,370,18,6,0,40,900,31,1,2,19,2,6,20,15,0,0,0
+121616,21505,31 oz Sausage Pepperoni Pizza (Family - feeds 3-4),1/7 pizza - 31 oz - 148 g,390,21,7,0,50,900,33,2,2,17,2,8,15,15,0,0,0
+121617,21505,62 oz Sausage Pepperoni 2-pack,1/7 pizza - 62 oz - 148 g,390,21,7,0,50,900,33,2,2,17,2,8,15,15,0,0,0
+121618,21505,26 oz Cheese Plum Tomato Pizza (Family - feeds 3-4),1/6 pizza - 26 oz - 161 g,400,21,7,0,35,740,39,2,3,14,10,10,25,15,0,0,0
+121619,21505,8 oz Grilled Vegetable Pizza (Personal Microwavable),1/2 pizza - 8 oz - 142 g,330,15,4.5,0,15,720,36,2,3,13,20,10,20,15,0,0,0
+121620,21505,10 oz Sausage Pizza with Grilled Vegetables (Personal Microwavable),1/2 pizza - 10 oz - 170 g,400,21,7,0,45,860,36,2,3,18,20,15,20,15,0,0,0
+121621,21505,32 oz Sausage Pizza with Grilled Vegetables (Family - feeds 3-4),1/7 pizza - 32 oz - 148 g,360,18,6,0,40,800,34,2,2,16,10,10,15,15,0,0,0
+121622,21506,22 oz Cheese Deep Dish Pizza,1/4 pizza - 22 oz - 170 g,420,21,6,0,30,900,46,2,3,13,4,10,20,15,0,0,0
+121623,21506,25 oz Sausage Deep Dish Pizza,1/5 pizza - 25 oz - 170 g,390,20,6,0,45,810,37,2,2,17,10,8,15,15,0,0,0
+121624,21506,24 oz Pepperoni Deep Dish Pizza,1/5 pizza - 24 oz - 140 g,360,18,6,0,25,800,37,2,3,113,2,8,15,15,0,0,0

@@ -1,0 +1,9 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+42341,3044,Lean Brisket,190,6,2,0,95,230,0.5,0,0,34,0,0,12,4,0,0,0
+42342,3044,Chicken,270,14,4,0,175,230,2,1,1,33,0,0,0,0,0,0,0
+42343,3044,Spare Ribs,440,32,14,0,120,450,8,1,6,31,0,0,40,3.3,0,0,0
+42344,3044,Baby Back Ribs,380,25,10,0,140,530,8,1,7,32,0,0,0,0,0,0,0
+42345,3044,Turkey,280,4,1,0,95,0,2,0,0,58,0,0,0,0,0,0,0
+42346,3044,Ham,270,5,2,0,120,0,9,0,0,47,0,0,0,0,0,0,0
+42347,3045,Bar-B-Q Beans,210,3,0,0,0,0,36,0,0,9,0,0,0,0,0,0,0
+42348,3045,Cole Slaw,130,9,0,0,0,0,12,0,0,1,0,0,0,0,0,0,0

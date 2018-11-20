@@ -1,0 +1,6 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+43731,3207,Grilled Salmon,740,23,3,0,125,"1,420",76,6,0,55,0,0,0,0,0,0,0
+43732,3207,Mediterranean-Style Chicken Sausage,430,15,3,0,160,"1,310",34,10,0,46,0,0,0,0,0,0,0
+43733,3207,Ratatouille,445,6,1,0,0,"1,565",88,9,0,11,0,0,0,0,0,0,0
+43734,3208,Pacific Rim Avocado and Shrimp Salad,375,19,3,0,275,920,21,9,0,34,0,0,0,0,0,0,0
+43735,3208,Salad Nicoise,585,14,3,0,245,"1,250",79,10,0,36,0,0,0,0,0,0,0

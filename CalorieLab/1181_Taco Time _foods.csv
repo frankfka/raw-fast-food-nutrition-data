@@ -1,0 +1,5 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+117332,21361,Gourmet Chicken Burrito,12.5 oz,606,26,0,0,92,891,53,9,0,40,0,0,0,0,0,0,0
+117333,21361,Gourmet Mahi Mahi Burrito,13.5 oz,759,39,0,0,34,1191,78,5,0,25,0,0,0,0,0,0,0
+117334,21361,Gourmet Shredded Beef Burrito,12.5 oz,738,42.4,0,0,90.6,1563,55,9,0,33,0,0,0,0,0,0,0
+117335,21361,Smother IT,4 oz,282,17,0,0,28,341,21,0,0,10,0,0,0,0,0,0,0

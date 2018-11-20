@@ -1,0 +1,8 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+123888,21714,Roast Chicken Pesto Wrap,2 cups,480,20,8,0,155,1485,22,5,0,52,0,0,0,0,0,0,0
+123889,21715,Tomato Angel Hair Pasta,2 cups,700,18,3,0,15,65,115,9,0,24,0,0,0,0,0,0,0
+123890,21716,Chinese Chicken Salad,2 cups,450,12,1.5,0,85,1010,47,8,0,40,0,0,0,0,0,0,0
+123891,21716,Chopped Chicken Salad,2 cups,425,11,2,0,90,3690,30,6,0,52,0,0,0,0,0,0,0
+123892,21716,Oak Roasted Salmon on Ponzu Salad,1.5 cups,470,19,2,0,110,2200,21,5,0,50,0,0,0,0,0,0,0
+123893,21716,Oak Roasted Asian Portobello Mushroom,2 cups,110,5,1,0,5,900,10,3,0,7,0,0,0,0,0,0,0
+123894,21717,Fresh Tomato Basil Soup,1 cup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

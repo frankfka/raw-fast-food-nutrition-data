@@ -1,0 +1,31 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+808,71,Vegetarian Spring Rolls,267,7,1,0,0,80,50,4.4,4.4,4,48,5,12,11,0,0,0
+809,72,"Tom Yam Koong, The Famous Thai Prawn Soup",86,3,2,0,61,"1,157",6,0.6,0.9,10,11,3,3,8,0,0,0
+810,73,Fried Rice With Chicken Breast And Vegetables,405,6,1,0,40,634,62,3.1,4.8,25,20,6,10,21,0,0,0
+811,73,"Fried Rice ""Tasty Thai"" With Prawns, Baby Corn, Asparagos",474,7,1,0,76,653,83,5.2,4.6,20,19,13,11,31,0,0,0
+812,73,Stir Fried Ground Pork With Basil Leaves,405,9,2,0,65,336,54,1.9,1.7,27,18,8,6,23,0,0,0
+813,73,Stir Fried Miixed Vegetables,474,9,1,0,0,196,89,11,6.2,13,57,11,13,26,0,0,0
+814,73,Sweet And Sour With Pork Loin,464,11,2,0,48,794,67,2.1,10,23,30,5,8,19,0,0,0
+815,74,"Pad Thai, Stir Fried Noodles With Chicken Breast",606,10,1,0,45,609,96,4.9,3.5,34,18,11,6,20,0,0,0
+816,74,"Pad Thai, Stir Fried Noodles With Prawns",571,10,1,0,65,622,97,4.9,3.5,26,18,12,8,22,0,0,0
+817,75,"Panaeng Curry, Beef In Red Panaeng Curry",490,18,10,0,54,700,54,0.9,1.1,28,5,1,5,30,0,0,0
+818,75,Yellow Curry With Chicken Breast,604,21,14,0,58,562,73,3.3,4.7,31,49,6,8,32,0,0,0
+819,75,Green Curry With Chicken Breast,512,18,13,0,58,586,58,2.9,3.5,30,11,5,7,30,0,0,0
+820,76,Beef Salad Thai Style,173,3,1,0,38,"1,719",19,2.3,11,18,39,11,6,10,0,0,0
+821,77,Vegetarian Spring Rolls,267,7,1,0,0,80,50,4.4,4.4,4,48,5,12,11,0,0,0
+822,77,Stir Fried Mixed Vegetables,476,9,1,0,0,196,90,11,6.3,13,57,11,13,27,0,0,0
+823,78,Jasmine Rice,228,1,0,0,0,0,40,0.8,0.2,5,0,0,4,13,0,0,0
+824,79,Sweet Chili Dip,19,0,0,0,0,128,24,0.6,3.2,0,1,3,0,1,0,0,0
+825,79,Sauce Sriracha,1,0,0,0,0,27,0,0,0.1,0,1,0,0,0,0,0,0
+826,79,Soy Sauce,3,0,0,0,0,0,0,0,0.1,0,0,0,0,1,0,0,0
+827,79,Chili Pepper With Fish Sauce,11,0,0,0,0,"1,159",2,0.2,0.5,1,24,2,1,1,0,0,0
+828,80,Pineapple Popsticks,48,0.1,0,0,0,1,13,1.4,9,0.5,36,56,13,0.3,0,0,0
+829,80,Mango Posticks,65,0.3,0,0,0,2,17,1.8,15,0.5,28,765,10,0.1,0,0,0
+830,80,Longan Popsticks,60,0.1,0,0,0,0,15,1.1,0,1.3,84,0,1,0.1,0,0,0
+831,80,Fruit Salad,114,0.5,0,0,0,3,29,3,24,1.2,94,678,22,0.5,0,0,0
+832,81,Fresh Juices,200,1,0,0,0,0,44,0,0,0,60,0,0,0,0,0,0
+833,81,Diet Coke,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+834,81,Regular Coke,180,2.4,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0
+835,81,Mineral Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+836,81,"Ice Tea, Green Tea",149,0,0,0,0,0,1,0,0,0,66,0,0,0,0,0,0
+837,81,Coffee,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,35 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+116002,21230,Mighty Taco,soft shell - 4.2 oz,237,13,6,0,33,423,18,2,1,13,0,0,0,0,0,0,0
+116003,21230,Bean & Cheese Taco,soft shell - 3.4 oz,204,6,3,0,11,383,29,4,1,8,0,0,0,0,0,0,0
+116004,21230,Beef & Cheese Taco,soft shell - 3.4 oz,232,13,6,0,33,423,17,2,1,12,0,0,0,0,0,0,0
+116005,21230,Beef/Bean & Cheese Taco,soft shell - 3.4 oz,218,9,4,0,22,403,23,3,1,10,0,0,0,0,0,0,0
+116006,21230,Vegetarian Taco,soft shell - 4 oz,237,14,8,0,33,207,18,1,1,9,0,0,0,0,0,0,0
+116007,21230,Mighty Taco,hard shell - 3.7 oz,221,14,6,0,33,258,13,1,1,12,0,0,0,0,0,0,0
+116008,21230,Bean & Cheese Taco,hard shell - 2.9 oz,188,7,3,0,11,218,24,3,1,7,0,0,0,0,0,0,0
+116009,21230,Beef & Cheese Taco,hard shell - 2.9 oz,216,14,6,0,33,258,12,1,1,11,0,0,0,0,0,0,0
+116010,21230,Beef/Bean & Cheese Taco,hard shell - 2.9 oz,202,10,4,0,22,238,18,2,1,9,0,0,0,0,0,0,0
+116011,21230,Vegetarian Taco,hard shell - 3.5 oz,221,15,8,0,33,42,13,0,1,8,0,0,0,0,0,0,0
+116012,21231,Super Mighty,soft shell - 8.6 oz,489,26,12,0,66,880,39,4,2,26,0,0,0,0,0,0,0
+116013,21231,Beef & Cheese Burrito,soft shell - 7.2 oz,483,26,12,0,66,880,38,4,2,25,0,0,0,0,0,0,0
+116014,21231,Bean & Cheese Burrito,soft shell - 7.2 oz,425,13,6,0,22,799,60,7,1,18,0,0,0,0,0,0,0
+116015,21231,Beef/Bean & Cheese Burrito,soft shell - 7.2 oz,454,20,9,0,44,840,49,6,2,22,0,0,0,0,0,0,0
+116016,21231,Vegetarian Burrito,soft shell - 7.8 oz,491,28,17,0,65,448,38,2,1,19,0,0,0,0,0,0,0
+116017,21231,Burrito De-Lite,soft shell - 7.8 oz,329,6,2,0,25,946,50,5,3,20,0,0,0,0,0,0,0
+116018,21231,El Nino Burrito,soft shell - 13.3 oz,796,45,18,0,111,1665,54,7,2,46,0,0,0,0,0,0,0
+116019,21231,Three Cheese Nacho Burrito,soft shell - 9.4 oz,588,35,16,0,83,1459,50,4,4,23,0,0,0,0,0,0,0
+116020,21232,Small Chicken Fajita,soft shell - 3.7 oz,193,7,4,0,36,366,16,1,1,15,0,0,0,0,0,0,0
+116021,21232,Small Steak Fajita,soft shell - 3.7 oz,203,8,4,0,33,501,17,2,2,13,0,0,0,0,0,0,0
+116022,21232,Large Chicken Fajita,soft shell - 7.6 oz,403,15,7,0,72,766,35,2,1,31,0,0,0,0,0,0,0
+116023,21232,Large Steak Fajita,soft shell - 7.6 oz,422,18,8,0,67,1036,37,3,3,28,0,0,0,0,0,0,0
+116024,21232,Small Chicken Roastito,soft shell - 4.5 oz,216,9,4,0,43,562,18,3,3,16,0,0,0,0,0,0,0
+116025,21232,Small Steak Roastito,soft shell - 4.5 oz,226,10,5,0,40,697,19,3,4,15,0,0,0,0,0,0,0
+116026,21232,Large Chicken Roastito,soft shell - 9.3 oz,450,19,8,0,85,1159,39,5,6,34,0,0,0,0,0,0,0
+116027,21232,Large Steak Roastito,soft shell - 9.3 oz,470,22,9,0,80,1429,41,6,8,31,0,0,0,0,0,0,0
+116028,21233,Nachos Deluxe,hard shell - 10 oz,600,38,14,0,74,1567,49,3,6,16,0,0,0,0,0,0,0
+116029,21233,Chips & Salsa,hard shell - 5 oz,320,15,2,0,0,800,45,2,6,2,0,0,0,0,0,0,0
+116030,21233,Nachos,hard shell - 5 oz,442,28,10,0,38,950,37,2,0,8,0,0,0,0,0,0,0
+116031,21233,Layered Bean Dip,hard shell - 12 oz,585,26,8,0,32,1708,71,7,5,16,0,0,0,0,0,0,0
+116032,21233,Poppers,hard shell - 5 oz,360,21,8,0,30,1210,29,2,6,11,0,0,0,0,0,0,0
+116033,21233,Side Of Beans,hard shell - 7 oz,264,6,3,0,18,705,40,8,0,16,0,0,0,0,0,0,0
+116034,21234,Beef Salad,hard shell - 10.9 oz,328,23,11,0,80,684,9,3,1,24,0,0,0,0,0,0,0
+116035,21234,Chicken Salad,hard shell - 9.9 oz,242,12,7,0,85,570,5,1,0,29,0,0,0,0,0,0,0

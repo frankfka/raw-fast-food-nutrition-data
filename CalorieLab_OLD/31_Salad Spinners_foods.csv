@@ -1,0 +1,588 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+2679,169,Artichoke Eggs Florentine,900,69,39,0,583,"1,524",46,4,2,26,8,105,25,35,0,0,0
+2680,169,Double Bacon Eggs Benedict,"1,059",81,44,0,633,"2,599",43,2,2,40,25,55,20,35,0,0,0
+2681,169,Smoked Turkey Eggs Benedict,940,69,39,0,608,"1,968",43,2,2,37,0,55,20,30,0,0,0
+2682,169,Three Eggs - Egg Whites - Bacon,521,26,8,0,61,"2,035",27,3,0,43,0,0,6,10,0,0,0
+2683,169,Three Eggs - Egg Whites - Canadian Bacon,316,6,2,0,33,"1,668",27,3,0,36,20,0,6,10,0,0,0
+2684,169,Three Eggs - Egg Whites - Chicken Sausage,333,10,3,0,68,"1,378",31,3,1,30,0,0,10,25,0,0,0
+2685,169,Three Eggs - Fried - Bacon,795,55,18,0,826,"1,503",26,3,1,45,30,25,15,30,0,0,0
+2686,169,Three Eggs - Fried - Canadian Bacon,573,32,9,0,810,"1,474",27,3,1,41,20,25,15,30,0,0,0
+2687,169,Three Eggs - Fried - Chicken Sausage,590,36,10,0,845,"1,184",30,3,2,35,0,25,20,40,0,0,0
+2688,169,Three Eggs - Poached - Bacon,657,41,13,0,694,"1,935",26,3,1,44,0,15,15,25,0,0,0
+2689,169,Three Eggs - Poached - Canadian Bacon,451,21,7,0,666,"1,568",26,3,1,37,20,15,15,25,0,0,0
+2690,169,Three Eggs - Poached - Chicken Sausage,469,24,8,0,701,"1,278",30,3,2,31,0,15,20,40,0,0,0
+2691,169,Three Eggs - Scrambled - Bacon,735,50,16,0,647,"1,632",28,3,3,41,30,20,15,25,0,0,0
+2692,169,Three Eggs - Scrambled - Canadian Bacon,513,27,8,0,632,"1,604",29,3,3,37,20,20,15,20,0,0,0
+2693,169,Three Eggs - Scrambled - Chicken Sausage,531,30,9,0,667,"1,313",33,3,4,31,0,20,20,35,0,0,0
+2694,169,Toad in the Hole - Scrambled Eggs,449,30,7,0,435,852,29,1,0,15,0,30,10,20,0,0,0
+2695,169,Toad in the Hole - Egg Whites,257,8,1,0,0,544,29,1,1,17,0,6,4,8,0,0,0
+2696,169,Toad in the Hole - Fried Eggs,383,22,5,0,420,543,29,1,1,17,0,20,10,20,0,0,0
+2697,169,Toad in the Hole - Poached Eggs,345,17,5,0,422,650,28,1,1,17,0,15,10,20,0,0,0
+2698,169,Two Egg Whites - Bacon,493,26,8,0,61,"1,855",26,3,0,37,0,0,6,10,0,0,0
+2699,169,Two Egg Whites - Canadian Bacon,287,6,2,0,33,"1,488",26,3,0,30,20,0,6,10,0,0,0
+2700,169,Two Eggs Whites - Chicken Sausage,305,10,3,0,68,"1,197",30,3,1,24,0,0,10,25,0,0,0
+2701,169,Two Fried Eggs - Bacon,638,44,14,0,469,"1,343",25,3,1,34,30,15,10,25,0,0,0
+2702,169,Two Fried Eggs - Canadian Bacon,416,20,6,0,453,"1,315",26,3,1,31,20,15,10,20,0,0,0
+2703,169,Two Fried Eggs - Chicken Sausage,433,24,7,0,488,"1,025",30,3,2,25,0,15,15,35,0,0,0
+2704,169,Two Poached Eggs - Bacon,584,36,11,0,483,"1,788",26,3,1,37,0,10,10,20,0,0,0
+2705,169,Two Poached Eggs - Canadian Bacon,378,16,5,0,455,"1,421",26,3,1,31,20,10,10,20,0,0,0
+2706,169,Two Poached Eggs - Chicken Sausage,395,20,6,0,490,"1,131",30,3,2,25,0,10,15,35,0,0,0
+2707,169,Two Scrambled Eggs - Bacon,704,52,16,0,483,"1,652",26,3,0,32,30,25,10,20,0,0,0
+2708,169,Two Scrambled Eggs - Canadian Bacon,483,29,7,0,468,"1,624",26,3,0,29,20,25,10,20,0,0,0
+2709,169,Two Srambled Eggs - Chicken Sausage,500,32,8,0,503,"1,333",30,3,1,23,0,25,15,30,0,0,0
+2710,169,Flap Jacks - Full Stack,"1,545",66,14,0,401,"2,987",193,0,0,44,4,25,150,70,0,0,0
+2711,169,Flap Jacks - Half Stack,"1,545",66,14,0,401,"2,987",193,0,0,44,4,25,150,70,0,0,0
+2712,169,Hashbrowns,154,9,2,0,54,288,16,1,0,3,20,2,0,4,0,0,0
+2713,169,Bacon Bomb - Egg Whites,198,7,4,0,31,809,2,0,1,29,10,4,10,4,0,0,0
+2714,169,Bacon Bomb - Whole Eggs,360,24,9,0,751,764,2,0,1,32,10,20,20,20,0,0,0
+2715,169,Grand Canyon - Canadian Bacon,382,24,9,0,751,768,7,1,4,33,55,25,20,20,0,0,0
+2716,169,Grand Canyon - Egg Whites - Canadian Bacon,199,10,3,0,25,662,8,1,5,28,45,10,15,6,0,0,0
+2717,169,Grand Canyon - Egg Whites - Maple Baked Ham,199,10,3,0,25,662,8,1,5,28,45,10,15,6,0,0,0
+2718,169,Grand Canyon - Egg Whites - No Meat,168,5,3,0,15,374,7,1,4,23,45,10,15,4,0,0,0
+2719,169,Grand Canyon - Maple Baked Ham,360,27,8,0,745,618,8,1,6,31,45,25,20,20,0,0,0
+2720,169,Grand Canyon - No Meat,330,22,8,0,734,329,7,1,4,26,45,25,20,20,0,0,0
+2721,169,Green Garden - Egg Whites - No Meat,182,6,3,0,15,447,8,2,4,23,50,10,15,4,0,0,0
+2722,169,Green Garden - Whole Eggs - No Meat,344,23,8,0,734,403,8,2,4,26,50,25,20,20,0,0,0
+2723,169,Ham I Am - Egg Whites,176,10,3,0,25,659,3,0,3,27,0,4,10,4,0,0,0
+2724,169,Ham I Am - Whole Eggs,338,27,8,0,745,615,3,0,3,30,0,20,20,20,0,0,0
+2725,169,Spinach and Artichoke Omelet - Egg Whites,210,8,5,0,32,516,6,2,2,27,8,50,25,8,0,0,0
+2726,169,Spinach and Artichoke Omelet - Whole Eggs,372,25,10,0,752,472,6,2,2,30,8,65,35,25,0,0,0
+2727,169,Spinach and Feta - Egg Whites,396,26,11,0,63,"1,413",5,1,2,34,8,45,10,10,0,0,0
+2728,169,Spinach and Feta - Whole Eggs,557,42,17,0,783,"1,369",5,1,2,36,8,65,20,25,0,0,0
+2729,169,Tex Mex Omelet - Egg Whites,130,3,2,0,6,511,4,1,1,19,35,20,4,2,0,0,0
+2730,169,Tex Mex Omelet - Whole Eggs,291,20,7,0,726,467,4,1,1,22,35,35,10,20,0,0,0
+2731,169,Mango Mama - No Syrup,896,26,15,0,205,"1,421",110,2,7,12,15,6,50,35,0,0,0
+2732,169,Mango Mama - Syrup,970,26,15,0,205,"1,423",129,2,24,12,15,6,50,40,0,0,0
+2733,169,Plain Jane - No Syrup,878,25,15,0,205,"1,420",105,1,3,12,0,2,50,35,0,0,0
+2734,169,Plain Jane - Syrup,952,26,15,0,205,"1,423",124,1,20,12,0,2,50,35,0,0,0
+2735,169,Strawberry Shortcake - No Syrup,897,26,15,0,205,"1,430",110,3,3,12,20,2,50,35,0,0,0
+2736,169,Strawberry Shortcake - Syrup,971,26,15,0,205,"1,433",129,3,20,12,20,2,50,40,0,0,0
+2737,170,Asian Ginger Dressing,134,12,1,0,0,267,6,0,1,0,0,0,0,0,0,0,0
+2738,170,Athenian Dressing And Marinade,144,16,3,0,2,206,1,0.5,1,0,1,0,2,1,0,0,0
+2739,170,Empire Caesar Dressing,163,18,2,0,11,186,1,0,0,1,0,0,4,1,0,0,0
+2740,170,Extra Chunky Blue Cheese Dressing,136,14,4,0,16,184,1,0,0,2,0,2,4,0,0,0,0
+2741,170,Fat Free Raspberry Vinaigrette With Poppyseeds Dressing,41,0.5,0,0,0,75,9,1,7,0,0,0,0,0,0,0,0
+2742,170,Fat Free Lemon Herb Dressing,17,0,0,0,0,118,3,0,1,0,0,0,0,0,0,0,0
+2743,170,Honey - Lime Vinaigrette,270,29,2,0,0,321,4,0,3,0,4,0,0,0,0,0,0
+2744,170,Honey Poppyseed Dressing,157,15.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2745,170,Low Fat Caribbean Mango Dressing And Marinade,51,1,0,0,1,82,9,0,5.5,0,1,2,0,1,0,0,0
+2746,170,"Low Fat, Reduced Calorie Caesar Dressing",43,3,0,0,3,339,2,1,0,1,0,0,1,0,0,0,0
+2747,170,"Low Fat, Low Calorie Honey Dijon Dressing",57,2.6,0,0,0,264,8,1,5,0,0,0,0,0,0,0,0
+2748,170,"Low Fat, Low Calorie Italian Dressing",29,3,0,0,0,253,1,0,1,0,0,0,0,0,0,0,0
+2749,170,Low Fat Peppercorn Ranch Dressing,50,3,1,0,5,220,4,0,4,1,0,0,2,0,0,0,0
+2750,170,Spicy Peanut Sauce,196,15,2,0,0,629,13,1,9,5,0,2,0,4,0,0,0
+2751,170,Sesame French Dressing,146,12,2,0,1,396,10,0,6,0,2,2,1,1,0,0,0
+2752,170,Sun Dried Tomato Vinaigrette,161,17.8,2,0,0,22.4,0.9,0.1,0.5,0,1,0,0,0,0,0,0
+2753,170,Wasabi Teriyaki Marinade,50,3,0,0,0,583,4,0,3,1,1,0,0,0,0,0,0
+2754,171,Applenut - Albacore Tuna - Dressing,639,47,8,0,46,658,28,6,14,32,50,150,20,20,0,0,0
+2755,171,Applenut - Albacore Tuna - No Dressing,407,23,4,0,46,267,23,6,14,32,50,150,20,20,0,0,0
+2756,171,Applenut - Albacore Tuna - Balsamic Vinegar - No Oil,426,23,5,0,46,263,35,6,11,31,50,145,20,20,0,0,0
+2757,171,Applenut - Albacore Tuna Salad - Dressing,689,52,9,0,22,957,36,6,14,26,55,150,20,20,0,0,0
+2758,171,Applenut - Albacore Tuna Salad - No Dressing,457,28,5,0,22,567,31,6,14,26,55,150,20,20,0,0,0
+2759,171,Applenut - Albacore Tuna Salad - Balsamic Vinegar - No Oil,476,29,5,0,22,562,43,6,11,24,50,150,20,20,0,0,0
+2760,171,Applenut - Buffalo Calamari - Dressing,759,53,10,0,299,"1,183",43,6,14,32,60,155,25,25,0,0,0
+2761,171,Applenut - Buffalo Calamari - No Dressing,527,30,6,0,299,793,38,6,14,32,60,155,25,25,0,0,0
+2762,171,Applenut - Buffalo Calamari - Balsamic Vinegar - No Oil,546,30,7,0,299,788,50,6,11,30,60,150,25,20,0,0,0
+2763,171,Applenut - Buffalo Chicken Tenders - Dressing,760,56,10,0,54,"1,281",43,6,14,27,55,155,20,20,0,0,0
+2764,171,Applenut - Buffalo Chicken Tenders - No Dressing,528,32,7,0,54,891,38,6,14,27,55,155,20,20,0,0,0
+2765,171,Applenut - Buffalo Chicken Tenders - Balsamic Vinegar - No Oil,548,33,7,0,54,886,51,6,11,26,55,150,20,20,0,0,0
+2766,171,Applenut - Buffalo Shrimp - Dressing,816,58,11,0,219,"1,288",44,6,14,36,60,155,25,35,0,0,0
+2767,171,Applenut - Buffalo Shrimp - No Dressing,584,34,7,0,219,898,39,6,14,35,60,155,25,35,0,0,0
+2768,171,Applenut - Buffalo Shrimp - Balsamic Vinegar - No Oil,669,27,5,0,507,860,40,6,11,77,65,150,35,60,0,0,0
+2769,171,Applenut - Chicken Tenders - Dressing,753,56,10,0,54,"1,126",41,6,14,27,50,150,20,20,0,0,0
+2770,171,Applenut - Chicken Tenders - No Dressing,521,32,7,0,54,736,36,6,14,27,50,150,20,20,0,0,0
+2771,171,Applenut - Chicken Tenders - Balsamic Vinegar - No Oil,540,33,7,0,54,731,49,6,11,26,50,150,20,15,0,0,0
+2772,171,Applenut - Fried Calamari - Dressing,751,53,10,0,299,"1,028",41,6,14,32,55,150,25,25,0,0,0
+2773,171,Applenut - Fried Calamari - No Dressing,519,30,6,0,299,638,36,6,14,32,55,150,20,20,0,0,0
+2774,171,Applenut - Fried Calamari - Balsamic Vinegar - No Oil,538,30,7,0,299,633,48,6,11,30,55,150,20,20,0,0,0
+2775,171,Applenut - Grilled Atlantic Salmon - Dressing,736,53,9,0,91,679,28,6,14,41,50,150,20,20,0,0,0
+2776,171,Applenut - Grilled Atlantic Salmon - No Dressing,504,29,5,0,91,288,23,6,14,41,50,150,20,20,0,0,0
+2777,171,Applenut - Grilled Atlantic Salmon - Balsamic Vinegar,524,30,6,0,91,284,35,6,11,39,50,145,20,20,0,0,0
+2778,171,Applenut - Grilled Calamari - Dressing,686,49,8,0,329,"1,035",32,6,14,34,60,155,20,20,0,0,0
+2779,171,Applenut - Grilled Calamari - No Dressing,455,25,5,0,329,645,27,6,14,33,60,155,20,20,0,0,0
+2780,171,Applenut - Grilled Calamari - Balsamic Vinegar - No Oil,474,26,5,0,329,640,40,6,11,32,60,150,20,20,0,0,0
+2781,171,Applenut - Grilled Chicken Breast - Dressing,669,47,8,0,82,874,28,6,14,39,50,150,20,20,0,0,0
+2782,171,Applenut - Grilled Chicken Breast - No Dressing,438,23,5,0,82,484,23,6,14,38,50,150,20,20,0,0,0
+2783,171,Applenut - Grilled Chicken Breast - Balsamic Vinegar,457,24,5,0,82,479,35,6,11,37,50,145,20,20,0,0,0
+2784,171,Applenut - Grilled Flank Steak - Dressing,695,51,10,0,57,663,28,6,14,36,50,150,20,25,0,0,0
+2785,171,Applenut - Grilled Flank Steak - No Dressing,463,27,7,0,57,272,23,6,14,36,50,150,20,25,0,0,0
+2786,171,Applenut - Grilled Flank Steak - Balsamic Vinegar - No Oil,482,28,7,0,57,268,35,6,11,34,50,145,20,20,0,0,0
+2787,171,Applenut - Italian Meats - Dressing,839,69,17,0,87,"1,987",30,6,14,30,50,150,15,20,0,0,0
+2788,171,Applenut - Italian Meats - No Dressing,640,48,14,0,87,"1,652",25,6,14,30,50,150,15,20,0,0,0
+2789,171,Applenut - Italian Meats - Balsamic Vinegar - No Oils,659,49,15,0,87,"1,648",38,6,11,29,50,145,15,20,0,0,0
+2790,171,Applenut - Maple Baked Ham - Dressing,621,59,7,0,41,"1,481",33,6,19,28,50,150,15,25,0,0,0
+2791,171,Applenut - Maple Baked Ham - No Dressing,389,35,4,0,41,"1,090",27,6,19,27,50,150,15,25,0,0,0
+2792,171,Applenut - Maple Baked Ham - Balsamic Vinegar - No Oil,408,36,4,0,41,"1,086",40,6,16,26,50,145,15,25,0,0,0
+2793,171,Applenut - Mesquite Turkey - Dressing,621,45,7,0,49,"1,283",30,6,14,32,50,150,15,20,0,0,0
+2794,171,Applenut - Mesquite Turkey - No Dressing,389,21,4,0,49,893,24,6,14,32,50,150,15,20,0,0,0
+2795,171,Applenut - Mesquite Turkey - Balsamic Vinegar - No Oil,408,22,4,0,49,888,37,6,11,30,50,145,15,15,0,0,0
+2796,171,Applenut - No Meat - Dressing,530,44,7,0,11,615,28,6,14,12,50,150,15,15,0,0,0
+2797,171,Applenut - No Meat - No Dressing,298,20,4,0,11,225,23,6,14,12,50,150,15,15,0,0,0
+2798,171,Applenut - Popcorn Rock Shrimp - Dressing,808,58,11,0,219,"1,133",42,6,14,36,50,155,25,35,0,0,0
+2799,171,Applenut - Popcorn Rock Shrimp - No Dressing,577,34,7,0,219,743,37,6,14,35,50,155,25,35,0,0,0
+2800,171,Applenut - Popcorn Rock Shrimp - Balsamic Vinegar - No Oil,592,35,6,0,211,610,48,6,11,35,50,150,25,20,0,0,0
+2801,171,Applenut - Roast Beef - Dressing,665,49,9,0,56,675,28,6,14,33,50,150,15,40,0,0,0
+2802,171,Applenut - Roast Beef - No Dressing,433,25,6,0,56,285,23,6,14,33,50,150,15,35,0,0,0
+2803,171,Applenut - Roast Beef - Balsamic Vinegar - No Oil,452,25,6,0,56,280,35,6,11,31,50,145,15,35,0,0,0
+2804,171,Applenut - Seared Ahi Tuna - Dressing,704,49,8,0,70,"1,014",28,6,14,43,55,155,20,20,0,0,0
+2805,171,Applenut - Seared Ahi Tuna - No Dressing,472,25,5,0,70,624,23,6,14,43,55,155,20,20,0,0,0
+2806,171,Applenut - Seared Ahi Tuna - Balsamic Vinegar,491,25,5,0,70,619,36,6,11,41,55,150,20,20,0,0,0
+2807,171,Applenut - Turkey - Dressing,621,46,7,0,41,"1,147",28,6,14,32,50,150,15,15,0,0,0
+2808,171,Applenut - Turkey - No Dressing,389,22,4,0,41,756,23,6,14,32,50,150,15,15,0,0,0
+2809,171,Applenut - Turkey - Balsamic Vinegar - No Oil,408,22,4,0,41,752,35,6,11,30,50,145,15,15,0,0,0
+2810,171,BBQ Dude - Albacore Tuna - Dressing,645,23,2,0,64,"1,042",65,16,6,49,70,155,15,35,0,0,0
+2811,171,BBQ Dude - Albacore Tuna - No Dressing,498,10,2,0,60,803,59,15,4,48,70,155,15,30,0,0,0
+2812,171,BBQ Dude - Albacore Tuna Salad - Dressing,696,29,3,0,39,"1,342",73,16,6,42,75,155,15,35,0,0,0
+2813,171,BBQ Dude - Albacore Tuna Salad - No Dressing,548,15,3,0,35,"1,102",67,15,4,41,70,155,15,30,0,0,0
+2814,171,BBQ Dude - Buffalo Calamari - Dressing,599,23,2,0,100,"1,258",70,16,6,33,80,155,20,30,0,0,0
+2815,171,BBQ Dude - Buffalo Calamari - No Dressing,452,10,2,0,96,101,64,15,4,32,75,155,15,30,0,0,0
+2816,171,BBQ Dude - Buffalo Chicken Tenders - Dressing,760,56,10,0,54,"1,281",43,6,14,27,55,155,20,20,0,0,0
+2817,171,BBQ Dude - Buffalo Chicken Tenders - No Dressing,620,20,5,0,68,"1,426",74,15,4,43,75,160,15,30,0,0,0
+2818,171,BBQ Dude - Buffalo Shrimp - Dressing,822,35,5,0,237,"1,673",80,16,6,52,80,160,25,50,0,0,0
+2819,171,BBQ Dude - Buffalo Shrimp - No Dressing,675,21,5,0,232,"1,433",75,16,4,51,75,160,20,45,0,0,0
+2820,171,BBQ Dude - Chicken Tenders - Dressing,759,33,5,0,72,"1,511",78,16,6,44,70,155,15,30,0,0,0
+2821,171,BBQ Dude - Chicken Tenders - No Dressing,612,20,5,0,68,"1,271",72,15,4,43,70,155,15,30,0,0,0
+2822,171,BBQ Dude - Fried Calamari - Dressing,758,30,4,0,317,"1,413",77,16,6,48,75,155,20,35,0,0,0
+2823,171,BBQ Dude - Fried Calamari - No Dressing,610,17,4,0,313,"1,173",72,16,4,47,75,155,20,35,0,0,0
+2824,171,BBQ Dude - Grilled Atlantic Salmon - Dressing,743,30,3,0,109,"1,063",65,16,6,57,70,155,15,35,0,0,0
+2825,171,BBQ Dude - Grilled Atlantic Salmon - No Dressing,596,17,3,0,105,824,59,15,4,56,70,155,15,35,0,0,0
+2826,171,BBQ Dude - Grilled Calamari - Dressing,693,26,3,0,347,"1,420",69,16,6,50,80,160,20,35,0,0,0
+2827,171,BBQ Dude - Grilled Calamari - No Dressing,546,13,3,0,343,"1,180",63,15,4,49,80,160,15,30,0,0,0
+2828,171,BBQ Dude - Chicken Breast - Dressing,676,24,3,0,100,"1,259",65,16,6,55,70,155,15,35,0,0,0
+2829,171,BBQ Dude - Grilled Chicken Breast - No Dressing,529,10,3,0,96,"1,019",59,15,4,54,70,155,15,30,0,0,0
+2830,171,BBQ Dude - Grilled Flank Steak - Dressing,702,28,5,0,75,"1,048",65,16,6,52,70,155,15,35,0,0,0
+2831,171,BBQ Dude - Grilled Flank Steak - No Dressing,554,14,5,0,71,808,59,15,4,51,70,155,15,35,0,0,0
+2832,171,BBQ Dude - Italian Meats - Dressing,783,43,11,0,80,"1,694",66,15,5,36,65,155,15,30,0,0,0
+2833,171,BBQ Dude - Italian Meats - No Dressing,636,30,11,0,76,"1,455",60,15,3,35,60,155,10,30,0,0,0
+2834,171,BBQ Dude - Maple Baked Ham - Dressing,628,36,2,0,59,"1,866",69,16,10,44,70,155,15,40,0,0,0
+2835,171,BBQ Dude - Maple Baked Ham - No Dressing,480,23,2,0,55,"1,626",64,15,8,43,70,155,15,35,0,0,0
+2836,171,BBQ Dude - Mesquite Turkey - Dressing,628,21,2,0,66,"1,668",66,16,6,48,70,155,15,30,0,0,0
+2837,171,BBQ Dude - Mesquite Turkey - No Dressing,480,8,2,0,62,"1,428",61,15,4,47,70,155,15,30,0,0,0
+2838,171,BBQ Dude - Popcorn Rock Shrimp - Dressing,815,35,5,0,237,"1,518",78,16,6,52,75,160,20,45,0,0,0
+2839,171,BBQ Dude - Popcorn Rock Shrimp - No Dressing,668,21,5,0,232,"1,278",73,16,4,51,70,160,20,45,0,0,0
+2840,171,BBQ Dude - Roast Beef - Dressing,576,20,3,0,49,327,63,15,5,39,60,155,15,50,0,0,0
+2841,171,BBQ Dude - Roast Beef - No Dressing,429,7,3,0,45,87,58,15,3,38,60,155,10,45,0,0,0
+2842,171,BBQ Dude - Seared Ahi Tuna - Dressing,710,25,3,0,88,"1,399",65,16,6,59,75,160,20,35,0,0,0
+2843,171,BBQ Dude - Seared Ahi Tuna - No Dressing,563,12,3,0,84,"1,159",60,15,4,58,75,160,15,30,0,0,0
+2844,171,BBQ Dude - Turkey - Dressing,628,22,2,0,59,"1,531",65,16,6,48,70,155,15,30,0,0,0
+2845,171,BBQ Dude - Turkey - No Dressing,480,9,2,0,55,"1,292",59,15,4,47,70,155,15,30,0,0,0
+2846,171,Buffa-Bleu - Albacore Tuna - Dressing,756,42,16,0,122,"1,818",37,6,4,59,95,270,65,25,0,0,0
+2847,171,Buffa-Bleu - Albacore Tuna - No Dressing,498,21,11,0,84,"1,112",31,6,4,46,90,265,65,25,0,0,0
+2848,171,Buffa-Bleu - Albacore Tuna Salad - Dressing,742,45,17,0,74,"1,761",44,6,4,41,90,270,65,25,0,0,0
+2849,171,Buffa-Bleu - Albacore Tuna Salad - No Dressing,548,27,12,0,59,"1,412",39,6,4,39,90,270,65,25,0,0,0
+2850,171,Buffa-Bleu - Buffalo Calamari - No Dressing,618,28,13,0,336,"1,638",46,7,4,46,100,270,70,30,0,0,0
+2851,171,Buffa-Bleu - Buffao Calamari - Dressing,811,47,18,0,351,"1,987",51,7,4,47,100,270,70,30,0,0,0
+2852,171,Buffa-Bleu - Buffalo Chicken Tenders - Dressing,813,50,18,0,106,"2,085",51,6,4,43,95,270,70,25,0,0,0
+2853,171,Buffa-Bleu - Buffalo Chicken Tenders - No Dressing,620,31,13,0,92,"1,736",46,6,4,41,95,270,65,25,0,0,0
+2854,171,Buffa-Bleu - Buffalo Shrimp - Dressing,865,51,18,0,263,"1,964",51,6,4,52,100,275,75,30,0,0,0
+2855,171,Buffa-Bleu - Buffalo Shrimp - No Dressing,675,33,14,0,256,"1,743",47,7,4,49,95,275,70,40,0,0,0
+2856,171,Buffa-Bleu - Chicken Tenders - Dressing,805,50,18,0,106,"1,930",49,6,4,43,90,270,65,25,0,0,0
+2857,171,Buffa-Bleu - Chicken Tenders - No Dressing,612,31,13,0,92,"1,581",44,6,4,41,90,270,65,25,0,0,0
+2858,171,Buffa-Bleu - Fried Calamari - Dressing,804,47,18,0,351,"1,832",49,7,4,47,95,270,70,30,0,0,0
+2859,171,Buffa-Bleu - Fried Calamari - No Dressing,611,28,13,0,336,"1,483",44,7,4,46,95,270,70,30,0,0,0
+2860,171,Buffa-Bleu - Grilled Atantic Salmon - No Dressing,596,28,12,0,129,"1,133",31,6,4,55,90,270,65,25,0,0,0
+2861,171,Buffa-Bleu - Grilled Atlantic Salmon - Dressing,789,47,17,0,143,"1,483",36,6,4,56,90,270,65,25,0,0,0
+2862,171,Buffa-Bleu - Grilled Calamari - Dressing,739,43,16,0,381,"1,839",40,6,4,49,100,270,70,25,0,0,0
+2863,171,Buffa-Bleu - Grilled Calamari - No Dressing,546,24,12,0,366,"1,490",35,6,4,47,100,270,70,25,0,0,0
+2864,171,Buffa-Bleu - Grilled Chicken Breast - Dressing,722,40,16,0,135,"1,678",36,6,4,54,90,270,65,25,0,0,0
+2865,171,Buffa-Bleu - Grilled Chicken Breast - No Dressing,529,22,11,0,120,"1,329",31,6,4,52,90,265,65,25,0,0,0
+2866,171,Buffa-Bleu - Grilled Flank Steak - Dressing,748,44,18,0,109,"1,467",36,6,4,51,90,270,65,30,0,0,0
+2867,171,Buffa-Bleu - Grilled Flank Steak - No Dressing,554,26,13,0,95,"1,118",31,6,4,49,90,265,65,30,0,0,0
+2868,171,Buffa-Bleu - Italian Meats - Dressing,924,65,26,0,139,"2,847",39,6,4,46,90,270,65,25,0,0,0
+2869,171,Buffa-Bleu - Italian Meats - No Dressing,731,47,21,0,124,"2,498",33,6,4,44,90,265,65,25,0,0,0
+2870,171,Buffa-Bleu - Maple Baked Ham - Dressing,674,52,15,0,93,"2,285",41,6,8,43,90,270,65,30,0,0,0
+2871,171,Buffa-Bleu - Maple Baked Ham - No Dressing,481,34,11,0,78,"1,936",35,6,8,41,90,265,65,30,0,0,0
+2872,171,Buffa-Bleu - Mesquite Turkey - Dressing,674,38,15,0,101,"2,087",38,6,4,47,90,270,65,25,0,0,0
+2873,171,Buffa-Bleu - Mesquite Turkey - No Dressing,481,20,11,0,86,"1,738",32,6,4,45,90,265,65,25,0,0,0
+2874,171,Buffa-Bleu - No Meat - Dressing,614,43,14,0,49,"1,528",32,6,4,26,90,265,65,20,0,0,0
+2875,171,Buffa-Bleu - No Meat - No Dressing,389,19,11,0,48,"1,070",31,6,4,26,90,265,65,20,0,0,0
+2876,171,Buffa-Bleu - Popcorn Rock Shrimp - Dressing,857,51,18,0,263,"1,809",49,6,4,52,90,270,70,30,0,0,0
+2877,171,Buffa-Bleu - Popcorn Rock Shrimp - No Dressing,668,33,14,0,256,"1,588",45,7,4,49,90,270,70,40,0,0,0
+2878,171,Buffa-Bleu - Roast Beef - No Dressing,524,23,13,0,93,"1,130",31,6,4,47,90,265,65,45,0,0,0
+2879,171,Buffa-Bleu - Seared Ahi Tuna - Dressing,756,42,16,0,122,"1,818",37,6,4,59,95,270,65,25,0,0,0
+2880,171,Buffa-Bleu - Seared Ahi Tuna - No Dressing,563,23,11,0,108,"1,469",31,6,4,57,95,270,65,25,0,0,0
+2881,171,Buffa-Bleu - Turkey - Dressing,674,38,15,0,101,"2,087",38,6,4,47,90,270,65,25,0,0,0
+2882,171,Buffa-Bleu - Turkey - No Dressing,569,22,11,0,108,"2,120",31,6,4,65,90,265,65,25,0,0,0
+2883,171,Caesar - Roast Beef - Creamy Caesar Dressing,690,44,14,0,83,"1,381",30,5,3,44,75,220,55,40,0,0,0
+2884,171,Caesar - Roast Beef - Empire Caesar Dressing,732,49,13,0,100,"1,227",30,5,3,45,75,220,60,45,0,0,0
+2885,171,Caesar - Roast Beef - Low Fat Caesar Dressing,526,23,10,0,87,"1,403",31,7,3,44,75,220,55,40,0,0,0
+2886,171,Caesar - Roast Beef - No Dressing,465,19,10,0,82,923,29,5,3,43,75,220,55,40,0,0,0
+2887,171,Caesar - Albacore Tuna (Plain-No Mayo) - No Dressing,439,17,9,0,73,"1,183",29,5,3,42,75,220,55,25,0,0,0
+2888,171,Caesar - Albacore Tuna (Plain-No Mayo) - Low Fat Caesar Dressing,500,21,9,0,77,"1,664",31,7,3,44,75,220,55,25,0,0,0
+2889,171,Caesar - Albacore Tuna - (Plain -No Mayo) - Creamy Caesar Dressing,663,42,12,0,74,"1,642",30,5,3,43,75,220,60,25,0,0,0
+2890,171,Caesar - Albacore Tuna - (Plain-No Mayo) - Empire Caesar Dressing,705,47,12,0,91,"1,488",30,5,3,44,75,220,65,25,0,0,0
+2891,171,Caesar - Albacore Tuna Salad - Creamy Caesar Dressing,489,22,9,0,48,"1,205",37,5,3,36,75,220,44,14,0,0,0
+2892,171,Caesar - Albacore Tuna Salad - Empire Caesar Dressing,756,52,12,0,66,"1,509",38,5,3,37,75,220,65,25,0,0,0
+2893,171,Caesar - Albacore Tuna Salad - Low Fat Caesar Dressing,550,27,9,0,53,"1,685",39,7,3,37,75,220,55,25,0,0,0
+2894,171,Caesar - Albacore Tuna Salad - No Dressing,489,22,9,0,48,"1,205",37,5,3,36,75,220,55,25,0,0,0
+2895,171,Caesar - Turkey - Creamy Caesar Dressing,646,41,12,0,69,"1,853",30,5,3,42,75,220,55,20,0,0,0
+2896,171,Caesar - Turkey - Empire Caesar Dressing,688,46,11,0,86,"1,699",30,5,3,43,75,220,60,20,0,0,0
+2897,171,Caesar - Turkey - Low Fat Caesar Dressing,482,20,8,0,72,"1,875",31,7,3,43,75,220,55,20,0,0,0
+2898,171,Caesar - Turkey - No Dressing,421,16,8,0,68,"1,394",29,5,3,42,75,220,55,20,0,0,0
+2899,171,Caesar - Buffalo Calamari - Creamy Caesar Dressing,783,49,14,0,327,"1,889",45,6,3,42,85,220,65,25,0,0,0
+2900,171,Caesar - Buffalo Calamari - Empire Caesar Dressing,825,54,14,0,344,"1,735",45,6,3,44,85,220,70,30,0,0,0
+2901,171,Caesar - Buffalo Calamari - Low Fat Caesar Dressing,620,28,10,0,330,"1,911",46,7,3,43,85,220,60,25,0,0,0
+2902,171,Caesar - Buffalo Calamari - No Dressing,559,24,10,0,326,"1,431",43,6,3,42,85,220,60,25,0,0,0
+2903,171,Buffalo Chicken Tenders - Creamy Caesar Dressing,785,51,15,0,82,"1,987",45,5,3,38,80,220,60,25,0,0,0
+2904,171,Caesar - Buffalo Chicken Tenders - Empire Caesar Dressing,827,56,14,0,99,"1,833",45,5,3,39,80,220,65,25,0,0,0
+2905,171,Caesar - Buffalo Chicken Tenders - No Dressing,560,27,11,0,81,"1,529",44,5,3,37,80,220,60,25,0,0,0
+2906,171,Caesar - Buffalo Cx Tenders - Low Fat Caesar Dressing,621,31,11,0,85,"2,010",47,7,3,39,80,220,60,25,0,0,0
+2907,171,Buffalo Shrimp - Creamy Caesar Dressing,837,53,15,0,246,"1,917",45,6,3,46,80,225,65,35,0,0,0
+2908,171,Caesar - Buffalo Shrimp - Empire Caesar Dressing,879,58,15,0,264,"1,763",45,6,3,47,80,225,70,40,0,0,0
+2909,171,Caesar - Buffalo Shrimp - Low Fat Caesar,673,33,11,0,250,"1,939",46,7,3,47,80,225,65,35,0,0,0
+2910,171,Caesar - Buffalo Shrimp - No Dressing,612,28,11,0,246,"1,458",43,6,3,45,80,225,65,35,0,0,0
+2911,171,Caesar - Chicken Tenders - Creamy Caesar Dressing,777,51,15,0,82,"1,832",43,5,3,36,75,220,60,20,0,0,0
+2912,171,Caesar - Chicken Tenders - Empire Caesar Dressing,819,56,14,0,99,"1,678",43,5,3,39,75,220,65,25,0,0,0
+2913,171,Caesar - Chicken Tenders - Low Fat Caesar Dressing,614,31,11,0,85,"1,855",45,7,3,39,75,220,55,20,0,0,0
+2914,171,Caesar - Chicken Tenders - No Dressing,553,27,11,0,81,"1,374",42,5,3,37,75,220,55,20,0,0,0
+2915,171,Caesar - Fried Calamari - Creamy Caesar Dressing,776,49,14,0,327,"1,734",43,6,3,42,80,220,60,25,0,0,0
+2916,171,Caesar - Fried Calamari - Empire Caesar Dressing,818,54,14,0,344,"1,580",43,6,3,44,80,220,70,30,0,0,0
+2917,171,Caesar - Fried Calamari - Low Fat Caesar Dressing,612,28,10,0,330,"1,756",44,7,3,43,80,220,60,25,0,0,0
+2918,171,Caesar - Fried Calamari - No Dressing,551,24,10,0,326,"1,276",41,6,3,42,80,220,60,25,0,0,0
+2919,171,Caesar - Grilled Atlantic Salmon - Creamy Caesar Dressing,761,48,13,0,119,"1,385",30,5,3,51,75,220,60,25,0,0,0
+2920,171,Caesar - Grilled Atlantic Salmon - Empire Caesar Dressing,803,53,13,0,136,"1,231",30,5,3,52,75,220,65,25,0,0,0
+2921,171,Caesar - Grilled Atlantic Salmon - Low Fat Caesar Dressing,597,28,9,0,122,"1,407",31,7,3,52,75,220,55,25,0,0,0
+2922,171,Caesar - Grilled Atlantic Salmon - No Dressing,536,24,3,0,118,926,29,5,3,51,75,220,55,25,0,0,0
+2923,171,Caesar - Grilled Calamari - Creamy Caesar Dressing,711,44,13,0,327,"1,741",34,5,3,44,85,220,60,25,0,0,0
+2924,171,Caesar - Grilled Calamari - Empire Caesar Dressing,753,49,12,0,374,"1,587",35,5,3,45,85,220,65,25,0,0,0
+2925,171,Caesar - Grilled Calamari - Low Fat Caesar Dressing,547,24,3,0,360,"1,763",36,7,3,45,85,220,60,25,0,0,0
+2926,171,Caesar - Grilled Calamari - No Dressing,486,20,9,0,356,"1,283",33,5,3,43,85,220,60,25,0,0,0
+2927,171,Caesar - Chicken Breast - Empire Caesar Dressing,736,47,12,0,127,"1,426",30,5,3,50,75,220,65,25,0,0,0
+2928,171,Caesar - Chicken Breast - Low Fat Caesar Dressing,530,22,9,0,114,"1,603",31,7,3,50,75,220,55,25,0,0,0
+2929,171,Caesar - Chicken Breast - No Dressing,469,18,9,0,109,"1,122",29,5,3,48,75,220,55,25,0,0,0
+2930,171,Caesar - Grilled Flank - Creamy Caesar Dressing,720,46,15,0,85,"1,369",30,5,3,46,75,220,60,30,0,0,0
+2931,171,Caesar - Grilled Flank - Empire Caesar Dressing,762,51,14,0,102,"1,215",30,5,3,47,75,220,65,30,0,0,0
+2932,171,Caesar - Grilled Flank - Low Fat Caesar Dressing,556,26,11,0,88,"1,391",31,7,3,47,75,220,55,25,0,0,0
+2933,171,Caesar - Grilled Flank - No Dressing,495,22,11,0,84,910,29,5,3,46,75,220,55,25,0,0,0
+2934,171,Caesar - Italian Meats - Creamy Caesar Dressing,896,67,22,0,114,"2,749",32,5,3,41,75,220,56,25,0,0,0
+2935,171,Caesar - Italian Meats - Empire Caesar Dressing,938,72,22,0,131,"2,595",33,5,3,42,75,220,60,25,0,0,0
+2936,171,Caesar - Italian Meats - Low Fat Caesar Dressing,733,47,18,0,118,"2,771",34,7,3,42,75,220,55,25,0,0,0
+2937,171,Caesar - Italian Meats - No Dressing,672,43,18,0,113,"2,290",31,5,3,40,75,220,55,25,0,0,0
+2938,171,Caesar - Maple Baked Ham - Creamy Caesar Dressing,646,54,12,0,69,"2,187",35,5,7,38,75,220,55,30,0,0,0
+2939,171,Caesar - Maple Baked Ham - Empire Caesar Dressing,688,58,11,0,86,"2,033",35,5,7,39,75,220,60,30,0,0,0
+2940,171,Caesar - Maple Baked Ham - Low Fat Caesar Dressing,482,34,8,0,72,"2,209",36,7,7,39,75,220,55,30,0,0,0
+2941,171,Caesar - Maple Baked Ham - No Dressing,421,30,8,0,68,"1,729",33,5,7,37,75,220,55,30,0,0,0
+2942,171,Caesar - Mesquite Turkey - Creamy Caesar Dressing,646,40,12,0,76,"1,990",31,5,3,42,75,220,55,20,0,0,0
+2943,171,Caesar - Mesquite Turkey - Empire Caesar Dressing,688,45,11,0,93,"1,835",32,5,3,43,75,220,60,25,0,0,0
+2944,171,Caesar - Mesquite Turkey - Low Fat Caesar,482,20,8,0,80,"2,012",33,7,3,43,75,220,55,20,0,0,0
+2945,171,Caesar - Mesquite Turkey - No Dressing,421,15,8,0,75,"1,531",30,5,3,42,75,220,55,20,0,0,0
+2946,171,Caesar - No Meat - Creamy Caesar Dressing,555,39,12,0,38,"1,321",30,5,3,23,75,220,55,20,0,0,0
+2947,171,Caesar - No Meat - Empire Dressing,597,44,11,0,55,"1,167",30,5,3,24,75,220,60,20,0,0,0
+2948,171,Caesar - No Meat - Low Fat Caesar Dressing,391,19,8,0,42,"1,343",31,7,3,23,75,220,55,20,0,0,0
+2949,171,Caesar - No Meat - No Dressing,330,15,8,0,37,863,29,5,3,22,75,220,55,20,0,0,0
+2950,171,Caesar - Popcorn Rock Shrimp No Dressing,608,28,11,0,246,"1,381",42,6,3,45,75,225,60,35,0,0,0
+2951,171,Caesar - Popcorn Rock Shrimp - Creamy Caesar Dressing,833,53,15,0,246,"1,839",44,6,3,46,75,225,65,35,0,0,0
+2952,171,Caesar - Popcorn Rock Shrimp - Empire Caesar Dressing,875,58,15,0,264,"1,685",44,6,3,47,75,225,70,40,0,0,0
+2953,171,Caesar - Popcorn Rock Shrimp - Low Fat Caesar Dressing,669,33,11,0,250,"1,861",45,7,3,47,75,225,60,35,0,0,0
+2954,171,Caesar - Seared Ahi Tuna - Creamy Caesar Dressing,728,44,13,0,98,"1,720",30,5,3,54,80,225,60,25,0,0,0
+2955,171,Caesar - Seared Ahi Tuna - Empire Caesar Dressing,770,49,12,0,115,"1,566",31,5,3,55,80,225,65,25,0,0,0
+2956,171,Caesar - Seared Ahi Tuna - Low Fat Caesar Dressing,565,23,9,0,101,"1,743",32,7,3,54,80,225,60,25,0,0,0
+2957,171,Caesar - Seared Ahi Tuna - No Dressing,504,19,9,0,97,"1,262",29,5,3,53,80,225,60,25,0,0,0
+2958,171,Cherrry Chow - Albacore Tuna - No Dressing,238,4,1,0,36,68,30,7,17,24,65,155,8,15,0,0,0
+2959,171,Cherry Chow - Albacore Tuna - Dressing,432,23,6,0,52,396,34,7,17,26,65,155,10,15,0,0,0
+2960,171,Cherry Chow - Albacore Tuna Salad - Dressing,482,28,6,0,27,695,42,7,17,20,70,155,10,15,0,0,0
+2961,171,Cherry Chow - Albacore Tuna Salad - No Dressing,289,10,2,0,11,368,38,7,17,18,65,155,8,15,0,0,0
+2962,171,Cherry Chow - Buffalo Calamari - Dressing,551,30,8,0,305,921,49,8,17,26,80,160,15,20,0,0,0
+2963,171,Cherry Chow - Buffalo Calamari - No Dressing,358,11,3,0,288,594,44,8,17,24,75,160,15,20,0,0,0
+2964,171,Cherry Chow - Buffalo Chicken Tenders - Dressing,553,33,8,0,60,"1,019",49,7,17,21,70,160,10,15,0,0,0
+2965,171,Cherry Chow - Buffalo Chicken Tenders - No Dressing,360,14,3,0,43,692,45,7,17,19,70,160,10,15,0,0,0
+2966,171,Cherry Chow - Buffalo Shrimp - Dressing,609,34,9,0,224,"1,026",50,8,17,29,75,160,15,30,0,0,0
+2967,171,Cherry Chow - Buffalo Shrimp - No Dressing,416,16,4,0,208,699,45,8,17,27,70,160,15,30,0,0,0
+2968,171,Cherry Chow - Chicken Tenders - Dressing,546,33,8,0,60,864,47,7,17,21,65,155,10,15,0,0,0
+2969,171,Cherry Chow - Chicken Tenders - No Dressing,352,14,3,0,43,537,43,7,17,19,65,155,10,15,0,0,0
+2970,171,Cherry Chow - Fried Calamari - Dressing,544,30,8,0,305,766,47,8,17,26,70,155,15,20,0,0,0
+2971,171,Cherry Chow - Fried Calamari - No Dressing,351,11,3,0,288,439,42,8,17,24,70,155,15,20,0,0,0
+2972,171,Cherry Chow - Grilled Atlantic Salmon - Dressing,528,30,7,0,97,415,34,7,17,35,65,155,10,20,0,0,0
+2973,171,Cherry Chow - Grilled Atlantic Salmon - No Dressing,336,11,2,0,81,89,30,7,17,33,65,155,10,20,0,0,0
+2974,171,Cherry Chow - Grilled Calamari - Dressing,479,26,6,0,335,773,38,7,17,27,75,160,15,20,0,0,0
+2975,171,Cherry Chow - Grilled Calamari - No Dressing,286,7,1,0,318,446,34,7,17,25,75,160,15,15,0,0,0
+2976,171,Cherry Chow - Grilled Chicken Breast - Dressing,462,24,6,0,88,612,34,7,17,32,65,155,10,15,0,0,0
+2977,171,Cherry Chow - Grilled Chicken Breast - No Dressing,269,5,1,0,72,285,30,7,17,30,65,155,8,15,0,0,0
+2978,171,Cherry Chow - Grilled Flank Steak - Dressing,524,32,10,0,77,414,34,7,17,30,65,155,8,30,0,0,0
+2979,171,Cherry Chow - Grilled Flank Steak - No Dressing,331,13,5,0,60,87,30,7,17,28,65,155,8,30,0,0,0
+2980,171,Cherry Chow - Italian Meats - Dressing,664,49,16,0,92,"1,781",36,7,17,24,70,155,8,20,0,0,0
+2981,171,Cherry Chow - Italian Meats - No Dressing,471,30,11,0,76,"1,454",32,7,17,22,65,155,8,20,0,0,0
+2982,171,Cherry Chow - Maple Baked Ham - Dressing,414,36,5,0,47,"1,219",38,7,22,21,65,155,8,20,0,0,0
+2983,171,Cherry Chow - Maple Baked Ham - No Dressing,221,17,0,0,30,892,34,7,22,19,65,155,8,20,0,0,0
+2984,171,Cherry Chow - Mesquite Turkey - Dressing,414,21,5,0,54,"1,021",35,7,17,26,65,155,8,15,0,0,0
+2985,171,Cherry Chow - Mesquite Turkey - No Dressing,221,2,0,0,38,694,31,7,17,24,65,155,8,15,0,0,0
+2986,171,Cherry Chow - No Meat - Dressing,323,21,5,0,16,353,34,7,17,6,65,155,8,10,0,0,0
+2987,171,Cherry Chow - No Meat - No Dressing,130,2,0,0,0,26,30,7,17,4,65,155,8,10,0,0,0
+2988,171,Cherry Chow - Popcorn Rock Shrimp - Dressing,601,34,9,0,224,871,48,8,17,29,65,160,15,30,0,0,0
+2989,171,Cherry Chow - Popcorn Rock Shrimp - No Dressing,408,16,4,0,208,544,43,8,17,27,65,160,15,30,0,0,0
+2990,171,Cherry Chow - Roast Beef - Dressing,458,25,7,0,61,413,34,7,17,27,65,155,8,35,0,0,0
+2991,171,Cherry Chow - Roast Beef - No Dressing,265,6,3,0,45,86,30,7,17,25,65,155,8,35,0,0,0
+2992,171,Cherry Chow - Seared Ahi Tuna - Dressing,496,25,6,0,76,751,34,7,17,37,70,160,10,20,0,0,0
+2993,171,Cherry Chow - Seared Ahi Tuna - No Dressing,303,6,1,0,60,425,30,7,17,35,70,160,10,15,0,0,0
+2994,171,Cherry Chow - Turkey - Dressing,414,22,5,0,47,885,34,7,17,25,65,155,8,15,0,0,0
+2995,171,Cherry Chow - Turkey - No Dressing,221,3,0,0,30,558,30,7,17,24,65,155,8,15,0,0,0
+2996,171,Greek Island - Albacore Tuna - Dressing,361,20,2,0,36,"1,553",22,7,6,26,20,30,8,15,0,0,0
+2997,171,Greek Island - Albacore Tuna - No Dressing,318,16,2,0,36,"1,182",21,7,4,26,20,30,8,15,0,0,0
+2998,171,Greek Island - Albacore Tuna Salad - Dressing,411,26,3,0,11,"1,853",30,7,6,19,20,30,8,15,0,0,0
+2999,171,Greek Island - Albacore Tuna Salad - No Dressing,368,21,3,0,11,"1,482",29,7,4,19,20,30,8,15,0,0,0
+3000,171,Greek Island - Buffalo Calamari - No Dressing,438,23,4,0,288,"1,708",35,8,4,26,30,35,15,20,0,0,0
+3001,171,Greek Salad - Buffalo Calamari - Dressing,481,27,4,0,288,"2,079",37,8,6,26,30,35,15,20,0,0,0
+3002,171,Greek Island - Buffalo Chicken Tenders - No Dressing,440,26,4,0,43,"1,806",36,7,4,21,25,35,8,15,0,0,0
+3003,171,Greek Salad - Buffalo Chicken Tenders - Dressing,482,30,4,0,43,"2,177",37,7,6,21,25,35,8,15,0,0,0
+3004,171,Greek Island - Buffalo Shrimp - Dressing,534,32,4,0,201,"2,056",37,8,6,30,30,35,15,20,0,0,0
+3005,171,Greek Island - Buffalo Shrimp - No Dressing,491,27,4,0,201,"1,685",36,8,4,30,30,35,15,20,0,0,0
+3006,171,Greek Island - Chicken Tenders - Dressing,475,30,4,0,43,"2,022",35,7,6,21,20,30,8,15,0,0,0
+3007,171,Greek Island - Chicken Tenders - No Dressing,432,26,4,0,43,"1,651",34,7,4,21,20,30,8,15,0,0,0
+3008,171,Greek Island - Fried Calamari - Dressing,473,27,4,0,288,"1,924",35,8,6,26,25,30,10,15,0,0,0
+3009,171,Greek Island - Fried Calamari - No Dressing,430,23,4,0,288,"1,553",33,8,4,26,25,30,10,15,0,0,0
+3010,171,Greek Island - Grilled Atlantic Salmon - Dressing,458,27,3,0,81,"1,574",22,7,6,35,20,30,8,15,0,0,0
+3011,171,Greek Island - Grilled Atlantic Salmon - No Dressing,416,23,3,0,81,"1,203",21,7,4,35,20,30,8,15,0,0,0
+3012,171,Greek Island - Grilled Calamari - Dressing,408,23,3,0,318,"1,931",26,7,6,27,30,35,10,15,0,0,0
+3013,171,Greek Island - Grilled Calamari - No Dressing,366,19,3,0,318,"1,560",25,7,4,27,30,35,10,15,0,0,0
+3014,171,Greek Island - Grilled Chicken Breast - No Dressing,349,16,2,0,72,"1,399",21,7,4,32,20,30,8,15,0,0,0
+3015,171,Greek Island - Grilled Cx Breast - Dressing,391,21,2,0,72,"1,770",22,7,6,32,20,30,8,15,0,0,0
+3016,171,Greek Island - Grilled Flank Steak - Dressing,453,29,6,0,60,"1,572",22,7,6,30,20,30,6,25,0,0,0
+3017,171,Greek Island - Grilled Flank Steak - No Dressing,411,25,6,0,60,"1,201",21,7,4,30,20,30,6,25,0,0,0
+3018,171,Greek Island - Italian Meats - Dressing,594,46,12,0,76,"2,939",24,7,6,24,20,30,6,15,0,0,0
+3019,171,Greek Island - Italian Meats - No Dressing,551,42,12,0,76,"2,568",23,7,4,24,20,30,6,15,0,0,0
+3020,171,Greek Island - Maple Baked Ham - Dressing,343,33,2,0,30,"2,377",27,7,10,21,20,30,6,20,0,0,0
+3021,171,Greek Island - Maple Baked Ham - No Dressing,300,29,2,0,30,"2,006",25,7,9,21,20,30,6,20,0,0,0
+3022,171,Greek Island - Mesquite Turkey - Dressing,343,19,2,0,38,"2,179",24,7,6,26,20,30,6,15,0,0,0
+3023,171,Greek Island - Mesquite Turkey - No Dressing,300,14,2,0,38,"1,808",22,7,4,26,20,30,6,15,0,0,0
+3024,171,Greek Salad - No Meat - Dressing,252,18,2,0,0,"1,511",22,7,6,6,20,30,6,10,0,0,0
+3025,171,Greek Salad - No Meat - No Dressing,209,13,2,0,0,"1,140",21,7,4,6,20,30,6,10,0,0,0
+3026,171,Greek Isalnd - Popcorn Rock Shrimp - Dressing,526,32,4,0,201,"1,901",35,8,6,30,20,35,15,20,0,0,0
+3027,171,Greek Salad - Popcorn Rock Shrimp - No Dressing,484,27,4,0,201,"1,530",34,8,4,30,20,35,15,20,0,0,0
+3028,171,Greek Island - Roast Beef - Dressing,387,22,4,0,45,"1,571",22,7,6,27,20,30,6,30,0,0,0
+3029,171,Greek Island - Roast Beef - No Dressing,344,18,4,0,45,"1,200",21,7,4,27,20,30,6,30,0,0,0
+3030,171,Greek Island - Seared Ahi Tuna - Dressing,426,22,3,0,60,"1,910",22,7,6,37,25,35,8,15,0,0,0
+3031,171,Greek Island - Seared Ahi Tuna - No Dressing,383,18,3,0,60,"1,539",21,7,4,37,25,35,8,15,0,0,0
+3032,171,Greek Island - Turkey - Dressing,343,19,2,0,30,"2,042",22,7,6,26,20,30,6,10,0,0,0
+3033,171,Greek Island - Turkey - No Dressing,300,15,2,0,30,"1,671",21,7,4,26,20,30,6,10,0,0,0
+3034,171,Little Italy - Albacore Tuna Salad - Dressing,826,61,15,0,63,"1,734",39,7,10,35,305,265,60,25,0,0,0
+3035,171,Little Italy - Albacore Tuna Salad - No Dressing,545,30,9,0,59,"1,331",37,6,8,35,305,265,60,25,0,0,0
+3036,171,Little Italy - Albacore Tuna - Dressing,776,56,15,0,88,"1,435",31,7,10,42,300,265,60,25,0,0,0
+3037,171,Little Italy - Albacore Tuna - No Dressing,495,24,9,0,84,"1,032",29,6,8,42,300,265,60,25,0,0,0
+3038,171,Little Italy - Buffalo Calamari - Dressing,896,62,16,0,340,"1,960",45,8,10,41,315,265,70,30,0,0,0
+3039,171,Little Italy - Buffalo Calamari - No Dressing,614,31,11,0,336,"1,557",43,7,8,41,315,265,65,25,0,0,0
+3040,171,Little Italy - Buffalo Chicken Tenders - Dressing,898,65,17,0,96,"2,058",46,7,10,37,305,265,65,25,0,0,0
+3041,171,Little Italy - Buffalo Chicken Tenders - No Dressing,616,34,11,0,92,"1,656",44,6,8,37,305,265,60,20,0,0,0
+3042,171,Little Italy - Buffalo Shrimp - Dressing,953,67,17,0,260,"2,065",46,8,10,45,310,270,70,40,0,0,0
+3043,171,Little Italy - Buffalo Shrimp - No Dressing,672,36,12,0,256,"1,662",44,7,8,45,310,270,65,35,0,0,0
+3044,171,Little Italy - Chicken Tenders - Dressing,890,65,17,0,96,"1,903",44,7,10,37,300,265,65,25,0,0,0
+3045,171,Little Italy - Chicken Tenders - No Dressing,609,34,11,0,92,"1,501",42,6,8,37,300,265,60,20,0,0,0
+3046,171,Little Italy - Fried Calamari - Dressing,888,62,16,0,340,"1,805",43,8,10,41,310,265,65,30,0,0,0
+3047,171,Little Italy - Fried Calamari - No Dressing,607,31,11,0,336,"1,402",41,7,8,41,310,265,65,25,0,0,0
+3048,171,Little Italy - Grilled Atlantic Salmon - Dressing,874,62,15,0,133,"1,456",31,7,10,50,300,265,65,25,0,0,0
+3049,171,Little Italy - Grilled Atlantic Salmon - No Dressing,592,31,10,0,129,"1,053",29,6,8,50,300,265,60,25,0,0,0
+3050,171,Little Italy - Grilled Calamari - Dressing,824,58,15,0,370,"1,812",35,7,10,43,310,265,65,25,0,0,0
+3051,171,Little Italy - Grilled Calamari - No Dressing,542,27,9,0,367,"1,409",33,6,8,43,310,265,60,25,0,0,0
+3052,171,Little Italy - Grld Cx Brst - Dressing,807,56,15,0,124,"1,651",31,7,10,48,300,265,60,25,0,0,0
+3053,171,Little Italy - Grld Cx Brst - No Dressing,525,25,9,0,120,"1,249",29,6,8,48,300,265,60,25,0,0,0
+3054,171,Little Italy - Grilled Flank Steak - Dressing,869,64,19,0,112,"1,453",31,7,10,45,300,265,60,35,0,0,0
+3055,171,Little Italy - Grilled Flank Steak - No Dressing,587,33,13,0,109,"1,051",29,6,8,45,300,265,60,35,0,0,0
+3056,171,Little Italy - Italian Meats - Dressing,"1,009",81,25,0,128,"2,820",33,7,10,40,305,265,60,25,0,0,0
+3057,171,Little Italy - Italian Meats - No Dressing,727,50,19,0,124,"2,417",31,6,8,40,305,265,55,25,0,0,0
+3058,171,Little Italy - Maple Baked Ham - Dressing,758,68,14,0,82,"2,258",35,7,14,37,300,265,60,30,0,0,0
+3059,171,Little Italy - Maple Baked Ham - No Dressing,477,37,8,0,79,"1,855",33,6,12,37,300,265,55,30,0,0,0
+3060,171,Little Italy - Mesquite Turkey - Dressing,758,54,14,0,90,"2,060",32,7,10,41,300,265,60,25,0,0,0
+3061,171,Little Italy - Mesquite Turkey - No Dressing,477,22,8,0,86,"1,658",30,6,8,41,300,265,55,20,0,0,0
+3062,171,Little Italy - No Meat - Dressing,667,53,14,0,52,"1,392",31,7,10,22,300,265,60,20,0,0,0
+3063,171,Little Italy - No Meat - No Dressing,386,22,8,0,48,989,29,6,8,22,300,265,55,20,0,0,0
+3064,171,Little Italy - Popcorn Rock Shrimp - Dressing,946,67,17,0,260,"1,910",44,8,10,45,305,270,70,40,0,0,0
+3065,171,Little Italy - Popcorn Rock Shrimp - No Dressing,664,36,12,0,256,"1,507",42,7,8,45,305,270,65,35,0,0,0
+3066,171,Little Italy - Roast Beef - Dressing,802,58,16,0,97,"1,452",31,7,10,43,300,265,60,45,0,0,0
+3067,171,Little Italy - Roast Beef - No Dressing,521,26,10,0,93,"1,049",29,6,8,43,300,265,55,40,0,0,0
+3068,171,Little Italy - Seared Ahi Tuna - Dressing,841,58,15,0,112,"1,791",31,7,10,53,305,270,65,25,0,0,0
+3069,171,Little Italy - Seared Ahi Tuna - No Dressing,560,26,9,0,108,"1,389",29,6,8,53,305,270,60,25,0,0,0
+3070,171,Little Italy - Turkey - Dressing,758,55,14,0,82,"1,924",31,7,10,41,300,265,60,20,0,0,0
+3071,171,Little Italy - Turkey - No Dressing,477,23,8,0,79,"1,521",29,6,8,41,300,265,55,20,0,0,0
+3072,171,Mexicali - Italian Meats - Dressing,988,76,16,0,80,"2,167",52,8,17,31,65,160,30,20,0,0,0
+3073,171,Mexicali - Italian Meats - No Dressing,522,32,14,0,80,"1,217",35,7,5,26,60,160,30,20,0,0,0
+3074,171,Mexicali - Chicken Breast - Dressing,901,61,11,0,102,"1,474",51,8,17,45,60,160,30,25,0,0,0
+3075,171,Mexicali - Chicken Breast - No Dressing,434,17,7,0,102,524,34,7,5,40,55,160,30,20,0,0,0
+3076,171,Mexicali - Albacore Tuna - Dressing -,906,61,11,0,77,"1,272",51,8,17,46,60,160,30,25,0,0,0
+3077,171,Mexicali - Albacore Tuna - No Dressing,440,17,7,0,77,322,34,7,5,41,55,160,30,20,0,0,0
+3078,171,Mexicali - Albacore Tuna Salad - Dressing,972,68,10,0,45,"1,671",61,8,17,37,65,160,30,20,0,0,0
+3079,171,Mexicali - Albacore Tuna Salad - No Dressing,507,24,8,0,45,721,44,7,5,32,60,160,30,20,0,0,0
+3080,171,Mexicali - Buffalo Calamari - Dressing,"1,005",67,13,0,318,"2,093",69,8,17,39,85,170,40,25,0,0,0
+3081,171,Mexicali - Buffalo Calamari - No Dressing,538,23,9,0,318,"1,143",52,7,5,34,80,170,40,25,0,0,0
+3082,171,Mexicali - Buffalo Shrimp - Dressing,"1,040",71,14,0,238,"1,733",64,8,17,42,65,165,35,35,0,0,0
+3083,171,Mexicali - Buffalo Shrimp - No Dressing,573,27,10,0,238,783,47,7,5,37,60,165,35,30,0,0,0
+3084,171,Mexicali - Crunchy Chicken Tenders - Dressing,984,70,13,0,73,"1,726",64,8,17,34,60,160,30,20,0,0,0
+3085,171,Mexicali - Crunchy Chicken Tenders - No Dressing,517,26,9,0,73,776,47,7,5,29,55,160,30,15,0,0,0
+3086,171,Mexicali - Grilled Flank - Dressing,963,69,15,0,90,"1,276",51,8,17,43,60,160,30,35,0,0,0
+3087,171,Mexicali - Grilled Flank - No Dressing,496,25,11,0,90,326,34,7,5,38,55,160,30,30,0,0,0
+3088,171,Mexicali - Fried Calamari - Dressing,982,67,13,0,318,"1,628",63,8,17,39,70,160,35,25,0,0,0
+3089,171,Mexicali - Fried Calamari - No Dressing,516,23,9,0,318,678,46,7,5,34,65,160,35,20,0,0,0
+3090,171,Mexicali - Grilled Calamari - Dressing,918,63,12,0,348,"1,635",55,8,17,40,70,165,35,25,0,0,0
+3091,171,Mexicali - Grilled Calamari - No Dressing,451,19,8,0,348,685,38,7,5,35,65,165,35,20,0,0,0
+3092,171,Mexicali - Maple Baked Ham - Dressing,852,73,11,0,60,"2,081",55,8,22,34,60,160,30,25,0,0,0
+3093,171,Mexicali - Maple Baked Ham - No Dressing,386,29,7,0,60,"1,131",38,7,10,29,55,160,30,25,0,0,0
+3094,171,Mexicali - Mesquite Turkey - Dressing,852,58,9,0,68,"1,883",52,8,17,39,60,160,30,15,0,0,0
+3095,171,Mexicali - Mesquite Turkey - No Dressing,386,14,7,0,68,933,35,7,5,34,55,160,30,15,0,0,0
+3096,171,Mexicali - No Meat - Dressing,760,58,9,0,30,"1,215",51,8,17,19,60,160,30,15,0,0,0
+3097,171,Mexicali - No Meat - No Dressing,294,14,7,0,30,265,34,7,5,14,55,160,30,15,0,0,0
+3098,171,Mexicali - Popcorn Rock Shrimp - Dressing,919,60,11,0,257,"1,403",52,8,17,49,65,165,35,35,0,0,0
+3099,171,Mexicali - Popcorn Rock Shrimp - No Dressing,453,16,7,0,257,453,35,7,5,44,60,165,35,30,0,0,0
+3100,171,Mexicali - Roast Beef - Dressing,895,62,11,0,75,"1,275",51,8,17,40,60,160,30,35,0,0,0
+3101,171,Mexicali - Roast Beef - No Dressing,429,18,9,0,75,325,34,7,5,35,55,160,30,35,0,0,0
+3102,171,Mexicali - Atlantic Salmon - Dressing,968,67,12,0,110,"1,279",51,8,17,48,60,160,30,25,0,0,0
+3103,171,Mexicali - Atlantic Salmon - No Dressing,501,23,8,0,110,329,34,7,5,43,55,160,30,20,0,0,0
+3104,171,Mexicali - Seared Ahi Tuna - Dressing,935,62,12,0,89,"1,614",51,8,17,50,65,165,30,25,0,0,0
+3105,171,Mexicali - Seared Ahi Tuna - No Dressing,468,18,8,0,89,664,34,7,5,45,60,165,30,20,0,0,0
+3106,171,Mexicali - Turkey - Dressing,852,59,11,0,60,"1,747",51,8,17,39,60,160,30,20,0,0,0
+3107,171,Mexicali - Turkey - No Dressing,386,15,7,0,60,797,34,7,5,34,55,160,30,15,0,0,0
+3108,171,Oriental - Albacore Tuna - Dressing,698,34,5,0,36,463,46,11,9,34,85,155,40,50,0,0,0
+3109,171,Oriental - Albacore Tuna - No Dressing,565,33,4,0,36,199,40,11,8,34,85,155,40,50,0,0,0
+3110,171,Oriental - Albacore Tuna Salad - Dressing,748,39,6,0,11,763,54,11,9,28,85,155,40,50,0,0,0
+3111,171,Oriental - Albacore Tuna Salad - No Dressing,615,38,5,0,11,499,48,11,8,28,85,155,40,50,0,0,0
+3112,171,Oriental - Buffalo Calamari - Dressing,815,41,7,0,288,936,60,12,9,34,95,155,45,55,0,0,0
+3113,171,Oriental - Buffalo Calamari - No Dressing,682,40,6,0,288,672,54,12,8,34,95,155,45,55,0,0,0
+3114,171,Buffalo Chicken Tenders - Dressing,817,43,8,0,43,"1,034",61,11,9,29,85,155,40,50,0,0,0
+3115,171,Buffalo Chicken Tenders - No Dressing,684,42,7,0,43,770,55,11,8,29,85,155,40,50,0,0,0
+3116,171,Oriental - Buffalo Shrimp - Dressing,875,45,8,0,208,"1,094",62,12,9,37,90,160,50,65,0,0,0
+3117,171,Oriental - Buffalo Shrimp - No Dressing,742,44,7,0,208,830,56,12,8,37,90,160,50,65,0,0,0
+3118,171,Oriental - Chicken Tenders - Dressing,812,43,8,0,43,932,59,11,9,29,85,155,40,50,0,0,0
+3119,171,Oriental - Chicken Tenders - No Dressing,679,42,7,0,43,668,53,11,8,29,85,155,40,50,0,0,0
+3120,171,Oriental - Fried Calamari - Dressing,810,41,7,0,288,834,59,12,9,34,90,155,45,55,0,0,0
+3121,171,Oriental - Fried Calamari - No Dressing,677,40,6,0,288,570,53,12,8,34,90,155,45,55,0,0,0
+3122,171,Oriental - Grilled Atlantic Salmon - Dressing,795,40,6,0,81,484,46,11,9,43,85,155,40,50,0,0,0
+3123,171,Oriental - Grilled Atlantic Salmon - No Dressing,663,39,5,0,81,220,40,11,8,43,85,155,40,50,0,0,0
+3124,171,Oriental - Grilled Calamari - Dressing,709,33,5,0,304,776,50,11,9,34,90,155,45,50,0,0,0
+3125,171,Oriental - Grilled Calamari - No Dressing,576,32,4,0,304,512,44,11,8,34,90,155,45,50,0,0,0
+3126,171,Oriental - Grilled Chicken Breast - Dressing,728,34,6,0,72,680,46,11,9,40,85,155,40,50,0,0,0
+3127,171,Oriental - Grilled Chicken Breast - No Dressing,596,33,5,0,72,416,40,11,8,40,85,155,40,50,0,0,0
+3128,171,Oriental - Grilled Flank Steak - Dressing,754,38,8,0,47,469,46,11,9,38,85,155,40,55,0,0,0
+3129,171,Oriental - Grilled Flank - No Dressing,621,37,7,0,47,205,40,11,8,38,85,155,40,55,0,0,0
+3130,171,Oriental - Italian Meats - Dressing,931,59,15,0,76,"1,849",48,11,9,32,85,155,40,50,0,0,0
+3131,171,Oriental - Italian Meats - No Dressing,798,58,14,0,76,"1,585",42,11,8,32,85,155,40,50,0,0,0
+3132,171,Oriental - Maple Baked Ham - Dressing,680,46,5,0,30,"1,287",51,11,13,29,85,155,40,55,0,0,0
+3133,171,Oriental - Maple Baked Ham - No Dressing,547,45,4,0,30,"1,023",45,11,12,29,85,155,40,55,0,0,0
+3134,171,Oriental - Mesquite Turkey - Dressing,680,32,5,0,38,"1,089",48,11,9,34,85,155,40,50,0,0,0
+3135,171,Oriental - Mesquite Turkey - No Dressing,547,31,4,0,38,825,42,11,8,34,85,155,40,50,0,0,0
+3136,171,Oriental - No Meat - Dressing,589,31,5,0,0,421,46,11,9,14,85,155,40,45,0,0,0
+3137,171,Oriental - No Meat - No Dressing,456,30,4,0,0,157,40,11,8,14,85,155,40,45,0,0,0
+3138,171,Oriental - Popcorn Rock Shrimp - Dressing,867,45,8,0,208,939,60,12,9,37,85,160,45,65,0,0,0
+3139,171,Oriental - Popcorn Rock Shrimp - No Dressing,735,44,7,0,208,675,54,12,8,37,85,160,45,65,0,0,0
+3140,171,Oriental - Roast Beef - Dressing,724,36,7,0,45,481,46,11,9,35,85,155,40,70,0,0,0
+3141,171,Oriental - Roast Beef - No Dressing,591,35,6,0,45,217,40,11,8,35,85,155,40,70,0,0,0
+3142,171,Oriental - Seared Ahi Tuna - Dressing,763,36,6,0,60,820,47,11,9,45,90,160,40,50,0,0,0
+3143,171,Oriental - Seared Ahi Tuna - No Dressing,630,35,5,0,60,556,41,11,8,45,90,160,40,50,0,0,0
+3144,171,Oriental - Turkey - Dressing,680,33,5,0,30,953,46,11,9,34,85,155,40,45,0,0,0
+3145,171,Oriental - Turkey - No Dressing,547,32,4,0,30,688,40,11,8,34,85,155,40,45,0,0,0
+3146,171,Seared Ahi Tuna - No Meat - Dressing,150,7,0,0,0,886,18,5,9,6,90,155,8,15,0,0,0
+3147,171,Seared Ahi Tuna - No Meat - No Dressing,79,3,0,0,0,59,12,5,5,5,85,155,8,15,0,0,0
+3148,171,Seared Ahi Tuna - Dressing,324,11,1,0,60,"1,285",18,5,9,37,95,160,10,20,0,0,0
+3149,171,Seared Ahi Tuna - No Dressing,253,7,1,0,60,459,13,5,5,36,90,160,10,20,0,0,0
+3150,171,Seared Ahi Tuna (No Tuna) - Grld Cx Breast - No Dressing,218,6,1,0,72,319,12,5,5,31,85,155,10,20,0,0,0
+3151,171,Seared Ahi Tuna - (No Tuna) - Grld Cx Breast - Dressing,289,10,1,0,72,"1,145",18,5,9,32,90,155,10,20,0,0,0
+3152,171,Seared Ahi Tuna - (No Ahi Tuna) - Albacore Tuna (Plain) - Dressing,259,9,1,0,36,928,18,5,9,26,90,155,10,20,0,0,0
+3153,171,Seared Ahi Tuna - (No Ahi Tuna) - Albacore Tuna (Plain) - No Dressing,188,5,1,0,36,102,12,5,5,25,85,155,10,20,0,0,0
+3154,171,Seared Ahi Tuna (No Ahi Tuna) - Albacore Tuna Salad w /Mayo and Dressing,238,10,2,0,11,401,20,5,5,18,90,155,10,20,0,0,0
+3155,171,Seared Ahi Tuna - (No Ahi Tuna) - Albacore Tuna Salad w -mayo - Dressing,309,15,2,0,11,"1,228",26,5,9,20,90,155,10,20,0,0,0
+3156,171,Seared Ahi Tuna - (No Tuna) - Grilled Flank Steak - Dressing,351,18,5,0,60,947,18,5,9,30,90,155,10,30,0,0,0
+3157,171,Seared Ahi Tuna - (No Tuna) - Grilled Flank Steak - No Dressing,280,14,5,0,60,121,12,5,5,29,85,155,10,30,0,0,0
+3158,171,Seared Ahi Tuna - (No Tuna) - Grilled Atl - Salmon - No Dressing,285,12,2,0,81,123,12,5,5,34,85,155,10,20,0,0,0
+3159,171,Seared Ahi Tuna - (No Tuna) - Grld Atl Salmon - Dressing,356,16,2,0,81,949,18,5,9,35,90,155,10,20,0,0,0
+3160,171,Seared Ahi Tuna - (No Tuna) - Grilled Calamari - Dressing,306,12,2,0,318,"1,306",22,5,9,27,100,155,15,20,0,0,0
+3161,171,Seared Ahi Tuna - (No Tuna) - Grilled Calamari - No Dressing,235,8,2,0,318,479,17,5,5,26,95,155,15,20,0,0,0
+3162,171,Seared Ahi Tuna - (No Tuna) - Italian Meats - No Dressing,421,31,11,0,76,"1,487",15,5,5,23,90,155,8,20,0,0,0
+3163,171,Seared Ahi Tuna - (No Tuna) - Italian Meats - Dressing,492,35,11,0,76,"2,313",20,5,9,24,90,155,8,20,0,0,0
+3164,171,Seared Ahi Tuna - (No Tuna) - Buffalo Calamari - Dressing,376,16,3,0,288,"1,401",32,5,9,26,100,155,15,20,0,0,0
+3165,171,Seared Ahi Tuna - (No Tuna) - Buffalo Calamari - No Dressing,305,12,3,0,288,575,26,5,5,25,100,155,15,20,0,0,0
+3166,171,Seared Ahi Tuna - (No Tuna) - Buffalo Chicken Tenders - Dressing,378,19,3,0,43,"1,499",32,5,9,21,90,155,10,15,0,0,0
+3167,171,Seared Ahi Tuna - (No Tuna) - Buffalo Chicken Tenders - No Dressing,307,15,3,0,43,673,27,5,5,20,90,155,10,15,0,0,0
+3168,171,Seared Ahi Tuna - (No Tuna) - Buffalo Shrimp - Dressing,433,21,4,0,208,"1,506",33,5,9,29,95,160,15,30,0,0,0
+3169,171,Seared Ahi Tuna - (No Tuna) - Buffalo Shrimp - No Dressing,362,16,4,0,208,680,27,5,5,28,95,160,15,30,0,0,0
+3170,171,Seared Ahi Tuna - (No Tuna) - Chicken Tenders - Dressing,373,19,3,0,43,"1,397",31,5,9,21,90,155,10,15,0,0,0
+3171,171,Seared Ahi Tuna - Chicken Tenders - No Dressing,302,15,3,0,43,571,25,5,5,20,85,155,10,15,0,0,0
+3172,171,Seared Ahi Tuna - (No Tuna) Fried Calamari - Dressing,371,16,3,0,288,"1,299",31,5,9,26,95,155,15,20,0,0,0
+3173,171,Seared Ahi Tuna - (No Tuna) - Fried Calamari - No Dressing,300,12,3,0,288,472,25,5,5,25,95,155,15,20,0,0,0
+3174,171,Seared Ahi Tuna - (No Tuna) - Maple Baked Ham - Dressing,241,22,0,0,30,"1,751",22,5,14,21,90,155,8,20,0,0,0
+3175,171,Seared Ahi Tuna - (No Tuna) - Maple Baked Ham - No Dressing,170,18,0,0,30,925,17,5,10,20,85,155,8,20,0,0,0
+3176,171,Seared Ahi Tuna - (No Tuna) - Mesquite Turkey - No Dressing,170,3,0,0,38,728,14,5,5,24,85,155,8,15,0,0,0
+3177,171,Seared Ahi Tuna - (No Tuna) - Mesquite Turkey - Dressing,241,8,0,0,38,"1,554",19,5,9,26,90,155,8,15,0,0,0
+3178,171,Seared Ahi Tuna - (No Tuna) - Popcorn Rock Shrimp - Dressing,428,21,4,0,208,"1,404",32,5,9,29,90,160,15,30,0,0,0
+3179,171,Seared Ahi Tuna - (No Tuna) - Popcorn Rock Shrimp - No Dressing,357,16,4,0,208,577,26,5,5,28,90,160,15,30,0,0,0
+3180,171,Seared Ahi Tuna - (No Tuna) - Roast Beef - Dressing,285,11,3,0,45,946,18,5,9,27,90,155,8,35,0,0,0
+3181,171,Seared Ahi Tuna - (No Tuna) - Roast Beef - No Dressing,214,7,3,0,45,119,12,5,5,26,85,155,8,35,0,0,0
+3182,171,Seared Ahi Tuna - (No Tuna) - Turkey - Dressing,241,8,0,0,30,"1,417",18,5,9,26,90,155,8,15,0,0,0
+3183,171,Seared Ahi Tuna - (No Tuna) Turkey - No Dressing,170,4,0,0,30,591,12,5,5,24,85,155,8,15,0,0,0
+3184,171,Tropical Sunsplash - No Meat - Dressing,457,28,11,0,0,264,54,9,24,5,110,155,8,15,0,0,0
+3185,171,Tropical Sunsplash - No Meat - No Dressing,268,10,8,0,0,96,45,9,24,5,110,155,8,15,0,0,0
+3186,171,Tropical Sunsplash - Albacore Tuna - Dressing,566,30,11,0,36,307,54,9,24,26,110,155,8,20,0,0,0
+3187,171,Tropical Sunsplash - Albacore Tuna - No Dressing,377,13,9,0,36,138,45,9,24,25,110,155,8,20,0,0,0
+3188,171,Tropical Sunsplash - Albacore Tuna Salad - Dressing,616,36,12,0,11,606,62,9,24,19,110,155,10,20,0,0,0
+3189,171,Tropical Sunsplash - Albacore Tuna Salad - No Dressing,427,18,10,0,11,438,53,9,24,19,110,155,8,20,0,0,0
+3190,171,Tropical Sunsplash - Buffalo Calamari - Dressing,683,37,13,0,288,779,68,10,24,25,120,160,15,20,0,0,0
+3191,171,Tropical Sunsplash - Buffalo Calamari - No Dressing,494,20,11,0,288,611,59,10,24,25,120,160,15,20,0,0,0
+3192,171,Tropical Sunsplash - Buffalo Chicken Tenders - Dressing,685,40,14,0,43,878,69,9,24,21,110,160,10,15,0,0,0
+3193,171,Tropical Sunsplash - Buffalo Chicken Tenders - No Dressing,496,23,11,0,43,709,59,9,24,20,110,160,10,15,0,0,0
+3194,171,MicroTropical Sunsplash - Buffalo Shrimp - No Dressing,552,24,12,0,208,716,60,10,24,29,115,160,15,30,0,0,0
+3195,171,Tropical Sunsplash - Buffalo Shrimp - Dressing,740,42,14,0,208,884,69,10,24,29,115,160,15,30,0,0,0
+3196,171,Tropical Sunsplash - Chicken Tenders - Dressing,680,40,14,0,43,775,67,9,24,21,110,160,10,15,0,0,0
+3197,171,Tropical Sunsplash - Chicken Tenders - No Dressing,491,23,11,0,43,607,58,9,24,20,110,160,8,15,0,0,0
+3198,171,Tropical Sunsplash - Fried Calamari - Dressing,678,37,13,0,288,677,67,10,24,25,115,155,15,20,0,0,0
+3199,171,Tropical Sunsplash - Fried Calamari - No Dressing,489,20,11,0,288,509,57,10,24,25,115,155,15,20,0,0,0
+3200,171,Tropical Sunsplah - Grilled Atlantic Salmon - Dressing,663,37,12,0,81,328,54,9,24,34,110,155,10,20,0,0,0
+3201,171,Tropical Sunsplash - Grilled Atlantic Salmon - No Dressing,268,10,8,0,0,96,45,9,24,5,110,155,8,15,0,0,0
+3202,171,Tropical Sunsplash - Grilled Calamari - Dressing,613,33,12,0,318,684,58,9,24,27,120,160,15,20,0,0,0
+3203,171,Tropical Sunsplash - Grilled Calamari - No Dressing,425,16,9,0,318,516,49,9,24,27,120,160,10,20,0,0,0
+3204,171,Tropical Sunsplash - Grilled Chicken Breast - Dressing,596,31,12,0,72,523,54,9,24,32,110,155,8,20,0,0,0
+3205,171,Tropical Sunsplash - Grilled Chicken Breast - No Dressing,408,14,9,0,72,355,45,9,24,32,110,155,8,20,0,0,0
+3206,171,Tropical Sunsplash - Grilled Flank Steak - Dressing,658,39,15,0,60,325,54,9,24,29,110,155,8,30,0,0,0
+3207,171,Tropical Sunsplash - Grilled Flank Steak - No Dressing,470,22,13,0,60,157,45,9,24,29,110,155,8,30,0,0,0
+3208,171,Tropical Sunsplash - Italian Meats - Dressing,798,56,21,0,76,"1,692",56,9,24,24,110,155,8,20,0,0,0
+3209,171,Tropical Sunsplash - Italian Meats - No Dressing,610,39,19,0,76,"1,523",47,9,24,24,110,155,8,20,0,0,0
+3210,171,Tropical Sunsplash - Maple Baked Ham - Dressing,548,43,11,0,30,"1,130",59,9,28,21,110,155,8,25,0,0,0
+3211,171,Tropical Sunsplash - Maple Baked Ham - No Dressing,359,26,8,0,30,961,49,9,28,21,110,155,8,25,0,0,0
+3212,171,Tropical Sunsplash - Mesquite Turkey - Dressing,548,29,11,0,38,932,56,9,24,25,110,155,8,15,0,0,0
+3213,171,Tropical Sunsplash - Mesquite Turkey - No Dressing,359,11,8,0,38,764,46,9,24,25,110,155,8,15,0,0,0
+3214,171,Tropical Sunsplash - Popcorn Rock Shrimp - Dressing,735,42,14,0,208,782,68,10,24,29,110,160,15,30,0,0,0
+3215,171,Tropical Sunsplash - Popcorn Rock Shrimp - No Dressing,547,24,12,0,208,614,58,10,24,29,110,160,15,30,0,0,0
+3216,171,Tropical Sunsplash - Roast Beef - Dressing,592,32,13,0,45,324,54,9,24,26,110,155,8,35,0,0,0
+3217,171,Tropical Sunsplash - Roast Beef - No Dressing,403,15,11,0,45,156,45,9,24,26,110,155,8,35,0,0,0
+3218,171,Tropical Sunsplash - Seared Ahi Tuna - Dressing,631,32,12,0,60,663,54,9,24,36,115,160,10,20,0,0,0
+3219,171,Tropical Sunsplash - Seared Ahi Tuna - No Dressing,442,15,9,0,60,495,45,9,24,36,115,160,10,20,0,0,0
+3220,171,Tropical Sunsplash - Turkey - Dressing,548,29,11,0,30,796,54,9,24,25,110,155,8,15,0,0,0
+3221,171,Tropical Sunsplash - Turkey - No Dressing,359,12,8,0,30,627,45,9,24,25,110,155,8,15,0,0,0
+3222,172,Albacore Island Tuna Salad on Rye Bread,656,37,6,0,15,"1,115",59,5,3,24,45,25,8,20,0,0,0
+3223,172,Albacore Island Tuna on Ciabatta Bread,630,35,5,0,15,"1,073",57,2,3,24,45,25,4,8,0,0,0
+3224,172,Albacore Island Tuna on Multigrain Bread,616,36,6,0,15,944,52,4,3,23,45,25,8,15,0,0,0
+3225,172,Albacore Island Tuna on Pretzel Bread,696,38,6,0,15,"1,619",68,3,9,25,45,25,4,20,0,0,0
+3226,172,Club House on Ciabatta Bread,436,14,5,0,72,"1,497",38,3,4,41,45,50,15,8,0,0,0
+3227,172,Club House on Multigrain Bread,422,15,5,0,72,"1,368",33,5,4,41,45,50,20,15,0,0,0
+3228,172,Club House on Pretzel Bread,502,17,5,0,72,"2,043",49,4,10,42,45,50,15,20,0,0,0
+3229,172,Club House on Rye Bread,461,16,5,0,72,"1,540",40,6,4,42,45,52,20,20,0,0,0
+3230,172,Grilled Chicken Salad on Ciabatta Bread,435,23,4,0,68,617,34,2,1,24,15,30,4,8,0,0,0
+3231,172,Grilled Chicken Salad on Multigrain Bread,421,24,4,0,68,487,29,4,1,23,15,30,8,15,0,0,0
+3232,172,Grilled Chicken Salad on Pretzel Bread,501,25,4,0,68,"1,163",45,3,7,25,15,30,4,20,0,0,0
+3233,172,Grilled Chicken Salad on Rye Bread,461,24,4,0,68,659,36,5,1,24,15,30,8,15,0,0,0
+3234,172,Hot Corned Beef on Ciabata Bread,371,10,5,0,74,"1,639",33,2,1,37,6,2,10,15,0,0,0
+3235,172,Hot Corned Beef on Multigrain Bread,368,11,5,0,74,"1,532",31,4,1,37,6,2,15,20,0,0,0
+3236,172,Hot Corned Beef on Pretzel Bread,437,12,5,0,74,"2,185",45,3,7,38,6,2,10,25,0,0,0
+3237,172,Hot Corned Beef on Rye Bread,396,11,5,0,74,"1,681",35,5,2,38,8,4,15,25,0,0,0
+3238,172,Maple Glazed Ham on Ciabatta Bread,364,28,3,0,55,"1,802",40,2,7,30,10,30,15,15,0,0,0
+3239,172,Maple Glazed Ham on Multigrain Bread,350,29,3,0,55,"1,672",35,4,7,30,10,30,20,20,0,0,0
+3240,172,Maple Glazed Ham on Rye Bread,401,30,3,0,55,"1,871",44,5,7,31,10,30,20,25,0,0,0
+3241,172,MicroMaple Glazed Ham on Pretzel Bread,407,30,3,0,55,"2,242",47,3,12,31,10,30,15,25,0,0,0
+3242,172,Mesquite Smoked Turkey on Ciabatta,374,9,3,0,59,"1,268",39,3,5,37,95,50,10,6,0,0,0
+3243,172,Mesquite Smoked Turkey on Multigrain Bread,360,10,3,0,59,"1,138",34,5,5,36,95,50,15,15,0,0,0
+3244,172,Mesquite Smoked Turkey on Pretzel Bread,440,12,3,0,59,"1,814",50,4,11,38,95,50,10,20,0,0,0
+3245,172,Mesquite Smoked Turkey on Rye Bread,400,11,3,0,59,"1,310",40,6,5,37,95,50,15,15,0,0,0
+3246,172,November Turkey on Ciabatta Bread,372,9,3,0,55,"1,178",38,3,4,37,35,50,15,4,0,0,0
+3247,172,November Turkey on Multigrain Bread,358,10,3,0,55,"1,049",33,5,4,36,35,50,20,15,0,0,0
+3248,172,November Turkey on Pretzel Bread,451,12,3,0,55,"1,782",52,4,11,38,35,50,15,20,0,0,0
+3249,172,November Turkey on Rye Bread,398,11,3,0,55,"1,220",40,6,4,37,35,50,20,15,0,0,0
+3250,172,Mesquite Smoked Turkey on Ciabatta,607,19,9,0,132,800,37,3,4,66,35,50,10,65,0,0,0
+3251,172,Peppercorn Bleu Roast Beef on Multigrain Bread,593,20,9,0,132,670,33,5,4,65,35,50,15,70,0,0,0
+3252,172,Peppercorn Bleu Roast Beef on Pretzel Bread,673,22,10,0,132,"1,346",49,4,10,67,35,50,10,75,0,0,0
+3253,172,Peppercorn Bleu Roast Beef on Rye Bread,632,21,9,0,132,842,39,6,4,66,35,50,15,75,0,0,0
+3254,172,Soprano on Ciabatta Bread,559,41,11,0,81,"2,042",37,2,4,31,10,30,10,10,0,0,0
+3255,172,Soprano on Multigrain Bread,583,43,11,0,81,"1,990",40,5,4,32,10,30,20,20,0,0,0
+3256,172,Soprano on Pretzel Bread,625,44,11,0,81,"2,588",48,3,10,32,10,30,10,25,0,0,0
+3257,172,Soprano on Rye Bread,595,43,11,0,81,"2,111",41,5,5,32,15,30,15,25,0,0,0
+3258,172,Wasabi Tuna on Ciabatta Bread,331,6,1,0,61,794,32,2,1,36,15,30,4,6,0,0,0
+3259,172,Wasabi Tuna on Multigrain Bread,403,11,2,0,61,"1,293",38,4,4,38,15,30,8,15,0,0,0
+3260,172,Wasabi Tuna on Pretzel Bread,444,12,2,0,61,"1,891",47,3,10,38,15,30,4,20,0,0,0
+3261,172,Wasabi Tuna on Rye Bread,415,11,2,0,61,"1,414",40,4,4,38,15,30,8,15,0,0,0
+3262,173,Butternut Squash Soup,305,21,8,0,31,"1,065",21,2,0,10,10,20,30,4,0,0,0
+3263,173,Cajun Jambalaya,428,13,3,0,260,917,36,2,0,39,40,25,15,45,0,0,0
+3264,173,Chicken Noodle Soup,105,4,1,0,24,"1,099",11,0,0,7,0,15,0,8,0,0,0
+3265,173,French Onion Soup,267,11,6,0,26,"1,714",28,2,0,15,4,4,30,10,0,0,0

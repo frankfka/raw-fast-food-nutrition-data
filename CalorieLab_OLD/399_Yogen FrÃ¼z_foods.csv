@@ -1,0 +1,11 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+42312,3035,Low Fat Vanilla,130,2.5,1.5,0,10,65,23,0,22,4,0,0,0,0,0,0,0
+42313,3035,Non Fat Vanilla,120,0,0,0,4,65,25,0,23,4,0,0,0,0,0,0,0
+42314,3036,No Fat/No Sugar Added Vanilla,90,0,0,0,4,60,21,0,8,4,0,0,11,0,0,0,0
+42315,3037,Natural Yogurt & Fruit Cup,140,2,1.5,0,10,55,25,0,21,4,0,2,10,0,0,0,0
+42316,3038,Blueberry Breeze,250,3,1.5,0.1,10,20,55,3,48,4,95,3,10,3,0,0,0
+42317,3038,Strawberry Banana,220,2.5,1.5,0.1,10,30,47,2,40,5,125,5,11,4,0,0,0
+42318,3038,Peach Berry Sunset,220,2.5,1.4,0.1,10,20,48,2,43,4,48,7,11,7,0,0,0
+42319,3039,Tropical Strom,270,0.5,0.1,0,0,20,66,2,56,2,160,8,0,0,0,0,0
+42320,3039,Very Berry,270,0.5,0,0,0,10,65,3,55,1,168,0,0,4,0,0,0
+42321,3039,Raspberry Blast,260,0.5,0,0,0,20,64,4,53,1,0,0,0,0,0,0,0

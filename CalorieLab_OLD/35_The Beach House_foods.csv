@@ -1,0 +1,5 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+3760,194,Stuffed Artichoke,235,6,0,0,30,435,33,7,0,15,0,0,0,0,0,0,0
+3761,194,Sautéed Bluenose Bass,345,11,1,0,80,510,17,5,0,41,0,0,0,0,0,0,0
+3762,194,Baked Gulf Prawns,425,20,0.5,0,350,"1,590",14,5,0,52,0,0,0,0,0,0,0
+3763,194,Bouillabaisse,480,7,1,0,295,"1,990",12,1,0,86,0,0,0,0,0,0,0

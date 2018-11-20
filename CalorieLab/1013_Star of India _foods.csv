@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+100433,20051,Chicken Tikka Kabab,,380,8,2.5,0,195,305,1,0,0,71,0,0,0,0,0,0,0
+100434,20052,Chicken Curry,0.5 cup,390,20,3.5,0,115,510,9,3,0,44,0,0,0,0,0,0,0
+100435,20052,Karahi Chicken,2.5 cups,410,14,3.5,0,105,660,33,7,0,37,0,0,0,0,0,0,0
+100436,20053,Prawn Pepper Masala,2.5 cups,340,10,1,0,250,865,32,7,0,33,0,0,0,0,0,0,0
+100437,20054,Aloo Gobi,3.5 cups,240,8,0.5,0,0,90,38,10,0,8,0,0,0,0,0,0,0
+100438,20054,Bengan Bhartha,4 cups,300,9,0.5,0,0,740,49,15,0,12,0,0,0,0,0,0,0

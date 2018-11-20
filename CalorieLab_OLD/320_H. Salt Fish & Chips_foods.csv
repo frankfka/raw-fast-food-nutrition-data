@@ -1,0 +1,5 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+32954,2543,Jumbo Shrimp,439,13,2,0,191,370,12,0,0,23,0,0,0,0,0,0,0
+32955,2543,Mini Shrimp,514,26,4,0,140,940,46,0,0,24,0,0,0,0,0,0,0
+32956,2544,"Fish Fillet, Battered & Fried",245,13,3,0,39,500,18,0,0,13,0,0,0,0,0,0,0
+32957,2544,French Fries,235,19,6,0,0,187,44,0,0,5,0,0,0,0,0,0,0

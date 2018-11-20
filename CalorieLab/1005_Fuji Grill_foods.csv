@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+100142,20016,Grilled Salmon Bowl,,575,11,2,0,80,180,76,3,0,38,0,0,0,0,0,0,0
+100143,20016,Chicken Teriyaki Bowl,,630,14,3,0,135,280,73,3,0,47,0,0,0,0,0,0,0
+100144,20016,Dynamite Sushi Bowl,,410,3,0,0,60,465,54,4,0,38,0,0,0,0,0,0,0
+100145,20017,Tuna Tataki Salad Bowl,1.5 cups,160,7,1,0,40,430,5,3,0,19,0,0,0,0,0,0,0
+100146,20017,Chicken Salad Bowl,1.5 cups,380,20,4,0,150,550,5,3,0,45,0,0,0,0,0,0,0
+100147,20018,Half and Half Sushi Bowl,,510,11,1,0,60,800,70,4,0,29,0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+107813,20591,Texas,3/4 cup,560,46,20,0,125,1230,3,2,0,33,0,0,0,0,0,0,0
+107814,20591,Terlingua Red,3/4 cup,290,15,5,0,40,1400,9,2,4,29,0,0,0,0,0,0,0
+107815,20591,Cincinnati,3/4 cup,300,23,6,0,60,1170,2,2,2,20,0,0,0,0,0,0,0
+107816,20591,Vege,3/4 cup,130,3.5,0.5,0,0,960,13,5,7,11,0,0,0,0,0,0,0
+107817,20591,Beans,3/4 cup,130,0,0,0,0,0,24,5,0,8,0,0,0,0,0,0,0

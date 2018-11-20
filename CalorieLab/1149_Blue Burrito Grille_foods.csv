@@ -1,0 +1,11 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+114349,21102,Vegan Peanut Butter Chocolate Chunk,1 cookie - 85 g,320,10,2,0,0,300,50,5,19,8,2,4,4,15,0,0,0
+114350,21103,Chicken Machaca Burrito,,400,11,0,0,55,720,44,4,0,28,0,0,0,0,0,0,0
+114351,21104,Enchilada Rancheras,,520,7,0,0,55,860,75,12,0,34,0,0,0,0,0,0,0
+114352,21105,Vegetarian Rice Bowl,,220,1,0,0,0,460,42,8,0,10,0,0,0,0,0,0,0
+114353,21106,Vegetarian Taco Salad,,230,2.5,0,0,5,440,38,9,0,13,0,0,0,0,0,0,0
+114354,21107,Fish Tacos Del Mar,,320,4,0,0,10,160,24,7,0,31,0,0,0,0,0,0,0
+114355,21108,Pumpkin Spice,1 cookie - 85 g,280,4,0.5,0,0,250,55,5,19,6,2,6,4,15,0,0,0
+114356,21109,"Tortillas, Corn",,60,0.5,0,0,0,5,11,1,0,1,0,0,0,0,0,0,0
+114357,21109,"Tortillas-12"", Reduced Carb",,310,5,0,0,0,680,25,22,0,22,0,0,0,0,0,0,0
+114358,21110,Penne,"small - 3,207 g",6970,480,172,0,860,4650,462,35,46,197,0,0,0,0,0,0,0

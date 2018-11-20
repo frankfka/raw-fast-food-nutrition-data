@@ -1,0 +1,6 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+132495,22517,Wok Tossed Asian Noodles,2 cups,470,15,1,0,0,1345,71,4,0,10,0,0,0,0,0,0,0
+132496,22517,Wok Charred Ahi with Vegetables,1.5 cups,455,5,1,0,100,1425,40,4,0,59,0,0,0,0,0,0,0
+132497,22518,Mediterranean Vegetable Salad,4 cups,575,27,3,0,0,1590,74,16,0,17,0,0,0,0,0,0,0
+132498,22518,California Summer Salad,2 cups,385,20,8,0,95,450,23,6,0,31,0,0,0,0,0,0,0
+132499,22519,Shrimp Lettuce Wraps,1.5 cups,140,6,1,0,55,705,13,1,0,8,0,0,0,0,0,0,0

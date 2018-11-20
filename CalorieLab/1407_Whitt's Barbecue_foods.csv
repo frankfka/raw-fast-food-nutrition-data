@@ -1,0 +1,12 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+142931,23131,Pork Sandwich,,405,22,0,0,0,0,30,1,0,0,0,0,0,0,0,0,0
+142932,23131,Pork Sandwich,,305,11,0,0,0,0,30,1,0,0,0,0,0,0,0,0,0
+142933,23131,Turkey Sandwich,,312,13,0,0,0,0,25,1,0,0,0,0,0,0,0,0,0
+142934,23131,Turkey Sandwich,,212,2,0,0,0,0,25,1,0,0,0,0,0,0,0,0,0
+142935,23131,Beef Sandwich,,390,20,0,0,0,0,30,1,0,0,0,0,0,0,0,0,0
+142936,23131,Beef Sandwich,,290,9,0,0,0,0,30,1,0,0,0,0,0,0,0,0,0
+142937,23131,Barbecue Sandwich,1 oz,62,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142938,23131,Barbecue Sandwich,1 oz,33,0.5,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0
+142939,23131,Barbecue Sandwich,1 oz,56,3,0,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0
+142940,23132,Baked Beans,4 oz,144,0.5,0,0,0,0,29,5,0,0,0,0,0,0,0,0,0
+142941,23132,Cole Slaw,4 oz,100,0,0,0,0,0,23,2,0,0,0,0,0,0,0,0,0

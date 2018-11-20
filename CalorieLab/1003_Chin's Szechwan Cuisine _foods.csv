@@ -1,0 +1,6 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+100113,20014,Hunan Chicken Strips,1 cup,385,14,3,0,135,1040,13,3,0,51,0,0,0,0,0,0,0
+100114,20014,Imperial Shrimp,1.5 cups,270,10,2,0,285,1100,12,4,0,36,0,0,0,0,0,0,0
+100115,20014,Sauteed Assorted Mixed Vegetables,7 cups,180,8,1,0,5,245,24,7,0,8,0,0,0,0,0,0,0
+100116,20014,Szechwan Braised String Beans,3 cups,200,10,1.5,0,0,265,18,6,0,9,0,0,0,0,0,0,0
+100117,20014,Three Ingredient Taste,3.5 cups,275,13,3,0,110,505,10,3,0,31,0,0,0,0,0,0,0

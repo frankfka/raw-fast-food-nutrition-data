@@ -1,0 +1,9 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+33006,2554,New England Clam Chowder,200,11,0,0,0,620,20,0,1,4,0,0,0,0,0,0,0
+33007,2554,Clam Chowder Gift Pack,200,11,0,0,0,620,20,0,1,4,0,0,0,0,0,0,0
+33008,2555,Seafood Cocktail Sauce,45,0.5,0,0,0,470,9,0,6,1,0,0,0,0,0,0,0
+33009,2555,Tartar Sauce,140,15,0,0,0,210,0,0,0,0,0,0,0,0,0,0,0
+33010,2555,Tartar Sauce,140,15,0,0,0,210,0,0,0,0,0,0,0,0,0,0,0
+33011,2556,Ginger Teriyaki Sauce,50,0,0,0,0,670,0,0,9,1,0,0,0,0,0,0,0
+33012,2557,Smoked Salmon Portions,70,1,0,0,0,400,0,0,0,15,0,0,0,0,0,0,0
+33013,2557,Smoked Salmon Side,70,1,0,0,0,400,0,0,0,15,0,0,0,0,0,0,0

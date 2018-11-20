@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+17974,1398,Grilled Chicken Platter,632,0,5,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+17975,1399,Trainer's Sirloin,889,0,25,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+17976,1400,Turkey Burger,773,0,8,0,0,0,68,0,0,0,0,0,0,0,0,0,0
+17977,1401,Mandarin Chicken Salad,973,0,8,0,0,0,91,0,0,0,0,0,0,0,0,0,0
+17978,1402,Grilled Steak Taco; Num. 1,456,0,8,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+17979,1402,Grilled Chicken Taco; Num. 10,692,0,12,0,0,0,63,0,0,0,0,0,0,0,0,0,0

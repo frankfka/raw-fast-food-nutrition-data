@@ -1,0 +1,1059 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+40612,2981,96% Fat-Free Frozen Yogurt (All Flavors),110,2,2,0,10,50,18,0,16,3,0,0,0,0,0,0,0
+40613,2981,96% Fat-Free Frozen Yogurt (All Flavors),200,4,3,0,20,90,33,0,29,6,0,0,0,0,0,0,0
+40614,2981,96% Fat-Free Frozen Yogurt (All Flavors),290,6,4,0,30,120,47,0,41,8,0,0,0,0,0,0,0
+40615,2981,96% Fat-Free Frozen Yogurt (All Flavors),370,8,5,0,40,160,60,0,53,11,0,0,0,0,0,0,0
+40616,2981,96% Fat-Free Frozen Yogurt (All Flavors),450,10,6,0,50,190,74,0,64,13,0,0,0,0,0,0,0
+40617,2981,96% Fat-Free Frozen Yogurt (All Flavors),560,12,8,0,60,240,92,0,80,16,0,0,0,0,0,0,0
+40618,2981,96% Fat-Free Frozen Yogurt (All Flavors),"1,120",24,16,0,120,480,184,0,160,32,0,0,0,0,0,0,0
+40619,2981,Nonfat Frozen Yogurt (All Flavors),90,0,0,0,5,50,18,0,16,3,0,0,0,0,0,0,0
+40620,2981,Nonfat Frozen Yogurt (All Flavors),160,0,0,0,5,90,33,0,29,6,0,0,0,0,0,0,0
+40621,2981,Nonfat Frozen Yogurt (All Flavors),220,0,0,0,10,120,46,0,40,8,0,0,0,0,0,0,0
+40622,2981,Nonfat Frozen Yogurt (All Flavors),290,0,0,0,15,160,60,0,52,10,0,0,0,0,0,0,0
+40623,2981,Nonfat Frozen Yogurt (All Flavors),350,0,0,0,15,190,73,0,64,13,0,0,0,0,0,0,0
+40624,2981,Nonfat Frozen Yogurt (All Flavors),440,0,0,0,20,240,92,0,80,16,0,0,0,0,0,0,0
+40625,2981,Nonfat Frozen Yogurt (All Flavors),880,0,0,0,40,480,184,0,160,32,0,0,0,0,0,0,0
+40626,2981,Nonfat Frozen Yogurt (All Flavors),70,0,0,0,5,30,16,0,6,3,0,0,0,0,0,0,0
+40627,2981,Nonfat Frozen Yogurt (All Flavors),130,0,0,0,5,50,29,0,10,6,0,0,0,0,0,0,0
+40628,2981,Nonfat Frozen Yogurt (All Flavors),190,0,0,0,10,70,41,0,14,8,0,0,0,0,0,0,0
+40629,2981,Nonfat Frozen Yogurt (All Flavors),240,0,0,0,15,90,53,0,19,11,0,0,0,0,0,0,0
+40630,2981,Nonfat Frozen Yogurt (All Flavors),290,0,0,0,15,110,65,0,23,13,0,0,0,0,0,0,0
+40631,2981,Nonfat Frozen Yogurt (All Flavors),360,0,0,0,20,140,80,0,28,16,0,0,0,0,0,0,0
+40632,2981,Nonfat Frozen Yogurt (All Flavors),720,0,0,0,40,280,160,0,56,32,0,0,0,0,0,0,0
+40633,2981,Low-Carb Lovers' Frozen Yogurt (Chocolate),90,6,4,0,20,50,14,6,3,3,2,2,13,0,0,0,0
+40634,2981,Low-Carb Lovers' Frozen Yogurt (Vanilla),90,6,4,0,20,50,14,6,3,3,2,2,13,0,0,0,0
+40635,2981,Low-Carb Lovers' Frozen Yogurt (Chocolate),160,10,7,0,40,90,25,11,5,5,2,2,20,0,0,0,0
+40636,2981,Low-Carb Lovers' Frozen Yogurt (Vanilla),170,10,7,0,40,90,25,11,5,5,2,2,20,0,0,0,0
+40637,2981,Low-Carb Lovers' Frozen Yogurt (Chocolate),230,14,9,0,55,125,35,16,6,7,4,4,30,0,0,0,0
+40638,2981,Low-Carb Lovers' Frozen Yogurt (Vanilla),230,14,10,0,55,130,35,16,7,6,4,4,30,0,0,0,0
+40639,2981,Low-Carb Lovers' Frozen Yogurt (Chocolate),300,18,12,0,70,160,45,20,8,9,4,4,40,0,0,0,0
+40640,2981,Low-Carb Lovers' Frozen Yogurt (Vanilla),300,18,12,0,75,160,45,21,8,8,4,4,40,0,0,0,0
+40641,2981,Low-Carb Lovers' Frozen Yogurt (Chocolate),360,22,15,0,85,200,56,25,10,11,6,6,50,0,0,0,0
+40642,2981,Low-Carb Lovers' Frozen Yogurt (Vanilla),370,22,15,0,90,200,55,25,10,10,6,6,50,0,0,0,0
+40643,2981,Low-Carb Lovers' Frozen Yogurt (Chocolate),440,28,18,0,100,240,64,28,12,12,8,8,60,0,0,0,0
+40644,2981,Low-Carb Lovers' Frozen Yogurt (Vanilla),440,28,18,0,100,240,64,28,12,12,8,8,60,0,0,0,0
+40645,2981,Low-Carb Lovers' Frozen Yogurt (Chocolate),880,56,36,0,200,480,128,56,24,24,16,16,120,0,0,0,0
+40646,2981,Low-Carb Lovers' Frozen Yogurt (Vanilla),880,56,36,0,200,480,128,56,24,24,16,16,120,0,0,0,0
+40647,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),80,2,1,0,10,30,12,1,10,3,1,1,6,3,0,0,0
+40648,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),120,4,2,0,15,50,19,1,16,4,2,2,10,4,0,0,0
+40649,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),150,4,3,0,20,60,24,1,20,5,3,3,13,5,0,0,0
+40650,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),240,7,4,0,30,100,38,2,32,8,4,4,20,8,0,0,0
+40651,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),320,9,5,0,40,130,50,3,42,11,5,5,26,11,0,0,0
+40652,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),480,14,8,0,60,200,76,4,64,16,8,8,40,16,0,0,0
+40653,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),960,28,16,0,120,400,152,8,128,32,16,16,80,32,0,0,0
+40654,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),60,0,0,0,0,40,14,4,3,3,1,0,6,13,0,0,0
+40655,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),90,1,0,0,0,70,23,6,5,4,2,0,10,20,0,0,0
+40656,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),110,1,0,0,0,90,29,8,6,5,3,0,13,25,0,0,0
+40657,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),180,1,0,0,0,140,46,12,10,8,4,0,20,40,0,0,0
+40658,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),240,1,0,0,0,180,60,16,13,11,5,0,26,53,0,0,0
+40659,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),360,2,0,0,0,280,92,24,20,16,8,0,40,80,0,0,0
+40660,2981,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),720,4,0,0,0,560,184,48,40,32,16,0,80,160,0,0,0
+40661,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),100,4,2,0,10,50,15,0,11,2,0,3,6,1,0,0,0
+40662,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),90,3,3,0,5,30,14,0,11,2,0,1,6,1,0,0,0
+40663,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),160,6,3,0,15,80,24,0,18,3,0,4,10,2,0,0,0
+40664,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),200,8,4,0,20,90,30,0,23,4,0,5,13,3,0,0,0
+40665,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),320,12,6,0,30,150,48,0,36,6,0,8,20,4,0,0,0
+40666,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),420,16,8,0,40,200,63,0,47,8,0,11,26,5,0,0,0
+40667,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),640,24,12,0,60,300,96,0,72,12,0,16,40,8,0,0,0
+40668,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),"1,280",48,24,0,120,600,192,0,144,24,0,32,80,16,0,0,0
+40669,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),140,5,4,0,10,60,22,0,18,3,0,2,10,2,0,0,0
+40670,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),180,6,5,0,15,70,28,0,23,4,0,3,13,3,0,0,0
+40671,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),280,10,8,0,20,110,44,0,36,6,0,4,20,4,0,0,0
+40672,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),370,13,11,0,25,140,58,0,47,8,0,5,26,5,0,0,0
+40673,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),560,20,16,0,40,220,88,0,72,12,0,8,40,8,0,0,0
+40674,2981,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),"1,120",40,32,0,80,440,176,0,144,24,0,16,80,16,0,0,0
+40675,2981,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),90,3,2,0,5,50,14,0,11,2,0,1,6,0,0,0,0
+40676,2981,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),140,4,3,0,10,80,22,0,17,3,0,2,10,0,0,0,0
+40677,2981,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),180,5,3,0,15,90,28,0,21,4,0,3,13,0,0,0,0
+40678,2981,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),280,8,5,0,20,150,44,0,34,6,0,4,20,0,0,0,0
+40679,2981,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),370,11,7,0,25,200,58,0,45,8,0,5,26,0,0,0,0
+40680,2981,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),560,16,10,0,40,300,88,0,68,12,0,8,40,0,0,0,0
+40681,2981,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),"1,120",32,20,0,80,600,176,0,136,24,0,16,80,0,0,0,0
+40682,2981,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),80,2,1,0,10,40,13,0,10,2,0,1,6,0,0,0,0
+40683,2981,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),120,4,2,0,15,60,20,0,16,3,0,2,10,0,0,0,0
+40684,2981,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),150,4,3,0,20,80,25,0,20,4,0,3,13,0,0,0,0
+40685,2981,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),240,7,4,0,30,120,40,0,32,6,0,4,20,0,0,0,0
+40686,2981,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),320,9,5,0,40,160,53,0,42,8,0,5,26,0,0,0,0
+40687,2981,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),480,14,8,0,60,240,80,0,64,12,0,8,40,0,0,0,0
+40688,2981,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),960,28,16,0,120,480,160,0,128,24,0,16,80,0,0,0,0
+40689,2981,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),90,3,1,0,5,60,14,1,11,2,0,1,6,0,0,0,0
+40690,2981,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),150,5,2,0,10,100,22,1,18,3,0,2,10,0,0,0,0
+40691,2981,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),190,6,3,0,15,120,28,1,23,4,0,3,13,0,0,0,0
+40692,2981,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),300,10,4,0,20,190,44,2,36,6,0,4,20,0,0,0,0
+40693,2981,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),390,13,5,0,25,250,58,3,47,8,0,5,26,0,0,0,0
+40694,2981,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),600,20,8,0,40,380,88,4,72,12,0,8,40,0,0,0,0
+40695,2981,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),"1,200",40,16,0,80,760,176,8,144,24,0,16,80,0,0,0,0
+40696,2981,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),90,3,1,0,5,50,14,0,12,2,0,1,6,0,0,0,0
+40697,2981,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),140,5,2,0,10,80,23,0,19,3,0,2,10,0,0,0,0
+40698,2981,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),180,6,3,0,15,100,29,0,24,4,0,3,13,0,0,0,0
+40699,2981,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),280,9,4,0,20,160,46,0,38,6,0,4,20,0,0,0,0
+40700,2981,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),370,12,5,0,25,210,60,0,50,8,0,5,26,0,0,0,0
+40701,2981,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),560,18,8,0,40,320,92,0,76,12,0,8,40,0,0,0,0
+40702,2981,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),"1,120",36,16,0,80,640,184,0,152,24,0,16,80,0,0,0,0
+40703,2981,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),80,2,1,0,10,40,13,0,10,2,0,1,6,0,0,0,0
+40704,2981,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),120,4,2,0,15,60,20,0,16,3,0,2,10,0,0,0,0
+40705,2981,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),150,4,3,0,20,80,25,0,20,4,0,3,13,0,0,0,0
+40706,2981,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),240,7,4,0,30,120,40,0,32,6,0,4,20,0,0,0,0
+40707,2981,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),320,9,5,0,40,160,53,0,42,8,0,5,26,0,0,0,0
+40708,2981,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),480,14,8,0,60,240,80,0,64,12,0,8,40,0,0,0,0
+40709,2981,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),960,28,16,0,120,480,160,0,128,24,0,16,80,0,0,0,0
+40710,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),90,3,3,0,5,30,14,0,11,2,0,1,6,1,0,0,0
+40711,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),140,5,4,0,10,60,22,0,18,3,0,2,10,2,0,0,0
+40712,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),180,6,5,0,15,70,28,0,23,4,0,3,13,3,0,0,0
+40713,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),280,10,8,0,20,110,44,0,36,6,0,4,20,4,0,0,0
+40714,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),370,13,11,0,25,140,58,0,47,8,0,5,26,5,0,0,0
+40715,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),560,20,16,0,40,220,88,0,72,12,0,8,40,8,0,0,0
+40716,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),"1,120",40,32,0,80,440,176,0,144,24,0,16,80,16,0,0,0
+40717,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),50,0,0,0,0,40,12,3,4,3,1,0,9,0,0,0,0
+40718,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),80,1,0,0,0,60,19,5,6,4,2,0,15,0,0,0,0
+40719,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),100,1,0,0,0,80,24,6,8,5,3,0,19,0,0,0,0
+40720,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),160,1,0,0,0,120,38,10,12,8,4,0,30,0,0,0,0
+40721,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),210,1,0,0,0,160,50,13,16,11,5,0,39,0,0,0,0
+40722,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),320,2,0,0,0,240,76,20,24,16,8,0,60,0,0,0,0
+40723,2981,TCBY Hand Scooped Frozen Yogurt (Vanilla),640,4,0,0,0,480,152,40,48,32,16,0,120,0,0,0,0
+40724,2981,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),80,2,1,0,5,30,13,0,11,1,6,1,5,0,0,0,0
+40725,2981,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),120,3,2,0,10,50,21,0,18,2,10,2,8,0,0,0,0
+40726,2981,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),150,3,2,0,15,60,26,0,23,3,13,3,10,0,0,0,0
+40727,2981,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),240,5,3,0,20,100,42,0,36,4,20,4,16,0,0,0,0
+40728,2981,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),320,7,4,0,25,130,55,0,47,5,26,5,21,0,0,0,0
+40729,2981,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),480,10,6,0,40,200,84,0,72,8,40,8,32,0,0,0,0
+40730,2981,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),960,20,12,0,80,400,168,0,144,16,80,16,64,0,0,0,0
+40731,2981,Sorbet (All Flavors),80,0,0,0,0,20,19,0,15,0,0,0,0,0,0,0,0
+40732,2981,Sorbet (All Flavors),150,0,0,0,0,40,35,0,28,0,0,0,0,0,0,0,0
+40733,2981,Sorbet (All Flavors),200,0,0,0,0,60,49,0,39,0,0,0,0,0,0,0,0
+40734,2981,Sorbet (All Flavors),260,0,0,0,0,80,63,0,50,0,0,0,0,0,0,0,0
+40735,2981,Sorbet (All Flavors),320,0,0,0,0,100,77,0,61,0,0,0,0,0,0,0,0
+40736,2981,Sorbet (All Flavors),400,0,0,0,0,120,96,0,76,0,0,0,0,0,0,0,0
+40737,2981,Sorbet (All Flavors),800,0,0,0,0,240,192,0,152,0,0,0,0,0,0,0,0
+40738,2981,Arthur's Favorites (Discontinued) (All Flavors),90,6,3,0,20,30,10,0,8,2,0,0,0,0,0,0,0
+40739,2981,Arthur's Favorites (Discontinued) (All Flavors),150,9,5,0,30,40,16,0,13,3,0,0,0,0,0,0,0
+40740,2981,Arthur's Favorites (Discontinued) (All Flavors),190,11,6,0,40,50,20,0,16,4,0,0,0,0,0,0,0
+40741,2981,Arthur's Favorites (Discontinued) (All Flavors),300,18,10,0,60,80,32,0,26,6,0,0,0,0,0,0,0
+40742,2981,Arthur's Favorites (Discontinued) (All Flavors),390,24,13,0,80,110,42,0,34,8,0,0,0,0,0,0,0
+40743,2981,Arthur's Favorites (Discontinued) (All Flavors),600,36,20,0,120,160,64,0,52,12,0,0,0,0,0,0,0
+40744,2981,Arthur's Favorites (Discontinued) (All Flavors),"1,200",72,40,0,240,320,128,0,104,24,0,0,0,0,0,0,0
+40745,2981,TCBY Ice Cream (Discontinued) (Butter Pecan),110,8,4,0,25,10,9,0,7,1,0,0,0,0,0,0,0
+40746,2981,TCBY Ice Cream (Discontinued) (Butter Pecan),170,12,6,0,40,20,14,0,11,1,0,0,0,0,0,0,0
+40747,2981,TCBY Ice Cream (Discontinued) (Butter Pecan),210,15,8,0,50,30,18,0,14,1,0,0,0,0,0,0,0
+40748,2981,TCBY Ice Cream (Discontinued) (Butter Pecan),340,24,12,0,80,40,28,0,22,2,0,0,0,0,0,0,0
+40749,2981,TCBY Ice Cream (Discontinued) (Butter Pecan),450,32,16,0,105,50,37,0,29,3,0,0,0,0,0,0,0
+40750,2981,TCBY Ice Cream (Discontinued) (Butter Pecan),680,48,24,0,160,80,56,0,44,4,0,0,0,0,0,0,0
+40751,2981,TCBY Ice Cream (Discontinued) (Butter Pecan),"1,360",96,48,0,320,160,112,0,88,8,0,0,0,0,0,0,0
+40752,2981,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),90,6,3,0,25,10,10,0,9,1,0,0,0,0,0,0,0
+40753,2981,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),150,9,5,0,40,20,16,0,14,1,0,0,0,0,0,0,0
+40754,2981,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),190,11,6,0,50,30,20,0,18,1,0,0,0,0,0,0,0
+40755,2981,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),300,18,10,0,80,40,32,0,28,2,0,0,0,0,0,0,0
+40756,2981,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),390,24,13,0,105,50,42,0,37,3,0,0,0,0,0,0,0
+40757,2981,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),600,36,20,0,160,80,64,0,56,4,0,0,0,0,0,0,0
+40758,2981,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),"1,200",72,40,0,320,160,128,0,112,8,0,0,0,0,0,0,0
+40759,2981,TCBY Ice Cream (Discontinued) (Chocolate),90,6,4,0,25,10,9,1,8,1,0,0,0,0,0,0,0
+40760,2981,TCBY Ice Cream (Discontinued) (Chocolate),150,9,6,0,40,20,15,1,12,1,0,0,0,0,0,0,0
+40761,2981,TCBY Ice Cream (Discontinued) (Chocolate),190,11,8,0,50,30,19,1,15,1,0,0,0,0,0,0,0
+40762,2981,TCBY Ice Cream (Discontinued) (Chocolate),300,18,12,0,80,40,30,2,24,2,0,0,0,0,0,0,0
+40763,2981,TCBY Ice Cream (Discontinued) (Chocolate),390,24,16,0,105,50,39,3,32,3,0,0,0,0,0,0,0
+40764,2981,TCBY Ice Cream (Discontinued) (Chocolate),600,36,24,0,160,80,60,4,48,4,0,0,0,0,0,0,0
+40765,2981,TCBY Ice Cream (Discontinued) (Chocolate),"1,200",72,48,0,320,160,120,8,96,8,0,0,0,0,0,0,0
+40766,2981,TCBY Ice Cream (Discontinued) (Chocolate Chip),100,6,4,0,25,10,9,0,8,1,0,0,0,0,0,0,0
+40767,2981,TCBY Ice Cream (Discontinued) (Chocolate Chip),160,10,7,0,40,20,15,0,13,1,0,0,0,0,0,0,0
+40768,2981,TCBY Ice Cream (Discontinued) (Chocolate Chip),200,13,9,0,50,30,19,0,16,1,0,0,0,0,0,0,0
+40769,2981,TCBY Ice Cream (Discontinued) (Chocolate Chip),320,20,14,0,80,40,30,0,26,2,0,0,0,0,0,0,0
+40770,2981,TCBY Ice Cream (Discontinued) (Chocolate Chip),420,26,18,0,105,50,39,0,34,3,0,0,0,0,0,0,0
+40771,2981,TCBY Ice Cream (Discontinued) (Chocolate Chip),640,40,28,0,160,80,60,0,52,4,0,0,0,0,0,0,0
+40772,2981,TCBY Ice Cream (Discontinued) (Chocolate Chip),"1,280",80,56,0,320,160,120,0,104,8,0,0,0,0,0,0,0
+40773,2981,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),90,5,3,0,25,30,11,0,9,1,0,0,0,0,0,0,0
+40774,2981,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),150,8,5,0,40,40,17,0,15,1,0,0,0,0,0,0,0
+40775,2981,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),190,10,6,0,50,50,21,0,19,1,0,0,0,0,0,0,0
+40776,2981,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),300,16,10,0,80,80,34,0,30,2,0,0,0,0,0,0,0
+40777,2981,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),390,21,13,0,105,110,45,0,39,3,0,0,0,0,0,0,0
+40778,2981,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),600,32,20,0,160,160,68,0,60,4,0,0,0,0,0,0,0
+40779,2981,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),"1,200",64,40,0,320,320,136,0,120,8,0,0,0,0,0,0,0
+40780,2981,TCBY Ice Cream (Discontinued) (Coffee),90,6,4,0,30,10,8,0,7,1,0,0,0,0,0,0,0
+40781,2981,TCBY Ice Cream (Discontinued) (Coffee),140,9,6,0,45,20,13,0,11,1,0,0,0,0,0,0,0
+40782,2981,TCBY Ice Cream (Discontinued) (Coffee),180,11,8,0,55,30,16,0,14,1,0,0,0,0,0,0,0
+40783,2981,TCBY Ice Cream (Discontinued) (Coffee),280,18,12,0,90,40,26,0,22,2,0,0,0,0,0,0,0
+40784,2981,TCBY Ice Cream (Discontinued) (Coffee),370,24,16,0,120,50,34,0,29,3,0,0,0,0,0,0,0
+40785,2981,TCBY Ice Cream (Discontinued) (Coffee),560,36,24,0,180,80,52,0,44,4,0,0,0,0,0,0,0
+40786,2981,TCBY Ice Cream (Discontinued) (Coffee),"1,120",72,48,0,360,160,104,0,88,8,0,0,0,0,0,0,0
+40787,2981,TCBY Ice Cream (Discontinued) (Cookie Dough),100,6,4,0,25,30,11,0,9,1,0,0,0,0,0,0,0
+40788,2981,TCBY Ice Cream (Discontinued) (Cookie Dough),160,9,6,0,40,40,17,0,14,1,0,0,0,0,0,0,0
+40789,2981,TCBY Ice Cream (Discontinued) (Cookie Dough),200,11,8,0,50,50,21,0,18,1,0,0,0,0,0,0,0
+40790,2981,TCBY Ice Cream (Discontinued) (Cookie Dough),320,18,12,0,80,80,34,0,28,2,0,0,0,0,0,0,0
+40791,2981,TCBY Ice Cream (Discontinued) (Cookie Dough),420,24,16,0,105,110,45,0,37,3,0,0,0,0,0,0,0
+40792,2981,TCBY Ice Cream (Discontinued) (Cookie Dough),640,36,24,0,160,160,68,0,56,4,0,0,0,0,0,0,0
+40793,2981,TCBY Ice Cream (Discontinued) (Cookie Dough),"1,280",72,48,0,320,320,136,0,112,8,0,0,0,0,0,0,0
+40794,2981,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),100,6,4,0,25,10,9,0,9,1,0,0,0,0,0,0,0
+40795,2981,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),160,10,7,0,40,20,15,0,14,1,0,0,0,0,0,0,0
+40796,2981,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),200,13,9,0,50,30,19,0,18,1,0,0,0,0,0,0,0
+40797,2981,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),320,20,14,0,80,40,30,0,28,2,0,0,0,0,0,0,0
+40798,2981,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),420,26,18,0,105,50,39,0,37,3,0,0,0,0,0,0,0
+40799,2981,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),640,40,28,0,160,80,60,0,56,4,0,0,0,0,0,0,0
+40800,2981,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),"1,280",80,56,0,320,160,120,0,112,8,0,0,0,0,0,0,0
+40801,2981,TCBY Ice Cream (Discontinued) (Pistachio),100,6,4,0,25,20,8,1,7,1,0,0,0,0,0,0,0
+40802,2981,TCBY Ice Cream (Discontinued) (Pistachio),160,10,6,0,40,40,13,1,11,2,0,0,0,0,0,0,0
+40803,2981,TCBY Ice Cream (Discontinued) (Pistachio),200,13,8,0,50,40,16,1,14,3,0,0,0,0,0,0,0
+40804,2981,TCBY Ice Cream (Discontinued) (Pistachio),320,20,12,0,80,70,26,2,22,4,0,0,0,0,0,0,0
+40805,2981,TCBY Ice Cream (Discontinued) (Pistachio),420,26,16,0,105,90,34,3,29,5,0,0,0,0,0,0,0
+40806,2981,TCBY Ice Cream (Discontinued) (Pistachio),640,40,24,0,160,140,52,4,44,8,0,0,0,0,0,0,0
+40807,2981,TCBY Ice Cream (Discontinued) (Pistachio),"1,280",80,48,0,320,280,104,8,88,16,0,0,0,0,0,0,0
+40808,2981,TCBY Ice Cream (Discontinued) (Pralines & Cream),100,6,4,0,25,20,10,0,9,1,0,0,0,0,0,0,0
+40809,2981,TCBY Ice Cream (Discontinued) (Pralines & Cream),160,9,6,0,40,40,16,0,14,1,0,0,0,0,0,0,0
+40810,2981,TCBY Ice Cream (Discontinued) (Pralines & Cream),200,11,8,0,50,40,20,0,18,1,0,0,0,0,0,0,0
+40811,2981,TCBY Ice Cream (Discontinued) (Pralines & Cream),320,18,12,0,80,70,32,0,28,2,0,0,0,0,0,0,0
+40812,2981,TCBY Ice Cream (Discontinued) (Pralines & Cream),420,24,16,0,105,90,42,0,37,3,0,0,0,0,0,0,0
+40813,2981,TCBY Ice Cream (Discontinued) (Pralines & Cream),640,36,24,0,160,140,64,0,56,4,0,0,0,0,0,0,0
+40814,2981,TCBY Ice Cream (Discontinued) (Pralines & Cream),"1,280",72,48,0,320,280,128,0,112,8,0,0,0,0,0,0,0
+40815,2981,TCBY Ice Cream (Discontinued) (Rocky Road),110,6,3,0,20,20,13,1,9,1,0,0,0,0,0,0,0
+40816,2981,TCBY Ice Cream (Discontinued) (Rocky Road),170,9,5,0,30,30,20,1,14,2,0,0,0,0,0,0,0
+40817,2981,TCBY Ice Cream (Discontinued) (Rocky Road),210,11,6,0,40,40,25,1,18,3,0,0,0,0,0,0,0
+40818,2981,TCBY Ice Cream (Discontinued) (Rocky Road),340,18,10,0,60,60,40,2,28,4,0,0,0,0,0,0,0
+40819,2981,TCBY Ice Cream (Discontinued) (Rocky Road),450,24,13,0,80,80,53,3,37,5,0,0,0,0,0,0,0
+40820,2981,TCBY Ice Cream (Discontinued) (Rocky Road),680,36,20,0,120,120,80,4,56,8,0,0,0,0,0,0,0
+40821,2981,TCBY Ice Cream (Discontinued) (Rocky Road),"1,360",72,40,0,240,240,160,8,112,16,0,0,0,0,0,0,0
+40822,2981,TCBY Ice Cream (Discontinued) (Strawberry),90,5,3,0,25,10,8,0,8,1,0,0,0,0,0,0,0
+40823,2981,TCBY Ice Cream (Discontinued) (Strawberry),140,8,5,0,40,20,13,0,12,1,0,0,0,0,0,0,0
+40824,2981,TCBY Ice Cream (Discontinued) (Strawberry),180,10,6,0,50,30,16,0,15,1,0,0,0,0,0,0,0
+40825,2981,TCBY Ice Cream (Discontinued) (Strawberry),280,16,10,0,80,40,26,0,24,2,0,0,0,0,0,0,0
+40826,2981,TCBY Ice Cream (Discontinued) (Strawberry),370,21,13,0,105,50,34,0,32,3,0,0,0,0,0,0,0
+40827,2981,TCBY Ice Cream (Discontinued) (Strawberry),560,32,20,0,160,80,52,0,48,4,0,0,0,0,0,0,0
+40828,2981,TCBY Ice Cream (Discontinued) (Strawberry),"1,120",64,40,0,320,160,104,0,96,8,0,0,0,0,0,0,0
+40829,2981,TCBY Ice Cream (Discontinued) (Vanilla Bean),90,6,4,0,30,10,8,0,7,1,0,0,0,0,0,0,0
+40830,2981,TCBY Ice Cream (Discontinued) (Vanilla Bean),150,9,6,0,45,20,13,0,11,1,0,0,0,0,0,0,0
+40831,2981,TCBY Ice Cream (Discontinued) (Vanilla Bean),190,11,8,0,55,30,16,0,14,1,0,0,0,0,0,0,0
+40832,2981,TCBY Ice Cream (Discontinued) (Vanilla Bean),300,18,12,0,90,40,26,0,22,2,0,0,0,0,0,0,0
+40833,2981,TCBY Ice Cream (Discontinued) (Vanilla Bean),390,24,16,0,120,50,34,0,29,3,0,0,0,0,0,0,0
+40834,2981,TCBY Ice Cream (Discontinued) (Vanilla Bean),600,36,24,0,180,80,52,0,44,4,0,0,0,0,0,0,0
+40835,2981,TCBY Ice Cream (Discontinued) (Vanilla Bean),"1,200",72,48,0,360,160,104,0,88,8,0,0,0,0,0,0,0
+40836,2981,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),110,6,4,0,25,30,11,0,10,1,0,0,0,0,0,0,0
+40837,2981,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),170,9,6,0,40,50,18,0,16,1,0,0,0,0,0,0,0
+40838,2981,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),210,11,8,0,50,60,23,0,20,1,0,0,0,0,0,0,0
+40839,2981,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),340,18,12,0,80,90,36,0,32,2,0,0,0,0,0,0,0
+40840,2981,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),450,24,16,0,105,120,47,0,42,3,0,0,0,0,0,0,0
+40841,2981,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),680,36,24,0,160,180,72,0,64,4,0,0,0,0,0,0,0
+40842,2981,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),"1,360",72,48,0,320,360,144,0,128,8,0,0,0,0,0,0,0
+40843,2982,96% Fat-Free Frozen Yogurt (All Flavors),130,2,2,0,10,60,21,0,16,3,0,0,0,0,0,0,0
+40844,2982,96% Fat-Free Frozen Yogurt (All Flavors),220,4,3,0,20,100,36,0,29,6,0,0,0,0,0,0,0
+40845,2982,96% Fat-Free Frozen Yogurt (All Flavors),300,6,4,0,30,140,50,0,41,8,0,0,0,0,0,0,0
+40846,2982,96% Fat-Free Frozen Yogurt (All Flavors),380,8,5,0,40,170,63,0,53,11,0,0,0,0,0,0,0
+40847,2982,96% Fat-Free Frozen Yogurt (All Flavors),470,10,6,0,50,210,77,0,64,13,0,0,0,0,0,0,0
+40848,2982,96% Fat-Free Frozen Yogurt (All Flavors),260,6,3,0,40,280,42,1,29,6,0,0,0,0,0,0,0
+40849,2982,96% Fat-Free Frozen Yogurt (All Flavors),350,8,4,0,50,320,57,1,42,9,0,0,0,0,0,0,0
+40850,2982,96% Fat-Free Frozen Yogurt (All Flavors),440,10,5,0,60,350,71,1,54,11,0,0,0,0,0,0,0
+40851,2982,96% Fat-Free Frozen Yogurt (All Flavors),520,12,6,0,70,390,84,1,66,14,0,0,0,0,0,0,0
+40852,2982,96% Fat-Free Frozen Yogurt (All Flavors),600,14,7,0,80,420,98,1,77,16,0,0,0,0,0,0,0
+40853,2982,96% Fat-Free Frozen Yogurt (All Flavors),180,3,2,0,10,140,33,0,22,4,0,0,0,0,0,0,0
+40854,2982,96% Fat-Free Frozen Yogurt (All Flavors),270,5,3,0,20,180,48,0,35,7,0,0,0,0,0,0,0
+40855,2982,96% Fat-Free Frozen Yogurt (All Flavors),360,7,4,0,30,210,62,0,47,9,0,0,0,0,0,0,0
+40856,2982,96% Fat-Free Frozen Yogurt (All Flavors),440,9,5,0,40,250,75,0,59,12,0,0,0,0,0,0,0
+40857,2982,96% Fat-Free Frozen Yogurt (All Flavors),520,11,6,0,50,280,89,0,70,14,0,0,0,0,0,0,0
+40858,2982,96% Fat-Free Frozen Yogurt (All Flavors),180,3,2,0,10,140,33,0,22,4,0,0,0,0,0,0,0
+40859,2982,96% Fat-Free Frozen Yogurt (All Flavors),270,5,3,0,20,180,48,0,35,7,0,0,0,0,0,0,0
+40860,2982,96% Fat-Free Frozen Yogurt (All Flavors),400,8,5,0,35,160,69,0,50,10,0,0,0,0,0,0,0
+40861,2982,96% Fat-Free Frozen Yogurt (All Flavors),480,10,6,0,45,200,82,0,62,13,0,0,0,0,0,0,0
+40862,2982,96% Fat-Free Frozen Yogurt (All Flavors),560,12,7,0,55,230,96,0,73,15,0,0,0,0,0,0,0
+40863,2982,Nonfat Frozen Yogurt (All Flavors),100,0,0,0,5,60,21,0,16,3,0,0,0,0,0,0,0
+40864,2982,Nonfat Frozen Yogurt (All Flavors),170,0,0,0,5,100,36,0,29,6,0,0,0,0,0,0,0
+40865,2982,Nonfat Frozen Yogurt (All Flavors),240,0,0,0,10,140,49,0,40,8,0,0,0,0,0,0,0
+40866,2982,Nonfat Frozen Yogurt (All Flavors),300,0,0,0,15,170,63,0,52,10,0,0,0,0,0,0,0
+40867,2982,Nonfat Frozen Yogurt (All Flavors),370,0,0,0,15,210,76,0,64,13,0,0,0,0,0,0,0
+40868,2982,Nonfat Frozen Yogurt (All Flavors),240,4,1,0,35,280,42,1,29,6,0,0,0,0,0,0,0
+40869,2982,Nonfat Frozen Yogurt (All Flavors),310,4,1,0,35,320,57,1,42,9,0,0,0,0,0,0,0
+40870,2982,Nonfat Frozen Yogurt (All Flavors),370,4,1,0,40,350,70,1,53,11,0,0,0,0,0,0,0
+40871,2982,Nonfat Frozen Yogurt (All Flavors),440,4,1,0,45,390,84,1,65,13,0,0,0,0,0,0,0
+40872,2982,Nonfat Frozen Yogurt (All Flavors),500,4,1,0,45,420,97,1,77,16,0,0,0,0,0,0,0
+40873,2982,Nonfat Frozen Yogurt (All Flavors),160,1,0,0,5,140,33,0,22,4,0,0,0,0,0,0,0
+40874,2982,Nonfat Frozen Yogurt (All Flavors),230,1,0,0,5,180,48,0,35,7,0,0,0,0,0,0,0
+40875,2982,Nonfat Frozen Yogurt (All Flavors),290,1,0,0,10,210,61,0,46,9,0,0,0,0,0,0,0
+40876,2982,Nonfat Frozen Yogurt (All Flavors),360,1,0,0,15,250,75,0,58,11,0,0,0,0,0,0,0
+40877,2982,Nonfat Frozen Yogurt (All Flavors),420,1,0,0,15,280,88,0,70,14,0,0,0,0,0,0,0
+40878,2982,Nonfat Frozen Yogurt (All Flavors),160,1,0,0,5,140,33,0,22,4,0,0,0,0,0,0,0
+40879,2982,Nonfat Frozen Yogurt (All Flavors),230,1,0,0,5,180,48,0,35,7,0,0,0,0,0,0,0
+40880,2982,Nonfat Frozen Yogurt (All Flavors),330,2,1,0,15,160,68,0,49,10,0,0,0,0,0,0,0
+40881,2982,Nonfat Frozen Yogurt (All Flavors),400,2,1,0,20,200,82,0,61,12,0,0,0,0,0,0,0
+40882,2982,Nonfat Frozen Yogurt (All Flavors),460,2,1,0,20,230,95,0,73,15,0,0,0,0,0,0,0
+40883,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),90,0,0,0,5,40,19,0,6,3,0,0,0,0,0,0,0
+40884,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),150,0,0,0,5,70,32,0,10,6,0,0,0,0,0,0,0
+40885,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),200,0,0,0,10,90,44,0,14,8,0,0,0,0,0,0,0
+40886,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),250,0,0,0,15,110,56,0,19,11,0,0,0,0,0,0,0
+40887,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),310,0,0,0,15,130,68,0,23,13,0,0,0,0,0,0,0
+40888,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),220,4,1,0,35,260,40,1,19,6,0,0,0,0,0,0,0
+40889,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),280,4,1,0,35,280,53,1,23,9,0,0,0,0,0,0,0
+40890,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),340,4,1,0,40,300,65,1,27,11,0,0,0,0,0,0,0
+40891,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),390,4,1,0,45,320,77,1,32,14,0,0,0,0,0,0,0
+40892,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),440,4,1,0,45,340,89,1,36,16,0,0,0,0,0,0,0
+40893,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),140,1,0,0,5,120,31,0,12,4,0,0,0,0,0,0,0
+40894,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),200,1,0,0,5,140,44,0,16,7,0,0,0,0,0,0,0
+40895,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),260,1,0,0,10,160,56,0,20,9,0,0,0,0,0,0,0
+40896,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),310,1,0,0,15,180,68,0,25,12,0,0,0,0,0,0,0
+40897,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),360,1,0,0,15,200,80,0,29,14,0,0,0,0,0,0,0
+40898,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),140,1,0,0,5,120,31,0,12,4,0,0,0,0,0,0,0
+40899,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),200,1,0,0,5,140,44,0,16,7,0,0,0,0,0,0,0
+40900,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),300,2,1,0,15,110,63,0,23,10,0,0,0,0,0,0,0
+40901,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),350,2,1,0,20,130,75,0,28,13,0,0,0,0,0,0,0
+40902,2982,No-Sugar-Added/Nonfat Frozen Yogurt (All Flavors),400,2,1,0,20,150,87,0,32,15,0,0,0,0,0,0,0
+40903,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),110,6,4,0,20,70,17,6,3,3,0,0,0,0,0,0,0
+40904,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),180,11,7,0,40,110,28,11,5,5,0,0,0,0,0,0,0
+40905,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),250,15,10,0,55,140,37,15,6,6,0,0,0,0,0,0,0
+40906,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),320,19,12,0,70,180,47,19,8,8,0,0,0,0,0,0,0
+40907,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),390,24,15,0,85,220,57,24,10,10,0,0,0,0,0,0,0
+40908,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),240,10,5,0,50,280,38,7,16,6,0,0,0,0,0,0,0
+40909,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),320,15,8,0,70,320,49,12,18,8,0,0,0,0,0,0,0
+40910,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),390,19,11,0,85,360,58,16,19,9,0,0,0,0,0,0,0
+40911,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),460,23,13,0,100,400,68,20,21,11,0,0,0,0,0,0,0
+40912,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),520,28,16,0,115,430,78,25,23,13,0,0,0,0,0,0,0
+40913,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),160,7,4,0,20,140,29,6,9,4,0,0,0,0,0,0,0
+40914,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),240,12,7,0,40,180,40,11,11,6,0,0,0,0,0,0,0
+40915,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),310,16,10,0,55,220,49,15,12,7,0,0,0,0,0,0,0
+40916,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),380,20,12,0,70,260,59,19,14,9,0,0,0,0,0,0,0
+40917,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),440,25,15,0,85,290,69,24,16,11,0,0,0,0,0,0,0
+40918,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),160,7,4,0,20,140,29,6,9,4,0,0,0,0,0,0,0
+40919,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),240,12,7,0,40,180,40,11,11,6,0,0,0,0,0,0,0
+40920,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),350,17,11,0,60,170,56,15,15,8,0,0,0,0,0,0,0
+40921,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),420,21,13,0,75,210,66,19,17,10,0,0,0,0,0,0,0
+40922,2982,Low-Carb Lovers' Chocolate Frozen Yogurt (Chocolate),480,26,16,0,90,240,76,24,19,12,0,0,0,0,0,0,0
+40923,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),110,6,4,0,20,70,17,6,3,3,0,0,0,0,0,0,0
+40924,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),180,11,7,0,40,110,28,11,5,5,0,0,0,0,0,0,0
+40925,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),250,15,10,0,55,140,37,15,6,6,0,0,0,0,0,0,0
+40926,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),320,19,12,0,70,180,47,19,8,8,0,0,0,0,0,0,0
+40927,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),390,24,15,0,85,220,57,24,10,10,0,0,0,0,0,0,0
+40928,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),240,10,5,0,50,280,38,7,16,6,0,0,0,0,0,0,0
+40929,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),320,15,8,0,70,320,49,12,18,8,0,0,0,0,0,0,0
+40930,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),390,19,11,0,85,360,58,16,19,9,0,0,0,0,0,0,0
+40931,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),460,23,13,0,100,400,68,20,21,11,0,0,0,0,0,0,0
+40932,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),520,28,16,0,115,430,78,25,23,13,0,0,0,0,0,0,0
+40933,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),160,7,4,0,20,140,29,6,9,4,0,0,0,0,0,0,0
+40934,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),240,12,7,0,40,180,40,11,11,6,0,0,0,0,0,0,0
+40935,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),310,16,10,0,55,220,49,15,12,7,0,0,0,0,0,0,0
+40936,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),380,20,12,0,70,260,59,19,14,9,0,0,0,0,0,0,0
+40937,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),440,25,15,0,85,290,69,24,16,11,0,0,0,0,0,0,0
+40938,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),160,7,4,0,20,140,29,6,9,4,0,0,0,0,0,0,0
+40939,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),240,12,7,0,40,180,40,11,11,6,0,0,0,0,0,0,0
+40940,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),350,17,11,0,60,170,56,15,15,8,0,0,0,0,0,0,0
+40941,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),420,21,13,0,75,210,66,19,17,10,0,0,0,0,0,0,0
+40942,2982,Low-Carb Lovers' Vanilla Frozen Yogurt (Vanilla),480,26,16,0,90,240,76,24,19,12,0,0,0,0,0,0,0
+40943,2982,Sorbet (All Flavors),100,0,0,0,0,40,22,0,15,0,0,0,0,0,0,0,0
+40944,2982,Sorbet (All Flavors),160,0,0,0,0,60,38,0,28,0,0,0,0,0,0,0,0
+40945,2982,Sorbet (All Flavors),220,0,0,0,0,80,52,0,39,0,0,0,0,0,0,0,0
+40946,2982,Sorbet (All Flavors),280,0,0,0,0,90,66,0,50,0,0,0,0,0,0,0,0
+40947,2982,Sorbet (All Flavors),340,0,0,0,0,110,80,0,61,0,0,0,0,0,0,0,0
+40948,2982,Sorbet (All Flavors),230,4,1,0,30,250,43,1,28,3,0,0,0,0,0,0,0
+40949,2982,Sorbet (All Flavors),300,4,1,0,30,270,59,1,41,3,0,0,0,0,0,0,0
+40950,2982,Sorbet (All Flavors),350,4,1,0,30,290,73,1,52,3,0,0,0,0,0,0,0
+40951,2982,Sorbet (All Flavors),410,4,1,0,30,310,87,1,63,3,0,0,0,0,0,0,0
+40952,2982,Sorbet (All Flavors),470,4,1,0,30,330,101,1,74,3,0,0,0,0,0,0,0
+40953,2982,Sorbet (All Flavors),150,1,0,0,0,110,34,0,21,1,0,0,0,0,0,0,0
+40954,2982,Sorbet (All Flavors),220,1,0,0,0,130,50,0,34,1,0,0,0,0,0,0,0
+40955,2982,Sorbet (All Flavors),270,1,0,0,0,150,64,0,45,1,0,0,0,0,0,0,0
+40956,2982,Sorbet (All Flavors),330,1,0,0,0,170,78,0,56,1,0,0,0,0,0,0,0
+40957,2982,Sorbet (All Flavors),390,1,0,0,0,190,92,0,67,1,0,0,0,0,0,0,0
+40958,2982,Sorbet (All Flavors),150,1,0,0,0,110,34,0,21,1,0,0,0,0,0,0,0
+40959,2982,Sorbet (All Flavors),220,1,0,0,0,130,50,0,34,1,0,0,0,0,0,0,0
+40960,2982,Sorbet (All Flavors),310,2,1,0,5,100,71,0,48,2,0,0,0,0,0,0,0
+40961,2982,Sorbet (All Flavors),370,2,1,0,5,120,85,0,59,2,0,0,0,0,0,0,0
+40962,2982,Sorbet (All Flavors),430,2,1,0,5,140,99,0,70,2,0,0,0,0,0,0,0
+40963,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),90,2,1,0,10,50,15,1,10,3,0,0,0,0,0,0,0
+40964,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),140,4,2,0,15,70,22,1,16,4,0,0,0,0,0,0,0
+40965,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),170,4,3,0,20,80,27,1,20,5,0,0,0,0,0,0,0
+40966,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),260,7,4,0,30,120,41,2,32,8,0,0,0,0,0,0,0
+40967,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),330,9,5,0,40,150,53,3,42,11,0,0,0,0,0,0,0
+40968,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),230,6,2,0,40,260,36,2,23,6,0,0,0,0,0,0,0
+40969,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),270,8,3,0,45,280,43,2,29,7,0,0,0,0,0,0,0
+40970,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),300,8,4,0,50,290,48,2,33,8,0,0,0,0,0,0,0
+40971,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),390,11,5,0,60,330,62,3,45,11,0,0,0,0,0,0,0
+40972,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),470,13,6,0,70,360,74,4,55,14,0,0,0,0,0,0,0
+40973,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),150,3,1,0,10,120,27,1,16,4,0,0,0,0,0,0,0
+40974,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),190,5,2,0,15,140,34,1,22,5,0,0,0,0,0,0,0
+40975,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),220,5,3,0,20,150,39,1,26,6,0,0,0,0,0,0,0
+40976,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),310,8,4,0,30,190,53,2,38,9,0,0,0,0,0,0,0
+40977,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),390,10,5,0,40,220,65,3,48,12,0,0,0,0,0,0,0
+40978,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),150,3,1,0,10,120,27,1,16,4,0,0,0,0,0,0,0
+40979,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),190,5,2,0,15,140,34,1,22,5,0,0,0,0,0,0,0
+40980,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),260,6,4,0,25,100,46,1,29,7,0,0,0,0,0,0,0
+40981,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),350,9,5,0,35,140,60,2,41,10,0,0,0,0,0,0,0
+40982,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate),430,11,6,0,45,170,72,3,51,13,0,0,0,0,0,0,0
+40983,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),70,0,0,0,0,60,17,4,3,3,0,0,0,0,0,0,0
+40984,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),110,1,0,0,0,90,26,6,5,4,0,0,0,0,0,0,0
+40985,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),130,1,0,0,0,100,32,8,6,5,0,0,0,0,0,0,0
+40986,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),200,1,0,0,0,160,49,12,10,8,0,0,0,0,0,0,0
+40987,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),250,1,0,0,0,200,63,16,13,11,0,0,0,0,0,0,0
+40988,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),210,4,1,0,30,270,38,5,16,6,0,0,0,0,0,0,0
+40989,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),240,5,1,0,30,300,47,7,18,7,0,0,0,0,0,0,0
+40990,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),260,5,1,0,30,320,53,9,19,8,0,0,0,0,0,0,0
+40991,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),330,5,1,0,30,370,70,13,23,11,0,0,0,0,0,0,0
+40992,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),390,5,1,0,30,410,84,17,26,14,0,0,0,0,0,0,0
+40993,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),130,1,0,0,0,130,29,4,9,4,0,0,0,0,0,0,0
+40994,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),160,2,0,0,0,160,38,6,11,5,0,0,0,0,0,0,0
+40995,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),180,2,0,0,0,180,44,8,12,6,0,0,0,0,0,0,0
+40996,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),250,2,0,0,0,230,61,12,16,9,0,0,0,0,0,0,0
+40997,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),310,2,0,0,0,270,75,16,19,12,0,0,0,0,0,0,0
+40998,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),130,1,0,0,0,130,29,4,9,4,0,0,0,0,0,0,0
+40999,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),160,2,0,0,0,160,38,6,11,5,0,0,0,0,0,0,0
+41000,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),220,3,1,0,5,130,51,8,15,7,0,0,0,0,0,0,0
+41001,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),290,3,1,0,5,180,68,12,19,10,0,0,0,0,0,0,0
+41002,2982,TCBY Hand Scooped Frozen Yogurt (Chocolate Chocolate Swirl),350,3,1,0,5,220,82,16,22,13,0,0,0,0,0,0,0
+41003,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),120,4,2,0,10,60,18,0,11,2,0,0,0,0,0,0,0
+41004,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),180,6,3,0,15,90,27,0,18,3,0,0,0,0,0,0,0
+41005,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),220,8,4,0,20,110,33,0,23,4,0,0,0,0,0,0,0
+41006,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),340,12,6,0,30,170,51,0,36,6,0,0,0,0,0,0,0
+41007,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),440,16,8,0,40,210,66,0,47,8,0,0,0,0,0,0,0
+41008,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),250,8,3,0,40,280,39,1,24,5,0,0,0,0,0,0,0
+41009,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),310,10,4,0,45,310,48,1,31,6,0,0,0,0,0,0,0
+41010,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),350,12,5,0,50,320,54,1,36,7,0,0,0,0,0,0,0
+41011,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),470,16,7,0,60,380,72,1,49,9,0,0,0,0,0,0,0
+41012,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),570,20,9,0,70,430,87,1,60,11,0,0,0,0,0,0,0
+41013,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),170,5,2,0,10,140,30,0,17,3,0,0,0,0,0,0,0
+41014,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),230,7,3,0,15,170,39,0,24,4,0,0,0,0,0,0,0
+41015,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),270,9,4,0,20,180,45,0,29,5,0,0,0,0,0,0,0
+41016,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),390,13,6,0,30,240,63,0,42,7,0,0,0,0,0,0,0
+41017,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),490,17,8,0,40,290,78,0,53,9,0,0,0,0,0,0,0
+41018,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),170,5,2,0,10,140,30,0,17,3,0,0,0,0,0,0,0
+41019,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),230,7,3,0,15,170,39,0,24,4,0,0,0,0,0,0,0
+41020,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),310,10,5,0,25,130,52,0,32,6,0,0,0,0,0,0,0
+41021,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),430,14,7,0,35,190,70,0,45,8,0,0,0,0,0,0,0
+41022,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Cookie Dough),530,18,9,0,45,240,85,0,56,10,0,0,0,0,0,0,0
+41023,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),100,3,3,0,5,50,17,0,11,2,0,0,0,0,0,0,0
+41024,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),160,5,4,0,10,70,25,0,18,3,0,0,0,0,0,0,0
+41025,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),190,6,5,0,15,80,31,0,23,4,0,0,0,0,0,0,0
+41026,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),300,10,8,0,20,130,47,0,36,6,0,0,0,0,0,0,0
+41027,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),380,13,11,0,25,160,61,0,47,8,0,0,0,0,0,0,0
+41028,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),240,7,4,0,35,260,38,1,24,5,0,0,0,0,0,0,0
+41029,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),290,9,5,0,40,290,46,1,31,6,0,0,0,0,0,0,0
+41030,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),330,10,6,0,45,300,52,1,36,7,0,0,0,0,0,0,0
+41031,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),430,14,9,0,50,340,68,1,49,9,0,0,0,0,0,0,0
+41032,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),520,17,12,0,55,370,82,1,60,11,0,0,0,0,0,0,0
+41033,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),160,4,3,0,5,120,29,0,17,3,0,0,0,0,0,0,0
+41034,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),210,6,4,0,10,150,37,0,24,4,0,0,0,0,0,0,0
+41035,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),250,7,5,0,15,160,43,0,29,5,0,0,0,0,0,0,0
+41036,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),350,11,8,0,20,200,59,0,42,7,0,0,0,0,0,0,0
+41037,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),440,14,11,0,25,230,73,0,53,9,0,0,0,0,0,0,0
+41038,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),160,4,3,0,5,120,29,0,17,3,0,0,0,0,0,0,0
+41039,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),210,6,4,0,10,150,37,0,24,4,0,0,0,0,0,0,0
+41040,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),290,8,6,0,20,110,50,0,32,6,0,0,0,0,0,0,0
+41041,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),390,12,9,0,25,150,66,0,45,8,0,0,0,0,0,0,0
+41042,2982,TCBY Hand Scooped Frozen Yogurt (Chunky Chocolate Mint),480,15,12,0,30,180,80,0,56,10,0,0,0,0,0,0,0
+41043,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),100,3,2,0,5,60,17,0,11,2,0,0,0,0,0,0,0
+41044,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),160,4,3,0,10,90,25,0,17,3,0,0,0,0,0,0,0
+41045,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),190,5,3,0,15,110,31,0,21,4,0,0,0,0,0,0,0
+41046,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),300,8,5,0,20,170,47,0,34,6,0,0,0,0,0,0,0
+41047,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),380,11,7,0,25,210,61,0,45,8,0,0,0,0,0,0,0
+41048,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),240,7,3,0,35,280,38,1,24,5,0,0,0,0,0,0,0
+41049,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),290,8,4,0,40,310,46,1,30,6,0,0,0,0,0,0,0
+41050,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),330,9,4,0,45,320,52,1,34,7,0,0,0,0,0,0,0
+41051,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),430,12,6,0,50,380,68,1,47,9,0,0,0,0,0,0,0
+41052,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),520,15,8,0,55,430,82,1,58,11,0,0,0,0,0,0,0
+41053,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),160,4,2,0,5,140,29,0,17,3,0,0,0,0,0,0,0
+41054,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),210,5,3,0,10,170,37,0,23,4,0,0,0,0,0,0,0
+41055,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),250,6,3,0,15,180,43,0,27,5,0,0,0,0,0,0,0
+41056,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),350,9,5,0,20,240,59,0,40,7,0,0,0,0,0,0,0
+41057,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),440,12,7,0,25,290,73,0,51,9,0,0,0,0,0,0,0
+41058,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),160,4,2,0,5,140,29,0,17,3,0,0,0,0,0,0,0
+41059,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),210,5,3,0,10,170,37,0,23,4,0,0,0,0,0,0,0
+41060,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),290,7,4,0,20,130,50,0,30,6,0,0,0,0,0,0,0
+41061,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),390,10,6,0,25,190,66,0,43,8,0,0,0,0,0,0,0
+41062,2982,TCBY Hand Scooped Frozen Yogurt (Cookies & Cream),480,13,8,0,30,240,80,0,54,10,0,0,0,0,0,0,0
+41063,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),90,2,1,0,10,50,16,0,10,2,0,0,0,0,0,0,0
+41064,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),140,4,2,0,15,80,23,0,16,3,0,0,0,0,0,0,0
+41065,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),170,4,3,0,20,90,28,0,20,4,0,0,0,0,0,0,0
+41066,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),260,7,4,0,30,140,43,0,32,6,0,0,0,0,0,0,0
+41067,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),330,9,5,0,40,170,56,0,42,8,0,0,0,0,0,0,0
+41068,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),230,6,2,0,40,270,37,1,23,5,0,0,0,0,0,0,0
+41069,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),270,8,3,0,45,290,44,1,29,6,0,0,0,0,0,0,0
+41070,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),300,8,4,0,50,310,49,1,33,7,0,0,0,0,0,0,0
+41071,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),390,11,5,0,60,350,64,1,45,9,0,0,0,0,0,0,0
+41072,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),470,13,6,0,70,390,77,1,55,11,0,0,0,0,0,0,0
+41073,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),150,3,1,0,10,130,28,0,16,3,0,0,0,0,0,0,0
+41074,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),190,5,2,0,15,150,35,0,22,4,0,0,0,0,0,0,0
+41075,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),220,5,3,0,20,170,40,0,26,5,0,0,0,0,0,0,0
+41076,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),310,8,4,0,30,210,55,0,38,7,0,0,0,0,0,0,0
+41077,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),390,10,5,0,40,250,68,0,48,9,0,0,0,0,0,0,0
+41078,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),150,3,1,0,10,130,28,0,16,3,0,0,0,0,0,0,0
+41079,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),190,5,2,0,15,150,35,0,22,4,0,0,0,0,0,0,0
+41080,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),260,6,4,0,25,120,47,0,29,6,0,0,0,0,0,0,0
+41081,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),350,9,5,0,35,160,62,0,41,8,0,0,0,0,0,0,0
+41082,2982,TCBY Hand Scooped Frozen Yogurt (Cotton Candy),430,11,6,0,45,200,75,0,51,10,0,0,0,0,0,0,0
+41083,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),110,3,1,0,5,70,17,1,11,2,0,0,0,0,0,0,0
+41084,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),170,5,2,0,10,110,25,1,18,3,0,0,0,0,0,0,0
+41085,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),200,6,3,0,15,130,31,1,23,4,0,0,0,0,0,0,0
+41086,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),320,10,4,0,20,210,47,2,36,6,0,0,0,0,0,0,0
+41087,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),410,13,5,0,25,260,61,3,47,8,0,0,0,0,0,0,0
+41088,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),240,7,2,0,35,290,38,2,24,5,0,0,0,0,0,0,0
+41089,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),300,9,3,0,40,330,46,2,31,6,0,0,0,0,0,0,0
+41090,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),340,10,4,0,45,350,52,2,36,7,0,0,0,0,0,0,0
+41091,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),450,14,5,0,50,420,68,3,49,9,0,0,0,0,0,0,0
+41092,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),540,17,6,0,55,480,82,4,60,11,0,0,0,0,0,0,0
+41093,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),160,4,1,0,5,150,29,1,17,3,0,0,0,0,0,0,0
+41094,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),220,6,2,0,10,190,37,1,24,4,0,0,0,0,0,0,0
+41095,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),260,7,3,0,15,210,43,1,29,5,0,0,0,0,0,0,0
+41096,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),370,11,4,0,20,280,59,2,42,7,0,0,0,0,0,0,0
+41097,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),460,14,5,0,25,340,73,3,53,9,0,0,0,0,0,0,0
+41098,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),160,4,1,0,5,150,29,1,17,3,0,0,0,0,0,0,0
+41099,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),220,6,2,0,10,190,37,1,24,4,0,0,0,0,0,0,0
+41100,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),300,8,4,0,20,160,50,1,32,6,0,0,0,0,0,0,0
+41101,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),410,12,5,0,25,230,66,2,45,8,0,0,0,0,0,0,0
+41102,2982,TCBY Hand Scooped Frozen Yogurt (Mocha Cappuccino Nut),500,15,6,0,30,290,80,3,56,10,0,0,0,0,0,0,0
+41103,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),100,3,1,0,5,70,17,0,12,2,0,0,0,0,0,0,0
+41104,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),160,5,2,0,10,100,26,0,19,3,0,0,0,0,0,0,0
+41105,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),190,6,3,0,15,120,32,0,24,4,0,0,0,0,0,0,0
+41106,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),300,9,4,0,20,180,49,0,38,6,0,0,0,0,0,0,0
+41107,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),380,12,5,0,25,230,63,0,50,8,0,0,0,0,0,0,0
+41108,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),240,7,2,0,35,280,38,1,25,5,0,0,0,0,0,0,0
+41109,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),290,9,3,0,40,310,47,1,32,6,0,0,0,0,0,0,0
+41110,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),330,10,4,0,45,330,53,1,37,7,0,0,0,0,0,0,0
+41111,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),430,13,5,0,50,390,70,1,51,9,0,0,0,0,0,0,0
+41112,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),520,16,6,0,55,440,84,1,63,11,0,0,0,0,0,0,0
+41113,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),160,4,1,0,5,140,29,0,18,3,0,0,0,0,0,0,0
+41114,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),210,6,2,0,10,170,38,0,25,4,0,0,0,0,0,0,0
+41115,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),250,7,3,0,15,190,44,0,30,5,0,0,0,0,0,0,0
+41116,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),350,10,4,0,20,250,61,0,44,7,0,0,0,0,0,0,0
+41117,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),440,13,5,0,25,300,75,0,56,9,0,0,0,0,0,0,0
+41118,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),160,4,1,0,5,140,29,0,18,3,0,0,0,0,0,0,0
+41119,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),210,6,2,0,10,170,38,0,25,4,0,0,0,0,0,0,0
+41120,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),290,8,4,0,20,140,51,0,33,6,0,0,0,0,0,0,0
+41121,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),390,11,5,0,25,200,68,0,47,8,0,0,0,0,0,0,0
+41122,2982,TCBY Hand Scooped Frozen Yogurt (Pralines & Cream),480,14,6,0,30,250,82,0,59,10,0,0,0,0,0,0,0
+41123,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),90,2,1,0,10,50,16,0,10,2,0,0,0,0,0,0,0
+41124,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),140,4,2,0,15,80,23,0,16,3,0,0,0,0,0,0,0
+41125,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),170,4,3,0,20,90,28,0,20,4,0,0,0,0,0,0,0
+41126,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),260,7,4,0,30,140,43,0,32,6,0,0,0,0,0,0,0
+41127,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),330,9,5,0,40,170,56,0,42,8,0,0,0,0,0,0,0
+41128,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),230,6,2,0,40,270,37,1,23,5,0,0,0,0,0,0,0
+41129,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),270,8,3,0,45,290,44,1,29,6,0,0,0,0,0,0,0
+41130,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),300,8,4,0,50,310,49,1,33,7,0,0,0,0,0,0,0
+41131,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),390,11,5,0,60,350,64,1,45,9,0,0,0,0,0,0,0
+41132,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),470,13,6,0,70,390,77,1,55,11,0,0,0,0,0,0,0
+41133,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),150,3,1,0,10,130,28,0,16,3,0,0,0,0,0,0,0
+41134,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),190,5,2,0,15,150,35,0,22,4,0,0,0,0,0,0,0
+41135,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),220,5,3,0,20,170,40,0,26,5,0,0,0,0,0,0,0
+41136,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),310,8,4,0,30,210,55,0,38,7,0,0,0,0,0,0,0
+41137,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),390,10,5,0,40,250,68,0,48,9,0,0,0,0,0,0,0
+41138,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),150,3,1,0,10,130,28,0,16,3,0,0,0,0,0,0,0
+41139,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),190,5,2,0,15,150,35,0,22,4,0,0,0,0,0,0,0
+41140,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),260,6,4,0,25,120,47,0,29,6,0,0,0,0,0,0,0
+41141,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),350,9,5,0,35,160,62,0,41,8,0,0,0,0,0,0,0
+41142,2982,TCBY Hand Scooped Frozen Yogurt (Rainbow Cream),430,11,6,0,45,200,75,0,51,10,0,0,0,0,0,0,0
+41143,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),100,3,3,0,5,50,17,0,11,2,0,0,0,0,0,0,0
+41144,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),160,5,4,0,10,70,25,0,18,3,0,0,0,0,0,0,0
+41145,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),190,6,5,0,15,80,31,0,23,4,0,0,0,0,0,0,0
+41146,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),300,10,8,0,20,130,47,0,36,6,0,0,0,0,0,0,0
+41147,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),380,13,11,0,25,160,61,0,47,8,0,0,0,0,0,0,0
+41148,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),240,7,4,0,35,260,38,1,24,5,0,0,0,0,0,0,0
+41149,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),290,9,5,0,40,290,46,1,31,6,0,0,0,0,0,0,0
+41150,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),330,10,6,0,45,300,52,1,36,7,0,0,0,0,0,0,0
+41151,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),430,14,9,0,50,340,68,1,49,9,0,0,0,0,0,0,0
+41152,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),520,17,12,0,55,370,82,1,60,11,0,0,0,0,0,0,0
+41153,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),160,4,3,0,5,120,29,0,17,3,0,0,0,0,0,0,0
+41154,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),210,6,4,0,10,150,37,0,24,4,0,0,0,0,0,0,0
+41155,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),250,7,5,0,15,160,43,0,29,5,0,0,0,0,0,0,0
+41156,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),350,11,8,0,20,200,59,0,42,7,0,0,0,0,0,0,0
+41157,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),440,14,11,0,25,230,73,0,53,9,0,0,0,0,0,0,0
+41158,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),160,4,3,0,5,120,29,0,17,3,0,0,0,0,0,0,0
+41159,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),210,6,4,0,10,150,37,0,24,4,0,0,0,0,0,0,0
+41160,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),290,8,6,0,20,110,50,0,32,6,0,0,0,0,0,0,0
+41161,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),390,12,9,0,25,150,66,0,45,8,0,0,0,0,0,0,0
+41162,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),480,15,12,0,30,180,80,0,56,10,0,0,0,0,0,0,0
+41163,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),70,0,0,0,0,50,15,3,4,3,0,0,0,0,0,0,0
+41164,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),100,1,0,0,0,80,22,5,6,4,0,0,0,0,0,0,0
+41165,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),120,1,0,0,0,90,27,6,8,5,0,0,0,0,0,0,0
+41166,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),180,1,0,0,0,140,41,10,12,8,0,0,0,0,0,0,0
+41167,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),230,1,0,0,0,170,53,13,16,11,0,0,0,0,0,0,0
+41168,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),200,4,1,0,30,270,36,4,17,6,0,0,0,0,0,0,0
+41169,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),230,5,1,0,30,290,43,6,19,7,0,0,0,0,0,0,0
+41170,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),250,5,1,0,30,310,48,7,21,8,0,0,0,0,0,0,0
+41171,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),310,5,1,0,30,350,62,11,25,11,0,0,0,0,0,0,0
+41172,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),360,5,1,0,30,390,74,14,29,14,0,0,0,0,0,0,0
+41173,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),120,1,0,0,0,130,27,3,10,4,0,0,0,0,0,0,0
+41174,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),150,2,0,0,0,150,34,5,12,5,0,0,0,0,0,0,0
+41175,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),170,2,0,0,0,170,39,6,14,6,0,0,0,0,0,0,0
+41176,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),230,2,0,0,0,210,53,10,18,9,0,0,0,0,0,0,0
+41177,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),280,2,0,0,0,250,65,13,22,12,0,0,0,0,0,0,0
+41178,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),120,1,0,0,0,130,27,3,10,4,0,0,0,0,0,0,0
+41179,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),150,2,0,0,0,150,34,5,12,5,0,0,0,0,0,0,0
+41180,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),210,3,1,0,5,120,46,6,17,7,0,0,0,0,0,0,0
+41181,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),270,3,1,0,5,160,60,10,21,10,0,0,0,0,0,0,0
+41182,2982,TCBY Hand Scooped Frozen Yogurt (Vanilla),320,3,1,0,5,200,72,13,25,13,0,0,0,0,0,0,0
+41183,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),90,2,1,0,5,50,16,0,11,1,0,0,0,0,0,0,0
+41184,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),140,3,2,0,10,70,24,0,18,2,0,0,0,0,0,0,0
+41185,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),170,3,2,0,15,80,29,0,23,3,0,0,0,0,0,0,0
+41186,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),260,5,3,0,20,120,45,0,36,4,0,0,0,0,0,0,0
+41187,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),330,7,4,0,25,150,58,0,47,5,0,0,0,0,0,0,0
+41188,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),230,6,2,0,35,260,37,1,24,4,0,0,0,0,0,0,0
+41189,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),270,7,3,0,40,280,45,1,31,5,0,0,0,0,0,0,0
+41190,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),300,7,3,0,45,290,50,1,36,6,0,0,0,0,0,0,0
+41191,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),390,9,4,0,50,330,66,1,49,7,0,0,0,0,0,0,0
+41192,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),470,11,5,0,55,360,79,1,60,8,0,0,0,0,0,0,0
+41193,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),150,3,1,0,5,120,28,0,17,2,0,0,0,0,0,0,0
+41194,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),190,4,2,0,10,140,36,0,24,3,0,0,0,0,0,0,0
+41195,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),220,4,2,0,15,150,41,0,29,4,0,0,0,0,0,0,0
+41196,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),310,6,3,0,20,190,57,0,42,5,0,0,0,0,0,0,0
+41197,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),390,8,4,0,25,220,70,0,53,6,0,0,0,0,0,0,0
+41198,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),150,3,1,0,5,120,28,0,17,2,0,0,0,0,0,0,0
+41199,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),190,4,2,0,10,140,36,0,24,3,0,0,0,0,0,0,0
+41200,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),260,5,3,0,20,100,48,0,32,5,0,0,0,0,0,0,0
+41201,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),350,7,4,0,25,140,64,0,45,6,0,0,0,0,0,0,0
+41202,2982,TCBY Hand Scooped Frozen Yogurt (Very Berry Strawberry),430,9,5,0,30,170,77,0,56,7,0,0,0,0,0,0,0
+41203,2982,Arthur's Favorites (Discontinued) (All Flavors),110,6,3,0,20,40,13,0,8,2,0,0,0,0,0,0,0
+41204,2982,Arthur's Favorites (Discontinued) (All Flavors),170,9,5,0,30,60,19,0,13,3,0,0,0,0,0,0,0
+41205,2982,Arthur's Favorites (Discontinued) (All Flavors),200,11,6,0,40,70,23,0,16,4,0,0,0,0,0,0,0
+41206,2982,Arthur's Favorites (Discontinued) (All Flavors),320,18,10,0,60,100,35,0,26,6,0,0,0,0,0,0,0
+41207,2982,Arthur's Favorites (Discontinued) (All Flavors),410,24,13,0,80,120,45,0,34,8,0,0,0,0,0,0,0
+41208,2982,Arthur's Favorites (Discontinued) (All Flavors),240,10,4,0,50,260,34,1,21,5,0,0,0,0,0,0,0
+41209,2982,Arthur's Favorites (Discontinued) (All Flavors),300,13,6,0,60,270,40,1,26,6,0,0,0,0,0,0,0
+41210,2982,Arthur's Favorites (Discontinued) (All Flavors),340,15,7,0,70,280,44,1,29,7,0,0,0,0,0,0,0
+41211,2982,Arthur's Favorites (Discontinued) (All Flavors),450,22,11,0,90,310,56,1,39,9,0,0,0,0,0,0,0
+41212,2982,Arthur's Favorites (Discontinued) (All Flavors),540,28,14,0,110,340,66,1,47,11,0,0,0,0,0,0,0
+41213,2982,Arthur's Favorites (Discontinued) (All Flavors),160,7,3,0,20,120,25,0,14,3,0,0,0,0,0,0,0
+41214,2982,Arthur's Favorites (Discontinued) (All Flavors),220,10,5,0,30,130,31,0,19,4,0,0,0,0,0,0,0
+41215,2982,Arthur's Favorites (Discontinued) (All Flavors),260,12,6,0,40,140,35,0,22,5,0,0,0,0,0,0,0
+41216,2982,Arthur's Favorites (Discontinued) (All Flavors),370,19,10,0,60,170,47,0,32,7,0,0,0,0,0,0,0
+41217,2982,Arthur's Favorites (Discontinued) (All Flavors),460,25,13,0,80,200,57,0,40,9,0,0,0,0,0,0,0
+41218,2982,Arthur's Favorites (Discontinued) (All Flavors),160,7,3,0,20,120,25,0,14,3,0,0,0,0,0,0,0
+41219,2982,Arthur's Favorites (Discontinued) (All Flavors),220,10,5,0,30,130,31,0,19,4,0,0,0,0,0,0,0
+41220,2982,Arthur's Favorites (Discontinued) (All Flavors),300,13,7,0,45,90,42,0,25,6,0,0,0,0,0,0,0
+41221,2982,Arthur's Favorites (Discontinued) (All Flavors),410,20,11,0,65,120,54,0,35,8,0,0,0,0,0,0,0
+41222,2982,Arthur's Favorites (Discontinued) (All Flavors),500,26,14,0,85,150,64,0,43,10,0,0,0,0,0,0,0
+41223,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),120,8,4,0,25,30,12,0,7,1,0,0,0,0,0,0,0
+41224,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),190,12,6,0,40,40,17,0,11,1,0,0,0,0,0,0,0
+41225,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),230,15,8,0,50,40,21,0,14,1,0,0,0,0,0,0,0
+41226,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),360,24,12,0,80,60,31,0,22,2,0,0,0,0,0,0,0
+41227,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),460,32,16,0,105,70,40,0,29,3,0,0,0,0,0,0,0
+41228,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),260,12,5,0,55,240,33,1,20,4,0,0,0,0,0,0,0
+41229,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),320,16,7,0,70,250,38,1,24,4,0,0,0,0,0,0,0
+41230,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),360,19,9,0,80,260,42,1,27,4,0,0,0,0,0,0,0
+41231,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),490,28,13,0,110,270,52,1,35,5,0,0,0,0,0,0,0
+41232,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),600,36,17,0,135,280,61,1,42,6,0,0,0,0,0,0,0
+41233,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),180,9,4,0,25,100,24,0,13,2,0,0,0,0,0,0,0
+41234,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),240,13,6,0,40,110,29,0,17,2,0,0,0,0,0,0,0
+41235,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),280,16,8,0,50,120,33,0,20,2,0,0,0,0,0,0,0
+41236,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),410,25,12,0,80,130,43,0,28,3,0,0,0,0,0,0,0
+41237,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),520,33,16,0,105,140,52,0,35,4,0,0,0,0,0,0,0
+41238,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),180,9,4,0,25,100,24,0,13,2,0,0,0,0,0,0,0
+41239,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),240,13,6,0,40,110,29,0,17,2,0,0,0,0,0,0,0
+41240,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),320,17,9,0,55,70,40,0,23,3,0,0,0,0,0,0,0
+41241,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),450,26,13,0,85,80,50,0,31,4,0,0,0,0,0,0,0
+41242,2982,TCBY Ice Cream (Discontinued) (Butter Pecan),560,34,17,0,110,90,59,0,38,5,0,0,0,0,0,0,0
+41243,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),110,6,3,0,25,30,13,0,9,1,0,0,0,0,0,0,0
+41244,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),170,9,5,0,40,40,19,0,14,1,0,0,0,0,0,0,0
+41245,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),200,11,6,0,50,40,23,0,18,1,0,0,0,0,0,0,0
+41246,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),320,18,10,0,80,60,35,0,28,2,0,0,0,0,0,0,0
+41247,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),410,24,13,0,105,70,45,0,37,3,0,0,0,0,0,0,0
+41248,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),240,10,4,0,55,240,34,1,22,4,0,0,0,0,0,0,0
+41249,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),300,13,6,0,70,250,40,1,27,4,0,0,0,0,0,0,0
+41250,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),340,15,7,0,80,260,44,1,31,4,0,0,0,0,0,0,0
+41251,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),450,22,11,0,110,270,56,1,41,5,0,0,0,0,0,0,0
+41252,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),540,28,14,0,135,280,66,1,50,6,0,0,0,0,0,0,0
+41253,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),160,7,3,0,25,100,25,0,15,2,0,0,0,0,0,0,0
+41254,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),220,10,5,0,40,110,31,0,20,2,0,0,0,0,0,0,0
+41255,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),260,12,6,0,50,120,35,0,24,2,0,0,0,0,0,0,0
+41256,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),370,19,10,0,80,130,47,0,34,3,0,0,0,0,0,0,0
+41257,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),460,25,13,0,105,140,57,0,43,4,0,0,0,0,0,0,0
+41258,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),160,7,3,0,25,100,25,0,15,2,0,0,0,0,0,0,0
+41259,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),220,10,5,0,40,110,31,0,20,2,0,0,0,0,0,0,0
+41260,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),300,13,7,0,55,70,42,0,27,3,0,0,0,0,0,0,0
+41261,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),410,20,11,0,85,80,54,0,37,4,0,0,0,0,0,0,0
+41262,2982,TCBY Ice Cream (Discontinued) (Cherry Chocolate Chunk),500,26,14,0,110,90,64,0,46,5,0,0,0,0,0,0,0
+41263,2982,TCBY Ice Cream (Discontinued) (Chocolate),110,6,4,0,25,30,12,1,8,1,0,0,0,0,0,0,0
+41264,2982,TCBY Ice Cream (Discontinued) (Chocolate),170,9,6,0,40,40,18,1,12,1,0,0,0,0,0,0,0
+41265,2982,TCBY Ice Cream (Discontinued) (Chocolate),200,11,8,0,50,40,22,1,15,1,0,0,0,0,0,0,0
+41266,2982,TCBY Ice Cream (Discontinued) (Chocolate),320,18,12,0,80,60,33,2,24,2,0,0,0,0,0,0,0
+41267,2982,TCBY Ice Cream (Discontinued) (Chocolate),410,24,16,0,105,70,42,3,32,3,0,0,0,0,0,0,0
+41268,2982,TCBY Ice Cream (Discontinued) (Chocolate),240,10,5,0,55,240,33,2,21,4,0,0,0,0,0,0,0
+41269,2982,TCBY Ice Cream (Discontinued) (Chocolate),300,13,7,0,70,250,39,2,25,4,0,0,0,0,0,0,0
+41270,2982,TCBY Ice Cream (Discontinued) (Chocolate),340,15,9,0,80,260,43,2,28,4,0,0,0,0,0,0,0
+41271,2982,TCBY Ice Cream (Discontinued) (Chocolate),450,22,13,0,110,270,54,3,37,5,0,0,0,0,0,0,0
+41272,2982,TCBY Ice Cream (Discontinued) (Chocolate),540,28,17,0,135,280,63,4,45,6,0,0,0,0,0,0,0
+41273,2982,TCBY Ice Cream (Discontinued) (Chocolate),160,7,4,0,25,100,24,1,14,2,0,0,0,0,0,0,0
+41274,2982,TCBY Ice Cream (Discontinued) (Chocolate),220,10,6,0,40,110,30,1,18,2,0,0,0,0,0,0,0
+41275,2982,TCBY Ice Cream (Discontinued) (Chocolate),260,12,8,0,50,120,34,1,21,2,0,0,0,0,0,0,0
+41276,2982,TCBY Ice Cream (Discontinued) (Chocolate),370,19,12,0,80,130,45,2,30,3,0,0,0,0,0,0,0
+41277,2982,TCBY Ice Cream (Discontinued) (Chocolate),460,25,16,0,105,140,54,3,38,4,0,0,0,0,0,0,0
+41278,2982,TCBY Ice Cream (Discontinued) (Chocolate),160,7,4,0,25,100,24,1,14,2,0,0,0,0,0,0,0
+41279,2982,TCBY Ice Cream (Discontinued) (Chocolate),220,10,6,0,40,110,30,1,18,2,0,0,0,0,0,0,0
+41280,2982,TCBY Ice Cream (Discontinued) (Chocolate),300,13,9,0,55,70,41,1,24,3,0,0,0,0,0,0,0
+41281,2982,TCBY Ice Cream (Discontinued) (Chocolate),410,20,13,0,85,80,52,2,33,4,0,0,0,0,0,0,0
+41282,2982,TCBY Ice Cream (Discontinued) (Chocolate),500,26,17,0,110,90,61,3,41,5,0,0,0,0,0,0,0
+41283,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),120,6,4,0,25,30,12,0,8,1,0,0,0,0,0,0,0
+41284,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),180,10,7,0,40,40,18,0,13,1,0,0,0,0,0,0,0
+41285,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),220,13,9,0,50,40,22,0,16,1,0,0,0,0,0,0,0
+41286,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),340,20,14,0,80,60,33,0,26,2,0,0,0,0,0,0,0
+41287,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),440,26,18,0,105,70,42,0,34,3,0,0,0,0,0,0,0
+41288,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),250,10,5,0,55,240,33,1,21,4,0,0,0,0,0,0,0
+41289,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),310,14,8,0,70,250,39,1,26,4,0,0,0,0,0,0,0
+41290,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),350,17,10,0,80,260,43,1,29,4,0,0,0,0,0,0,0
+41291,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),470,24,15,0,110,270,54,1,39,5,0,0,0,0,0,0,0
+41292,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),570,30,19,0,135,280,63,1,47,6,0,0,0,0,0,0,0
+41293,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),170,7,4,0,25,100,24,0,14,2,0,0,0,0,0,0,0
+41294,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),230,11,7,0,40,110,30,0,19,2,0,0,0,0,0,0,0
+41295,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),270,14,9,0,50,120,34,0,22,2,0,0,0,0,0,0,0
+41296,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),390,21,14,0,80,130,45,0,32,3,0,0,0,0,0,0,0
+41297,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),490,27,18,0,105,140,54,0,40,4,0,0,0,0,0,0,0
+41298,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),170,7,4,0,25,100,24,0,14,2,0,0,0,0,0,0,0
+41299,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),230,11,7,0,40,110,30,0,19,2,0,0,0,0,0,0,0
+41300,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),310,15,10,0,55,70,41,0,25,3,0,0,0,0,0,0,0
+41301,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),430,22,15,0,85,80,52,0,35,4,0,0,0,0,0,0,0
+41302,2982,TCBY Ice Cream (Discontinued) (Chocolate Chip),530,28,19,0,110,90,61,0,43,5,0,0,0,0,0,0,0
+41303,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),110,5,3,0,25,40,14,0,9,1,0,0,0,0,0,0,0
+41304,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),170,8,5,0,40,60,20,0,15,1,0,0,0,0,0,0,0
+41305,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),200,10,6,0,50,70,24,0,19,1,0,0,0,0,0,0,0
+41306,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),320,16,10,0,80,100,37,0,30,2,0,0,0,0,0,0,0
+41307,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),410,21,13,0,105,120,48,0,39,3,0,0,0,0,0,0,0
+41308,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),240,9,4,0,55,260,35,1,22,4,0,0,0,0,0,0,0
+41309,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),300,12,6,0,70,270,41,1,28,4,0,0,0,0,0,0,0
+41310,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),340,14,7,0,80,280,45,1,32,4,0,0,0,0,0,0,0
+41311,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),450,20,11,0,110,310,58,1,43,5,0,0,0,0,0,0,0
+41312,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),540,25,14,0,135,340,69,1,52,6,0,0,0,0,0,0,0
+41313,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),160,6,3,0,25,120,26,0,15,2,0,0,0,0,0,0,0
+41314,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),220,9,5,0,40,130,32,0,21,2,0,0,0,0,0,0,0
+41315,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),260,11,6,0,50,140,36,0,25,2,0,0,0,0,0,0,0
+41316,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),370,17,10,0,80,170,49,0,36,3,0,0,0,0,0,0,0
+41317,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),460,22,13,0,105,200,60,0,45,4,0,0,0,0,0,0,0
+41318,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),160,6,3,0,25,120,26,0,15,2,0,0,0,0,0,0,0
+41319,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),220,9,5,0,40,130,32,0,21,2,0,0,0,0,0,0,0
+41320,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),300,12,7,0,55,90,43,0,28,3,0,0,0,0,0,0,0
+41321,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),410,18,11,0,85,120,56,0,39,4,0,0,0,0,0,0,0
+41322,2982,TCBY Ice Cream (Discontinued) (Cinnamon Swirl),500,23,14,0,110,150,67,0,48,5,0,0,0,0,0,0,0
+41323,2982,TCBY Ice Cream (Discontinued) (Coffee),100,6,4,0,30,30,11,0,7,1,0,0,0,0,0,0,0
+41324,2982,TCBY Ice Cream (Discontinued) (Coffee),160,9,6,0,45,40,16,0,11,1,0,0,0,0,0,0,0
+41325,2982,TCBY Ice Cream (Discontinued) (Coffee),190,11,8,0,55,40,19,0,14,1,0,0,0,0,0,0,0
+41326,2982,TCBY Ice Cream (Discontinued) (Coffee),300,18,12,0,90,60,29,0,22,2,0,0,0,0,0,0,0
+41327,2982,TCBY Ice Cream (Discontinued) (Coffee),380,24,16,0,120,70,37,0,29,3,0,0,0,0,0,0,0
+41328,2982,TCBY Ice Cream (Discontinued) (Coffee),240,10,5,0,60,240,32,1,20,4,0,0,0,0,0,0,0
+41329,2982,TCBY Ice Cream (Discontinued) (Coffee),290,13,7,0,75,250,37,1,24,4,0,0,0,0,0,0,0
+41330,2982,TCBY Ice Cream (Discontinued) (Coffee),330,15,9,0,85,260,40,1,27,4,0,0,0,0,0,0,0
+41331,2982,TCBY Ice Cream (Discontinued) (Coffee),430,22,13,0,120,270,50,1,35,5,0,0,0,0,0,0,0
+41332,2982,TCBY Ice Cream (Discontinued) (Coffee),520,28,17,0,150,280,58,1,42,6,0,0,0,0,0,0,0
+41333,2982,TCBY Ice Cream (Discontinued) (Coffee),160,7,4,0,30,100,23,0,13,2,0,0,0,0,0,0,0
+41334,2982,TCBY Ice Cream (Discontinued) (Coffee),210,10,6,0,45,110,28,0,17,2,0,0,0,0,0,0,0
+41335,2982,TCBY Ice Cream (Discontinued) (Coffee),250,12,8,0,55,120,31,0,20,2,0,0,0,0,0,0,0
+41336,2982,TCBY Ice Cream (Discontinued) (Coffee),350,19,12,0,90,130,41,0,28,3,0,0,0,0,0,0,0
+41337,2982,TCBY Ice Cream (Discontinued) (Coffee),440,25,16,0,120,140,49,0,35,4,0,0,0,0,0,0,0
+41338,2982,TCBY Ice Cream (Discontinued) (Coffee),160,7,4,0,30,100,23,0,13,2,0,0,0,0,0,0,0
+41339,2982,TCBY Ice Cream (Discontinued) (Coffee),210,10,6,0,45,110,28,0,17,2,0,0,0,0,0,0,0
+41340,2982,TCBY Ice Cream (Discontinued) (Coffee),290,13,9,0,60,70,38,0,23,3,0,0,0,0,0,0,0
+41341,2982,TCBY Ice Cream (Discontinued) (Coffee),390,20,13,0,95,80,48,0,31,4,0,0,0,0,0,0,0
+41342,2982,TCBY Ice Cream (Discontinued) (Coffee),480,26,17,0,125,90,56,0,38,5,0,0,0,0,0,0,0
+41343,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),120,6,4,0,25,40,14,0,9,1,0,0,0,0,0,0,0
+41344,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),180,9,6,0,40,60,20,0,14,1,0,0,0,0,0,0,0
+41345,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),220,11,8,0,50,70,24,0,18,1,0,0,0,0,0,0,0
+41346,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),340,18,12,0,80,100,37,0,28,2,0,0,0,0,0,0,0
+41347,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),440,24,16,0,105,120,48,0,37,3,0,0,0,0,0,0,0
+41348,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),250,10,5,0,55,260,35,1,22,4,0,0,0,0,0,0,0
+41349,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),310,13,7,0,70,270,41,1,27,4,0,0,0,0,0,0,0
+41350,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),350,15,9,0,80,280,45,1,31,4,0,0,0,0,0,0,0
+41351,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),470,22,13,0,110,310,58,1,41,5,0,0,0,0,0,0,0
+41352,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),570,28,17,0,135,340,69,1,50,6,0,0,0,0,0,0,0
+41353,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),170,7,4,0,25,120,26,0,15,2,0,0,0,0,0,0,0
+41354,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),230,10,6,0,40,130,32,0,20,2,0,0,0,0,0,0,0
+41355,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),270,12,8,0,50,140,36,0,24,2,0,0,0,0,0,0,0
+41356,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),390,19,12,0,80,170,49,0,34,3,0,0,0,0,0,0,0
+41357,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),490,25,16,0,105,200,60,0,43,4,0,0,0,0,0,0,0
+41358,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),170,7,4,0,25,120,26,0,15,2,0,0,0,0,0,0,0
+41359,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),230,10,6,0,40,130,32,0,20,2,0,0,0,0,0,0,0
+41360,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),310,13,9,0,55,90,43,0,27,3,0,0,0,0,0,0,0
+41361,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),430,20,13,0,85,120,56,0,37,4,0,0,0,0,0,0,0
+41362,2982,TCBY Ice Cream (Discontinued) (Cookie Dough),530,26,17,0,110,150,67,0,46,5,0,0,0,0,0,0,0
+41363,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),120,6,4,0,25,30,12,0,9,1,0,0,0,0,0,0,0
+41364,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),180,10,7,0,40,40,18,0,14,1,0,0,0,0,0,0,0
+41365,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),220,13,9,0,50,40,22,0,18,1,0,0,0,0,0,0,0
+41366,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),340,20,14,0,80,60,33,0,28,2,0,0,0,0,0,0,0
+41367,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),440,26,18,0,105,70,42,0,37,3,0,0,0,0,0,0,0
+41368,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),250,10,5,0,55,240,33,1,22,4,0,0,0,0,0,0,0
+41369,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),310,14,8,0,70,250,39,1,27,4,0,0,0,0,0,0,0
+41370,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),350,17,10,0,80,260,43,1,31,4,0,0,0,0,0,0,0
+41371,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),470,24,15,0,110,270,54,1,41,5,0,0,0,0,0,0,0
+41372,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),570,30,19,0,135,280,63,1,50,6,0,0,0,0,0,0,0
+41373,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),170,7,4,0,25,100,24,0,15,2,0,0,0,0,0,0,0
+41374,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),230,11,7,0,40,110,30,0,20,2,0,0,0,0,0,0,0
+41375,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),270,14,9,0,50,120,34,0,24,2,0,0,0,0,0,0,0
+41376,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),390,21,14,0,80,130,45,0,34,3,0,0,0,0,0,0,0
+41377,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),490,27,18,0,105,140,54,0,43,4,0,0,0,0,0,0,0
+41378,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),170,7,4,0,25,100,24,0,15,2,0,0,0,0,0,0,0
+41379,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),230,11,7,0,40,110,30,0,20,2,0,0,0,0,0,0,0
+41380,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),310,15,10,0,55,70,41,0,27,3,0,0,0,0,0,0,0
+41381,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),430,22,15,0,85,80,52,0,37,4,0,0,0,0,0,0,0
+41382,2982,TCBY Ice Cream (Discontinued) (Mint Chocolate Chip),530,28,19,0,110,90,61,0,46,5,0,0,0,0,0,0,0
+41383,2982,TCBY Ice Cream (Discontinued) (Pistachio),120,6,4,0,25,40,11,1,7,1,0,0,0,0,0,0,0
+41384,2982,TCBY Ice Cream (Discontinued) (Pistachio),180,10,6,0,40,50,16,1,11,2,0,0,0,0,0,0,0
+41385,2982,TCBY Ice Cream (Discontinued) (Pistachio),220,13,8,0,50,60,19,1,14,3,0,0,0,0,0,0,0
+41386,2982,TCBY Ice Cream (Discontinued) (Pistachio),340,20,12,0,80,90,29,2,22,4,0,0,0,0,0,0,0
+41387,2982,TCBY Ice Cream (Discontinued) (Pistachio),440,26,16,0,105,110,37,3,29,5,0,0,0,0,0,0,0
+41388,2982,TCBY Ice Cream (Discontinued) (Pistachio),250,10,5,0,55,250,32,2,20,4,0,0,0,0,0,0,0
+41389,2982,TCBY Ice Cream (Discontinued) (Pistachio),310,14,7,0,70,270,37,2,24,5,0,0,0,0,0,0,0
+41390,2982,TCBY Ice Cream (Discontinued) (Pistachio),350,17,9,0,80,270,40,2,27,6,0,0,0,0,0,0,0
+41391,2982,TCBY Ice Cream (Discontinued) (Pistachio),470,24,13,0,110,300,50,3,35,7,0,0,0,0,0,0,0
+41392,2982,TCBY Ice Cream (Discontinued) (Pistachio),570,30,17,0,135,320,58,4,42,8,0,0,0,0,0,0,0
+41393,2982,TCBY Ice Cream (Discontinued) (Pistachio),170,7,4,0,25,110,23,1,13,2,0,0,0,0,0,0,0
+41394,2982,TCBY Ice Cream (Discontinued) (Pistachio),230,11,6,0,40,130,28,1,17,3,0,0,0,0,0,0,0
+41395,2982,TCBY Ice Cream (Discontinued) (Pistachio),270,14,8,0,50,130,31,1,20,4,0,0,0,0,0,0,0
+41396,2982,TCBY Ice Cream (Discontinued) (Pistachio),390,21,12,0,80,160,41,2,28,5,0,0,0,0,0,0,0
+41397,2982,TCBY Ice Cream (Discontinued) (Pistachio),490,27,16,0,105,180,49,3,35,6,0,0,0,0,0,0,0
+41398,2982,TCBY Ice Cream (Discontinued) (Pistachio),170,7,4,0,25,110,23,1,13,2,0,0,0,0,0,0,0
+41399,2982,TCBY Ice Cream (Discontinued) (Pistachio),230,11,6,0,40,130,28,1,17,3,0,0,0,0,0,0,0
+41400,2982,TCBY Ice Cream (Discontinued) (Pistachio),310,15,9,0,55,80,38,1,23,5,0,0,0,0,0,0,0
+41401,2982,TCBY Ice Cream (Discontinued) (Pistachio),430,22,13,0,85,110,48,2,31,6,0,0,0,0,0,0,0
+41402,2982,TCBY Ice Cream (Discontinued) (Pistachio),530,28,17,0,110,130,56,3,38,7,0,0,0,0,0,0,0
+41403,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),120,6,4,0,25,40,13,0,9,1,0,0,0,0,0,0,0
+41404,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),180,9,6,0,40,50,19,0,14,1,0,0,0,0,0,0,0
+41405,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),220,11,8,0,50,60,23,0,18,1,0,0,0,0,0,0,0
+41406,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),340,18,12,0,80,90,35,0,28,2,0,0,0,0,0,0,0
+41407,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),440,24,16,0,105,110,45,0,37,3,0,0,0,0,0,0,0
+41408,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),250,10,5,0,55,250,34,1,22,4,0,0,0,0,0,0,0
+41409,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),310,13,7,0,70,270,40,1,27,4,0,0,0,0,0,0,0
+41410,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),350,15,9,0,80,270,44,1,31,4,0,0,0,0,0,0,0
+41411,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),470,22,13,0,110,300,56,1,41,5,0,0,0,0,0,0,0
+41412,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),570,28,17,0,135,320,66,1,50,6,0,0,0,0,0,0,0
+41413,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),170,7,4,0,25,110,25,0,15,2,0,0,0,0,0,0,0
+41414,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),230,10,6,0,40,130,31,0,20,2,0,0,0,0,0,0,0
+41415,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),270,12,8,0,50,130,35,0,24,2,0,0,0,0,0,0,0
+41416,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),390,19,12,0,80,160,47,0,34,3,0,0,0,0,0,0,0
+41417,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),490,25,16,0,105,180,57,0,43,4,0,0,0,0,0,0,0
+41418,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),170,7,4,0,25,110,25,0,15,2,0,0,0,0,0,0,0
+41419,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),230,10,6,0,40,130,31,0,20,2,0,0,0,0,0,0,0
+41420,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),310,13,9,0,55,80,42,0,27,3,0,0,0,0,0,0,0
+41421,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),430,20,13,0,85,110,54,0,37,4,0,0,0,0,0,0,0
+41422,2982,TCBY Ice Cream (Discontinued) (Pralines & Cream),530,26,17,0,110,130,64,0,46,5,0,0,0,0,0,0,0
+41423,2982,TCBY Ice Cream (Discontinued) (Rocky Road),120,6,3,0,20,30,16,1,9,1,0,0,0,0,0,0,0
+41424,2982,TCBY Ice Cream (Discontinued) (Rocky Road),190,9,5,0,30,50,23,1,14,2,0,0,0,0,0,0,0
+41425,2982,TCBY Ice Cream (Discontinued) (Rocky Road),230,11,6,0,40,50,28,1,18,3,0,0,0,0,0,0,0
+41426,2982,TCBY Ice Cream (Discontinued) (Rocky Road),360,18,10,0,60,80,43,2,28,4,0,0,0,0,0,0,0
+41427,2982,TCBY Ice Cream (Discontinued) (Rocky Road),460,24,13,0,80,90,56,3,37,5,0,0,0,0,0,0,0
+41428,2982,TCBY Ice Cream (Discontinued) (Rocky Road),260,10,4,0,50,250,37,2,22,4,0,0,0,0,0,0,0
+41429,2982,TCBY Ice Cream (Discontinued) (Rocky Road),320,13,6,0,60,260,44,2,27,5,0,0,0,0,0,0,0
+41430,2982,TCBY Ice Cream (Discontinued) (Rocky Road),360,15,7,0,70,270,49,2,31,6,0,0,0,0,0,0,0
+41431,2982,TCBY Ice Cream (Discontinued) (Rocky Road),490,22,11,0,90,290,64,3,41,7,0,0,0,0,0,0,0
+41432,2982,TCBY Ice Cream (Discontinued) (Rocky Road),600,28,14,0,110,310,77,4,50,8,0,0,0,0,0,0,0
+41433,2982,TCBY Ice Cream (Discontinued) (Rocky Road),180,7,3,0,20,110,28,1,15,2,0,0,0,0,0,0,0
+41434,2982,TCBY Ice Cream (Discontinued) (Rocky Road),240,10,5,0,30,120,35,1,20,3,0,0,0,0,0,0,0
+41435,2982,TCBY Ice Cream (Discontinued) (Rocky Road),280,12,6,0,40,130,40,1,24,4,0,0,0,0,0,0,0
+41436,2982,TCBY Ice Cream (Discontinued) (Rocky Road),410,19,10,0,60,150,55,2,34,5,0,0,0,0,0,0,0
+41437,2982,TCBY Ice Cream (Discontinued) (Rocky Road),520,25,13,0,80,170,68,3,43,6,0,0,0,0,0,0,0
+41438,2982,TCBY Ice Cream (Discontinued) (Rocky Road),180,7,3,0,20,110,28,1,15,2,0,0,0,0,0,0,0
+41439,2982,TCBY Ice Cream (Discontinued) (Rocky Road),240,10,5,0,30,120,35,1,20,3,0,0,0,0,0,0,0
+41440,2982,TCBY Ice Cream (Discontinued) (Rocky Road),320,13,7,0,45,80,47,1,27,5,0,0,0,0,0,0,0
+41441,2982,TCBY Ice Cream (Discontinued) (Rocky Road),450,20,11,0,65,100,62,2,37,6,0,0,0,0,0,0,0
+41442,2982,TCBY Ice Cream (Discontinued) (Rocky Road),560,26,14,0,85,120,75,3,46,7,0,0,0,0,0,0,0
+41443,2982,TCBY Ice Cream (Discontinued) (Strawberry),100,5,3,0,25,30,11,0,8,1,0,0,0,0,0,0,0
+41444,2982,TCBY Ice Cream (Discontinued) (Strawberry),160,8,5,0,40,40,16,0,12,1,0,0,0,0,0,0,0
+41445,2982,TCBY Ice Cream (Discontinued) (Strawberry),190,10,6,0,50,40,19,0,15,1,0,0,0,0,0,0,0
+41446,2982,TCBY Ice Cream (Discontinued) (Strawberry),300,16,10,0,80,60,29,0,24,2,0,0,0,0,0,0,0
+41447,2982,TCBY Ice Cream (Discontinued) (Strawberry),380,21,13,0,105,70,37,0,32,3,0,0,0,0,0,0,0
+41448,2982,TCBY Ice Cream (Discontinued) (Strawberry),240,9,4,0,55,240,32,1,21,4,0,0,0,0,0,0,0
+41449,2982,TCBY Ice Cream (Discontinued) (Strawberry),290,12,6,0,70,250,37,1,25,4,0,0,0,0,0,0,0
+41450,2982,TCBY Ice Cream (Discontinued) (Strawberry),330,14,7,0,80,260,40,1,28,4,0,0,0,0,0,0,0
+41451,2982,TCBY Ice Cream (Discontinued) (Strawberry),430,20,11,0,110,270,50,1,37,5,0,0,0,0,0,0,0
+41452,2982,TCBY Ice Cream (Discontinued) (Strawberry),520,25,14,0,135,280,58,1,45,6,0,0,0,0,0,0,0
+41453,2982,TCBY Ice Cream (Discontinued) (Strawberry),160,6,3,0,25,100,23,0,14,2,0,0,0,0,0,0,0
+41454,2982,TCBY Ice Cream (Discontinued) (Strawberry),210,9,5,0,40,110,28,0,18,2,0,0,0,0,0,0,0
+41455,2982,TCBY Ice Cream (Discontinued) (Strawberry),250,11,6,0,50,120,31,0,21,2,0,0,0,0,0,0,0
+41456,2982,TCBY Ice Cream (Discontinued) (Strawberry),350,17,10,0,80,130,41,0,30,3,0,0,0,0,0,0,0
+41457,2982,TCBY Ice Cream (Discontinued) (Strawberry),440,22,13,0,105,140,49,0,38,4,0,0,0,0,0,0,0
+41458,2982,TCBY Ice Cream (Discontinued) (Strawberry),160,6,3,0,25,100,23,0,14,2,0,0,0,0,0,0,0
+41459,2982,TCBY Ice Cream (Discontinued) (Strawberry),210,9,5,0,40,110,28,0,18,2,0,0,0,0,0,0,0
+41460,2982,TCBY Ice Cream (Discontinued) (Strawberry),290,12,7,0,55,70,38,0,24,3,0,0,0,0,0,0,0
+41461,2982,TCBY Ice Cream (Discontinued) (Strawberry),390,18,11,0,85,80,48,0,33,4,0,0,0,0,0,0,0
+41462,2982,TCBY Ice Cream (Discontinued) (Strawberry),480,23,14,0,110,90,56,0,41,5,0,0,0,0,0,0,0
+41463,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),110,6,4,0,30,30,11,0,7,1,0,0,0,0,0,0,0
+41464,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),170,9,6,0,45,40,16,0,11,1,0,0,0,0,0,0,0
+41465,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),200,11,8,0,55,40,19,0,14,1,0,0,0,0,0,0,0
+41466,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),320,18,12,0,90,60,29,0,22,2,0,0,0,0,0,0,0
+41467,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),410,24,16,0,120,70,37,0,29,3,0,0,0,0,0,0,0
+41468,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),240,10,5,0,60,240,32,1,20,4,0,0,0,0,0,0,0
+41469,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),300,13,7,0,75,250,37,1,24,4,0,0,0,0,0,0,0
+41470,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),340,15,9,0,85,260,40,1,27,4,0,0,0,0,0,0,0
+41471,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),450,22,13,0,120,270,50,1,35,5,0,0,0,0,0,0,0
+41472,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),540,28,17,0,150,280,58,1,42,6,0,0,0,0,0,0,0
+41473,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),160,7,4,0,30,100,23,0,13,2,0,0,0,0,0,0,0
+41474,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),220,10,6,0,45,110,28,0,17,2,0,0,0,0,0,0,0
+41475,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),260,12,8,0,55,120,31,0,20,2,0,0,0,0,0,0,0
+41476,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),370,19,12,0,90,130,41,0,28,3,0,0,0,0,0,0,0
+41477,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),460,25,16,0,120,140,49,0,35,4,0,0,0,0,0,0,0
+41478,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),160,7,4,0,30,100,23,0,13,2,0,0,0,0,0,0,0
+41479,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),220,10,6,0,45,110,28,0,17,2,0,0,0,0,0,0,0
+41480,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),300,13,9,0,60,70,38,0,23,3,0,0,0,0,0,0,0
+41481,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),410,20,13,0,95,80,48,0,31,4,0,0,0,0,0,0,0
+41482,2982,TCBY Ice Cream (Discontinued) (Vanilla Bean),500,26,17,0,125,90,56,0,38,5,0,0,0,0,0,0,0
+41483,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),120,6,4,0,25,40,14,0,10,1,0,0,0,0,0,0,0
+41484,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),190,9,6,0,40,60,21,0,16,1,0,0,0,0,0,0,0
+41485,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),230,11,8,0,50,70,26,0,20,1,0,0,0,0,0,0,0
+41486,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),360,18,12,0,80,110,39,0,32,2,0,0,0,0,0,0,0
+41487,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),460,24,16,0,105,130,50,0,42,3,0,0,0,0,0,0,0
+41488,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),260,10,5,0,55,260,35,1,23,4,0,0,0,0,0,0,0
+41489,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),320,13,7,0,70,280,42,1,29,4,0,0,0,0,0,0,0
+41490,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),360,15,9,0,80,290,47,1,33,4,0,0,0,0,0,0,0
+41491,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),490,22,13,0,110,320,60,1,45,5,0,0,0,0,0,0,0
+41492,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),600,28,17,0,135,350,71,1,55,6,0,0,0,0,0,0,0
+41493,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),180,7,4,0,25,120,26,0,16,2,0,0,0,0,0,0,0
+41494,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),240,10,6,0,40,140,33,0,22,2,0,0,0,0,0,0,0
+41495,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),280,12,8,0,50,150,38,0,26,2,0,0,0,0,0,0,0
+41496,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),410,19,12,0,80,180,51,0,38,3,0,0,0,0,0,0,0
+41497,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),520,25,16,0,105,210,62,0,48,4,0,0,0,0,0,0,0
+41498,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),180,7,4,0,25,120,26,0,16,2,0,0,0,0,0,0,0
+41499,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),240,10,6,0,40,140,33,0,22,2,0,0,0,0,0,0,0
+41500,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),320,13,9,0,55,100,45,0,29,3,0,0,0,0,0,0,0
+41501,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),450,20,13,0,85,130,58,0,41,4,0,0,0,0,0,0,0
+41502,2982,TCBY Ice Cream (Discontinued) (White Chocolate Caramel),560,26,17,0,110,160,69,0,51,5,0,0,0,0,0,0,0
+41503,2983,Berry Slim,410,3,2,0,10,50,95,2,91,5,70,2,8,10,0,0,0
+41504,2983,Raspberry DeLITE,360,3,1.5,0,10,50,85,4,81,4,50,2,8,10,0,0,0
+41505,2983,Peachy Lean,470,3,1.5,0,10,70,116,1,113,4,70,2,6,0,0,0,0
+41506,2983,Tropical Replenisher,370,3,1.5,0,10,50,87,1,85,4,70,2,8,10,0,0,0
+41507,2983,Raspberry Revitalizer,370,3,1.5,0,10,50,84,3,77,5,50,2,8,10,0,0,0
+41508,2983,Workout Whey,460,3,1.5,0,10,85,112,1,108,4,50,0,8,0,0,0,0
+41509,2983,Holy-Cal,470,3,1.5,0,10,65,114,3,107,4,35,2,15,2,0,0,0
+41510,2983,A Lotta Coloda,550,17,14,0,0,95,99,3,94,6,50,6,15,25,0,0,0
+41511,2983,Healthy Balance,410,3,2,0,10,50,95,2,91,5,70,2,8,10,0,0,0
+41512,2983,Berry Slim,300,0,0,0,0,5,75,2,71,1,70,2,2,10,0,0,0
+41513,2983,Raspberry DeLITE,240,0,0,0,0,15,59,3,53,2,50,2,2,10,0,0,0
+41514,2983,Peachy Lean,360,0,0,0,0,30,96,1,93,1,70,2,0,0,0,0,0
+41515,2983,Tropical Replenisher,240,0,0,0,0,20,61,2,58,1,70,2,2,10,0,0,0
+41516,2983,Raspberry Revitalizer,300,0,0,0,0,0,79,6,71,2,60,2,2,10,0,0,0
+41517,2983,Workout Whey,340,0,0,0,0,25,92,1,88,1,50,0,2,0,0,0,0
+41518,2983,Holy-Cal,360,0,0,0,0,25,94,3,87,1,35,2,10,2,0,0,0
+41519,2983,A Lotta Coloda,380,12,11,0,0,20,69,3,64,2,40,2,4,20,0,0,0
+41520,2983,Healthy Balance,300,0,0,0,0,5,75,2,71,1,70,2,2,10,0,0,0
+41521,2983,Berry Slim,600,4,2.5,0,10,85,143,4,135,6,120,2,10,15,0,0,0
+41522,2983,Raspberry DeLITE,510,4.5,2.5,0,10,80,116,7,112,6,100,4,15,15,0,0,0
+41523,2983,Peachy Lean,620,3.5,2.5,0,10,100,151,1,147,6,110,2,8,0,0,0,0
+41524,2983,Tropical Replenisher,520,4,2.5,0,10,85,121,2,115,6,110,2,10,15,0,0,0
+41525,2983,Raspberry Revitalizer,530,3.5,2,0,10,75,124,4,113,6,70,4,10,15,0,0,0
+41526,2983,Workout Whey,600,4.5,2.5,0,10,95,145,2,139,6,80,2,10,0,0,0,0
+41527,2983,Holy-Cal,610,3.5,2.5,0,10,90,149,4,139,6,60,4,25,4,0,0,0
+41528,2983,A Lotta Coloda,710,17,13,0,10,95,142,4,130,7,60,0,10,25,0,0,0
+41529,2983,Healthy Balance,590,4,2.5,0,10,85,138,4,131,6,110,2,10,15,0,0,0
+41530,2983,Berry Slim,450,0.5,0,0,0,25,116,4,108,2,120,2,4,15,0,0,0
+41531,2983,Raspberry DeLITE,300,0,0,0,0,25,74,4,67,2,70,4,4,15,0,0,0
+41532,2983,Peachy Lean,470,0,0,0,0,45,124,1,120,1,110,2,2,0,0,0,0
+41533,2983,Tropical Replenisher,350,0,0,0,0,35,92,3,88,1,110,2,4,15,0,0,0
+41534,2983,Raspberry Revitalizer,470,1,0,0,0,25,118,8,107,2,90,4,4,15,0,0,0
+41535,2983,Workout Whey,450,0.5,0,0,0,40,119,2,113,1,80,2,2,0,0,0,0
+41536,2983,Holy-Cal,450,0,0,0,0,35,118,3,110,1,50,2,10,2,0,0,0
+41537,2983,A Lotta Coloda,620,15,13,0,10,75,122,3,113,6,60,2,10,25,0,0,0
+41538,2983,Healthy Balance,450,0.5,0,0,0,30,116,4,108,2,120,2,4,15,0,0,0
+41539,2984,Banana Split - Dulce Delight,"1,120",35,21,0,30,530,195,3,138,17,20,2,25,4,0,0,0
+41540,2984,Banana Split - Fruit Groove,800,27,20,0,25,190,135,4,100,14,40,2,20,4,0,0,0
+41541,2984,Banana Split - Mississippi Mud,750,19,7,0,25,400,140,3,112,13,20,2,20,6,0,0,0
+41542,2984,Banana Split - Monkey's Uncle,990,45,25,0,25,290,139,4,110,17,20,2,25,6,0,0,0
+41543,2984,Cappuccino Chiller - Cocoa Berry,860,30,18,0,90,450,136,6,123,25,30,10,60,6,0,0,0
+41544,2984,Cappuccino Chiller - Cocoa Berry,720,25,15,0,75,380,112,5,100,20,25,10,45,6,0,0,0
+41545,2984,Cappuccino Chiller - Cocoa Berry,480,19,12,0,60,250,73,4,35,13,15,10,30,4,0,0,0
+41546,2984,Cappuccino Chiller,730,37,17,0,90,340,106,0,105,23,2,10,50,2,0,0,0
+41547,2984,Cappuccino Chiller - Mocha,980,33,20,0,90,580,151,2,135,26,2,10,60,6,0,0,0
+41548,2984,Cappuccino Chiller - Mocha,790,28,16,0,75,470,120,2,107,20,2,10,45,4,0,0,0
+41549,2984,Cappuccino Chiller - Mocha,560,21,13,0,60,340,82,1,72,14,2,8,30,4,0,0,0
+41550,2984,Cappuccino Chiller - Oreo Joe,"1,130",42,21,0,90,850,168,3,142,28,2,10,50,10,0,0,0
+41551,2984,Cappuccino Chiller - Oreo Joe,920,35,17,0,75,690,136,2,115,22,2,10,40,8,0,0,0
+41552,2984,Cappuccino Chiller - Oreo Joe,780,29,15,0,70,520,115,1,101,19,2,8,35,6,0,0,0
+41553,2984,Cappuccino Chiller,590,23,14,0,75,270,84,0,83,18,2,10,40,0,0,0,0
+41554,2984,Cappuccino Chiller,410,17,11,0,60,190,55,0,55,12,2,8,25,0,0,0,0
+41555,2984,Cappuccino Chiller - Toffee Coffee,"1,200",47,30,0,120,610,173,1,159,28,2,15,70,2,0,0,0
+41556,2984,Cappuccino Chiller - Toffee Coffee,940,38,24,0,100,470,133,1,123,21,2,10,50,2,0,0,0
+41557,2984,Cappuccino Chiller - Toffee Coffee,640,28,18,0,75,320,86,1,80,14,2,10,35,2,0,0,0
+41558,2984,Moo Malt - Medium - Chocolate,"1,000",27,13,0,60,730,168,0,100,28,4,10,70,4,0,0,0
+41559,2984,Moo Malt - Medium - Chocolate,"1,560",45,18,0,80,"1,090",258,0,165,39,8,10,90,4,0,0,0
+41560,2984,Moo Malt - Small - Chocolate,820,24,10,0,45,570,135,0,88,21,4,8,50,2,0,0,0
+41561,2984,Parfait - Caramel Crunch,570,15,5,0,20,370,103,0,81,11,0,0,20,2,0,0,0
+41562,2984,Parfait - Chocolate Dream,560,23,13,0,20,220,80,0,76,10,2,0,20,0,0,0,0
+41563,2984,Parfait - Cookie Dough,660,26,10,0,20,470,100,2,58,12,0,0,15,15,0,0,0
+41564,2984,Parfait - Fruity Fudge,610,25,16,0,25,180,87,2,83,11,25,2,20,4,0,0,0
+41565,2984,Parfait - Peanutty Fudge,790,47,17,0,20,450,81,2,71,17,0,0,20,6,0,0,0
+41566,2984,Parfait - Triple Berry,410,14,12,0,20,110,65,3,59,9,35,2,15,4,0,0,0
+41567,2984,Parfait - HD Caramel Crunch,710,35,17,0,110,360,93,1,69,9,0,20,30,2,0,0,0
+41568,2984,Parfait - HD Chocolate Dream,690,43,25,0,110,210,69,0,64,8,2,20,25,0,0,0,0
+41569,2984,Parfait - HD Cookie Dough,790,45,22,0,110,460,90,2,45,10,0,20,20,15,0,0,0
+41570,2984,Parfait - HD Fruity Fudge,740,45,28,0,110,170,77,2,70,9,25,20,25,4,0,0,0
+41571,2984,Parfait - HD Peanutty Fudge,970,70,29,0,110,490,72,3,59,16,0,20,25,8,0,0,0
+41572,2984,Parfait - HD Triple Berry,560,34,23,0,110,100,58,3,42,7,50,20,20,4,0,0,0
+41573,2984,Pie - Mrs. Fields Ice Cream,440,26,15,0,60,180,39,0,32,5,0,10,10,0,0,0,0
+41574,2984,Pie - TCBY,380,16,9,0,10,180,49,0,43,6,0,0,8,0,0,0,0
+41575,2984,Shake - Chocolate,"1,090",36,14,0,60,530,173,0,165,27,2,6,60,0,0,0,0
+41576,2984,Shake - Chocolate,640,20,9,0,45,310,103,0,100,18,0,4,40,0,0,0,0
+41577,2984,Shake - Chocolate,580,19,7,0,35,290,92,0,88,15,2,4,35,0,0,0,0
+41578,2984,Shake - Moussed,"1,280",60,34,0,125,580,160,3,137,29,0,25,60,15,0,0,0
+41579,2984,Shake - Moussed,"1,000",49,26,0,100,450,127,2,110,23,0,20,50,10,0,0,0
+41580,2984,Shake - Moussed,720,34,18,0,70,330,94,1,82,17,0,15,35,8,0,0,0
+41581,2984,Shake - Oreo,"1,230",42,16,0,60,"1,070",194,3,159,30,0,6,50,15,0,0,0
+41582,2984,Shake - Oreo,970,33,13,0,50,820,152,3,126,24,0,4,40,10,0,0,0
+41583,2984,Shake - Oreo,700,23,9,0,35,570,111,2,93,18,0,4,30,6,0,0,0
+41584,2984,Shake - Peanut Butter,"1,450",86,23,0,60,870,140,4,130,39,0,6,50,6,0,0,0
+41585,2984,Shake - Peanut Butter,"1,130",66,18,0,50,670,112,3,105,30,0,4,40,4,0,0,0
+41586,2984,Shake - Peanut Butter,810,45,13,0,35,470,84,2,79,22,0,4,30,4,0,0,0
+41587,2984,Shake - Strawberry,770,18,11,0,60,310,138,2,114,24,70,6,50,2,0,0,0
+41588,2984,Shake - Strawberry,580,15,9,0,50,250,101,2,98,19,60,6,40,4,0,0,0
+41589,2984,Shake - Strawberry,440,11,7,0,35,190,75,1,73,15,50,4,30,2,0,0,0
+41590,2984,Shiver - Cookie Dough,"1,190",44,18,0,45,610,187,2,132,23,2,0,40,15,0,0,0
+41591,2984,Shiver - Cookie Dough,810,29,12,0,35,410,129,1,93,17,0,0,30,10,0,0,0
+41592,2984,Shiver - DW's Yummy Gummy,510,12,4,0,20,120,95,0,71,9,0,0,15,2,0,0,0
+41593,2984,Shiver - Fruit,270,7,4,0,20,100,49,1,49,8,20,0,15,2,0,0,0
+41594,2984,Shiver - Fruit,700,17,10,0,50,260,126,1,125,21,50,0,40,2,0,0,0
+41595,2984,Shiver - Fruit,580,14,9,0,45,220,105,1,104,18,40,0,30,2,0,0,0
+41596,2984,Shiver - Fruit,470,11,7,0,35,170,84,1,83,14,30,0,25,2,0,0,0
+41597,2984,Shiver - Heath,420,16,10,0,35,180,63,0,62,9,0,2,20,0,0,0,0
+41598,2984,Shiver - Heath,"1,070",41,26,0,90,460,161,1,158,24,0,4,45,2,0,0,0
+41599,2984,Shiver - Heath,880,33,21,0,70,370,133,1,130,20,0,4,40,2,0,0,0
+41600,2984,Shiver - Heath,690,26,16,0,55,290,104,1,103,16,0,2,30,2,0,0,0
+41601,2984,Shiver - M&M,10,180,20,0,12,30,140,85,2,11,20,2,0,4,0,0,0
+41602,2984,Shiver - M&M,18,280,31,0,19,45,230,137,2,18,35,4,0,6,0,0,0
+41603,2984,Shiver - Oreo,400,12,5,0,20,290,66,1,58,10,0,0,15,4,0,0,0
+41604,2984,Shiver - Oreo,"1,020",32,14,0,50,730,169,2,148,25,0,0,35,8,0,0,0
+41605,2984,Shiver - Oreo,840,26,11,0,45,590,139,2,122,21,0,0,30,6,0,0,0
+41606,2984,Shiver - Oreo,660,20,9,0,35,460,109,1,97,16,0,0,25,6,0,0,0
+41607,2984,Shiver - Rocky Road,"1,310",49,13,0,50,320,201,6,171,34,0,0,45,15,0,0,0
+41608,2984,Shiver - Rocky Road,"1,100",46,12,0,45,260,157,6,134,30,0,0,40,15,0,0,0
+41609,2984,Shiver - Rocky Road,880,40,10,0,35,210,116,0,96,26,0,0,40,15,0,0,0
+41610,2984,Shiver - Turtle,"1,380",63,19,0,60,370,192,0,159,29,2,2,45,10,0,0,0
+41611,2984,Shiver - Turtle,"1,180",60,17,0,50,280,151,0,127,25,2,2,35,10,0,0,0
+41612,2984,Shiver - Turtle,880,38,13,0,40,240,124,0,107,19,2,2,30,6,0,0,0
+41613,2984,Shiver - White Choc Crunch,"1,420",73,39,0,135,590,176,4,148,28,0,25,50,20,0,0,0
+41614,2984,Shiver - White Choc Crunch,"1,160",59,31,0,110,480,145,3,122,23,0,20,40,15,0,0,0
+41615,2984,Shiver - White Choc Crunch,900,45,24,0,85,370,114,2,97,18,0,15,35,10,0,0,0
+41616,2984,Shiver - HD Berry Blend,"1,190",74,46,0,310,260,116,2,106,18,100,60,60,6,0,0,0
+41617,2984,Shiver - HD Berry Blend,930,58,36,0,240,200,91,2,83,14,80,45,45,4,0,0,0
+41618,2984,Shiver - HD Berry Blend,770,48,30,0,200,170,74,1,68,11,60,40,40,4,0,0,0
+41619,2984,Shive r- HD Cookie Dough,"1,710",103,54,0,310,650,181,1,118,22,0,60,60,20,0,0,0
+41620,2984,Shiver - HD Cookie Dough,"1,330",80,42,0,240,500,142,1,97,17,0,45,50,15,0,0,0
+41621,2984,Shiver - HD Cookie Dough,"1,100",69,35,0,200,400,115,1,46,14,0,35,40,10,0,0,0
+41622,2984,Shiver - HD DW Gummy,560,26,16,0,110,105,78,0,69,6,0,20,20,0,0,0,0
+41623,2984,Shiver - HD Rocky Road,"1,630",107,48,0,310,300,145,5,123,31,0,60,70,10,0,0,0
+41624,2984,Shiver - HD Rocky Road,"1,340",91,38,0,240,230,111,5,94,27,0,45,60,10,0,0,0
+41625,2984,Shiver - HD Rocky Road,"1,140",81,32,0,200,180,86,5,73,24,0,35,50,10,0,0,0
+41626,2984,Shortcake - HD Strawberry,550,30,18,0,115,310,65,2,47,7,60,15,15,8,0,0,0
+41627,2984,Smoothie - Banana Berry Blast Off,400,0,0,0,0,220,113,3,110,8,370,10,15,6,0,0,0
+41628,2984,Smoothie - Colada Combustion,420,3,2,0,0,220,96,3,93,8,350,10,20,8,0,0,0
+41629,2984,Smoothie - Latte Cooler (1% Milk),390,3,2,0,10,190,79,2,69,7,4,8,35,8,0,0,0
+41630,2984,Smoothie - Latte Cooler (2% Milk),400,4.5,3,0,15,190,79,2,69,7,4,8,35,8,0,0,0
+41631,2984,Smoothie - Mighty Berry,300,0,0,0,0,160,73,3,70,4,370,10,6,6,0,0,0
+41632,2984,Smoothie - Passion Power,300,0,0,0,0,160,73,3,70,4,370,10,6,6,0,0,0
+41633,2984,Smoothie - Peanut Butter Fusion (1% Milk),720,32,8,0,10,450,88,6,72,26,4,8,40,15,0,0,0
+41634,2984,Smoothie - Peanut Butter Fusion (2% Milk),730,34,9,0,15,450,88,6,72,26,4,8,40,15,0,0,0
+41635,2984,Smoothie - Piña Chill-ada,420,3,2,0,0,220,96,3,93,8,350,10,20,8,0,0,0
+41636,2984,Smoothie - Raging Raspberry,300,0,0,0,0,160,76,6,70,5,360,10,6,6,0,0,0
+41637,2984,Smoothie - Raspberry Rush,400,0,0,0,0,220,98,6,92,8,370,10,20,6,0,0,0
+41638,2984,Smoothie - Strawberry Surge,400,0,0,0,0,220,94,3,91,8,370,10,15,6,0,0,0
+41639,2984,Smoothie - Tropical Bliss,360,0,0,0,0,220,85,2,83,4,370,8,20,6,0,0,0
+41640,2984,Split - HD Dulce DE Leche,"1,220",56,34,0,125,590,172,4,123,13,15,25,35,4,0,0,0
+41641,2984,Split - HD Fruit Groove,890,47,33,0,125,260,112,5,87,10,50,25,25,4,0,0,0
+41642,2984,Split - HD Mississippi Mud,"1,120",58,36,0,125,510,143,5,113,12,15,25,30,6,0,0,0
+41643,2984,Split - HD Monkey's Uncle,"1,260",74,39,0,125,310,138,7,117,16,15,25,30,8,0,0,0
+41644,2984,Split - HD Traditional,840,52,30,0,85,290,86,3,73,10,8,15,20,4,0,0,0
+41645,2984,Strawberry Shortcake,450,17,10,0,60,310,69,2,53,8,60,2,10,8,0,0,0
+41646,2984,Sundae - Buster's Dandy,480,13,6,0,15,90,87,0,72,6,0,2,10,4,0,0,0
+41647,2984,Sundae - Butter Cup,"1,140",68,25,0,540,540,116,4,88,22,4,2,20,10,0,0,0
+41648,2984,Sundae - Hot Fudge,720,32,12,0,15,360,101,2,90,12,2,0,20,4,0,0,0
+41649,2984,Sundae - Hot Fudge Brownie,840,37,9,0,100,510,115,4,94,18,4,4,25,15,0,0,0
+41650,2984,Sundae - Hot Fudge Brownie,800,33,6,0,85,510,115,4,94,18,0,0,0,0,0,0,0
+41651,2984,Sundae - Speciality,860,29,8,0,25,340,142,4,113,17,25,6,25,8,0,0,0
+41652,2984,Sundae - Sundette,360,8,6,0,10,140,70,0,52,5,0,0,8,0,0,0,0
+41653,2984,Sundae - Turtle,"1,000",51,25,0,20,320,131,1,101,14,2,2,20,8,0,0,0
+41654,2984,Sundae - Arthur Electric,230,12,8,0,40,35,28,0,24,2,0,8,8,0,0,0,0
+41655,2984,Sundae - HD Butter Cup,"1,380",90,42,0,125,600,119,4,103,24,0,25,35,6,0,0,0
+41656,2984,Sundae - HD Turtle,"1,260",77,39,0,125,490,135,1,102,13,2,25,35,8,0,0,0
+41657,2984,Sundae - HD Waffle Berry,630,37,24,0,125,130,69,2,56,8,70,25,25,6,0,0,0
+41658,2984,Yogwich,580,20,7,0,40,460,96,1,48,8,0,0,6,0,0,0,0
+41659,2985,Vanilla Yogurt with White Cake,290,13,8,0.5,20,230,39,0,30,5,0,8,2,2,0,0,0
+41660,2985,Vanilla Fudge Swirl Yogurt with Chocolate Cake,290,12,8,0.5,20,220,42,1,31,5,0,6,2,4,0,0,0
+41661,2985,Chocolate and Vanilla Yogurt Double Crunch Cake,690,17,10,1.5,10,115,49,1,36,6,0,10,2,0,0,0,0
+41662,2985,White Chocolate Mousse Yogurt with Chocolate Cake,300,14,8,14,20,210,39,1,30,5,0,8,2,4,0,0,0
+41663,2985,Vanilla Fudge Swirl with Chocolate Cake (Sheet Cake),290,11,7,0.5,20,220,42,1,31,5,0,6,2,4,0,0,0
+41664,2986,Strawberries 'n Cream Deep Dish Yogurt Pie,220,7,4,1,15,115,36,0,28,5,8,8,2,2,0,0,0
+41665,2986,Mint 'N Chips™ Deep Dish Yogurt Pie,330,17,10,1.5,10,110,42,1,32,4,0,0,0,0,0,0,0
+41666,2986,Peanut Buttery Fudge Deep Dish Yogurt Pie,330,17,8,17,10,170,40,1,29,6,0,8,2,2,0,0,0
+41667,2986,Chocolate Decadence Deep Dish Yogurt Pie,340,14,8,1.5,5,140,49,2,36,4,0,8,2,8,0,0,0
+41668,2986,Cookies 'n Crème Deep Dish Yogurt Pie,320,14,7,1,10,190,45,1,28,4,2,4,10,8,0,0,0
+41669,2986,Turtle Ripple™ Deep Dish Yogurt Pie,310,14,7,1,10,130,44,1,32,4,0,8,2,6,0,0,0

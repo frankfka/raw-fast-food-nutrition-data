@@ -1,0 +1,60 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+128754,22171,Cinnamon Swirl,1 slice - 1 oz,70,0,0,0,0,100,15,1,3,2,0,0,0,0,0,0,0
+128755,22171,Grandma's White,1 slice - 1 oz,60,0,0,0,0,115,14,0,1,2,0,0,0,0,0,0,0
+128756,22171,Honey Whole Wheat,1 slice - 1 oz,70,0,0,0,0,80,14,2,2,3,0,0,0,0,0,0,0
+128757,22172,Almond Bear Claw,1 slice - 1 oz,80,2,0,0,5,85,14,1,2,2,0,0,0,0,0,0,0
+128758,22172,Apple Raisin Challah,1 slice - 1 oz,70,0,0,0,10,75,14,2,1,2,0,0,0,0,0,0,0
+128759,22172,Apple Raisin Cinnamon Swirl,1 slice - 1 oz,70,0,0,0,0,90,15,1,3,1,0,0,0,0,0,0,0
+128760,22172,Apricot Almond,1 slice - 1 oz,70,1,0,0,0,90,13,1,2,2,0,0,0,0,0,0,0
+128761,22172,Bavarian Rye,1 slice - 1 oz,65,0,0,0,0,85,13,1,0,2,0,0,0,0,0,0,0
+128762,22172,Blueberry Cheese Danish,1 slice - 1 oz,60,1,0,0,5,75,12,1,3,2,0,0,0,0,0,0,0
+128763,22172,Blueberry Cheesecake,1 slice - 1 oz,70,1,0,0,0,95,14,1,4,2,0,0,0,0,0,0,0
+128764,22172,Blueberry Cobbler,1 slice - 1 oz,80,1,0,0,5,75,16,1,5,2,0,0,0,0,0,0,0
+128765,22172,Blueberry Pancake,1 slice - 1 oz,70,1,0,0,5,75,15,1,5,2,0,0,0,0,0,0,0
+128766,22172,Blueberry White Chocolate,1 slice - 1 oz,70,1,0,0,0,95,14,1,4,2,0,0,0,0,0,0,0
+128767,22172,Caramel Apple,1 slice - 1 oz,80,1,0,0,0,115,16,1,4,2,0,0,0,0,0,0,0
+128768,22172,Cheese Danish,1 slice - 1 oz,80,2,0,0,10,85,13,1,4,2,0,0,0,0,0,0,0
+128769,22172,Cherry Apple Strudel,1 slice - 1 oz,70,1,0,0,5,90,10,1,3,2,0,0,0,0,0,0,0
+128770,22172,Cherry Cheesecake,1 slice - 1 oz,70,1,0,0,0,90,14,1,4,2,0,0,0,0,0,0,0
+128771,22172,Cherry Chocolate,1 slice - 1 oz,70,1,0,0,0,85,14,1,2,2,0,0,0,0,0,0,0
+128772,22172,Chocolate Bobka,1 slice - 1 oz,70,2,0,0,0,85,14,1,4,2,0,0,0,0,0,0,0
+128773,22172,Cinnamon Crunch,1 slice - 1 oz,80,2,0,0,0,100,15,1,5,2,0,0,0,0,0,0,0
+128774,22172,Cinnamon Raisin Walnut,1 slice - 1 oz,70,1,0,0,0,70,14,2,1,3,0,0,0,0,0,0,0
+128775,22172,Country Italian,1 slice - 1 oz,60,0,0,0,0,140,13,0,0,2,0,0,0,0,0,0,0
+128776,22172,Cranberry Orange,1 slice - 1 oz,70,0,0,0,0,70,15,2,3,2,0,0,0,0,0,0,0
+128777,22172,Cranberry Pecan Cornbread,1 slice - 1 oz,80,2,0,0,0,95,14,1,4,1,0,0,0,0,0,0,0
+128778,22172,Dakota,1 slice - 1 oz,70,0,0,0,0,150,14,2,1,3,0,0,0,0,0,0,0
+128779,22172,Focaccia,1 slice - 1 oz,60,1,0,0,0,150,10,0,0,2,0,0,0,0,0,0,0
+128780,22172,Frosted Fruited Cinnamon Swirl,1 slice - 1 oz,70,0,0,0,0,180,31,2,9,3,0,0,0,0,0,0,0
+128781,22172,German Fruit & Nut Stollen,1 slice - 1 oz,70,1,0,0,5,75,15,1,3,2,0,0,0,0,0,0,0
+128782,22172,Holiday Fruit,1 slice - 1 oz,60,0,0,0,0,95,14,1,2,2,0,0,0,0,0,0,0
+128783,22172,Hot Cross,1 slice - 1 oz,80,2,0,0,5,85,14,1,2,2,0,0,0,0,0,0,0
+128784,22172,Irish Soda Bread,1 slice - 1 oz,70,0,0,0,0,160,15,1,2,2,0,0,0,0,0,0,0
+128785,22172,Jalapeno Cheddar Corn,1 slice - 1 oz,70,1,0,0,0,135,13,1,1,2,0,0,0,0,0,0,0
+128786,22172,King's Cake,1 slice - 1 oz,60,0,0,0,5,75,14,1,5,1,0,0,0,0,0,0,0
+128787,22172,Lemon Cup,1 slice - 1 oz,70,1,0,0,0,120,14,1,3,2,0,0,0,0,0,0,0
+128788,22172,Linzer Nut Tart,1 slice - 1 oz,70,2,0,0,5,85,13,1,2,2,0,0,0,0,0,0,0
+128789,22172,Maple Raisin Walnut,1 slice - 1 oz,70,1,0,0,0,75,15,1,4,2,0,0,0,0,0,0,0
+128790,22172,Montana Fruit & Nut Harvest,1 slice - 1 oz,70,1,0,0,0,110,14,2,3,3,0,0,0,0,0,0,0
+128791,22172,Multigrain,1 slice - 1 oz,70,0,0,0,0,70,14,2,2,3,0,0,0,0,0,0,0
+128792,22172,New York Rye,1 slice - 1 oz,70,0,0,0,0,130,15,1,1,2,0,0,0,0,0,0,0
+128793,22172,Peaches 'n Creme,1 slice - 1 oz,80,1,0,0,5,95,15,1,4,2,0,0,0,0,0,0,0
+128794,22172,Pecan Pie,1 slice - 1 oz,100,4,0,0,10,105,15,1,3,2,0,0,0,0,0,0,0
+128795,22172,Pepperoni Cheese,1 slice - 1 oz,70,2,0,0,5,140,12,0,1,2,0,0,0,0,0,0,0
+128796,22172,Potato Cheddar Chive,1 slice - 1 oz,70,1,0,0,0,140,12,0,1,2,0,0,0,0,0,0,0
+128797,22172,Pumpernickel,1 slice - 1 oz,60,0,0,0,0,135,12,2,0,2,0,0,0,0,0,0,0
+128798,22172,Pumpkin Nut Swirl,1 slice - 1 oz,70,1,0,0,5,105,14,1,4,2,0,0,0,0,0,0,0
+128799,22172,Raspberry Apricot,1 slice - 1 oz,70,1,0,0,0,85,14,1,2,2,0,0,0,0,0,0,0
+128800,22172,Raspberry Cheese Danish,1 slice - 1 oz,60,1,0,0,5,70,12,1,2,2,0,0,0,0,0,0,0
+128801,22172,"Red, White & Blue Cobbler",1 slice - 1 oz,80,1,0,0,0,75,16,1,5,2,0,0,0,0,0,0,0
+128802,22172,San Francisco Style Sourdough,1 slice - 1 oz,70,0,0,0,0,135,15,1,1,3,0,0,0,0,0,0,0
+128803,22172,Sesame Garlic Cheddar,1 slice - 1 oz,70,2,0,0,5,90,12,1,1,3,0,0,0,0,0,0,0
+128804,22172,Spinach Feta,1 slice - 1 oz,60,1,0,0,5,100,12,1,1,3,0,0,0,0,0,0,0
+128805,22172,Stars 'n Stripes,1 slice - 1 oz,70,0,0,0,0,95,15,1,3,2,0,0,0,0,0,0,0
+128806,22172,Sticky Bun,1 slice - 1 oz,70,1,0,0,5,75,14,1,3,2,0,0,0,0,0,0,0
+128807,22172,Sunflower Millet,1 slice - 1 oz,70,1,0,0,0,65,14,2,3,3,0,0,0,0,0,0,0
+128808,22172,Traditional Challah,1 slice - 1 oz,80,2,0,0,30,125,14,0,1,2,0,0,0,0,0,0,0
+128809,22172,Traditional Fruit Challah,1 slice - 1 oz,80,2,0,0,25,115,15,1,2,2,0,0,0,0,0,0,0
+128810,22172,Venetian Pizza,1 slice - 1 oz,60,1,0,0,0,85,13,1,1,2,0,0,0,0,0,0,0
+128811,22172,Walnut Torte,1 slice - 1 oz,160,3,0,0,10,140,31,1,14,4,0,0,0,0,0,0,0
+128812,22172,Woodstock,1 slice - 1 oz,70,1,0,0,0,70,14,2,3,3,0,0,0,0,0,0,0

@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+8280,627,Nova Lox and Egg Whites,345,4,0.5,0,15,"1,070",35,2,0,41,0,0,0,0,0,0,0
+8281,627,Vegetable Omelette,295,2,0.5,0,0,655,37,5,0,33,0,0,0,0,0,0,0
+8282,628,California Salad,340,10,3,0,310,170,15,6,0,46,0,0,0,0,0,0,0
+8283,629,Breast of Roasted Turkey Dinner,520,11,2.5,0,95,805,61,7,0,43,0,0,0,0,0,0,0
+8284,629,Turkey Steak,470,2,0.5,0,165,"1,010",47,5,0,65,0,0,0,0,0,0,0
+8285,629,Garden Burger,600,15,4.5,0,20,"1,510",100,10,0,19,0,0,0,0,0,0,0

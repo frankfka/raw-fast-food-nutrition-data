@@ -1,0 +1,588 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+102310,20153,Artichoke Eggs Florentine,1 serving - 327 g,900,69,39,0,583,1524,46,4,2,26,8,105,25,35,0,0,0
+102311,20153,Double Bacon Eggs Benedict,1 serving - 327 g,1059,81,44,0,633,2599,43,2,2,40,25,55,20,35,0,0,0
+102312,20153,Smoked Turkey Eggs Benedict,1 serving - 327 g,940,69,39,0,608,1968,43,2,2,37,0,55,20,30,0,0,0
+102313,20153,Three Eggs - Egg Whites - Bacon,1 serving - 279 g,521,26,8,0,61,2035,27,3,0,43,0,0,6,10,0,0,0
+102314,20153,Three Eggs - Egg Whites - Canadian Bacon,1 serving - 279 g,316,6,2,0,33,1668,27,3,0,36,20,0,6,10,0,0,0
+102315,20153,Three Eggs - Egg Whites - Chicken Sausage,1 serving - 279 g,333,10,3,0,68,1378,31,3,1,30,0,0,10,25,0,0,0
+102316,20153,Three Eggs - Fried - Bacon,1 serving - 279 g,795,55,18,0,826,1503,26,3,1,45,30,25,15,30,0,0,0
+102317,20153,Three Eggs - Fried - Canadian Bacon,1 serving - 279 g,573,32,9,0,810,1474,27,3,1,41,20,25,15,30,0,0,0
+102318,20153,Three Eggs - Fried - Chicken Sausage,1 serving - 279 g,590,36,10,0,845,1184,30,3,2,35,0,25,20,40,0,0,0
+102319,20153,Three Eggs - Poached - Bacon,1 serving - 259 g,657,41,13,0,694,1935,26,3,1,44,0,15,15,25,0,0,0
+102320,20153,Three Eggs - Poached - Canadian Bacon,1 serving - 259 g,451,21,7,0,666,1568,26,3,1,37,20,15,15,25,0,0,0
+102321,20153,Three Eggs - Poached - Chicken Sausage,1 serving - 259 g,469,24,8,0,701,1278,30,3,2,31,0,15,20,40,0,0,0
+102322,20153,Three Eggs - Scrambled - Bacon,1 serving - 279 g,735,50,16,0,647,1632,28,3,3,41,30,20,15,25,0,0,0
+102323,20153,Three Eggs - Scrambled - Canadian Bacon,1 serving - 279 g,513,27,8,0,632,1604,29,3,3,37,20,20,15,20,0,0,0
+102324,20153,Three Eggs - Scrambled - Chicken Sausage,1 serving - 279 g,531,30,9,0,667,1313,33,3,4,31,0,20,20,35,0,0,0
+102325,20153,Toad in the Hole - Scrambled Eggs,1 serving - 165 g,449,30,7,0,435,852,29,1,0,15,0,30,10,20,0,0,0
+102326,20153,Toad in the Hole - Egg Whites,1 serving - 165 g,257,8,1,0,0,544,29,1,1,17,0,6,4,8,0,0,0
+102327,20153,Toad in the Hole - Fried Eggs,1 serving - 144 g,383,22,5,0,420,543,29,1,1,17,0,20,10,20,0,0,0
+102328,20153,Toad in the Hole - Poached Eggs,1 serving - 152 g,345,17,5,0,422,650,28,1,1,17,0,15,10,20,0,0,0
+102329,20153,Two Egg Whites - Bacon,1 serving - 222 g,493,26,8,0,61,1855,26,3,0,37,0,0,6,10,0,0,0
+102330,20153,Two Egg Whites - Canadian Bacon,1 serving - 222 g,287,6,2,0,33,1488,26,3,0,30,20,0,6,10,0,0,0
+102331,20153,Two Eggs Whites - Chicken Sausage,1 serving - 222 g,305,10,3,0,68,1197,30,3,1,24,0,0,10,25,0,0,0
+102332,20153,Two Fried Eggs - Bacon,1 serving - 201 g,638,44,14,0,469,1343,25,3,1,34,30,15,10,25,0,0,0
+102333,20153,Two Fried Eggs - Canadian Bacon,1 serving - 201 g,416,20,6,0,453,1315,26,3,1,31,20,15,10,20,0,0,0
+102334,20153,Two Fried Eggs - Chicken Sausage,1 serving - 201 g,433,24,7,0,488,1025,30,3,2,25,0,15,15,35,0,0,0
+102335,20153,Two Poached Eggs - Bacon,1 serving - 209 g,584,36,11,0,483,1788,26,3,1,37,0,10,10,20,0,0,0
+102336,20153,Two Poached Eggs - Canadian Bacon,1 serving - 209 g,378,16,5,0,455,1421,26,3,1,31,20,10,10,20,0,0,0
+102337,20153,Two Poached Eggs - Chicken Sausage,1 serving - 209 g,395,20,6,0,490,1131,30,3,2,25,0,10,15,35,0,0,0
+102338,20153,Two Scrambled Eggs - Bacon,1 serving - 222 g,704,52,16,0,483,1652,26,3,0,32,30,25,10,20,0,0,0
+102339,20153,Two Scrambled Eggs - Canadian Bacon,1 serving - 222 g,483,29,7,0,468,1624,26,3,0,29,20,25,10,20,0,0,0
+102340,20153,Two Srambled Eggs - Chicken Sausage,1 serving - 222 g,500,32,8,0,503,1333,30,3,1,23,0,25,15,30,0,0,0
+102341,20153,Flap Jacks - Full Stack,1 serving - 680 g,1545,66,14,0,401,2987,193,0,0,44,4,25,150,70,0,0,0
+102342,20153,Flap Jacks - Half Stack,1 serving - 680 g,1545,66,14,0,401,2987,193,0,0,44,4,25,150,70,0,0,0
+102343,20153,Hashbrowns,1 serving - 57 g,154,9,2,0,54,288,16,1,0,3,20,2,0,4,0,0,0
+102344,20153,Bacon Bomb - Egg Whites,1 serving - 213 g,198,7,4,0,31,809,2,0,1,29,10,4,10,4,0,0,0
+102345,20153,Bacon Bomb - Whole Eggs,1 serving - 213 g,360,24,9,0,751,764,2,0,1,32,10,20,20,20,0,0,0
+102346,20153,Grand Canyon - Canadian Bacon,1 serving - 298 g,382,24,9,0,751,768,7,1,4,33,55,25,20,20,0,0,0
+102347,20153,Grand Canyon - Egg Whites - Canadian Bacon,1 serving - 298 g,199,10,3,0,25,662,8,1,5,28,45,10,15,6,0,0,0
+102348,20153,Grand Canyon - Egg Whites - Maple Baked Ham,1 serving - 298 g,199,10,3,0,25,662,8,1,5,28,45,10,15,6,0,0,0
+102349,20153,Grand Canyon - Egg Whites - No Meat,1 serving - 269 g,168,5,3,0,15,374,7,1,4,23,45,10,15,4,0,0,0
+102350,20153,Grand Canyon - Maple Baked Ham,1 serving - 298 g,360,27,8,0,745,618,8,1,6,31,45,25,20,20,0,0,0
+102351,20153,Grand Canyon - No Meat,1 serving - 269 g,330,22,8,0,734,329,7,1,4,26,45,25,20,20,0,0,0
+102352,20153,Green Garden - Egg Whites - No Meat,1 serving - 298 g,182,6,3,0,15,447,8,2,4,23,50,10,15,4,0,0,0
+102353,20153,Green Garden - Whole Eggs - No Meat,1 serving - 298 g,344,23,8,0,734,403,8,2,4,26,50,25,20,20,0,0,0
+102354,20153,Ham I Am - Egg Whites,1 serving - 213 g,176,10,3,0,25,659,3,0,3,27,0,4,10,4,0,0,0
+102355,20153,Ham I Am - Whole Eggs,1 serving - 213 g,338,27,8,0,745,615,3,0,3,30,0,20,20,20,0,0,0
+102356,20153,Spinach and Artichoke Omelet - Egg Whites,1 serving - 255 g,210,8,5,0,32,516,6,2,2,27,8,50,25,8,0,0,0
+102357,20153,Spinach and Artichoke Omelet - Whole Eggs,1 serving - 255 g,372,25,10,0,752,472,6,2,2,30,8,65,35,25,0,0,0
+102358,20153,Spinach and Feta - Egg Whites,1 serving - 269 g,396,26,11,0,63,1413,5,1,2,34,8,45,10,10,0,0,0
+102359,20153,Spinach and Feta - Whole Eggs,1 serving - 269 g,557,42,17,0,783,1369,5,1,2,36,8,65,20,25,0,0,0
+102360,20153,Tex Mex Omelet - Egg Whites,1 serving - 241 g,130,3,2,0,6,511,4,1,1,19,35,20,4,2,0,0,0
+102361,20153,Tex Mex Omelet - Whole Eggs,1 serving - 241 g,291,20,7,0,726,467,4,1,1,22,35,35,10,20,0,0,0
+102362,20153,Mango Mama - No Syrup,1 serving - 178 g,896,26,15,0,205,1421,110,2,7,12,15,6,50,35,0,0,0
+102363,20153,Mango Mama - Syrup,1 serving - 206 g,970,26,15,0,205,1423,129,2,24,12,15,6,50,40,0,0,0
+102364,20153,Plain Jane - No Syrup,1 serving - 150 g,878,25,15,0,205,1420,105,1,3,12,0,2,50,35,0,0,0
+102365,20153,Plain Jane - Syrup,1 serving - 178 g,952,26,15,0,205,1423,124,1,20,12,0,2,50,35,0,0,0
+102366,20153,Strawberry Shortcake - No Syrup,1 serving - 178 g,897,26,15,0,205,1430,110,3,3,12,20,2,50,35,0,0,0
+102367,20153,Strawberry Shortcake - Syrup,1 serving - 206 g,971,26,15,0,205,1433,129,3,20,12,20,2,50,40,0,0,0
+102368,20154,Asian Ginger Dressing,1.5 oz,134,12,1,0,0,267,6,0,1,0,0,0,0,0,0,0,0
+102369,20154,Athenian Dressing And Marinade,1 oz - 29 g,144,16,3,0,2,206,1,0.5,1,0,1,0,2,1,0,0,0
+102370,20154,Empire Caesar Dressing,1 oz - 26 g,163,18,2,0,11,186,1,0,0,1,0,0,4,1,0,0,0
+102371,20154,Extra Chunky Blue Cheese Dressing,1 oz - 30 g,136,14,4,0,16,184,1,0,0,2,0,2,4,0,0,0,0
+102372,20154,Fat Free Raspberry Vinaigrette With Poppyseeds Dressing,1 fl oz - 31.6 g,41,0.5,0,0,0,75,9,1,7,0,0,0,0,0,0,0,0
+102373,20154,Fat Free Lemon Herb Dressing,1 oz - 32 g,17,0,0,0,0,118,3,0,1,0,0,0,0,0,0,0,0
+102374,20154,Honey - Lime Vinaigrette,1.5 oz,270,29,2,0,0,321,4,0,3,0,4,0,0,0,0,0,0
+102375,20154,Honey Poppyseed Dressing,1 oz - 29 g,157,15.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102376,20154,Low Fat Caribbean Mango Dressing And Marinade,1 oz - 32 g,51,1,0,0,1,82,9,0,5.5,0,1,2,0,1,0,0,0
+102377,20154,"Low Fat, Reduced Calorie Caesar Dressing",1 oz - 30 g,43,3,0,0,3,339,2,1,0,1,0,0,1,0,0,0,0
+102378,20154,"Low Fat, Low Calorie Honey Dijon Dressing",1 oz - 34 g,57,2.6,0,0,0,264,8,1,5,0,0,0,0,0,0,0,0
+102379,20154,"Low Fat, Low Calorie Italian Dressing",1 oz - 29 g,29,3,0,0,0,253,1,0,1,0,0,0,0,0,0,0,0
+102380,20154,Low Fat Peppercorn Ranch Dressing,1 oz - 28 g,50,3,1,0,5,220,4,0,4,1,0,0,2,0,0,0,0
+102381,20154,Spicy Peanut Sauce,1.5 oz,196,15,2,0,0,629,13,1,9,5,0,2,0,4,0,0,0
+102382,20154,Sesame French Dressing,1 oz - 32 g,146,12,2,0,1,396,10,0,6,0,2,2,1,1,0,0,0
+102383,20154,Sun Dried Tomato Vinaigrette,1 oz - 28 g,161,17.8,2,0,0,22.4,0.9,0.1,0.5,0,1,0,0,0,0,0,0
+102384,20154,Wasabi Teriyaki Marinade,1 oz - 30 g,50,3,0,0,0,583,4,0,3,1,1,0,0,0,0,0,0
+102385,20155,Applenut - Albacore Tuna - Dressing,1 serving - 397 g,639,47,8,0,46,658,28,6,14,32,50,150,20,20,0,0,0
+102386,20155,Applenut - Albacore Tuna - No Dressing,1 serving - 347 g,407,23,4,0,46,267,23,6,14,32,50,150,20,20,0,0,0
+102387,20155,Applenut - Albacore Tuna - Balsamic Vinegar - No Oil,1 serving - 369 g,426,23,5,0,46,263,35,6,11,31,50,145,20,20,0,0,0
+102388,20155,Applenut - Albacore Tuna Salad - Dressing,1 serving - 397 g,689,52,9,0,22,957,36,6,14,26,55,150,20,20,0,0,0
+102389,20155,Applenut - Albacore Tuna Salad - No Dressing,1 serving - 347 g,457,28,5,0,22,567,31,6,14,26,55,150,20,20,0,0,0
+102390,20155,Applenut - Albacore Tuna Salad - Balsamic Vinegar - No Oil,1 serving - 369 g,476,29,5,0,22,562,43,6,11,24,50,150,20,20,0,0,0
+102391,20155,Applenut - Buffalo Calamari - Dressing,1 serving - 447 g,759,53,10,0,299,1183,43,6,14,32,60,155,25,25,0,0,0
+102392,20155,Applenut - Buffalo Calamari - No Dressing,1 serving - 397 g,527,30,6,0,299,793,38,6,14,32,60,155,25,25,0,0,0
+102393,20155,Applenut - Buffalo Calamari - Balsamic Vinegar - No Oil,1 serving - 418 g,546,30,7,0,299,788,50,6,11,30,60,150,25,20,0,0,0
+102394,20155,Applenut - Buffalo Chicken Tenders - Dressing,1 serving - 418 g,760,56,10,0,54,1281,43,6,14,27,55,155,20,20,0,0,0
+102395,20155,Applenut - Buffalo Chicken Tenders - No Dressing,1 serving - 369 g,528,32,7,0,54,891,38,6,14,27,55,155,20,20,0,0,0
+102396,20155,Applenut - Buffalo Chicken Tenders - Balsamic Vinegar - No Oil,1 serving - 390 g,548,33,7,0,54,886,51,6,11,26,55,150,20,20,0,0,0
+102397,20155,Applenut - Buffalo Shrimp - Dressing,1 serving - 447 g,816,58,11,0,219,1288,44,6,14,36,60,155,25,35,0,0,0
+102398,20155,Applenut - Buffalo Shrimp - No Dressing,1 serving - 397 g,584,34,7,0,219,898,39,6,14,35,60,155,25,35,0,0,0
+102399,20155,Applenut - Buffalo Shrimp - Balsamic Vinegar - No Oil,1 serving - 418 g,669,27,5,0,507,860,40,6,11,77,65,150,35,60,0,0,0
+102400,20155,Applenut - Chicken Tenders - Dressing,1 serving - 397 g,753,56,10,0,54,1126,41,6,14,27,50,150,20,20,0,0,0
+102401,20155,Applenut - Chicken Tenders - No Dressing,1 serving - 347 g,521,32,7,0,54,736,36,6,14,27,50,150,20,20,0,0,0
+102402,20155,Applenut - Chicken Tenders - Balsamic Vinegar - No Oil,1 serving - 369 g,540,33,7,0,54,731,49,6,11,26,50,150,20,15,0,0,0
+102403,20155,Applenut - Fried Calamari - Dressing,1 serving - 425 g,751,53,10,0,299,1028,41,6,14,32,55,150,25,25,0,0,0
+102404,20155,Applenut - Fried Calamari - No Dressing,1 serving - 376 g,519,30,6,0,299,638,36,6,14,32,55,150,20,20,0,0,0
+102405,20155,Applenut - Fried Calamari - Balsamic Vinegar - No Oil,1 serving - 397 g,538,30,7,0,299,633,48,6,11,30,55,150,20,20,0,0,0
+102406,20155,Applenut - Grilled Atlantic Salmon - Dressing,1 serving - 425 g,736,53,9,0,91,679,28,6,14,41,50,150,20,20,0,0,0
+102407,20155,Applenut - Grilled Atlantic Salmon - No Dressing,1 serving - 376 g,504,29,5,0,91,288,23,6,14,41,50,150,20,20,0,0,0
+102408,20155,Applenut - Grilled Atlantic Salmon - Balsamic Vinegar,1 serving - 397 g,524,30,6,0,91,284,35,6,11,39,50,145,20,20,0,0,0
+102409,20155,Applenut - Grilled Calamari - Dressing,1 serving - 425 g,686,49,8,0,329,1035,32,6,14,34,60,155,20,20,0,0,0
+102410,20155,Applenut - Grilled Calamari - No Dressing,1 serving - 376 g,455,25,5,0,329,645,27,6,14,33,60,155,20,20,0,0,0
+102411,20155,Applenut - Grilled Calamari - Balsamic Vinegar - No Oil,1 serving - 397 g,474,26,5,0,329,640,40,6,11,32,60,150,20,20,0,0,0
+102412,20155,Applenut - Grilled Chicken Breast - Dressing,1 serving - 397 g,669,47,8,0,82,874,28,6,14,39,50,150,20,20,0,0,0
+102413,20155,Applenut - Grilled Chicken Breast - No Dressing,1 serving - 347 g,438,23,5,0,82,484,23,6,14,38,50,150,20,20,0,0,0
+102414,20155,Applenut - Grilled Chicken Breast - Balsamic Vinegar,1 serving - 369 g,457,24,5,0,82,479,35,6,11,37,50,145,20,20,0,0,0
+102415,20155,Applenut - Grilled Flank Steak - Dressing,1 serving - 397 g,695,51,10,0,57,663,28,6,14,36,50,150,20,25,0,0,0
+102416,20155,Applenut - Grilled Flank Steak - No Dressing,1 serving - 347 g,463,27,7,0,57,272,23,6,14,36,50,150,20,25,0,0,0
+102417,20155,Applenut - Grilled Flank Steak - Balsamic Vinegar - No Oil,1 serving - 369 g,482,28,7,0,57,268,35,6,11,34,50,145,20,20,0,0,0
+102418,20155,Applenut - Italian Meats - Dressing,1 serving - 390 g,839,69,17,0,87,1987,30,6,14,30,50,150,15,20,0,0,0
+102419,20155,Applenut - Italian Meats - No Dressing,1 serving - 347 g,640,48,14,0,87,1652,25,6,14,30,50,150,15,20,0,0,0
+102420,20155,Applenut - Italian Meats - Balsamic Vinegar - No Oils,1 serving - 369 g,659,49,15,0,87,1648,38,6,11,29,50,145,15,20,0,0,0
+102421,20155,Applenut - Maple Baked Ham - Dressing,1 serving - 397 g,621,59,7,0,41,1481,33,6,19,28,50,150,15,25,0,0,0
+102422,20155,Applenut - Maple Baked Ham - No Dressing,1 serving - 347 g,389,35,4,0,41,1090,27,6,19,27,50,150,15,25,0,0,0
+102423,20155,Applenut - Maple Baked Ham - Balsamic Vinegar - No Oil,1 serving - 369 g,408,36,4,0,41,1086,40,6,16,26,50,145,15,25,0,0,0
+102424,20155,Applenut - Mesquite Turkey - Dressing,1 serving - 397 g,621,45,7,0,49,1283,30,6,14,32,50,150,15,20,0,0,0
+102425,20155,Applenut - Mesquite Turkey - No Dressing,1 serving - 347 g,389,21,4,0,49,893,24,6,14,32,50,150,15,20,0,0,0
+102426,20155,Applenut - Mesquite Turkey - Balsamic Vinegar - No Oil,1 serving - 369 g,408,22,4,0,49,888,37,6,11,30,50,145,15,15,0,0,0
+102427,20155,Applenut - No Meat - Dressing,1 serving - 312 g,530,44,7,0,11,615,28,6,14,12,50,150,15,15,0,0,0
+102428,20155,Applenut - No Meat - No Dressing,1 serving - 262 g,298,20,4,0,11,225,23,6,14,12,50,150,15,15,0,0,0
+102429,20155,Applenut - Popcorn Rock Shrimp - Dressing,1 serving - 425 g,808,58,11,0,219,1133,42,6,14,36,50,155,25,35,0,0,0
+102430,20155,Applenut - Popcorn Rock Shrimp - No Dressing,1 serving - 376 g,577,34,7,0,219,743,37,6,14,35,50,155,25,35,0,0,0
+102431,20155,Applenut - Popcorn Rock Shrimp - Balsamic Vinegar - No Oil,1 serving - 397 g,592,35,6,0,211,610,48,6,11,35,50,150,25,20,0,0,0
+102432,20155,Applenut - Roast Beef - Dressing,1 serving - 397 g,665,49,9,0,56,675,28,6,14,33,50,150,15,40,0,0,0
+102433,20155,Applenut - Roast Beef - No Dressing,1 serving - 347 g,433,25,6,0,56,285,23,6,14,33,50,150,15,35,0,0,0
+102434,20155,Applenut - Roast Beef - Balsamic Vinegar - No Oil,1 serving - 369 g,452,25,6,0,56,280,35,6,11,31,50,145,15,35,0,0,0
+102435,20155,Applenut - Seared Ahi Tuna - Dressing,1 serving - 425 g,704,49,8,0,70,1014,28,6,14,43,55,155,20,20,0,0,0
+102436,20155,Applenut - Seared Ahi Tuna - No Dressing,1 serving - 376 g,472,25,5,0,70,624,23,6,14,43,55,155,20,20,0,0,0
+102437,20155,Applenut - Seared Ahi Tuna - Balsamic Vinegar,1 serving - 397 g,491,25,5,0,70,619,36,6,11,41,55,150,20,20,0,0,0
+102438,20155,Applenut - Turkey - Dressing,1 serving - 397 g,621,46,7,0,41,1147,28,6,14,32,50,150,15,15,0,0,0
+102439,20155,Applenut - Turkey - No Dressing,1 serving - 347 g,389,22,4,0,41,756,23,6,14,32,50,150,15,15,0,0,0
+102440,20155,Applenut - Turkey - Balsamic Vinegar - No Oil,1 serving - 369 g,408,22,4,0,41,752,35,6,11,30,50,145,15,15,0,0,0
+102441,20155,BBQ Dude - Albacore Tuna - Dressing,1 serving - 620 g,645,23,2,0,64,1042,65,16,6,49,70,155,15,35,0,0,0
+102442,20155,BBQ Dude - Albacore Tuna - No Dressing,1 serving - 577 g,498,10,2,0,60,803,59,15,4,48,70,155,15,30,0,0,0
+102443,20155,BBQ Dude - Albacore Tuna Salad - Dressing,1 serving - 620 g,696,29,3,0,39,1342,73,16,6,42,75,155,15,35,0,0,0
+102444,20155,BBQ Dude - Albacore Tuna Salad - No Dressing,1 serving - 577 g,548,15,3,0,35,1102,67,15,4,41,70,155,15,30,0,0,0
+102445,20155,BBQ Dude - Buffalo Calamari - Dressing,1 serving - 585 g,599,23,2,0,100,1258,70,16,6,33,80,155,20,30,0,0,0
+102446,20155,BBQ Dude - Buffalo Calamari - No Dressing,1 serving - 542 g,452,10,2,0,96,101,64,15,4,32,75,155,15,30,0,0,0
+102447,20155,BBQ Dude - Buffalo Chicken Tenders - Dressing,1 serving - 418 g,760,56,10,0,54,1281,43,6,14,27,55,155,20,20,0,0,0
+102448,20155,BBQ Dude - Buffalo Chicken Tenders - No Dressing,1 serving - 599 g,620,20,5,0,68,1426,74,15,4,43,75,160,15,30,0,0,0
+102449,20155,BBQ Dude - Buffalo Shrimp - Dressing,1 serving - 670 g,822,35,5,0,237,1673,80,16,6,52,80,160,25,50,0,0,0
+102450,20155,BBQ Dude - Buffalo Shrimp - No Dressing,1 serving - 627 g,675,21,5,0,232,1433,75,16,4,51,75,160,20,45,0,0,0
+102451,20155,BBQ Dude - Chicken Tenders - Dressing,1 serving - 620 g,759,33,5,0,72,1511,78,16,6,44,70,155,15,30,0,0,0
+102452,20155,BBQ Dude - Chicken Tenders - No Dressing,1 serving - 577 g,612,20,5,0,68,1271,72,15,4,43,70,155,15,30,0,0,0
+102453,20155,BBQ Dude - Fried Calamari - Dressing,1 serving - 648 g,758,30,4,0,317,1413,77,16,6,48,75,155,20,35,0,0,0
+102454,20155,BBQ Dude - Fried Calamari - No Dressing,1 serving - 606 g,610,17,4,0,313,1173,72,16,4,47,75,155,20,35,0,0,0
+102455,20155,BBQ Dude - Grilled Atlantic Salmon - Dressing,1 serving - 648 g,743,30,3,0,109,1063,65,16,6,57,70,155,15,35,0,0,0
+102456,20155,BBQ Dude - Grilled Atlantic Salmon - No Dressing,1 serving - 606 g,596,17,3,0,105,824,59,15,4,56,70,155,15,35,0,0,0
+102457,20155,BBQ Dude - Grilled Calamari - Dressing,1 serving - 648 g,693,26,3,0,347,1420,69,16,6,50,80,160,20,35,0,0,0
+102458,20155,BBQ Dude - Grilled Calamari - No Dressing,1 serving - 606 g,546,13,3,0,343,1180,63,15,4,49,80,160,15,30,0,0,0
+102459,20155,BBQ Dude - Chicken Breast - Dressing,1 serving - 620 g,676,24,3,0,100,1259,65,16,6,55,70,155,15,35,0,0,0
+102460,20155,BBQ Dude - Grilled Chicken Breast - No Dressing,1 serving - 577 g,529,10,3,0,96,1019,59,15,4,54,70,155,15,30,0,0,0
+102461,20155,BBQ Dude - Grilled Flank Steak - Dressing,1 serving - 620 g,702,28,5,0,75,1048,65,16,6,52,70,155,15,35,0,0,0
+102462,20155,BBQ Dude - Grilled Flank Steak - No Dressing,1 serving - 577 g,554,14,5,0,71,808,59,15,4,51,70,155,15,35,0,0,0
+102463,20155,BBQ Dude - Italian Meats - Dressing,1 serving - 583 g,783,43,11,0,80,1694,66,15,5,36,65,155,15,30,0,0,0
+102464,20155,BBQ Dude - Italian Meats - No Dressing,1 serving - 541 g,636,30,11,0,76,1455,60,15,3,35,60,155,10,30,0,0,0
+102465,20155,BBQ Dude - Maple Baked Ham - Dressing,1 serving - 620 g,628,36,2,0,59,1866,69,16,10,44,70,155,15,40,0,0,0
+102466,20155,BBQ Dude - Maple Baked Ham - No Dressing,1 serving - 577 g,480,23,2,0,55,1626,64,15,8,43,70,155,15,35,0,0,0
+102467,20155,BBQ Dude - Mesquite Turkey - Dressing,1 serving - 620 g,628,21,2,0,66,1668,66,16,6,48,70,155,15,30,0,0,0
+102468,20155,BBQ Dude - Mesquite Turkey - No Dressing,1 serving - 577 g,480,8,2,0,62,1428,61,15,4,47,70,155,15,30,0,0,0
+102469,20155,BBQ Dude - Popcorn Rock Shrimp - Dressing,1 serving - 648 g,815,35,5,0,237,1518,78,16,6,52,75,160,20,45,0,0,0
+102470,20155,BBQ Dude - Popcorn Rock Shrimp - No Dressing,1 serving - 606 g,668,21,5,0,232,1278,73,16,4,51,70,160,20,45,0,0,0
+102471,20155,BBQ Dude - Roast Beef - Dressing,1 serving - 583 g,576,20,3,0,49,327,63,15,5,39,60,155,15,50,0,0,0
+102472,20155,BBQ Dude - Roast Beef - No Dressing,1 serving - 541 g,429,7,3,0,45,87,58,15,3,38,60,155,10,45,0,0,0
+102473,20155,BBQ Dude - Seared Ahi Tuna - Dressing,1 serving - 648 g,710,25,3,0,88,1399,65,16,6,59,75,160,20,35,0,0,0
+102474,20155,BBQ Dude - Seared Ahi Tuna - No Dressing,1 serving - 606 g,563,12,3,0,84,1159,60,15,4,58,75,160,15,30,0,0,0
+102475,20155,BBQ Dude - Turkey - Dressing,1 serving - 620 g,628,22,2,0,59,1531,65,16,6,48,70,155,15,30,0,0,0
+102476,20155,BBQ Dude - Turkey - No Dressing,1 serving - 577 g,480,9,2,0,55,1292,59,15,4,47,70,155,15,30,0,0,0
+102477,20155,Buffa-Bleu - Albacore Tuna - Dressing,1 serving - 482 g,756,42,16,0,122,1818,37,6,4,59,95,270,65,25,0,0,0
+102478,20155,Buffa-Bleu - Albacore Tuna - No Dressing,1 serving - 411 g,498,21,11,0,84,1112,31,6,4,46,90,265,65,25,0,0,0
+102479,20155,Buffa-Bleu - Albacore Tuna Salad - Dressing,1 serving - 454 g,742,45,17,0,74,1761,44,6,4,41,90,270,65,25,0,0,0
+102480,20155,Buffa-Bleu - Albacore Tuna Salad - No Dressing,1 serving - 411 g,548,27,12,0,59,1412,39,6,4,39,90,270,65,25,0,0,0
+102481,20155,Buffa-Bleu - Buffalo Calamari - No Dressing,1 serving - 461 g,618,28,13,0,336,1638,46,7,4,46,100,270,70,30,0,0,0
+102482,20155,Buffa-Bleu - Buffao Calamari - Dressing,1 serving - 503 g,811,47,18,0,351,1987,51,7,4,47,100,270,70,30,0,0,0
+102483,20155,Buffa-Bleu - Buffalo Chicken Tenders - Dressing,1 serving - 475 g,813,50,18,0,106,2085,51,6,4,43,95,270,70,25,0,0,0
+102484,20155,Buffa-Bleu - Buffalo Chicken Tenders - No Dressing,1 serving - 433 g,620,31,13,0,92,1736,46,6,4,41,95,270,65,25,0,0,0
+102485,20155,Buffa-Bleu - Buffalo Shrimp - Dressing,1 serving - 503 g,865,51,18,0,263,1964,51,6,4,52,100,275,75,30,0,0,0
+102486,20155,Buffa-Bleu - Buffalo Shrimp - No Dressing,1 serving - 461 g,675,33,14,0,256,1743,47,7,4,49,95,275,70,40,0,0,0
+102487,20155,Buffa-Bleu - Chicken Tenders - Dressing,1 serving - 454 g,805,50,18,0,106,1930,49,6,4,43,90,270,65,25,0,0,0
+102488,20155,Buffa-Bleu - Chicken Tenders - No Dressing,1 serving - 411 g,612,31,13,0,92,1581,44,6,4,41,90,270,65,25,0,0,0
+102489,20155,Buffa-Bleu - Fried Calamari - Dressing,1 serving - 482 g,804,47,18,0,351,1832,49,7,4,47,95,270,70,30,0,0,0
+102490,20155,Buffa-Bleu - Fried Calamari - No Dressing,1 serving - 439 g,611,28,13,0,336,1483,44,7,4,46,95,270,70,30,0,0,0
+102491,20155,Buffa-Bleu - Grilled Atantic Salmon - No Dressing,1 serving - 439 g,596,28,12,0,129,1133,31,6,4,55,90,270,65,25,0,0,0
+102492,20155,Buffa-Bleu - Grilled Atlantic Salmon - Dressing,1 serving - 482 g,789,47,17,0,143,1483,36,6,4,56,90,270,65,25,0,0,0
+102493,20155,Buffa-Bleu - Grilled Calamari - Dressing,1 serving - 482 g,739,43,16,0,381,1839,40,6,4,49,100,270,70,25,0,0,0
+102494,20155,Buffa-Bleu - Grilled Calamari - No Dressing,1 serving - 439 g,546,24,12,0,366,1490,35,6,4,47,100,270,70,25,0,0,0
+102495,20155,Buffa-Bleu - Grilled Chicken Breast - Dressing,1 serving - 454 g,722,40,16,0,135,1678,36,6,4,54,90,270,65,25,0,0,0
+102496,20155,Buffa-Bleu - Grilled Chicken Breast - No Dressing,1 serving - 411 g,529,22,11,0,120,1329,31,6,4,52,90,265,65,25,0,0,0
+102497,20155,Buffa-Bleu - Grilled Flank Steak - Dressing,1 serving - 454 g,748,44,18,0,109,1467,36,6,4,51,90,270,65,30,0,0,0
+102498,20155,Buffa-Bleu - Grilled Flank Steak - No Dressing,1 serving - 411 g,554,26,13,0,95,1118,31,6,4,49,90,265,65,30,0,0,0
+102499,20155,Buffa-Bleu - Italian Meats - Dressing,1 serving - 454 g,924,65,26,0,139,2847,39,6,4,46,90,270,65,25,0,0,0
+102500,20155,Buffa-Bleu - Italian Meats - No Dressing,1 serving - 411 g,731,47,21,0,124,2498,33,6,4,44,90,265,65,25,0,0,0
+102501,20155,Buffa-Bleu - Maple Baked Ham - Dressing,1 serving - 454 g,674,52,15,0,93,2285,41,6,8,43,90,270,65,30,0,0,0
+102502,20155,Buffa-Bleu - Maple Baked Ham - No Dressing,1 serving - 411 g,481,34,11,0,78,1936,35,6,8,41,90,265,65,30,0,0,0
+102503,20155,Buffa-Bleu - Mesquite Turkey - Dressing,1 serving - 454 g,674,38,15,0,101,2087,38,6,4,47,90,270,65,25,0,0,0
+102504,20155,Buffa-Bleu - Mesquite Turkey - No Dressing,1 serving - 411 g,481,20,11,0,86,1738,32,6,4,45,90,265,65,25,0,0,0
+102505,20155,Buffa-Bleu - No Meat - Dressing,1 serving - 369 g,614,43,14,0,49,1528,32,6,4,26,90,265,65,20,0,0,0
+102506,20155,Buffa-Bleu - No Meat - No Dressing,1 serving - 326 g,389,19,11,0,48,1070,31,6,4,26,90,265,65,20,0,0,0
+102507,20155,Buffa-Bleu - Popcorn Rock Shrimp - Dressing,1 serving - 482 g,857,51,18,0,263,1809,49,6,4,52,90,270,70,30,0,0,0
+102508,20155,Buffa-Bleu - Popcorn Rock Shrimp - No Dressing,1 serving - 439 g,668,33,14,0,256,1588,45,7,4,49,90,270,70,40,0,0,0
+102509,20155,Buffa-Bleu - Roast Beef - No Dressing,1 serving - 411 g,524,23,13,0,93,1130,31,6,4,47,90,265,65,45,0,0,0
+102510,20155,Buffa-Bleu - Seared Ahi Tuna - Dressing,1 serving - 482 g,756,42,16,0,122,1818,37,6,4,59,95,270,65,25,0,0,0
+102511,20155,Buffa-Bleu - Seared Ahi Tuna - No Dressing,1 serving - 439 g,563,23,11,0,108,1469,31,6,4,57,95,270,65,25,0,0,0
+102512,20155,Buffa-Bleu - Turkey - Dressing,1 serving - 454 g,674,38,15,0,101,2087,38,6,4,47,90,270,65,25,0,0,0
+102513,20155,Buffa-Bleu - Turkey - No Dressing,1 serving - 494 g,569,22,11,0,108,2120,31,6,4,65,90,265,65,25,0,0,0
+102514,20155,Caesar - Roast Beef - Creamy Caesar Dressing,1 serving - 383 g,690,44,14,0,83,1381,30,5,3,44,75,220,55,40,0,0,0
+102515,20155,Caesar - Roast Beef - Empire Caesar Dressing,1 serving - 383 g,732,49,13,0,100,1227,30,5,3,45,75,220,60,45,0,0,0
+102516,20155,Caesar - Roast Beef - Low Fat Caesar Dressing,1 serving - 383 g,526,23,10,0,87,1403,31,7,3,44,75,220,55,40,0,0,0
+102517,20155,Caesar - Roast Beef - No Dressing,1 serving - 340 g,465,19,10,0,82,923,29,5,3,43,75,220,55,40,0,0,0
+102518,20155,Caesar - Albacore Tuna (Plain-No Mayo) - No Dressing,1 serving - 340 g,439,17,9,0,73,1183,29,5,3,42,75,220,55,25,0,0,0
+102519,20155,Caesar - Albacore Tuna (Plain-No Mayo) - Low Fat Caesar Dressing,1 serving - 383 g,500,21,9,0,77,1664,31,7,3,44,75,220,55,25,0,0,0
+102520,20155,Caesar - Albacore Tuna - (Plain -No Mayo) - Creamy Caesar Dressing,1 serving - 383 g,663,42,12,0,74,1642,30,5,3,43,75,220,60,25,0,0,0
+102521,20155,Caesar - Albacore Tuna - (Plain-No Mayo) - Empire Caesar Dressing,1 serving - 383 g,705,47,12,0,91,1488,30,5,3,44,75,220,65,25,0,0,0
+102522,20155,Caesar - Albacore Tuna Salad - Creamy Caesar Dressing,1 serving - 340 g,489,22,9,0,48,1205,37,5,3,36,75,220,44,14,0,0,0
+102523,20155,Caesar - Albacore Tuna Salad - Empire Caesar Dressing,1 serving - 383 g,756,52,12,0,66,1509,38,5,3,37,75,220,65,25,0,0,0
+102524,20155,Caesar - Albacore Tuna Salad - Low Fat Caesar Dressing,1 serving - 383 g,550,27,9,0,53,1685,39,7,3,37,75,220,55,25,0,0,0
+102525,20155,Caesar - Albacore Tuna Salad - No Dressing,1 serving - 340 g,489,22,9,0,48,1205,37,5,3,36,75,220,55,25,0,0,0
+102526,20155,Caesar - Turkey - Creamy Caesar Dressing,1 serving - 383 g,646,41,12,0,69,1853,30,5,3,42,75,220,55,20,0,0,0
+102527,20155,Caesar - Turkey - Empire Caesar Dressing,1 serving - 383 g,688,46,11,0,86,1699,30,5,3,43,75,220,60,20,0,0,0
+102528,20155,Caesar - Turkey - Low Fat Caesar Dressing,1 serving - 383 g,482,20,8,0,72,1875,31,7,3,43,75,220,55,20,0,0,0
+102529,20155,Caesar - Turkey - No Dressing,1 serving - 340 g,421,16,8,0,68,1394,29,5,3,42,75,220,55,20,0,0,0
+102530,20155,Caesar - Buffalo Calamari - Creamy Caesar Dressing,1 serving - 433 g,783,49,14,0,327,1889,45,6,3,42,85,220,65,25,0,0,0
+102531,20155,Caesar - Buffalo Calamari - Empire Caesar Dressing,1 serving - 433 g,825,54,14,0,344,1735,45,6,3,44,85,220,70,30,0,0,0
+102532,20155,Caesar - Buffalo Calamari - Low Fat Caesar Dressing,1 serving - 433 g,620,28,10,0,330,1911,46,7,3,43,85,220,60,25,0,0,0
+102533,20155,Caesar - Buffalo Calamari - No Dressing,1 serving - 390 g,559,24,10,0,326,1431,43,6,3,42,85,220,60,25,0,0,0
+102534,20155,Buffalo Chicken Tenders - Creamy Caesar Dressing,1 serving - 404 g,785,51,15,0,82,1987,45,5,3,38,80,220,60,25,0,0,0
+102535,20155,Caesar - Buffalo Chicken Tenders - Empire Caesar Dressing,1 serving - 404 g,827,56,14,0,99,1833,45,5,3,39,80,220,65,25,0,0,0
+102536,20155,Caesar - Buffalo Chicken Tenders - No Dressing,1 serving - 362 g,560,27,11,0,81,1529,44,5,3,37,80,220,60,25,0,0,0
+102537,20155,Caesar - Buffalo Cx Tenders - Low Fat Caesar Dressing,1 serving - 404 g,621,31,11,0,85,2010,47,7,3,39,80,220,60,25,0,0,0
+102538,20155,Buffalo Shrimp - Creamy Caesar Dressing,1 serving - 422 g,837,53,15,0,246,1917,45,6,3,46,80,225,65,35,0,0,0
+102539,20155,Caesar - Buffalo Shrimp - Empire Caesar Dressing,1 serving - 422 g,879,58,15,0,264,1763,45,6,3,47,80,225,70,40,0,0,0
+102540,20155,Caesar - Buffalo Shrimp - Low Fat Caesar,1 serving - 422 g,673,33,11,0,250,1939,46,7,3,47,80,225,65,35,0,0,0
+102541,20155,Caesar - Buffalo Shrimp - No Dressing,1 serving - 379 g,612,28,11,0,246,1458,43,6,3,45,80,225,65,35,0,0,0
+102542,20155,Caesar - Chicken Tenders - Creamy Caesar Dressing,1 serving - 383 g,777,51,15,0,82,1832,43,5,3,36,75,220,60,20,0,0,0
+102543,20155,Caesar - Chicken Tenders - Empire Caesar Dressing,1 serving - 383 g,819,56,14,0,99,1678,43,5,3,39,75,220,65,25,0,0,0
+102544,20155,Caesar - Chicken Tenders - Low Fat Caesar Dressing,1 serving - 383 g,614,31,11,0,85,1855,45,7,3,39,75,220,55,20,0,0,0
+102545,20155,Caesar - Chicken Tenders - No Dressing,1 serving - 340 g,553,27,11,0,81,1374,42,5,3,37,75,220,55,20,0,0,0
+102546,20155,Caesar - Fried Calamari - Creamy Caesar Dressing,1 serving - 411 g,776,49,14,0,327,1734,43,6,3,42,80,220,60,25,0,0,0
+102547,20155,Caesar - Fried Calamari - Empire Caesar Dressing,1 serving - 411 g,818,54,14,0,344,1580,43,6,3,44,80,220,70,30,0,0,0
+102548,20155,Caesar - Fried Calamari - Low Fat Caesar Dressing,1 serving - 411 g,612,28,10,0,330,1756,44,7,3,43,80,220,60,25,0,0,0
+102549,20155,Caesar - Fried Calamari - No Dressing,1 serving - 369 g,551,24,10,0,326,1276,41,6,3,42,80,220,60,25,0,0,0
+102550,20155,Caesar - Grilled Atlantic Salmon - Creamy Caesar Dressing,1 serving - 411 g,761,48,13,0,119,1385,30,5,3,51,75,220,60,25,0,0,0
+102551,20155,Caesar - Grilled Atlantic Salmon - Empire Caesar Dressing,1 serving - 411 g,803,53,13,0,136,1231,30,5,3,52,75,220,65,25,0,0,0
+102552,20155,Caesar - Grilled Atlantic Salmon - Low Fat Caesar Dressing,1 serving - 411 g,597,28,9,0,122,1407,31,7,3,52,75,220,55,25,0,0,0
+102553,20155,Caesar - Grilled Atlantic Salmon - No Dressing,1 serving - 369 g,536,24,3,0,118,926,29,5,3,51,75,220,55,25,0,0,0
+102554,20155,Caesar - Grilled Calamari - Creamy Caesar Dressing,1 serving - 411 g,711,44,13,0,327,1741,34,5,3,44,85,220,60,25,0,0,0
+102555,20155,Caesar - Grilled Calamari - Empire Caesar Dressing,1 serving - 411 g,753,49,12,0,374,1587,35,5,3,45,85,220,65,25,0,0,0
+102556,20155,Caesar - Grilled Calamari - Low Fat Caesar Dressing,1 serving - 411 g,547,24,3,0,360,1763,36,7,3,45,85,220,60,25,0,0,0
+102557,20155,Caesar - Grilled Calamari - No Dressing,1 serving - 369 g,486,20,9,0,356,1283,33,5,3,43,85,220,60,25,0,0,0
+102558,20155,Caesar - Chicken Breast - Empire Caesar Dressing,1 serving - 383 g,736,47,12,0,127,1426,30,5,3,50,75,220,65,25,0,0,0
+102559,20155,Caesar - Chicken Breast - Low Fat Caesar Dressing,1 serving - 383 g,530,22,9,0,114,1603,31,7,3,50,75,220,55,25,0,0,0
+102560,20155,Caesar - Chicken Breast - No Dressing,1 serving - 340 g,469,18,9,0,109,1122,29,5,3,48,75,220,55,25,0,0,0
+102561,20155,Caesar - Grilled Flank - Creamy Caesar Dressing,1 serving - 383 g,720,46,15,0,85,1369,30,5,3,46,75,220,60,30,0,0,0
+102562,20155,Caesar - Grilled Flank - Empire Caesar Dressing,1 serving - 383 g,762,51,14,0,102,1215,30,5,3,47,75,220,65,30,0,0,0
+102563,20155,Caesar - Grilled Flank - Low Fat Caesar Dressing,1 serving - 383 g,556,26,11,0,88,1391,31,7,3,47,75,220,55,25,0,0,0
+102564,20155,Caesar - Grilled Flank - No Dressing,1 serving - 340 g,495,22,11,0,84,910,29,5,3,46,75,220,55,25,0,0,0
+102565,20155,Caesar - Italian Meats - Creamy Caesar Dressing,1 serving - 383 g,896,67,22,0,114,2749,32,5,3,41,75,220,56,25,0,0,0
+102566,20155,Caesar - Italian Meats - Empire Caesar Dressing,1 serving - 383 g,938,72,22,0,131,2595,33,5,3,42,75,220,60,25,0,0,0
+102567,20155,Caesar - Italian Meats - Low Fat Caesar Dressing,1 serving - 383 g,733,47,18,0,118,2771,34,7,3,42,75,220,55,25,0,0,0
+102568,20155,Caesar - Italian Meats - No Dressing,1 serving - 340 g,672,43,18,0,113,2290,31,5,3,40,75,220,55,25,0,0,0
+102569,20155,Caesar - Maple Baked Ham - Creamy Caesar Dressing,1 serving - 383 g,646,54,12,0,69,2187,35,5,7,38,75,220,55,30,0,0,0
+102570,20155,Caesar - Maple Baked Ham - Empire Caesar Dressing,1 serving - 383 g,688,58,11,0,86,2033,35,5,7,39,75,220,60,30,0,0,0
+102571,20155,Caesar - Maple Baked Ham - Low Fat Caesar Dressing,1 serving - 383 g,482,34,8,0,72,2209,36,7,7,39,75,220,55,30,0,0,0
+102572,20155,Caesar - Maple Baked Ham - No Dressing,1 serving - 340 g,421,30,8,0,68,1729,33,5,7,37,75,220,55,30,0,0,0
+102573,20155,Caesar - Mesquite Turkey - Creamy Caesar Dressing,1 serving - 383 g,646,40,12,0,76,1990,31,5,3,42,75,220,55,20,0,0,0
+102574,20155,Caesar - Mesquite Turkey - Empire Caesar Dressing,1 serving - 383 g,688,45,11,0,93,1835,32,5,3,43,75,220,60,25,0,0,0
+102575,20155,Caesar - Mesquite Turkey - Low Fat Caesar,1 serving - 383 g,482,20,8,0,80,2012,33,7,3,43,75,220,55,20,0,0,0
+102576,20155,Caesar - Mesquite Turkey - No Dressing,1 serving - 340 g,421,15,8,0,75,1531,30,5,3,42,75,220,55,20,0,0,0
+102577,20155,Caesar - No Meat - Creamy Caesar Dressing,1 serving - 298 g,555,39,12,0,38,1321,30,5,3,23,75,220,55,20,0,0,0
+102578,20155,Caesar - No Meat - Empire Dressing,1 serving - 298 g,597,44,11,0,55,1167,30,5,3,24,75,220,60,20,0,0,0
+102579,20155,Caesar - No Meat - Low Fat Caesar Dressing,1 serving - 298 g,391,19,8,0,42,1343,31,7,3,23,75,220,55,20,0,0,0
+102580,20155,Caesar - No Meat - No Dressing,1 serving - 255 g,330,15,8,0,37,863,29,5,3,22,75,220,55,20,0,0,0
+102581,20155,Caesar - Popcorn Rock Shrimp No Dressing,1 serving - 369 g,608,28,11,0,246,1381,42,6,3,45,75,225,60,35,0,0,0
+102582,20155,Caesar - Popcorn Rock Shrimp - Creamy Caesar Dressing,1 serving - 411 g,833,53,15,0,246,1839,44,6,3,46,75,225,65,35,0,0,0
+102583,20155,Caesar - Popcorn Rock Shrimp - Empire Caesar Dressing,1 serving - 411 g,875,58,15,0,264,1685,44,6,3,47,75,225,70,40,0,0,0
+102584,20155,Caesar - Popcorn Rock Shrimp - Low Fat Caesar Dressing,1 serving - 411 g,669,33,11,0,250,1861,45,7,3,47,75,225,60,35,0,0,0
+102585,20155,Caesar - Seared Ahi Tuna - Creamy Caesar Dressing,1 serving - 411 g,728,44,13,0,98,1720,30,5,3,54,80,225,60,25,0,0,0
+102586,20155,Caesar - Seared Ahi Tuna - Empire Caesar Dressing,1 serving - 411 g,770,49,12,0,115,1566,31,5,3,55,80,225,65,25,0,0,0
+102587,20155,Caesar - Seared Ahi Tuna - Low Fat Caesar Dressing,1 serving - 411 g,565,23,9,0,101,1743,32,7,3,54,80,225,60,25,0,0,0
+102588,20155,Caesar - Seared Ahi Tuna - No Dressing,1 serving - 369 g,504,19,9,0,97,1262,29,5,3,53,80,225,60,25,0,0,0
+102589,20155,Cherrry Chow - Albacore Tuna - No Dressing,1 serving - 363 g,238,4,1,0,36,68,30,7,17,24,65,155,8,15,0,0,0
+102590,20155,Cherry Chow - Albacore Tuna - Dressing,1 serving - 405 g,432,23,6,0,52,396,34,7,17,26,65,155,10,15,0,0,0
+102591,20155,Cherry Chow - Albacore Tuna Salad - Dressing,1 serving - 405 g,482,28,6,0,27,695,42,7,17,20,70,155,10,15,0,0,0
+102592,20155,Cherry Chow - Albacore Tuna Salad - No Dressing,1 serving - 363 g,289,10,2,0,11,368,38,7,17,18,65,155,8,15,0,0,0
+102593,20155,Cherry Chow - Buffalo Calamari - Dressing,1 serving - 455 g,551,30,8,0,305,921,49,8,17,26,80,160,15,20,0,0,0
+102594,20155,Cherry Chow - Buffalo Calamari - No Dressing,1 serving - 413 g,358,11,3,0,288,594,44,8,17,24,75,160,15,20,0,0,0
+102595,20155,Cherry Chow - Buffalo Chicken Tenders - Dressing,1 serving - 427 g,553,33,8,0,60,1019,49,7,17,21,70,160,10,15,0,0,0
+102596,20155,Cherry Chow - Buffalo Chicken Tenders - No Dressing,1 serving - 384 g,360,14,3,0,43,692,45,7,17,19,70,160,10,15,0,0,0
+102597,20155,Cherry Chow - Buffalo Shrimp - Dressing,1 serving - 455 g,609,34,9,0,224,1026,50,8,17,29,75,160,15,30,0,0,0
+102598,20155,Cherry Chow - Buffalo Shrimp - No Dressing,1 serving - 413 g,416,16,4,0,208,699,45,8,17,27,70,160,15,30,0,0,0
+102599,20155,Cherry Chow - Chicken Tenders - Dressing,1 serving - 405 g,546,33,8,0,60,864,47,7,17,21,65,155,10,15,0,0,0
+102600,20155,Cherry Chow - Chicken Tenders - No Dressing,1 serving - 363 g,352,14,3,0,43,537,43,7,17,19,65,155,10,15,0,0,0
+102601,20155,Cherry Chow - Fried Calamari - Dressing,1 serving - 434 g,544,30,8,0,305,766,47,8,17,26,70,155,15,20,0,0,0
+102602,20155,Cherry Chow - Fried Calamari - No Dressing,1 serving - 391 g,351,11,3,0,288,439,42,8,17,24,70,155,15,20,0,0,0
+102603,20155,Cherry Chow - Grilled Atlantic Salmon - Dressing,1 serving - 434 g,528,30,7,0,97,415,34,7,17,35,65,155,10,20,0,0,0
+102604,20155,Cherry Chow - Grilled Atlantic Salmon - No Dressing,1 serving - 391 g,336,11,2,0,81,89,30,7,17,33,65,155,10,20,0,0,0
+102605,20155,Cherry Chow - Grilled Calamari - Dressing,1 serving - 434 g,479,26,6,0,335,773,38,7,17,27,75,160,15,20,0,0,0
+102606,20155,Cherry Chow - Grilled Calamari - No Dressing,1 serving - 391 g,286,7,1,0,318,446,34,7,17,25,75,160,15,15,0,0,0
+102607,20155,Cherry Chow - Grilled Chicken Breast - Dressing,1 serving - 405 g,462,24,6,0,88,612,34,7,17,32,65,155,10,15,0,0,0
+102608,20155,Cherry Chow - Grilled Chicken Breast - No Dressing,1 serving - 363 g,269,5,1,0,72,285,30,7,17,30,65,155,8,15,0,0,0
+102609,20155,Cherry Chow - Grilled Flank Steak - Dressing,1 serving - 405 g,524,32,10,0,77,414,34,7,17,30,65,155,8,30,0,0,0
+102610,20155,Cherry Chow - Grilled Flank Steak - No Dressing,1 serving - 363 g,331,13,5,0,60,87,30,7,17,28,65,155,8,30,0,0,0
+102611,20155,Cherry Chow - Italian Meats - Dressing,1 serving - 405 g,664,49,16,0,92,1781,36,7,17,24,70,155,8,20,0,0,0
+102612,20155,Cherry Chow - Italian Meats - No Dressing,1 serving - 363 g,471,30,11,0,76,1454,32,7,17,22,65,155,8,20,0,0,0
+102613,20155,Cherry Chow - Maple Baked Ham - Dressing,1 serving - 405 g,414,36,5,0,47,1219,38,7,22,21,65,155,8,20,0,0,0
+102614,20155,Cherry Chow - Maple Baked Ham - No Dressing,1 serving - 363 g,221,17,0,0,30,892,34,7,22,19,65,155,8,20,0,0,0
+102615,20155,Cherry Chow - Mesquite Turkey - Dressing,1 serving - 405 g,414,21,5,0,54,1021,35,7,17,26,65,155,8,15,0,0,0
+102616,20155,Cherry Chow - Mesquite Turkey - No Dressing,1 serving - 363 g,221,2,0,0,38,694,31,7,17,24,65,155,8,15,0,0,0
+102617,20155,Cherry Chow - No Meat - Dressing,1 serving - 320 g,323,21,5,0,16,353,34,7,17,6,65,155,8,10,0,0,0
+102618,20155,Cherry Chow - No Meat - No Dressing,1 serving - 278 g,130,2,0,0,0,26,30,7,17,4,65,155,8,10,0,0,0
+102619,20155,Cherry Chow - Popcorn Rock Shrimp - Dressing,1 serving - 434 g,601,34,9,0,224,871,48,8,17,29,65,160,15,30,0,0,0
+102620,20155,Cherry Chow - Popcorn Rock Shrimp - No Dressing,1 serving - 391 g,408,16,4,0,208,544,43,8,17,27,65,160,15,30,0,0,0
+102621,20155,Cherry Chow - Roast Beef - Dressing,1 serving - 405 g,458,25,7,0,61,413,34,7,17,27,65,155,8,35,0,0,0
+102622,20155,Cherry Chow - Roast Beef - No Dressing,1 serving - 363 g,265,6,3,0,45,86,30,7,17,25,65,155,8,35,0,0,0
+102623,20155,Cherry Chow - Seared Ahi Tuna - Dressing,1 serving - 434 g,496,25,6,0,76,751,34,7,17,37,70,160,10,20,0,0,0
+102624,20155,Cherry Chow - Seared Ahi Tuna - No Dressing,1 serving - 391 g,303,6,1,0,60,425,30,7,17,35,70,160,10,15,0,0,0
+102625,20155,Cherry Chow - Turkey - Dressing,1 serving - 405 g,414,22,5,0,47,885,34,7,17,25,65,155,8,15,0,0,0
+102626,20155,Cherry Chow - Turkey - No Dressing,1 serving - 363 g,221,3,0,0,30,558,30,7,17,24,65,155,8,15,0,0,0
+102627,20155,Greek Island - Albacore Tuna - Dressing,1 serving - 468 g,361,20,2,0,36,1553,22,7,6,26,20,30,8,15,0,0,0
+102628,20155,Greek Island - Albacore Tuna - No Dressing,1 serving - 425 g,318,16,2,0,36,1182,21,7,4,26,20,30,8,15,0,0,0
+102629,20155,Greek Island - Albacore Tuna Salad - Dressing,1 serving - 468 g,411,26,3,0,11,1853,30,7,6,19,20,30,8,15,0,0,0
+102630,20155,Greek Island - Albacore Tuna Salad - No Dressing,1 serving - 425 g,368,21,3,0,11,1482,29,7,4,19,20,30,8,15,0,0,0
+102631,20155,Greek Island - Buffalo Calamari - No Dressing,1 serving - 475 g,438,23,4,0,288,1708,35,8,4,26,30,35,15,20,0,0,0
+102632,20155,Greek Salad - Buffalo Calamari - Dressing,1 serving - 518 g,481,27,4,0,288,2079,37,8,6,26,30,35,15,20,0,0,0
+102633,20155,Greek Island - Buffalo Chicken Tenders - No Dressing,1 serving - 447 g,440,26,4,0,43,1806,36,7,4,21,25,35,8,15,0,0,0
+102634,20155,Greek Salad - Buffalo Chicken Tenders - Dressing,1 serving - 489 g,482,30,4,0,43,2177,37,7,6,21,25,35,8,15,0,0,0
+102635,20155,Greek Island - Buffalo Shrimp - Dressing,1 serving - 518 g,534,32,4,0,201,2056,37,8,6,30,30,35,15,20,0,0,0
+102636,20155,Greek Island - Buffalo Shrimp - No Dressing,1 serving - 475 g,491,27,4,0,201,1685,36,8,4,30,30,35,15,20,0,0,0
+102637,20155,Greek Island - Chicken Tenders - Dressing,1 serving - 468 g,475,30,4,0,43,2022,35,7,6,21,20,30,8,15,0,0,0
+102638,20155,Greek Island - Chicken Tenders - No Dressing,1 serving - 425 g,432,26,4,0,43,1651,34,7,4,21,20,30,8,15,0,0,0
+102639,20155,Greek Island - Fried Calamari - Dressing,1 serving - 496 g,473,27,4,0,288,1924,35,8,6,26,25,30,10,15,0,0,0
+102640,20155,Greek Island - Fried Calamari - No Dressing,1 serving - 454 g,430,23,4,0,288,1553,33,8,4,26,25,30,10,15,0,0,0
+102641,20155,Greek Island - Grilled Atlantic Salmon - Dressing,1 serving - 496 g,458,27,3,0,81,1574,22,7,6,35,20,30,8,15,0,0,0
+102642,20155,Greek Island - Grilled Atlantic Salmon - No Dressing,1 serving - 454 g,416,23,3,0,81,1203,21,7,4,35,20,30,8,15,0,0,0
+102643,20155,Greek Island - Grilled Calamari - Dressing,1 serving - 496 g,408,23,3,0,318,1931,26,7,6,27,30,35,10,15,0,0,0
+102644,20155,Greek Island - Grilled Calamari - No Dressing,1 serving - 454 g,366,19,3,0,318,1560,25,7,4,27,30,35,10,15,0,0,0
+102645,20155,Greek Island - Grilled Chicken Breast - No Dressing,1 serving - 425 g,349,16,2,0,72,1399,21,7,4,32,20,30,8,15,0,0,0
+102646,20155,Greek Island - Grilled Cx Breast - Dressing,1 serving - 468 g,391,21,2,0,72,1770,22,7,6,32,20,30,8,15,0,0,0
+102647,20155,Greek Island - Grilled Flank Steak - Dressing,1 serving - 468 g,453,29,6,0,60,1572,22,7,6,30,20,30,6,25,0,0,0
+102648,20155,Greek Island - Grilled Flank Steak - No Dressing,1 serving - 425 g,411,25,6,0,60,1201,21,7,4,30,20,30,6,25,0,0,0
+102649,20155,Greek Island - Italian Meats - Dressing,1 serving - 468 g,594,46,12,0,76,2939,24,7,6,24,20,30,6,15,0,0,0
+102650,20155,Greek Island - Italian Meats - No Dressing,1 serving - 425 g,551,42,12,0,76,2568,23,7,4,24,20,30,6,15,0,0,0
+102651,20155,Greek Island - Maple Baked Ham - Dressing,1 serving - 468 g,343,33,2,0,30,2377,27,7,10,21,20,30,6,20,0,0,0
+102652,20155,Greek Island - Maple Baked Ham - No Dressing,1 serving - 425 g,300,29,2,0,30,2006,25,7,9,21,20,30,6,20,0,0,0
+102653,20155,Greek Island - Mesquite Turkey - Dressing,1 serving - 468 g,343,19,2,0,38,2179,24,7,6,26,20,30,6,15,0,0,0
+102654,20155,Greek Island - Mesquite Turkey - No Dressing,1 serving - 425 g,300,14,2,0,38,1808,22,7,4,26,20,30,6,15,0,0,0
+102655,20155,Greek Salad - No Meat - Dressing,1 serving - 383 g,252,18,2,0,0,1511,22,7,6,6,20,30,6,10,0,0,0
+102656,20155,Greek Salad - No Meat - No Dressing,1 serving - 340 g,209,13,2,0,0,1140,21,7,4,6,20,30,6,10,0,0,0
+102657,20155,Greek Isalnd - Popcorn Rock Shrimp - Dressing,1 serving - 496 g,526,32,4,0,201,1901,35,8,6,30,20,35,15,20,0,0,0
+102658,20155,Greek Salad - Popcorn Rock Shrimp - No Dressing,1 serving - 454 g,484,27,4,0,201,1530,34,8,4,30,20,35,15,20,0,0,0
+102659,20155,Greek Island - Roast Beef - Dressing,1 serving - 468 g,387,22,4,0,45,1571,22,7,6,27,20,30,6,30,0,0,0
+102660,20155,Greek Island - Roast Beef - No Dressing,1 serving - 425 g,344,18,4,0,45,1200,21,7,4,27,20,30,6,30,0,0,0
+102661,20155,Greek Island - Seared Ahi Tuna - Dressing,1 serving - 496 g,426,22,3,0,60,1910,22,7,6,37,25,35,8,15,0,0,0
+102662,20155,Greek Island - Seared Ahi Tuna - No Dressing,1 serving - 454 g,383,18,3,0,60,1539,21,7,4,37,25,35,8,15,0,0,0
+102663,20155,Greek Island - Turkey - Dressing,1 serving - 468 g,343,19,2,0,30,2042,22,7,6,26,20,30,6,10,0,0,0
+102664,20155,Greek Island - Turkey - No Dressing,1 serving - 425 g,300,15,2,0,30,1671,21,7,4,26,20,30,6,10,0,0,0
+102665,20155,Little Italy - Albacore Tuna Salad - Dressing,1 serving - 546 g,826,61,15,0,63,1734,39,7,10,35,305,265,60,25,0,0,0
+102666,20155,Little Italy - Albacore Tuna Salad - No Dressing,1 serving - 489 g,545,30,9,0,59,1331,37,6,8,35,305,265,60,25,0,0,0
+102667,20155,Little Italy - Albacore Tuna - Dressing,1 serving - 546 g,776,56,15,0,88,1435,31,7,10,42,300,265,60,25,0,0,0
+102668,20155,Little Italy - Albacore Tuna - No Dressing,1 serving - 489 g,495,24,9,0,84,1032,29,6,8,42,300,265,60,25,0,0,0
+102669,20155,Little Italy - Buffalo Calamari - Dressing,1 serving - 596 g,896,62,16,0,340,1960,45,8,10,41,315,265,70,30,0,0,0
+102670,20155,Little Italy - Buffalo Calamari - No Dressing,1 serving - 539 g,614,31,11,0,336,1557,43,7,8,41,315,265,65,25,0,0,0
+102671,20155,Little Italy - Buffalo Chicken Tenders - Dressing,1 serving - 567 g,898,65,17,0,96,2058,46,7,10,37,305,265,65,25,0,0,0
+102672,20155,Little Italy - Buffalo Chicken Tenders - No Dressing,1 serving - 511 g,616,34,11,0,92,1656,44,6,8,37,305,265,60,20,0,0,0
+102673,20155,Little Italy - Buffalo Shrimp - Dressing,1 serving - 596 g,953,67,17,0,260,2065,46,8,10,45,310,270,70,40,0,0,0
+102674,20155,Little Italy - Buffalo Shrimp - No Dressing,1 serving - 539 g,672,36,12,0,256,1662,44,7,8,45,310,270,65,35,0,0,0
+102675,20155,Little Italy - Chicken Tenders - Dressing,1 serving - 546 g,890,65,17,0,96,1903,44,7,10,37,300,265,65,25,0,0,0
+102676,20155,Little Italy - Chicken Tenders - No Dressing,1 serving - 489 g,609,34,11,0,92,1501,42,6,8,37,300,265,60,20,0,0,0
+102677,20155,Little Italy - Fried Calamari - Dressing,1 serving - 574 g,888,62,16,0,340,1805,43,8,10,41,310,265,65,30,0,0,0
+102678,20155,Little Italy - Fried Calamari - No Dressing,1 serving - 517 g,607,31,11,0,336,1402,41,7,8,41,310,265,65,25,0,0,0
+102679,20155,Little Italy - Grilled Atlantic Salmon - Dressing,1 serving - 574 g,874,62,15,0,133,1456,31,7,10,50,300,265,65,25,0,0,0
+102680,20155,Little Italy - Grilled Atlantic Salmon - No Dressing,1 serving - 517 g,592,31,10,0,129,1053,29,6,8,50,300,265,60,25,0,0,0
+102681,20155,Little Italy - Grilled Calamari - Dressing,1 serving - 574 g,824,58,15,0,370,1812,35,7,10,43,310,265,65,25,0,0,0
+102682,20155,Little Italy - Grilled Calamari - No Dressing,1 serving - 517 g,542,27,9,0,367,1409,33,6,8,43,310,265,60,25,0,0,0
+102683,20155,Little Italy - Grld Cx Brst - Dressing,1 serving - 546 g,807,56,15,0,124,1651,31,7,10,48,300,265,60,25,0,0,0
+102684,20155,Little Italy - Grld Cx Brst - No Dressing,1 serving - 489 g,525,25,9,0,120,1249,29,6,8,48,300,265,60,25,0,0,0
+102685,20155,Little Italy - Grilled Flank Steak - Dressing,1 serving - 546 g,869,64,19,0,112,1453,31,7,10,45,300,265,60,35,0,0,0
+102686,20155,Little Italy - Grilled Flank Steak - No Dressing,1 serving - 489 g,587,33,13,0,109,1051,29,6,8,45,300,265,60,35,0,0,0
+102687,20155,Little Italy - Italian Meats - Dressing,1 serving - 546 g,1009,81,25,0,128,2820,33,7,10,40,305,265,60,25,0,0,0
+102688,20155,Little Italy - Italian Meats - No Dressing,1 serving - 489 g,727,50,19,0,124,2417,31,6,8,40,305,265,55,25,0,0,0
+102689,20155,Little Italy - Maple Baked Ham - Dressing,1 serving - 546 g,758,68,14,0,82,2258,35,7,14,37,300,265,60,30,0,0,0
+102690,20155,Little Italy - Maple Baked Ham - No Dressing,1 serving - 489 g,477,37,8,0,79,1855,33,6,12,37,300,265,55,30,0,0,0
+102691,20155,Little Italy - Mesquite Turkey - Dressing,1 serving - 546 g,758,54,14,0,90,2060,32,7,10,41,300,265,60,25,0,0,0
+102692,20155,Little Italy - Mesquite Turkey - No Dressing,1 serving - 489 g,477,22,8,0,86,1658,30,6,8,41,300,265,55,20,0,0,0
+102693,20155,Little Italy - No Meat - Dressing,1 serving - 461 g,667,53,14,0,52,1392,31,7,10,22,300,265,60,20,0,0,0
+102694,20155,Little Italy - No Meat - No Dressing,1 serving - 404 g,386,22,8,0,48,989,29,6,8,22,300,265,55,20,0,0,0
+102695,20155,Little Italy - Popcorn Rock Shrimp - Dressing,1 serving - 574 g,946,67,17,0,260,1910,44,8,10,45,305,270,70,40,0,0,0
+102696,20155,Little Italy - Popcorn Rock Shrimp - No Dressing,1 serving - 517 g,664,36,12,0,256,1507,42,7,8,45,305,270,65,35,0,0,0
+102697,20155,Little Italy - Roast Beef - Dressing,1 serving - 546 g,802,58,16,0,97,1452,31,7,10,43,300,265,60,45,0,0,0
+102698,20155,Little Italy - Roast Beef - No Dressing,1 serving - 489 g,521,26,10,0,93,1049,29,6,8,43,300,265,55,40,0,0,0
+102699,20155,Little Italy - Seared Ahi Tuna - Dressing,1 serving - 574 g,841,58,15,0,112,1791,31,7,10,53,305,270,65,25,0,0,0
+102700,20155,Little Italy - Seared Ahi Tuna - No Dressing,1 serving - 517 g,560,26,9,0,108,1389,29,6,8,53,305,270,60,25,0,0,0
+102701,20155,Little Italy - Turkey - Dressing,1 serving - 546 g,758,55,14,0,82,1924,31,7,10,41,300,265,60,20,0,0,0
+102702,20155,Little Italy - Turkey - No Dressing,1 serving - 489 g,477,23,8,0,79,1521,29,6,8,41,300,265,55,20,0,0,0
+102703,20155,Mexicali - Italian Meats - Dressing,1 serving - 466 g,988,76,16,0,80,2167,52,8,17,31,65,160,30,20,0,0,0
+102704,20155,Mexicali - Italian Meats - No Dressing,1 serving - 381 g,522,32,14,0,80,1217,35,7,5,26,60,160,30,20,0,0,0
+102705,20155,Mexicali - Chicken Breast - Dressing,1 serving - 494 g,901,61,11,0,102,1474,51,8,17,45,60,160,30,25,0,0,0
+102706,20155,Mexicali - Chicken Breast - No Dressing,1 serving - 409 g,434,17,7,0,102,524,34,7,5,40,55,160,30,20,0,0,0
+102707,20155,Mexicali - Albacore Tuna - Dressing -,1 serving - 523 g,906,61,11,0,77,1272,51,8,17,46,60,160,30,25,0,0,0
+102708,20155,Mexicali - Albacore Tuna - No Dressing,1 serving - 438 g,440,17,7,0,77,322,34,7,5,41,55,160,30,20,0,0,0
+102709,20155,Mexicali - Albacore Tuna Salad - Dressing,1 serving - 523 g,972,68,10,0,45,1671,61,8,17,37,65,160,30,20,0,0,0
+102710,20155,Mexicali - Albacore Tuna Salad - No Dressing,1 serving - 438 g,507,24,8,0,45,721,44,7,5,32,60,160,30,20,0,0,0
+102711,20155,Mexicali - Buffalo Calamari - Dressing,1 serving - 587 g,1005,67,13,0,318,2093,69,8,17,39,85,170,40,25,0,0,0
+102712,20155,Mexicali - Buffalo Calamari - No Dressing,1 serving - 502 g,538,23,9,0,318,1143,52,7,5,34,80,170,40,25,0,0,0
+102713,20155,Mexicali - Buffalo Shrimp - Dressing,1 serving - 523 g,1040,71,14,0,238,1733,64,8,17,42,65,165,35,35,0,0,0
+102714,20155,Mexicali - Buffalo Shrimp - No Dressing,1 serving - 438 g,573,27,10,0,238,783,47,7,5,37,60,165,35,30,0,0,0
+102715,20155,Mexicali - Crunchy Chicken Tenders - Dressing,1 serving - 494 g,984,70,13,0,73,1726,64,8,17,34,60,160,30,20,0,0,0
+102716,20155,Mexicali - Crunchy Chicken Tenders - No Dressing,1 serving - 409 g,517,26,9,0,73,776,47,7,5,29,55,160,30,15,0,0,0
+102717,20155,Mexicali - Grilled Flank - Dressing,1 serving - 494 g,963,69,15,0,90,1276,51,8,17,43,60,160,30,35,0,0,0
+102718,20155,Mexicali - Grilled Flank - No Dressing,1 serving - 409 g,496,25,11,0,90,326,34,7,5,38,55,160,30,30,0,0,0
+102719,20155,Mexicali - Fried Calamari - Dressing,1 serving - 523 g,982,67,13,0,318,1628,63,8,17,39,70,160,35,25,0,0,0
+102720,20155,Mexicali - Fried Calamari - No Dressing,1 serving - 438 g,516,23,9,0,318,678,46,7,5,34,65,160,35,20,0,0,0
+102721,20155,Mexicali - Grilled Calamari - Dressing,1 serving - 523 g,918,63,12,0,348,1635,55,8,17,40,70,165,35,25,0,0,0
+102722,20155,Mexicali - Grilled Calamari - No Dressing,1 serving - 438 g,451,19,8,0,348,685,38,7,5,35,65,165,35,20,0,0,0
+102723,20155,Mexicali - Maple Baked Ham - Dressing,1 serving - 494 g,852,73,11,0,60,2081,55,8,22,34,60,160,30,25,0,0,0
+102724,20155,Mexicali - Maple Baked Ham - No Dressing,1 serving - 409 g,386,29,7,0,60,1131,38,7,10,29,55,160,30,25,0,0,0
+102725,20155,Mexicali - Mesquite Turkey - Dressing,1 serving - 494 g,852,58,9,0,68,1883,52,8,17,39,60,160,30,15,0,0,0
+102726,20155,Mexicali - Mesquite Turkey - No Dressing,1 serving - 409 g,386,14,7,0,68,933,35,7,5,34,55,160,30,15,0,0,0
+102727,20155,Mexicali - No Meat - Dressing,1 serving - 409 g,760,58,9,0,30,1215,51,8,17,19,60,160,30,15,0,0,0
+102728,20155,Mexicali - No Meat - No Dressing,1 serving - 324 g,294,14,7,0,30,265,34,7,5,14,55,160,30,15,0,0,0
+102729,20155,Mexicali - Popcorn Rock Shrimp - Dressing,1 serving - 523 g,919,60,11,0,257,1403,52,8,17,49,65,165,35,35,0,0,0
+102730,20155,Mexicali - Popcorn Rock Shrimp - No Dressing,1 serving - 438 g,453,16,7,0,257,453,35,7,5,44,60,165,35,30,0,0,0
+102731,20155,Mexicali - Roast Beef - Dressing,1 serving - 494 g,895,62,11,0,75,1275,51,8,17,40,60,160,30,35,0,0,0
+102732,20155,Mexicali - Roast Beef - No Dressing,1 serving - 409 g,429,18,9,0,75,325,34,7,5,35,55,160,30,35,0,0,0
+102733,20155,Mexicali - Atlantic Salmon - Dressing,1 serving - 523 g,968,67,12,0,110,1279,51,8,17,48,60,160,30,25,0,0,0
+102734,20155,Mexicali - Atlantic Salmon - No Dressing,1 serving - 438 g,501,23,8,0,110,329,34,7,5,43,55,160,30,20,0,0,0
+102735,20155,Mexicali - Seared Ahi Tuna - Dressing,1 serving - 523 g,935,62,12,0,89,1614,51,8,17,50,65,165,30,25,0,0,0
+102736,20155,Mexicali - Seared Ahi Tuna - No Dressing,1 serving - 438 g,468,18,8,0,89,664,34,7,5,45,60,165,30,20,0,0,0
+102737,20155,Mexicali - Turkey - Dressing,1 serving - 494 g,852,59,11,0,60,1747,51,8,17,39,60,160,30,20,0,0,0
+102738,20155,Mexicali - Turkey - No Dressing,1 serving - 409 g,386,15,7,0,60,797,34,7,5,34,55,160,30,15,0,0,0
+102739,20155,Oriental - Albacore Tuna - Dressing,1 serving - 461 g,698,34,5,0,36,463,46,11,9,34,85,155,40,50,0,0,0
+102740,20155,Oriental - Albacore Tuna - No Dressing,1 serving - 418 g,565,33,4,0,36,199,40,11,8,34,85,155,40,50,0,0,0
+102741,20155,Oriental - Albacore Tuna Salad - Dressing,1 serving - 461 g,748,39,6,0,11,763,54,11,9,28,85,155,40,50,0,0,0
+102742,20155,Oriental - Albacore Tuna Salad - No Dressing,1 serving - 418 g,615,38,5,0,11,499,48,11,8,28,85,155,40,50,0,0,0
+102743,20155,Oriental - Buffalo Calamari - Dressing,1 serving - 503 g,815,41,7,0,288,936,60,12,9,34,95,155,45,55,0,0,0
+102744,20155,Oriental - Buffalo Calamari - No Dressing,1 serving - 461 g,682,40,6,0,288,672,54,12,8,34,95,155,45,55,0,0,0
+102745,20155,Buffalo Chicken Tenders - Dressing,1 serving - 475 g,817,43,8,0,43,1034,61,11,9,29,85,155,40,50,0,0,0
+102746,20155,Buffalo Chicken Tenders - No Dressing,1 serving - 432 g,684,42,7,0,43,770,55,11,8,29,85,155,40,50,0,0,0
+102747,20155,Oriental - Buffalo Shrimp - Dressing,1 serving - 511 g,875,45,8,0,208,1094,62,12,9,37,90,160,50,65,0,0,0
+102748,20155,Oriental - Buffalo Shrimp - No Dressing,1 serving - 468 g,742,44,7,0,208,830,56,12,8,37,90,160,50,65,0,0,0
+102749,20155,Oriental - Chicken Tenders - Dressing,1 serving - 461 g,812,43,8,0,43,932,59,11,9,29,85,155,40,50,0,0,0
+102750,20155,Oriental - Chicken Tenders - No Dressing,1 serving - 418 g,679,42,7,0,43,668,53,11,8,29,85,155,40,50,0,0,0
+102751,20155,Oriental - Fried Calamari - Dressing,1 serving - 489 g,810,41,7,0,288,834,59,12,9,34,90,155,45,55,0,0,0
+102752,20155,Oriental - Fried Calamari - No Dressing,1 serving - 447 g,677,40,6,0,288,570,53,12,8,34,90,155,45,55,0,0,0
+102753,20155,Oriental - Grilled Atlantic Salmon - Dressing,1 serving - 489 g,795,40,6,0,81,484,46,11,9,43,85,155,40,50,0,0,0
+102754,20155,Oriental - Grilled Atlantic Salmon - No Dressing,1 serving - 447 g,663,39,5,0,81,220,40,11,8,43,85,155,40,50,0,0,0
+102755,20155,Oriental - Grilled Calamari - Dressing,1 serving - 489 g,709,33,5,0,304,776,50,11,9,34,90,155,45,50,0,0,0
+102756,20155,Oriental - Grilled Calamari - No Dressing,1 serving - 447 g,576,32,4,0,304,512,44,11,8,34,90,155,45,50,0,0,0
+102757,20155,Oriental - Grilled Chicken Breast - Dressing,1 serving - 461 g,728,34,6,0,72,680,46,11,9,40,85,155,40,50,0,0,0
+102758,20155,Oriental - Grilled Chicken Breast - No Dressing,1 serving - 418 g,596,33,5,0,72,416,40,11,8,40,85,155,40,50,0,0,0
+102759,20155,Oriental - Grilled Flank Steak - Dressing,1 serving - 461 g,754,38,8,0,47,469,46,11,9,38,85,155,40,55,0,0,0
+102760,20155,Oriental - Grilled Flank - No Dressing,1 serving - 418 g,621,37,7,0,47,205,40,11,8,38,85,155,40,55,0,0,0
+102761,20155,Oriental - Italian Meats - Dressing,1 serving - 461 g,931,59,15,0,76,1849,48,11,9,32,85,155,40,50,0,0,0
+102762,20155,Oriental - Italian Meats - No Dressing,1 serving - 418 g,798,58,14,0,76,1585,42,11,8,32,85,155,40,50,0,0,0
+102763,20155,Oriental - Maple Baked Ham - Dressing,1 serving - 461 g,680,46,5,0,30,1287,51,11,13,29,85,155,40,55,0,0,0
+102764,20155,Oriental - Maple Baked Ham - No Dressing,1 serving - 418 g,547,45,4,0,30,1023,45,11,12,29,85,155,40,55,0,0,0
+102765,20155,Oriental - Mesquite Turkey - Dressing,1 serving - 461 g,680,32,5,0,38,1089,48,11,9,34,85,155,40,50,0,0,0
+102766,20155,Oriental - Mesquite Turkey - No Dressing,1 serving - 418 g,547,31,4,0,38,825,42,11,8,34,85,155,40,50,0,0,0
+102767,20155,Oriental - No Meat - Dressing,1 serving - 376 g,589,31,5,0,0,421,46,11,9,14,85,155,40,45,0,0,0
+102768,20155,Oriental - No Meat - No Dressing,1 serving - 333 g,456,30,4,0,0,157,40,11,8,14,85,155,40,45,0,0,0
+102769,20155,Oriental - Popcorn Rock Shrimp - Dressing,1 serving - 489 g,867,45,8,0,208,939,60,12,9,37,85,160,45,65,0,0,0
+102770,20155,Oriental - Popcorn Rock Shrimp - No Dressing,1 serving - 447 g,735,44,7,0,208,675,54,12,8,37,85,160,45,65,0,0,0
+102771,20155,Oriental - Roast Beef - Dressing,1 serving - 461 g,724,36,7,0,45,481,46,11,9,35,85,155,40,70,0,0,0
+102772,20155,Oriental - Roast Beef - No Dressing,1 serving - 418 g,591,35,6,0,45,217,40,11,8,35,85,155,40,70,0,0,0
+102773,20155,Oriental - Seared Ahi Tuna - Dressing,1 serving - 489 g,763,36,6,0,60,820,47,11,9,45,90,160,40,50,0,0,0
+102774,20155,Oriental - Seared Ahi Tuna - No Dressing,1 serving - 447 g,630,35,5,0,60,556,41,11,8,45,90,160,40,50,0,0,0
+102775,20155,Oriental - Turkey - Dressing,1 serving - 461 g,680,33,5,0,30,953,46,11,9,34,85,155,40,45,0,0,0
+102776,20155,Oriental - Turkey - No Dressing,1 serving - 418 g,547,32,4,0,30,688,40,11,8,34,85,155,40,45,0,0,0
+102777,20155,Seared Ahi Tuna - No Meat - Dressing,1 serving - 294 g,150,7,0,0,0,886,18,5,9,6,90,155,8,15,0,0,0
+102778,20155,Seared Ahi Tuna - No Meat - No Dressing,1 serving - 252 g,79,3,0,0,0,59,12,5,5,5,85,155,8,15,0,0,0
+102779,20155,Seared Ahi Tuna - Dressing,1 serving - 408 g,324,11,1,0,60,1285,18,5,9,37,95,160,10,20,0,0,0
+102780,20155,Seared Ahi Tuna - No Dressing,1 serving - 365 g,253,7,1,0,60,459,13,5,5,36,90,160,10,20,0,0,0
+102781,20155,Seared Ahi Tuna (No Tuna) - Grld Cx Breast - No Dressing,1 serving - 337 g,218,6,1,0,72,319,12,5,5,31,85,155,10,20,0,0,0
+102782,20155,Seared Ahi Tuna - (No Tuna) - Grld Cx Breast - Dressing,1 serving - 379 g,289,10,1,0,72,1145,18,5,9,32,90,155,10,20,0,0,0
+102783,20155,Seared Ahi Tuna - (No Ahi Tuna) - Albacore Tuna (Plain) - Dressing,1 serving - 379 g,259,9,1,0,36,928,18,5,9,26,90,155,10,20,0,0,0
+102784,20155,Seared Ahi Tuna - (No Ahi Tuna) - Albacore Tuna (Plain) - No Dressing,1 serving - 337 g,188,5,1,0,36,102,12,5,5,25,85,155,10,20,0,0,0
+102785,20155,Seared Ahi Tuna (No Ahi Tuna) - Albacore Tuna Salad w /Mayo and Dressing,1 serving - 337 g,238,10,2,0,11,401,20,5,5,18,90,155,10,20,0,0,0
+102786,20155,Seared Ahi Tuna - (No Ahi Tuna) - Albacore Tuna Salad w -mayo - Dressing,1 serving - 379 g,309,15,2,0,11,1228,26,5,9,20,90,155,10,20,0,0,0
+102787,20155,Seared Ahi Tuna - (No Tuna) - Grilled Flank Steak - Dressing,1 serving - 379 g,351,18,5,0,60,947,18,5,9,30,90,155,10,30,0,0,0
+102788,20155,Seared Ahi Tuna - (No Tuna) - Grilled Flank Steak - No Dressing,1 serving - 337 g,280,14,5,0,60,121,12,5,5,29,85,155,10,30,0,0,0
+102789,20155,Seared Ahi Tuna - (No Tuna) - Grilled Atl - Salmon - No Dressing,1 serving - 365 g,285,12,2,0,81,123,12,5,5,34,85,155,10,20,0,0,0
+102790,20155,Seared Ahi Tuna - (No Tuna) - Grld Atl Salmon - Dressing,1 serving - 408 g,356,16,2,0,81,949,18,5,9,35,90,155,10,20,0,0,0
+102791,20155,Seared Ahi Tuna - (No Tuna) - Grilled Calamari - Dressing,1 serving - 408 g,306,12,2,0,318,1306,22,5,9,27,100,155,15,20,0,0,0
+102792,20155,Seared Ahi Tuna - (No Tuna) - Grilled Calamari - No Dressing,1 serving - 365 g,235,8,2,0,318,479,17,5,5,26,95,155,15,20,0,0,0
+102793,20155,Seared Ahi Tuna - (No Tuna) - Italian Meats - No Dressing,1 serving - 337 g,421,31,11,0,76,1487,15,5,5,23,90,155,8,20,0,0,0
+102794,20155,Seared Ahi Tuna - (No Tuna) - Italian Meats - Dressing,1 serving - 379 g,492,35,11,0,76,2313,20,5,9,24,90,155,8,20,0,0,0
+102795,20155,Seared Ahi Tuna - (No Tuna) - Buffalo Calamari - Dressing,1 serving - 422 g,376,16,3,0,288,1401,32,5,9,26,100,155,15,20,0,0,0
+102796,20155,Seared Ahi Tuna - (No Tuna) - Buffalo Calamari - No Dressing,1 serving - 379 g,305,12,3,0,288,575,26,5,5,25,100,155,15,20,0,0,0
+102797,20155,Seared Ahi Tuna - (No Tuna) - Buffalo Chicken Tenders - Dressing,1 serving - 393 g,378,19,3,0,43,1499,32,5,9,21,90,155,10,15,0,0,0
+102798,20155,Seared Ahi Tuna - (No Tuna) - Buffalo Chicken Tenders - No Dressing,1 serving - 351 g,307,15,3,0,43,673,27,5,5,20,90,155,10,15,0,0,0
+102799,20155,Seared Ahi Tuna - (No Tuna) - Buffalo Shrimp - Dressing,1 serving - 422 g,433,21,4,0,208,1506,33,5,9,29,95,160,15,30,0,0,0
+102800,20155,Seared Ahi Tuna - (No Tuna) - Buffalo Shrimp - No Dressing,1 serving - 379 g,362,16,4,0,208,680,27,5,5,28,95,160,15,30,0,0,0
+102801,20155,Seared Ahi Tuna - (No Tuna) - Chicken Tenders - Dressing,1 serving - 379 g,373,19,3,0,43,1397,31,5,9,21,90,155,10,15,0,0,0
+102802,20155,Seared Ahi Tuna - Chicken Tenders - No Dressing,1 serving - 337 g,302,15,3,0,43,571,25,5,5,20,85,155,10,15,0,0,0
+102803,20155,Seared Ahi Tuna - (No Tuna) Fried Calamari - Dressing,1 serving - 408 g,371,16,3,0,288,1299,31,5,9,26,95,155,15,20,0,0,0
+102804,20155,Seared Ahi Tuna - (No Tuna) - Fried Calamari - No Dressing,1 serving - 365 g,300,12,3,0,288,472,25,5,5,25,95,155,15,20,0,0,0
+102805,20155,Seared Ahi Tuna - (No Tuna) - Maple Baked Ham - Dressing,1 serving - 379 g,241,22,0,0,30,1751,22,5,14,21,90,155,8,20,0,0,0
+102806,20155,Seared Ahi Tuna - (No Tuna) - Maple Baked Ham - No Dressing,1 serving - 337 g,170,18,0,0,30,925,17,5,10,20,85,155,8,20,0,0,0
+102807,20155,Seared Ahi Tuna - (No Tuna) - Mesquite Turkey - No Dressing,1 serving - 337 g,170,3,0,0,38,728,14,5,5,24,85,155,8,15,0,0,0
+102808,20155,Seared Ahi Tuna - (No Tuna) - Mesquite Turkey - Dressing,1 serving - 379 g,241,8,0,0,38,1554,19,5,9,26,90,155,8,15,0,0,0
+102809,20155,Seared Ahi Tuna - (No Tuna) - Popcorn Rock Shrimp - Dressing,1 serving - 408 g,428,21,4,0,208,1404,32,5,9,29,90,160,15,30,0,0,0
+102810,20155,Seared Ahi Tuna - (No Tuna) - Popcorn Rock Shrimp - No Dressing,1 serving - 365 g,357,16,4,0,208,577,26,5,5,28,90,160,15,30,0,0,0
+102811,20155,Seared Ahi Tuna - (No Tuna) - Roast Beef - Dressing,1 serving - 379 g,285,11,3,0,45,946,18,5,9,27,90,155,8,35,0,0,0
+102812,20155,Seared Ahi Tuna - (No Tuna) - Roast Beef - No Dressing,1 serving - 337 g,214,7,3,0,45,119,12,5,5,26,85,155,8,35,0,0,0
+102813,20155,Seared Ahi Tuna - (No Tuna) - Turkey - Dressing,1 serving - 379 g,241,8,0,0,30,1417,18,5,9,26,90,155,8,15,0,0,0
+102814,20155,Seared Ahi Tuna - (No Tuna) Turkey - No Dressing,1 serving - 337 g,170,4,0,0,30,591,12,5,5,24,85,155,8,15,0,0,0
+102815,20155,Tropical Sunsplash - No Meat - Dressing,1 serving - 390 g,457,28,11,0,0,264,54,9,24,5,110,155,8,15,0,0,0
+102816,20155,Tropical Sunsplash - No Meat - No Dressing,1 serving - 347 g,268,10,8,0,0,96,45,9,24,5,110,155,8,15,0,0,0
+102817,20155,Tropical Sunsplash - Albacore Tuna - Dressing,1 serving - 475 g,566,30,11,0,36,307,54,9,24,26,110,155,8,20,0,0,0
+102818,20155,Tropical Sunsplash - Albacore Tuna - No Dressing,1 serving - 432 g,377,13,9,0,36,138,45,9,24,25,110,155,8,20,0,0,0
+102819,20155,Tropical Sunsplash - Albacore Tuna Salad - Dressing,1 serving - 475 g,616,36,12,0,11,606,62,9,24,19,110,155,10,20,0,0,0
+102820,20155,Tropical Sunsplash - Albacore Tuna Salad - No Dressing,1 serving - 432 g,427,18,10,0,11,438,53,9,24,19,110,155,8,20,0,0,0
+102821,20155,Tropical Sunsplash - Buffalo Calamari - Dressing,1 serving - 517 g,683,37,13,0,288,779,68,10,24,25,120,160,15,20,0,0,0
+102822,20155,Tropical Sunsplash - Buffalo Calamari - No Dressing,1 serving - 475 g,494,20,11,0,288,611,59,10,24,25,120,160,15,20,0,0,0
+102823,20155,Tropical Sunsplash - Buffalo Chicken Tenders - Dressing,1 serving - 489 g,685,40,14,0,43,878,69,9,24,21,110,160,10,15,0,0,0
+102824,20155,Tropical Sunsplash - Buffalo Chicken Tenders - No Dressing,1 serving - 447 g,496,23,11,0,43,709,59,9,24,20,110,160,10,15,0,0,0
+102825,20155,MicroTropical Sunsplash - Buffalo Shrimp - No Dressing,1 serving - 475 g,552,24,12,0,208,716,60,10,24,29,115,160,15,30,0,0,0
+102826,20155,Tropical Sunsplash - Buffalo Shrimp - Dressing,1 serving - 517 g,740,42,14,0,208,884,69,10,24,29,115,160,15,30,0,0,0
+102827,20155,Tropical Sunsplash - Chicken Tenders - Dressing,1 serving - 475 g,680,40,14,0,43,775,67,9,24,21,110,160,10,15,0,0,0
+102828,20155,Tropical Sunsplash - Chicken Tenders - No Dressing,1 serving - 432 g,491,23,11,0,43,607,58,9,24,20,110,160,8,15,0,0,0
+102829,20155,Tropical Sunsplash - Fried Calamari - Dressing,1 serving - 503 g,678,37,13,0,288,677,67,10,24,25,115,155,15,20,0,0,0
+102830,20155,Tropical Sunsplash - Fried Calamari - No Dressing,1 serving - 461 g,489,20,11,0,288,509,57,10,24,25,115,155,15,20,0,0,0
+102831,20155,Tropical Sunsplah - Grilled Atlantic Salmon - Dressing,1 serving - 503 g,663,37,12,0,81,328,54,9,24,34,110,155,10,20,0,0,0
+102832,20155,Tropical Sunsplash - Grilled Atlantic Salmon - No Dressing,1 serving - 347 g,268,10,8,0,0,96,45,9,24,5,110,155,8,15,0,0,0
+102833,20155,Tropical Sunsplash - Grilled Calamari - Dressing,1 serving - 503 g,613,33,12,0,318,684,58,9,24,27,120,160,15,20,0,0,0
+102834,20155,Tropical Sunsplash - Grilled Calamari - No Dressing,1 serving - 461 g,425,16,9,0,318,516,49,9,24,27,120,160,10,20,0,0,0
+102835,20155,Tropical Sunsplash - Grilled Chicken Breast - Dressing,1 serving - 475 g,596,31,12,0,72,523,54,9,24,32,110,155,8,20,0,0,0
+102836,20155,Tropical Sunsplash - Grilled Chicken Breast - No Dressing,1 serving - 432 g,408,14,9,0,72,355,45,9,24,32,110,155,8,20,0,0,0
+102837,20155,Tropical Sunsplash - Grilled Flank Steak - Dressing,1 serving - 475 g,658,39,15,0,60,325,54,9,24,29,110,155,8,30,0,0,0
+102838,20155,Tropical Sunsplash - Grilled Flank Steak - No Dressing,1 serving - 432 g,470,22,13,0,60,157,45,9,24,29,110,155,8,30,0,0,0
+102839,20155,Tropical Sunsplash - Italian Meats - Dressing,1 serving - 475 g,798,56,21,0,76,1692,56,9,24,24,110,155,8,20,0,0,0
+102840,20155,Tropical Sunsplash - Italian Meats - No Dressing,1 serving - 432 g,610,39,19,0,76,1523,47,9,24,24,110,155,8,20,0,0,0
+102841,20155,Tropical Sunsplash - Maple Baked Ham - Dressing,1 serving - 475 g,548,43,11,0,30,1130,59,9,28,21,110,155,8,25,0,0,0
+102842,20155,Tropical Sunsplash - Maple Baked Ham - No Dressing,1 serving - 432 g,359,26,8,0,30,961,49,9,28,21,110,155,8,25,0,0,0
+102843,20155,Tropical Sunsplash - Mesquite Turkey - Dressing,1 serving - 475 g,548,29,11,0,38,932,56,9,24,25,110,155,8,15,0,0,0
+102844,20155,Tropical Sunsplash - Mesquite Turkey - No Dressing,1 serving - 432 g,359,11,8,0,38,764,46,9,24,25,110,155,8,15,0,0,0
+102845,20155,Tropical Sunsplash - Popcorn Rock Shrimp - Dressing,1 serving - 503 g,735,42,14,0,208,782,68,10,24,29,110,160,15,30,0,0,0
+102846,20155,Tropical Sunsplash - Popcorn Rock Shrimp - No Dressing,1 serving - 461 g,547,24,12,0,208,614,58,10,24,29,110,160,15,30,0,0,0
+102847,20155,Tropical Sunsplash - Roast Beef - Dressing,1 serving - 475 g,592,32,13,0,45,324,54,9,24,26,110,155,8,35,0,0,0
+102848,20155,Tropical Sunsplash - Roast Beef - No Dressing,1 serving - 432 g,403,15,11,0,45,156,45,9,24,26,110,155,8,35,0,0,0
+102849,20155,Tropical Sunsplash - Seared Ahi Tuna - Dressing,1 serving - 503 g,631,32,12,0,60,663,54,9,24,36,115,160,10,20,0,0,0
+102850,20155,Tropical Sunsplash - Seared Ahi Tuna - No Dressing,1 serving - 461 g,442,15,9,0,60,495,45,9,24,36,115,160,10,20,0,0,0
+102851,20155,Tropical Sunsplash - Turkey - Dressing,1 serving - 475 g,548,29,11,0,30,796,54,9,24,25,110,155,8,15,0,0,0
+102852,20155,Tropical Sunsplash - Turkey - No Dressing,1 serving - 432 g,359,12,8,0,30,627,45,9,24,25,110,155,8,15,0,0,0
+102853,20156,Albacore Island Tuna Salad on Rye Bread,1 serving - 293 g,656,37,6,0,15,1115,59,5,3,24,45,25,8,20,0,0,0
+102854,20156,Albacore Island Tuna on Ciabatta Bread,1 serving - 286 g,630,35,5,0,15,1073,57,2,3,24,45,25,4,8,0,0,0
+102855,20156,Albacore Island Tuna on Multigrain Bread,1 serving - 281 g,616,36,6,0,15,944,52,4,3,23,45,25,8,15,0,0,0
+102856,20156,Albacore Island Tuna on Pretzel Bread,1 serving - 293 g,696,38,6,0,15,1619,68,3,9,25,45,25,4,20,0,0,0
+102857,20156,Club House on Ciabatta Bread,1 serving - 369 g,436,14,5,0,72,1497,38,3,4,41,45,50,15,8,0,0,0
+102858,20156,Club House on Multigrain Bread,1 serving - 364 g,422,15,5,0,72,1368,33,5,4,41,45,50,20,15,0,0,0
+102859,20156,Club House on Pretzel Bread,1 serving - 376 g,502,17,5,0,72,2043,49,4,10,42,45,50,15,20,0,0,0
+102860,20156,Club House on Rye Bread,1 serving - 376 g,461,16,5,0,72,1540,40,6,4,42,45,52,20,20,0,0,0
+102861,20156,Grilled Chicken Salad on Ciabatta Bread,1 serving - 220 g,435,23,4,0,68,617,34,2,1,24,15,30,4,8,0,0,0
+102862,20156,Grilled Chicken Salad on Multigrain Bread,1 serving - 215 g,421,24,4,0,68,487,29,4,1,23,15,30,8,15,0,0,0
+102863,20156,Grilled Chicken Salad on Pretzel Bread,1 serving - 227 g,501,25,4,0,68,1163,45,3,7,25,15,30,4,20,0,0,0
+102864,20156,Grilled Chicken Salad on Rye Bread,1 serving - 227 g,461,24,4,0,68,659,36,5,1,24,15,30,8,15,0,0,0
+102865,20156,Hot Corned Beef on Ciabata Bread,1 serving - 220 g,371,10,5,0,74,1639,33,2,1,37,6,2,10,15,0,0,0
+102866,20156,Hot Corned Beef on Multigrain Bread,1 serving - 220 g,368,11,5,0,74,1532,31,4,1,37,6,2,15,20,0,0,0
+102867,20156,Hot Corned Beef on Pretzel Bread,1 serving - 227 g,437,12,5,0,74,2185,45,3,7,38,6,2,10,25,0,0,0
+102868,20156,Hot Corned Beef on Rye Bread,1 serving - 227 g,396,11,5,0,74,1681,35,5,2,38,8,4,15,25,0,0,0
+102869,20156,Maple Glazed Ham on Ciabatta Bread,1 serving - 248 g,364,28,3,0,55,1802,40,2,7,30,10,30,15,15,0,0,0
+102870,20156,Maple Glazed Ham on Multigrain Bread,1 serving - 243 g,350,29,3,0,55,1672,35,4,7,30,10,30,20,20,0,0,0
+102871,20156,Maple Glazed Ham on Rye Bread,1 serving - 259 g,401,30,3,0,55,1871,44,5,7,31,10,30,20,25,0,0,0
+102872,20156,MicroMaple Glazed Ham on Pretzel Bread,1 serving - 248 g,407,30,3,0,55,2242,47,3,12,31,10,30,15,25,0,0,0
+102873,20156,Mesquite Smoked Turkey on Ciabatta,1 serving - 369 g,374,9,3,0,59,1268,39,3,5,37,95,50,10,6,0,0,0
+102874,20156,Mesquite Smoked Turkey on Multigrain Bread,1 serving - 364 g,360,10,3,0,59,1138,34,5,5,36,95,50,15,15,0,0,0
+102875,20156,Mesquite Smoked Turkey on Pretzel Bread,1 serving - 376 g,440,12,3,0,59,1814,50,4,11,38,95,50,10,20,0,0,0
+102876,20156,Mesquite Smoked Turkey on Rye Bread,1 serving - 376 g,400,11,3,0,59,1310,40,6,5,37,95,50,15,15,0,0,0
+102877,20156,November Turkey on Ciabatta Bread,1 serving - 355 g,372,9,3,0,55,1178,38,3,4,37,35,50,15,4,0,0,0
+102878,20156,November Turkey on Multigrain Bread,1 serving - 350 g,358,10,3,0,55,1049,33,5,4,36,35,50,20,15,0,0,0
+102879,20156,November Turkey on Pretzel Bread,1 serving - 366 g,451,12,3,0,55,1782,52,4,11,38,35,50,15,20,0,0,0
+102880,20156,November Turkey on Rye Bread,1 serving - 362 g,398,11,3,0,55,1220,40,6,4,37,35,50,20,15,0,0,0
+102881,20156,Mesquite Smoked Turkey on Ciabatta,1 serving - 468 g,607,19,9,0,132,800,37,3,4,66,35,50,10,65,0,0,0
+102882,20156,Peppercorn Bleu Roast Beef on Multigrain Bread,1 serving - 463 g,593,20,9,0,132,670,33,5,4,65,35,50,15,70,0,0,0
+102883,20156,Peppercorn Bleu Roast Beef on Pretzel Bread,1 serving - 475 g,673,22,10,0,132,1346,49,4,10,67,35,50,10,75,0,0,0
+102884,20156,Peppercorn Bleu Roast Beef on Rye Bread,1 serving - 475 g,632,21,9,0,132,842,39,6,4,66,35,50,15,75,0,0,0
+102885,20156,Soprano on Ciabatta Bread,1 serving - 248 g,559,41,11,0,81,2042,37,2,4,31,10,30,10,10,0,0,0
+102886,20156,Soprano on Multigrain Bread,1 serving - 259 g,583,43,11,0,81,1990,40,5,4,32,10,30,20,20,0,0,0
+102887,20156,Soprano on Pretzel Bread,1 serving - 255 g,625,44,11,0,81,2588,48,3,10,32,10,30,10,25,0,0,0
+102888,20156,Soprano on Rye Bread,1 serving - 259 g,595,43,11,0,81,2111,41,5,5,32,15,30,15,25,0,0,0
+102889,20156,Wasabi Tuna on Ciabatta Bread,1 serving - 220 g,331,6,1,0,61,794,32,2,1,36,15,30,4,6,0,0,0
+102890,20156,Wasabi Tuna on Multigrain Bread,1 serving - 259 g,403,11,2,0,61,1293,38,4,4,38,15,30,8,15,0,0,0
+102891,20156,Wasabi Tuna on Pretzel Bread,1 serving - 255 g,444,12,2,0,61,1891,47,3,10,38,15,30,4,20,0,0,0
+102892,20156,Wasabi Tuna on Rye Bread,1 serving - 259 g,415,11,2,0,61,1414,40,4,4,38,15,30,8,15,0,0,0
+102893,20157,Butternut Squash Soup,1 serving - 12 oz - 340 g,305,21,8,0,31,1065,21,2,0,10,10,20,30,4,0,0,0
+102894,20157,Cajun Jambalaya,1 serving - 12 oz - 340 g,428,13,3,0,260,917,36,2,0,39,40,25,15,45,0,0,0
+102895,20157,Chicken Noodle Soup,1 serving - 12 oz - 340 g,105,4,1,0,24,1099,11,0,0,7,0,15,0,8,0,0,0
+102896,20157,French Onion Soup,1 serving - 12 oz - 397 g,267,11,6,0,26,1714,28,2,0,15,4,4,30,10,0,0,0

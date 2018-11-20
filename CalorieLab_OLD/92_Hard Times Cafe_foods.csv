@@ -1,0 +1,6 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+8182,607,Texas,560,46,20,0,125,"1,230",3,2,0,33,0,0,0,0,0,0,0
+8183,607,Terlingua Red,290,15,5,0,40,"1,400",9,2,4,29,0,0,0,0,0,0,0
+8184,607,Cincinnati,300,23,6,0,60,"1,170",2,2,2,20,0,0,0,0,0,0,0
+8185,607,Vege,130,3.5,0.5,0,0,960,13,5,7,11,0,0,0,0,0,0,0
+8186,607,Beans,130,0,0,0,0,0,24,5,0,8,0,0,0,0,0,0,0

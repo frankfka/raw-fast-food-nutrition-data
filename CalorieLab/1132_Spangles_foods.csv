@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+112600,20986,Turkey Turkey On Pita,1 serving,351.7,7,1.4,0,46.7,1605.1,43.5,3.5,0,28.9,0,0,0,0,0,0,0
+112601,20986,Grilled Chicken On Pita,1 serving,330.7,6.6,1.3,0,44.8,1136.2,43.3,3.8,0,24.1,0,0,0,0,0,0,0
+112602,20986,Smoked Turkey On Sourdough,1 serving,358.1,10.4,1.2,0,46.7,1395,24.7,2.3,0,27.8,0,0,0,0,0,0,0
+112603,20987,Low-Fat Pasta Salad,1 serving,252,1.7,0.3,0,0,884.5,51.8,2.1,0,7.6,0,0,0,0,0,0,0
+112604,20988,Jell-O,6 oz,15,0,0,0,0,82.5,0,0,0,1.5,0,0,0,0,0,0,0
+112605,20988,Non-Dairy Dessert Topping,2 tbsp,25,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0

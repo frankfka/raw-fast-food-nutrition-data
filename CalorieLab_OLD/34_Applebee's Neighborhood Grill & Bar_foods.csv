@@ -1,0 +1,10 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+3751,193,Tortilla Chicken Melt,480,13,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+3752,193,Onion Soup Au Gratin,150,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3753,193,Southwest Cobb Salad,440,8,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0
+3754,193,Teriyaki Steak 'N Shrimp Skewers,370,7,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0
+3755,193,Cajun Lime Tilapia,310,6,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0
+3756,193,Grilled Shrimp Skewer Salad,210,2,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0
+3757,193,Tango Chicken Sandwich,370,9,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0
+3758,193,Confetti Chicken,370,7,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0
+3759,193,Chocolate Raspberry Layer Cake,230,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0

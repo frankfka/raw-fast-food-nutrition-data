@@ -1,0 +1,10 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+147542,23450,Apple Muffin,1 muffin - 2.8 oz - 79.4 g,150,0,0,0,0,100,31,8,19,5,0,0,0,0,0,0,0
+147543,23450,Blueberry Muffin,1 muffin - 2.8 oz - 79.4 g,140,0,0,0,0,100,31,8,18,5,0,0,0,0,0,0,0
+147544,23450,Carrot Muffin,1 muffin - 2.8 oz - 79.4 g,150,0,0,0,0,100,32,8,20,5,0,0,0,0,0,0,0
+147545,23450,Cranberry Orange Muffin,1 muffin - 2.8 oz - 79.4 g,140,0,0,0,0,100,31,8,18,5,0,0,0,0,0,0,0
+147546,23451,Chocolate Muffin,1 muffin - 2.8 oz - 79.4 g,140,0.5,0,0,0,70,31,5,18,2,0,0,0,0,0,0,0
+147547,23451,Vanilla Bean,9 cookies,120,0,0,0,0,35,28,2,11,1,0,0,0,6,0,0,0
+147548,23451,Orange,9 cookies,120,0,0,0,0,35,28,2,11,1,0,0,0,6,0,0,0
+147549,23451,Cinnamon Raisin,9 cookies,120,0,0,0,0,35,28,2,11,1,0,0,0,6,0,0,0
+147550,23451,Chocolate,9 cookies,120,0,0,0,0,35,28,2,11,1,0,0,0,6,0,0,0

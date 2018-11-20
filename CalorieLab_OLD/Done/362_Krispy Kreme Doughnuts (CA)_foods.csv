@@ -1,0 +1,20 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+36397,2790,Original Glazed,200,12,3,4,5,95,22,1,10,2,2,0,6,6,0,0,0
+36398,2790,Chocolate Iced Glazed,260,13,3.5,4,5,105,35,1,24,3,2,0,6,6,0,0,0
+36399,2790,Chocolate Iced Glazed,260,12,3,4,5,95,37,1,24,3,2,0,6,6,0,0,0
+36400,2790,Chocolate Iced Kreme Filled,360,22,5,6,5,150,40,1,24,3,2,0,8,8,0,0,0
+36401,2790,Chocolate Iced Custard Filled,310,17,4.5,6,5,150,37,1,20,3,2,0,8,8,0,0,0
+36402,2790,Glazed Kreme Filled,360,21,5,6,5,150,40,1,24,3,2,0,8,8,0,0,0
+36403,2790,Glazed Raspberry Filled,290,15,4,5,5,120,36,1,20,3,2,0,8,10,0,0,0
+36404,2790,Glazed Lemon Filled,270,15,4,5,5,130,33,1,17,3,2,0,8,6,0,0,0
+36405,2790,Glazed Chocolate Cake,300,15,3.5,5,5,310,41,2,26,3,0,0,0,10,0,0,0
+36406,2790,Cinnamon Apple Filled,280,16,4,5,5,150,32,1,14,3,2,0,8,8,0,0,0
+36407,2790,Caramel Kreme Crunch,350,19,4.5,5,5,135,43,1,25,3,2,0,8,8,0,0,0
+36408,2790,Glazed Cruller,220,13,3,4,15,220,24,0,13,2,0,0,2,8,0,0,0
+36409,2790,Maple Iced Glazed,250,12,3,4,5,105,34,1,21,3,2,0,6,6,0,0,0
+36410,2790,Cinnamon Bun,270,17,4,5,5,130,29,1,13,3,2,0,8,8,0,0,0
+36411,2790,New York Cheesecake,320,19,6,6,10,190,35,1,17,4,2,0,8,8,0,0,0
+36412,2790,Pumpkin Spice Cake,340,18,4.5,6,20,300,42,1,26,3,0,0,2,10,0,0,0
+36413,2790,Key Lime Pie,320,17,4.5,5,5,150,39,1,22,3,2,0,8,8,0,0,0
+36414,2790,Cookies And Kreme Doughnut,400,22,5,6,5,160,38,1,28,4,2,0,8,15,0,0,0
+36415,2790,Strawberry Shortcake,360,20,5,6,10,160,42,1,22,4,2,0,8,8,0,0,0

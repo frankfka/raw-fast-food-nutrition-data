@@ -1,0 +1,38 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+107686,20580,Chili,regular portion - 8 oz - 227 g,213,12,0,0,32,1266,8,3,0,18,0,0,0,0,0,0,0
+107687,20580,Veggie Chili Bowl,regular portion - 255 g,160,2,0,0,0,1160,29,6,0,8,0,0,0,0,0,0,0
+107688,20580,Regular 2-Way,regular portion - 340 g,420,11,0,0,20,980,58,5,0,21,0,0,0,0,0,0,0
+107689,20580,Regular 2-Way onion,regular portion - 383 g,436,11,0,0,20,981,62,6,0,21,0,0,0,0,0,0,0
+107690,20580,Regular 2-Way bean,regular portion - 425 g,489,12,0,0,20,1275,71,8,0,25,0,0,0,0,0,0,0
+107691,20580,Regular 2-Way onion bean,regular portion - 468 g,505,12,0,0,20,1276,75,9,0,25,0,0,0,0,0,0,0
+107692,20580,Regular 3-Way,regular portion - 397 g,648,30,0,0,79,1332,59,5,0,35,0,0,0,0,0,0,0
+107693,20580,Regular 4-Way,regular portion - 439 g,665,30,0,0,79,1333,63,6,0,35,0,0,0,0,0,0,0
+107694,20580,Regular 5-Way,regular portion - 525 g,733,30,0,0,79,1628,76,9,0,40,0,0,0,0,0,0,0
+107695,20580,Super 5-Way,regular portion - 794 g,1141,51,0,0,136,2547,109,13,0,63,0,0,0,0,0,0,0
+107696,20581,Coney,regular portion - 146 g,286,14,0,0,21,842,30,2,0,12,0,0,0,0,0,0,0
+107697,20581,Cheese Coney,regular portion - 160 g,343,18,0,0,36,930,31,2,0,15,0,0,0,0,0,0,0
+107698,20581,Chili Sandwich,regular portion - 132 g,211,5,0,0,6,629,32,3,0,9,0,0,0,0,0,0,0
+107699,20581,Chili Cheese Sandwich,regular portion - 132 g,288,12,0,0,28,761,30,2,0,14,0,0,0,0,0,0,0
+107700,20581,Low Carb Coney Bowl,regular portion - 298 g,570,47,0,0,115,1850,7,2,0,34,0,0,0,0,0,0,0
+107701,20582,Fries,regular portion - 149 g,366,19,0,0,0,388,44,5,0,5,0,0,0,0,0,0,0
+107702,20582,Cheese Fries,regular portion - 184 g,520,32,0,0,45,634,42,5,0,15,0,0,0,0,0,0,0
+107703,20582,Chili Cheese Fries,regular portion - 269 g,596,36,0,0,61,1129,46,6,0,22,0,0,0,0,0,0,0
+107704,20582,Garlic Bread,regular portion - 54 g,213,13,0,0,0,393,19,1,0,5,0,0,0,0,0,0,0
+107705,20582,Garlic Bread,regular portion - 68 g,271,18,0,0,15,481,19,1,0,8,0,0,0,0,0,0,0
+107706,20583,Tex Mex,regular portion - 8 oz - 227 g,210,9,0,0,38,577,17,6,0,17,0,0,0,0,0,0,0
+107707,20583,Chili Cheese Nachos,regular portion - 240 g,411,25,0,0,49,931,30,6,0,18,0,0,0,0,0,0,0
+107708,20583,Chili Cheese Dip,regular portion - 177 g,580,40,0,0,75,900,39,4,0,18,0,0,0,0,0,0,0
+107709,20583,Chili Cheese Dip Supreme,regular portion - 291 g,580,40,0,0,75,880,38,6,0,20,0,0,0,0,0,0,0
+107710,20584,South of the Border Chili Salad,regular portion - 472 g,639,39,0,0,117,1177,55,4,0,27,0,0,0,0,0,0,0
+107711,20584,Low Carb Chili Salad,regular portion - 369 g,320,22,0,0,50,1100,12,4,0,21,0,0,0,0,0,0,0
+107712,20584,Spring Harvest Salad,regular portion - 230 g,160,7,0,0,15,135,23,3,0,5,0,0,0,0,0,0,0
+107713,20584,Grilled Chicken Spring Harvest Salad,regular portion - 315 g,300,13,0,0,70,850,23,3,0,25,0,0,0,0,0,0,0
+107714,20584,Crispy Chicken Spring Harvest Salad,regular portion - 315 g,360,17,0,0,65,720,32,3,0,23,0,0,0,0,0,0,0
+107715,20584,Cafe Salad,regular portion - 224 g,160,10,0,0,15,480,15,3,0,7,0,0,0,0,0,0,0
+107716,20584,Grilled Chicken Cafe Salad,regular portion - 295 g,250,12,0,0,60,1070,15,3,0,24,0,0,0,0,0,0,0
+107717,20584,Crispy Chicken Cafe Salad,regular portion - 295 g,310,15,0,0,55,950,24,3,0,21,0,0,0,0,0,0,0
+107718,20584,Half Cafe Salad,regular portion - 134 g,110,7,0,0,15,290,8,2,0,5,0,0,0,0,0,0,0
+107719,20584,Caesar Salad,regular portion - 168 g,130,6,0,0,10,390,12,2,0,8,0,0,0,0,0,0,0
+107720,20584,Grilled Chicken Caesar Salad,regular portion - 238 g,210,8,0,0,55,980,12,2,0,25,0,0,0,0,0,0,0
+107721,20584,Crispy Chicken Caesar Salad,regular portion - 238 g,280,11,0,0,50,850,22,2,0,23,0,0,0,0,0,0,0
+107722,20584,Half Caesar Salad,regular portion - 105 g,90,5,0,0,10,310,6,1,0,7,0,0,0,0,0,0,0

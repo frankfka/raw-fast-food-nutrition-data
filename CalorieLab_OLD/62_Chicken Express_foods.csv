@@ -1,0 +1,9 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+5639,393,Fried Chicken Breast,230,12,4.5,0.5,80,740,9,1,0,22,2,2,2,4,0,0,0
+5640,393,Fried Chicken Wing,270,17,6,0.7,100,940,9,1,0,20,2,2,2,6,0,0,0
+5641,393,Fried Chicken Thigh,290,22,8,0.7,100,690,8,0,0,17,2,4,4,6,0,0,0
+5642,393,Fried Chicken Leg,220,13,5,0.5,110,760,8,1,0,20,2,2,2,6,0,0,0
+5643,393,Fried Chicken Tender,280,15,7,0.9,60,800,15,1,0,21,2,2,2,4,0,0,0
+5644,393,Fried Chicken Liver,400,25,12,1.4,325,570,23,1,0,19,2,2,2,45,0,0,0
+5645,393,Fried Chicken Gizzard,360,22,10,1.4,205,900,21,1,0,20,2,2,2,10,0,0,0
+5646,393,Fried Hot Wing,280,16,6,0.5,155,"1,120",9,1,0,24,2,4,4,8,0,0,0

@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+33073,2569,Roasted Chicken Pasta,595,26,5.5,0,100,325,43,4,0,43,0,0,0,0,0,0,0
+33074,2570,Oak Grilled Swordfish,630,12,3,0,80,300,81,11,0,49,0,0,0,0,0,0,0
+33075,2571,Spaghettini Pomodoro with Jumbo Prawns,675,22,2.5,0,295,820,85,7,0,37,0,0,0,0,0,0,0
+33076,2572,Hawaiian Ahi Salad,295,12,1.5,0,60,130,18,4,0,30,0,0,0,0,0,0,0
+33077,2573,Oak Grilled Vegetable Platter,275,13,7.5,0,35,270,39,16,0,10,0,0,0,0,0,0,0
+33078,2574,Grilled Lean Limousin Filet Mignon,695,14,6,0,150,220,98,11,0,54,0,0,0,0,0,0,0

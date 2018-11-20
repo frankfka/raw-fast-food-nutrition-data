@@ -1,0 +1,24 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+135717,22753,Iced Blended Mocha,16 fl oz,180,6,1.5,0.5,0,230,24,1,13,7,2,0,20,4,0,0,0
+135718,22753,Iced Blended White Chocolate Mocha,16 fl oz,260,6,6,0,0,105,48,0,43,3,2,0,10,2,0,0,0
+135719,22753,Iced Blended 50/50,16 fl oz,300,6,6,0,0,45,61,0,54,1,150,8,2,2,0,0,0
+135720,22753,Iced Blended Mint Chip Mocha,16 fl oz,300,2,1,0,0,170,74,2,70,4,2,0,10,10,0,0,0
+135721,22753,Iced Blended Caramel Mocha,16 fl oz,440,5,3,0,15,250,102,2,94,4,2,0,10,10,0,0,0
+135722,22753,Iced Blended Peanut Butter Cup,16 fl oz,280,2,1,0,0,180,70,2,66,4,2,0,10,10,0,0,0
+135723,22753,Iced Blended Latte,16 fl oz,250,8,8,0,0,220,38,0,29,6,2,0,15,2,0,0,0
+135724,22754,Triple Chocolate Mocha,16 fl oz,520,12,9,0.5,5,230,103,3,94,5,2,0,15,15,0,0,0
+135725,22754,Triple Black Cherry Mocha,16 fl oz,380,4,2.5,0,0,170,92,3,86,5,2,0,15,10,0,0,0
+135726,22754,Road Warrior,16 fl oz,250,4,2.5,0,0,180,58,3,52,5,2,0,15,10,0,0,0
+135727,22754,Iced Café Mocha,16 fl oz,190,8,5,0,30,135,22,1,21,7,4,6,25,4,0,0,0
+135728,22754,Iced Cappuccino,16 fl oz,160,8,5,0,35,140,13,0,13,8,4,6,30,2,0,0,0
+135729,22754,Iced Coffee,16 fl oz,20,0,0,0,0,45,3,0,3,0,0,0,2,2,0,0,0
+135730,22754,Café Mocha,16 fl oz,350,15,10,0,55,180,41,1,39,11,6,8,40,6,0,0,0
+135731,22754,Café Latte,16 fl oz,250,13,8,0,55,210,20,0,20,13,6,10,45,2,0,0,0
+135732,22754,White Chocolate Mocha,16 fl oz,500,21,16,0.5,65,240,64,0,60,13,6,10,45,2,0,0,0
+135733,22754,Caramel Macchiato,16 fl oz,460,15,10,0,65,260,68,0,64,12,6,10,45,2,0,0,0
+135734,22754,Vanilla Latte,16 fl oz,330,12,8,0,50,190,44,0,44,12,6,10,45,2,0,0,0
+135735,22754,Nutty Cow,16 fl oz,300,12,8,0,50,200,36,0,36,12,6,10,45,2,0,0,0
+135736,22754,Spiced Chai Latte,16 fl oz,420,15,9,0,60,230,63,0,60,15,6,10,50,2,0,0,0
+135737,22755,Hot Chocolate,16 fl oz,450,20,14,0.5,75,240,51,1,49,16,8,10,60,8,0,0,0
+135738,22756,Fros-Tea Wild Berry Smoothie,16 fl oz,260,0,0,0,0,15,61,0,46,1,16,0,0,0,0,0,0
+135739,22756,Fros-Tea Mango Smoothie,16 fl oz,260,0,0,0,0,15,61,0,46,1,160,0,0,0,0,0,0

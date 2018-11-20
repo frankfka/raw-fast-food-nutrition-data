@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+43725,3204,Ginger Poached Salmon Salad,420,16,2.5,0,120,135,20,9,0,49,0,0,0,0,0,0,0
+43726,3204,Chopped Veggies Salad,225,2,0.5,0,0,565,49,18,0,13,0,0,0,0,0,0,0
+43727,3205,Turkey Chili,265,11,4.5,0,55,"1,235",29,6,0,18,0,0,0,0,0,0,0
+43728,3205,Black and White Salmon,615,27,3.5,0,110,360,46,6,0,47,0,0,0,0,0,0,0
+43729,3205,Blackened Ahi Tuna,595,19,4,0,105,900,47,5,0,60,0,0,0,0,0,0,0
+43730,3206,Capellini Pasta,455,24,4.5,0,5,985,47,7,0,11,0,0,0,0,0,0,0

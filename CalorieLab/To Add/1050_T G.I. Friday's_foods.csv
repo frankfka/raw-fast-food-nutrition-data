@@ -1,0 +1,8 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+104876,20330,Sizzling Chicken & Broccoli,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104877,20330,Zen Chicken Pot Stickers,,500,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104878,20330,Dragonfire Chicken,,500,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104879,20330,Chicken Verde Enchilada Combo,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104880,20330,Sizzling Chicken with Vegetables,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104881,20331,Chocolate Angel Swirl Cake,,500,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104882,20331,New York Cheesecake,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

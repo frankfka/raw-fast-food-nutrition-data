@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+802,67,Chicken Tikka Kabab,380,8,2.5,0,195,305,1,0,0,71,0,0,0,0,0,0,0
+803,68,Chicken Curry,390,20,3.5,0,115,510,9,3,0,44,0,0,0,0,0,0,0
+804,68,Karahi Chicken,410,14,3.5,0,105,660,33,7,0,37,0,0,0,0,0,0,0
+805,69,Prawn Pepper Masala,340,10,1,0,250,865,32,7,0,33,0,0,0,0,0,0,0
+806,70,Aloo Gobi,240,8,0.5,0,0,90,38,10,0,8,0,0,0,0,0,0,0
+807,70,Bengan Bhartha,300,9,0.5,0,0,740,49,15,0,12,0,0,0,0,0,0,0

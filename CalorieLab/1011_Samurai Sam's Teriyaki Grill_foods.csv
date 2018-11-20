@@ -1,0 +1,38 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+100343,20043,Chicken & Steak Teriyaki Wrap,391 g,650,13,3,0,55,1390,98,8,13,33,40,30,25,30,0,0,0
+100344,20043,Chicken & Steak Teriyaki Wrap - Brown Rice,391 g,630,14,3.5,0,55,1390,93,9,13,33,40,30,25,25,0,0,0
+100345,20043,Kid's Bowl,198 g,300,6,1.5,0,50,430,42,0,10,17,0,0,0,15,0,0,0
+100346,20043,Low Carb Bowl - Large,425 g,310,5,1.5,0,115,290,20,6,12,46,190,140,10,15,0,0,0
+100347,20043,Low Carb Bowl,326 g,230,4,1,0,80,210,16,5,9,33,150,110,10,15,0,0,0
+100348,20044,Sweet & Sour Bowl - Dark Chicken,large - 901 g,860,15,4,0,120,270,136,7,30,45,430,25,8,45,0,0,0
+100349,20044,Sweet & Sour Bowl - Dark Chicken - Brown Rice,large - 901 g,800,17,4.5,0,120,270,118,12,30,45,430,25,10,30,0,0,0
+100350,20044,Sweet & Sour Bowl - Dark Chicken,regular - 665 g,610,10,3,0,85,200,96,6,24,32,350,20,6,30,0,0,0
+100351,20044,Sweet & Sour Bowl - Dark Chicken - Brown Rice,regular - 665 g,570,12,3,0,85,200,84,9,24,32,350,20,6,20,0,0,0
+100352,20044,Sweet & Sour Bowl - White Chicken,large - 901 g,820,6,1.5,0,115,280,136,7,30,53,430,25,8,45,0,0,0
+100353,20044,Sweet & Sour Bowl - White Chicken - Brown Rice,large - 901 g,760,8,2,0,115,280,119,12,30,53,430,25,10,25,0,0,0
+100354,20044,Sweet & Sour Bowl - White Chicken,regular - 665 g,580,4.5,1,0,80,210,96,6,24,37,350,20,6,30,0,0,0
+100355,20044,Sweet & Sour Bowl - White Chicken - Brown Rice,regular - 665 g,540,6,1.5,0,80,210,85,9,24,37,350,20,8,20,0,0,0
+100356,20044,Teriyaki Bowl Dark Chicken,large - 581 g,780,14,4,0,120,570,113,2,14,44,50,35,6,40,0,0,0
+100357,20044,Teriyaki Bowl Dark Chicken - Brown Rice,large - 581 g,720,16,4.5,0,120,570,96,8,14,44,50,35,8,25,0,0,0
+100358,20044,Teriyaki Bowl Dark Chicken,regular - 411 g,540,10,2.5,0,85,500,79,2,13,31,40,30,4,30,0,0,0
+100359,20044,Teriyaki Bowl Dark Chicken - Brown Rice,regular - 411 g,500,11,3,0,85,510,68,5,12,31,40,30,6,15,0,0,0
+100360,20044,Teriyaki Bowl Steak,large - 581 g,750,11,4,0,70,1000,123,2,16,33,45,35,4,45,0,0,0
+100361,20044,Teriyaki Bowl Steak - Brown Rice,large - 581 g,690,13,4.5,0,70,1010,106,8,15,33,45,35,6,25,0,0,0
+100362,20044,Teriyaki Bowl Steak,regular - 411 g,530,8,3,0,50,810,86,2,13,23,40,30,2,30,0,0,0
+100363,20044,Teriyaki Bowl Steak - Brown Rice,regular - 411 g,490,9,3,0,50,810,74,5,13,23,40,30,4,15,0,0,0
+100364,20044,Teriyaki Bowl White Chicken,large - 581 g,740,6,1.5,0,115,580,114,2,15,52,50,35,6,40,0,0,0
+100365,20044,Teriyaki Bowl White Chicken - Brown Rice,large - 581 g,680,8,2,0,115,590,96,8,14,52,50,35,8,20,0,0,0
+100366,20044,Teriyaki Bowl White Chicken,regular - 411 g,520,4,1,0,80,510,79,2,13,37,40,30,4,25,0,0,0
+100367,20044,Teriyaki Bowl White Chicken - Brown Rice,regular - 411 g,470,5,1.5,0,80,510,68,5,13,36,40,30,6,15,0,0,0
+100368,20044,Teriyaki Sauce (on the side),28 g,40,0,0,0,0,340,9,0,8,1,0,0,0,0,0,0,0
+100369,20044,Veggie Bowl,369 g,370,0.5,0,0,0,370,80,3,13,8,80,60,4,20,0,0,0
+100370,20044,Veggie Bowl - Brown Rice,369 g,320,2,0,0,0,370,69,6,12,8,80,60,6,10,0,0,0
+100371,20044,Veggie Teriyaki Wrap,320 g,510,8,1.5,0,0,1130,94,8,12,14,45,35,25,25,0,0,0
+100372,20044,Veggie Teriyaki Wrap - Brown Rice,320 g,490,9,1.5,0,0,1130,89,10,12,13,45,35,25,20,0,0,0
+100373,20044,Grilled Chicken Egg Roll,85 g,150,7,0,0,15,300,17,1,1,7,15,15,0,8,0,0,0
+100374,20045,Oriental Chicken Salad,283 g,220,4,1,0,90,200,9,3,5,36,40,80,6,15,0,0,0
+100375,20045,Oriental Dressing,28 g,70,2,0,0,0,480,12,0,12,0,0,0,0,0,0,0,0
+100376,20045,Sesame Garden Toss Salad,475 g,490,13,2,0,90,1240,57,6,33,41,50,150,20,25,0,0,0
+100377,20045,Side Salad,57 g,10,0,0,0,0,5,2,1,1,1,15,30,2,2,0,0,0
+100378,20046,Steak Teriyaki Wrap,391 g,650,14,4,0,40,1510,101,8,14,27,40,30,20,35,0,0,0
+100379,20046,Steak Teriyaki Wrap - Brown Rice,391 g,630,15,4,0,40,1510,95,9,13,27,40,30,25,30,0,0,0

@@ -1,0 +1,11 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+147571,23453,Lemon Cookie,1.8 oz - 50 g,140,4,2,0,25,250,33,8,14,2,0,30,2,6,0,0,0
+147572,23453,Maple Walnut Cookie,1.8 oz - 50 g,140,4,2,0,25,250,33,8,14,2,0,30,2,6,0,0,0
+147573,23453,Macaroon Cookie,1.8 oz - 50 g,140,4,2,0,25,250,33,8,14,2,0,30,2,6,0,0,0
+147574,23453,Peanut Butter Cookie,1.8 oz - 50 g,140,4,2,0,25,250,33,8,14,2,0,30,2,6,0,0,0
+147575,23453,Snickerdoodle Cookie,1.8 oz - 50 g,140,4,2,0,25,250,33,8,14,2,0,30,2,6,0,0,0
+147576,23453,Oatmeal Raisin Cookie,1.8 oz - 50 g,140,4,2,0,25,250,33,8,14,2,0,30,2,6,0,0,0
+147577,23453,Pumpkin Raisin Cookie,1.8 oz - 50 g,140,4,2,0,25,250,33,8,14,2,0,30,2,6,0,0,0
+147578,23453,Chocolate Chip Cookie,1.8 oz - 50 g,140,4,2.5,0,25,300,34,8,12,3,0,30,2,10,0,0,0
+147579,23453,Mint Chip Cookie,1.8 oz - 50 g,140,4,2.5,0,25,300,34,8,12,3,0,30,2,10,0,0,0
+147580,23453,Mocha Chip Cookie,1.8 oz - 50 g,140,4,2.5,0,25,300,34,8,12,3,0,30,2,10,0,0,0

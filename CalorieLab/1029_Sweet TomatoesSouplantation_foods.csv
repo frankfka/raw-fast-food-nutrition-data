@@ -1,0 +1,290 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+103093,20170,Bartlett Pear & Caramelized Walnut (Veg),1 cup,180,12,2,0,5,220,13,2,10,4,0,0,0,0,0,0,0
+103094,20170,BBQ Julienne Chopped with Chicken,1 cup,190,10,2,0,20,430,20,3,5,5,0,0,0,0,0,0,0
+103095,20170,BBQ Smokehouse with Bacon & Peanuts,1 cup,190,10,3,0,10,530,19,3,4,6,0,0,0,0,0,0,0
+103096,20170,Bombay Curry with Almonds & Coconut (Veg),1 cup,210,16,4,0.5,10,85,17,4,11,3,0,0,0,0,0,0,0
+103097,20170,Caesar Salad Asiago (Non-Veg),1 cup,190,14,2,0,10,280,10,1,4,5,0,0,0,0,0,0,0
+103098,20170,California Cobb with Bacon,1 cup,180,14,4,0,55,350,5,2,1,5,0,0,0,0,0,0,0
+103099,20170,Cape Cod Spinach with Walnuts & Bacon,1 cup,170,14,2,0,5,270,6,4,5,4,0,0,0,0,0,0,0
+103100,20170,Chicken Tortilla,1 cup,180,10,3,0,20,300,16,2,4,6,0,0,0,0,0,0,0
+103101,20170,Classic Antipasto with Peppered Salami,1 cup,140,10,3,0,10,370,6,2,2,5,0,0,0,0,0,0,0
+103102,20170,Classic Greek (Veg),1 cup,120,9,3,0,10,320,4,2,2,3,0,0,0,0,0,0,0
+103103,20170,Club Blue BLT with Bacon,1 cup,250,16,4.5,0,25,600,20,3,4,6,0,0,0,0,0,0,0
+103104,20170,Country French with Bacon,1 cup,210,18,6,0,20,420,7,2,1,10,0,0,0,0,0,0,0
+103105,20170,Ensalada Azteca with Turkey,1 cup,130,9,3,0,15,230,7,4,3,6,0,0,0,0,0,0,0
+103106,20170,Honey Minted Fruit Toss,1 cup,140,6,3.5,0,0,80,20,3,15,1,0,0,0,0,0,0,0
+103107,20170,Italian Sub with Turkey & Salami,1 cup,260,17,6,0,20,470,18,2,5,9,0,0,0,0,0,0,0
+103108,20170,Mandarin Spinach with Caramelized Walnuts (Veg),1 cup,170,11,1,0,0,150,14,3,11,3,0,0,0,0,0,0,0
+103109,20170,Mediterranean (Veg),1 cup,150,11,1.5,0,5,430,9,4,2,4,0,0,0,0,0,0,0
+103110,20170,Monterey Blue with Peanuts (Veg),1 cup,200,12,4,0,5,330,20,2,5,3,0,0,0,0,0,0,0
+103111,20170,Outrageous Orange with Cashews (Veg),1 cup,200,14,1.5,0.5,10,95,16,2,8,3,0,0,0,0,0,0,0
+103112,20170,Pesto Orzo with Pinenuts (Non-Veg),1 cup,220,17,3,0,10,320,14,2,5,4,0,0,0,0,0,0,0
+103113,20170,Cherry Chipotle Spinach (Veg),1 cup,220,15,1.5,0,0,90,20,2,10,2,0,0,0,0,0,0,0
+103114,20170,Ragin' Cajun (Veg),1 cup,180,13,1.5,0,0,280,15,3,7,2,0,0,0,0,0,0,0
+103115,20170,Ranch House BLT with Turkey & Bacon,1 cup,180,11,4,0,15,390,10,6,2,6,0,0,0,0,0,0,0
+103116,20170,Roasted Vegetables with Feta & Olives (Veg),1 cup,140,11,2,0,5,240,7,2,2,2,0,0,0,0,0,0,0
+103117,20170,"Roma Tomato, Mozzarella & Basil (Veg)",1 cup,120,9,2,0,10,180,7,1,2,4,0,0,0,0,0,0,0
+103118,20170,San Marino Spinach with Pumpkin Seeds & Cranberries (Veg),1 cup,200,15,4,0,15,220,11,6,5,6,0,0,0,0,0,0,0
+103119,20170,Sedona Green Chile & Chipotle (Non-Veg),1 cup,200,15,2,0.5,5,380,14,3,3,2,0,0,0,0,0,0,0
+103120,20170,Smoked Turkey & Spinach with Almonds,1 cup,190,10,2,0,15,480,20,3,15,6,0,0,0,0,0,0,0
+103121,20170,Sonoma Spinach with Honey Dijon Vinaigrette (Veg),1 cup,210,14,3,0,10,270,16,2,8,5,0,0,0,0,0,0,0
+103122,20170,Spiced Pecan & Roasted Vegetable with Bacon,1 cup,180,11,3,0,15,390,15,2,7,5,0,0,0,0,0,0,0
+103123,20170,Spinach Gorgonzola with Spiced Pecans & Bacon,1 cup,210,19,4,0,10,430,5,4,3,5,0,0,0,0,0,0,0
+103124,20170,Strawberry Fields with Caramelized Walnuts (Veg),1 cup,130,8,0.5,0,0,75,15,3,12,3,0,0,0,0,0,0,0
+103125,20170,Summer Lemon with Spiced Pecans (Veg),1 cup,220,15,3,0,10,250,18,2,13,2,0,0,0,0,0,0,0
+103126,20170,Thai Peanut & Red Pepper (Veg),1 cup,190,10,1.5,0,5,410,21,5,14,7,0,0,0,0,0,0,0
+103127,20170,Traditional Spinach with Bacon,1 cup,160,11,4,0,40,310,7,3,3,5,0,0,0,0,0,0,0
+103128,20170,Watercress & Orange (Non-Veg),1 cup,90,4,1,0,0,90,12,2,6,1,0,0,0,0,0,0,0
+103129,20170,Won Ton Chicken Happiness,1 cup,150,8,1,0,10,220,12,2,4,6,0,0,0,0,0,0,0
+103130,20171,Aunt Doris' Red Pepper Slaw (Fat-free/Veg),1/2 cup,70,0,0,0,0,480,18,3,13,1,0,0,0,0,0,0,0
+103131,20171,Marinated Summer Vegetables (Fat-free/Veg),1/2 cup,80,0,0,0,0,210,19,4,14,1,0,0,0,0,0,0,0
+103132,20171,Baja Bean & Cilantro (Low-fat/Veg),1/2 cup,180,3,0,0,0,190,29,5,2,9,0,0,0,0,0,0,0
+103133,20171,Carrot Raisin (Low-fat/Veg),1/2 cup,90,3,0,0,5,80,17,2,15,1,0,0,0,0,0,0,0
+103134,20171,Mandarin Noodles w/Broccoli & Sesame Seeds (Low-fat/Veg),1/2 cup,120,3,0,0,0,380,19,2,5,3,0,0,0,0,0,0,0
+103135,20171,Mandarin Shells with Almonds (Low-fat/Veg),1/2 cup,120,3,0,0,0,360,19,2,4,3,0,0,0,0,0,0,0
+103136,20171,Oriental Ginger Slaw with Krab (Low-fat),1/2 cup,70,3,0,0,2,80,8,4,3,2,0,0,0,0,0,0,0
+103137,20171,Penne Pasta with Chicken in a Citrus Vinaigrette (Low-fat),1/2 cup,130,3,0,0,5,380,20,2,5,5,0,0,0,0,0,0,0
+103138,20171,Southern Dill Potato (Low-fat/Veg),1/2 cup,120,3,2,0,5,300,20,2,2,4,0,0,0,0,0,0,0
+103139,20171,Southwestern Rice & Beans (Low-fat/Veg),1/2 cup,90,3,0,0,0,480,15,3,2,1,0,0,0,0,0,0,0
+103140,20171,Spicy Southwestern Pasta (Low-fat/Veg),1/2 cup,130,3,0,0,0,350,21,4,3,5,0,0,0,0,0,0,0
+103141,20171,Summer Barley with Black Beans (Low-fat/Veg),1/2 cup,110,3,0,0,0,280,19,4,1,4,0,0,0,0,0,0,0
+103142,20171,Ambrosia with Coconut (Non-Veg),1/2 cup,170,6,3,0,5,80,30,2,20,1,0,0,0,0,0,0,0
+103143,20171,Artichoke Rice (Veg),1/2 cup,160,8,1,0,3,780,21,2,2,3,0,0,0,0,0,0,0
+103144,20171,BBQ Potato (Veg),1/2 cup,160,8,1,0,5,270,20,2,3,2,0,0,0,0,0,0,0
+103145,20171,Carrot Ginger with Herb Vinaigrette (Veg),1/2 cup,150,12,1,0,0,40,9,3,6,1,0,0,0,0,0,0,0
+103146,20171,Chinese Krab,1/2 cup,160,8,1,0,3,260,19,3,4,5,0,0,0,0,0,0,0
+103147,20171,Citrus Noodles with Snow Peas (Veg),1/2 cup,140,6,1,0,0,240,19,2,5,3,0,0,0,0,0,0,0
+103148,20171,Confetti Avocado Slaw,1/2 cup,120,7,1,0,5,150,12,3,3,1,0,0,0,0,0,0,0
+103149,20171,Dijon Potato with Garlic Dill Vinaigrette (Veg),1/2 cup,150,12,1,0,0,40,9,3,6,1,0,0,0,0,0,0,0
+103150,20171,Field Corn & Very Wild Rice (Veg),1/2 cup,170,9,1,0,0,420,19,3,3,4,0,0,0,0,0,0,0
+103151,20171,German Potato (Non-Veg),1/2 cup,140,5,1,0,0,270,21,2,4,2,0,0,0,0,0,0,0
+103152,20171,Greek Couscous with Feta Cheese & Pinenuts (Veg),1/2 cup,170,9,1,0,4,480,19,3,3,6,0,0,0,0,0,0,0
+103153,20171,Italian Garden Vegetable (Veg),1/2 cup,110,8,1,0,0,240,9,2,2,1,0,0,0,0,0,0,0
+103154,20171,Italian White Bean (Veg),1/2 cup,140,5,0,0,0,480,19,4,2,6,0,0,0,0,0,0,0
+103155,20171,Jalapeño Potato (Veg),1/2 cup,140,5,1,0,0,490,20,2,3,2,0,0,0,0,0,0,0
+103156,20171,Joan's Broccoli Madness with Cashews (Non-Veg),1/2 cup,180,14,3,0,10,250,11,3,9,2,0,0,0,0,0,0,0
+103157,20171,Lemon Rice with Cashews (Veg),1/2 cup,160,7,2,0,0,290,23,1,3,2,0,0,0,0,0,0,0
+103158,20171,Old Fashioned Macaroni with Ham,1/2 cup,180,11,2,0,10,360,15,3,3,4,0,0,0,0,0,0,0
+103159,20171,Pesto Pasta (Veg),1/2 cup,160,7,1,0,2,320,18,2,2,4,0,0,0,0,0,0,0
+103160,20171,Picnic Potato (Veg),1/2 cup,170,9,1,0,80,420,19,2,3,3,0,0,0,0,0,0,0
+103161,20171,Pineapple Coconut Slaw (Veg),1/2 cup,150,10,3,0,15,190,14,2,10,1,0,0,0,0,0,0,0
+103162,20171,Poppyseed Coleslaw (Veg),1/2 cup,120,9,1,0,10,130,9,3,5,1,0,0,0,0,0,0,0
+103163,20171,Red Potato & Tomato (Veg),1/2 cup,120,10,1.5,0,5,540,8,3,1,2,0,0,0,0,0,0,0
+103164,20171,Roasted Potato with Chipotle Chile Vinaigrette (Veg),1/2 cup,140,6,1,0,0,250,18,4,3,3,0,0,0,0,0,0,0
+103165,20171,San Francisco Herb Rice (Non-Veg),1/2 cup,170,5,2,0,5,380,25,1,1,4,0,0,0,0,0,0,0
+103166,20171,Shrimp & Seafood Shells,1/2 cup,200,11,2,0,20,380,20,2,3,5,0,0,0,0,0,0,0
+103167,20171,Southern Black-Eyed Pea (Veg),1/2 cup,130,6,0,0,0,220,18,3,4,2,0,0,0,0,0,0,0
+103168,20171,Thai Noodle with Chicken & Peanut Sauce,1/2 cup,170,8,1,0,0,310,17,3,4,5,0,0,0,0,0,0,0
+103169,20171,Three Bean Marinade (Veg),1/2 cup,170,6,1,0,0,320,27,3,11,4,0,0,0,0,0,0,0
+103170,20171,Tomato Cucumber Marinade (Veg),1/2 cup,80,5,0,0,0,220,8,1,2,0,0,0,0,0,0,0,0
+103171,20171,Tuna Tarragon,1/2 cup,240,14,2,0,10,480,21,3,3,6,0,0,0,0,0,0,0
+103172,20171,Turkey Chutney Pasta,1/2 cup,230,9,2,0,30,310,21,2,6,14,0,0,0,0,0,0,0
+103173,20171,Wild Rice & Chicken,1/2 cup,300,22,5,0,20,490,20,1,4,5,0,0,0,0,0,0,0
+103174,20171,Zesty Tortellini (Veg),1/2 cup,190,15,2,0,10,460,18,2,3,4,0,0,0,0,0,0,0
+103175,20172,Honey Mustard Dressing (Fat-free),2 tbsp,45,0,0,0,10,160,10,0,9,0,0,0,0,0,0,0,0
+103176,20172,Italian Dressing (Fat-free),2 tbsp,20,0,0,0,0,340,5,0,4,0,0,0,0,0,0,0,0
+103177,20172,Ranch Dressing (Fat-free),2 tbsp,50,0,0,0,0,180,2,0,1,1,0,0,0,0,0,0,0
+103178,20172,Cucumber Dressing (Reduced Calorie),2 tbsp,80,7,1,0,0,290,4,0,3,0,0,0,0,0,0,0,0
+103179,20172,Bacon Dressing,2 tbsp,120,11,2,0,0,320,5,0,5,1,0,0,0,0,0,0,0
+103180,20172,Balsamic Vinaigrette (Non-Veg),2 tbsp,180,19,2,0,0,190,1,0,1,0,0,0,0,0,0,0,0
+103181,20172,Basil Vinaigrette,2 tbsp,160,17,1,0,0,160,1,0,0,0,0,0,0,0,0,0,0
+103182,20172,Blue Cheese Dressing,2 tbsp,150,14,3,0,15,230,3,0,1,1,0,0,0,0,0,0,0
+103183,20172,Creamy Italian Dressing,2 tbsp,150,16,2,0,10,360,2,0,1,0,0,0,0,0,0,0,0
+103184,20172,Honey Mustard Dressing,2 tbsp,150,13,2,0,10,230,8,0,6,0,0,0,0,0,0,0,0
+103185,20172,Kahlena French Dressing,2 tbsp,120,9,1.5,0,0,520,10,0,9,0,0,0,0,0,0,0,0
+103186,20172,Parmesan Pepper Cream Dressing,2 tbsp,160,17,2.5,0,5,330,2,0,1,1,0,0,0,0,0,0,0
+103187,20172,Ranch Dressing,2 tbsp,130,13,2,0,10,180,1,0,1,1,0,0,0,0,0,0,0
+103188,20172,Roasted Garlic Dressing,2 tbsp,140,14,2,0,5,300,2,0,1,1,0,0,0,0,0,0,0
+103189,20172,Sweet Maple Dressing,2 tbsp,170,17,1.5,0,5,50,6,0,6,0,0,0,0,0,0,0,0
+103190,20172,Thousand Island Dressing,2 tbsp,110,11,1.5,0,5,190,3,0,2,0,0,0,0,0,0,0,0
+103191,20172,Chow Mein Noodles,1/4 cup,70,3,0.5,0,0,100,8.5,1,0,1,0,0,0,0,0,0,0
+103192,20172,Garlic Parmesan Seasoned Croutons,5 pieces,40,3,1,0.5,2,160,2,0,2,2,0,0,0,0,0,0,0
+103193,20172,Plain Croutons,5 pieces,35,0.5,0,0,0,120,7,0.5,0,1,0,0,0,0,0,0,0
+103194,20172,Tomato Basil Croutons,5 pieces,45,3,0.8,0,0,90,3,0,0,1,0,0,0,0,0,0,0
+103195,20173,Apple Medley (Fat-free),1/2 cup,70,0,0,0,0,5,18,1,12,1,0,0,0,0,0,0,0
+103196,20173,Banana Royale (Fat-free),1/2 cup,80,0,0,3,0,5,20,1,12,1,0,0,0,0,0,0,0
+103197,20173,Chocolate Frozen Yogurt (Fat-free),1/2 cup,95,0,0,0,0,80,21,0,15,3,0,0,0,0,0,0,0
+103198,20173,Chocolate Syrup (Fat-free),2 tbsp,70,0,0,0,10,15,18,0,17,0,0,0,0,0,0,0,0
+103199,20173,Cranberry Crush Lemonade (Fat-free),1 cup,90,0,0,0,0,10,21,0,19,0,0,0,0,0,0,0,0
+103200,20173,Jello (Flavored) (Fat-free),1/2 cup,80,0,0,0,0,40,20,0,19,1,0,0,0,0,0,0,0
+103201,20173,Jello (Flavored) (Fat Free/Sugar Free),1/2 cup,10,0,0,0,0,10,0,0,0,1,0,0,0,0,0,0,0
+103202,20173,Strawberry Lemonade (Fat-free),1 cup,100,0,0,0,0,10,27,0,27,0,0,0,0,0,0,0,0
+103203,20173,Butterscotch Pudding (Low-fat),1/2 cup,140,3,0,0,10,160,24,0,24,4,0,0,0,0,0,0,0
+103204,20173,Candy Sprinkles (Low-fat),1 tbsp,70,2,0,0,0,0,11,0,11,0,0,0,0,0,0,0,0
+103205,20173,Chocolate Pudding (Low-fat),1/2 cup,140,3,0,0,10,220,23,0,23,4,0,0,0,0,0,0,0
+103206,20173,Chocolate Pudding (Low-fat/No Sugar Added),1/2 cup,90,1.5,1,0,5,430,21,1,6,4,0,0,0,0,0,0,0
+103207,20173,Nutty Waldorf Salad (Low-fat),1/2 cup,80,3,0,0,0,80,12,3,5,1,0,0,0,0,0,0,0
+103208,20173,Rice Pudding (Low-fat),1/2 cup,110,2,1,0,10,50,20,1,12,3,0,0,0,0,0,0,0
+103209,20173,Tapioca Pudding (Low-fat),1/2 cup,140,3,0,0,10,160,24,0,24,4,0,0,0,0,0,0,0
+103210,20173,Vanilla Soft Serve (Reduced Fat),1/2 cup,140,4,3,0,20,70,22,0,19,3,0,0,0,0,0,0,0
+103211,20173,Apple Cobbler,1/2 cup,350,10,2,3,0,160,64,1,10,2,0,0,0,0,0,0,0
+103212,20173,Banana Pudding,1/2 cup,160,4,0,0,10,220,27,1,26,4,0,0,0,0,0,0,0
+103213,20173,Blissful Blueberry Cobbler,1/2 cup,380,10,2,2,0,230,70,3,45,3,0,0,0,0,0,0,0
+103214,20173,Butterscotch Toasted Coconut & Walnut Focaccia,1 piece,190,7,3,0,5,170,27,1,8,4,0,0,0,0,0,0,0
+103215,20173,Caramel Apple Cobbler,1/2 cup,390,12,2.5,3,5,230,65,2,50,3,0,0,0,0,0,0,0
+103216,20173,Cheery Cherry Cobbler,1/2 cup,340,10,2,3,0,180,61,2,10,2,0,0,0,0,0,0,0
+103217,20173,Chocolate Chip Cookie,1 small,70,3,1,1,5,90,10,0,6,1,0,0,0,0,0,0,0
+103218,20173,Chocolate Chip Cookie Bar,1 piece,90,4,1.5,1,5,120,13,0,7,1,0,0,0,0,0,0,0
+103219,20173,Chocolate Lava Cake,1/2 cup,295,8,1.5,2,0,290,55,0,40,2,0,0,0,0,0,0,0
+103220,20173,Cranberry Apple Cobbler,1/2 cup,370,10,2,3,0,210,58,3,42,3,0,0,0,0,0,0,0
+103221,20173,Deep Chocolate Winter Mint Lava Cake,1/2 cup,295,8,1.5,2,5,290,55,0,39,2,0,0,0,0,0,0,0
+103222,20173,Georgia Peach Cobbler,1/2 cup,360,10,2,2,0,220,65,2,40,2,0,0,0,0,0,0,0
+103223,20173,Granola Topping,2 tbsp,110,4,2,0,0,14,16,2,6,2,0,0,0,0,0,0,0
+103224,20173,Raspberry Apple Cobbler,1/2 cup,380,12,2.5,3,0,240,67,2,39,3,0,0,0,0,0,0,0
+103225,20173,Shortcakes,1 piece,260,6,2,5,0,730,46,0,12,6,0,0,0,0,0,0,0
+103226,20173,S'More Focaccia,1 piece,240,10,3,1,5,230,36,0.5,20,2,0,0,0,0,0,0,0
+103227,20173,Strawberry Apple Cobbler,1/2 cup,340,10,2,3,0,200,66,2,19,3,0,0,0,0,0,0,0
+103228,20173,Vanilla Pudding,1/2 cup,140,4,0,0,10,160,24,0,24,4,0,0,0,0,0,0,0
+103229,20174,Oriental Green Bean & Noodle (Low-fat),1 cup,240,3,0,0,0,780,45,2,4,7,0,0,0,0,0,0,0
+103230,20174,Arizona Marinara (Veg),1 cup,360,11,5,0,25,890,47,3,6,17,0,0,0,0,0,0,0
+103231,20174,Beefy Meatball Stroganoff,1 cup,340,21,11,0.5,75,590,28,2,4,9,0,0,0,0,0,0,0
+103232,20174,Broccoli Alfredo with Basil (Veg),1 cup,380,17,8,0,40,790,45,1,5,12,0,0,0,0,0,0,0
+103233,20174,Bruschetta (Veg),1 cup,260,4,2,0,10,450,41,3,3,10,0,0,0,0,0,0,0
+103234,20174,Carbonara with Bacon,1 cup,280,8,4,0.5,20,250,43,2,3,10,0,0,0,0,0,0,0
+103235,20174,Chicken Tetrazzini,1 cup,480,23,10,1.5,70,610,47,3,4,19,0,0,0,0,0,0,0
+103236,20174,Cilantro Lime Pesto (Veg),1 cup,370,21,3,0,20,760,36,2,3,9,0,0,0,0,0,0,0
+103237,20174,Creamy Bruschetta (Veg),1 cup,360,16,8,0,45,510,43,3,3,12,0,0,0,0,0,0,0
+103238,20174,Creamy Herb Chicken,1 cup,310,17,8,0.5,80,360,32,2,7,8,0,0,0,0,0,0,0
+103239,20174,Creamy Pepper Jack (Veg),1 cup,290,15,6,0.5,50,360,35,2,6,6,0,0,0,0,0,0,0
+103240,20174,Fettuccine Alfredo (Veg),1 cup,390,18,10,0.5,50,580,41,2,4,15,0,0,0,0,0,0,0
+103241,20174,Fire-Roasted Tomato & Basil Alfredo (Veg),1 cup,370,14,8,0.5,35,690,44,2,4,19,0,0,0,0,0,0,0
+103242,20174,4-Cheese Alfredo (Veg),1 cup,390,13,7,1,30,690,50,3,3,19,0,0,0,0,0,0,0
+103243,20174,Garden Vegetable with Italian Sausage,1 cup,300,10,3,0,20,540,42,3,2,12,0,0,0,0,0,0,0
+103244,20174,Garden Vegetable with Meatballs,1 cup,270,7,3,0,10,460,42,3,2,11,0,0,0,0,0,0,0
+103245,20174,Greek Mediterranean (Veg),1 cup,290,8,3,0,15,520,45,2,4,10,0,0,0,0,0,0,0
+103246,20174,Italian Sausage with Red Pepper Puree,1 cup,250,10,4,0,45,380,35,2,7,6,0,0,0,0,0,0,0
+103247,20174,Italian Vegetable Beef,1 cup,270,6,2,0,10,470,43,4,3,10,0,0,0,0,0,0,0
+103248,20174,Lemon Cream & Asparagus (Non-Veg),1 cup,230,9,2,1.5,0,470,34,1,4,6,0,0,0,0,0,0,0
+103249,20174,Linguini with Clam Sauce,1 cup,380,10,5,1,40,890,56,1,3,16,0,0,0,0,0,0,0
+103250,20174,Macaroni & Cheese (Veg),1 cup,260,6,3,0,15,480,40,2,2,10,0,0,0,0,0,0,0
+103251,20174,Nutty Mushroom (Veg),1 cup,390,20,9,1,45,410,42,2,4,12,0,0,0,0,0,0,0
+103252,20174,Pasta Florentine (Non-Veg),1 cup,360,10,4,0.5,15,920,54,7,4,18,0,0,0,0,0,0,0
+103253,20174,Penne Arrabbiatta (Veg),1 cup,340,10,6,0,20,710,43,3,3,18,0,0,0,0,0,0,0
+103254,20174,Roasted Eggplant Marinara (Veg),1 cup,340,10,6,0,20,700,43,3,3,18,0,0,0,0,0,0,0
+103255,20174,Roasted Garlic & Asiago Alfredo (Veg),1 cup,330,11,6,0.5,25,650,45,2,5,13,0,0,0,0,0,0,0
+103256,20174,Roasted Mushroom Alfredo with Rosemary (Veg),1 cup,380,14,8,0.5,35,850,44,2,4,19,0,0,0,0,0,0,0
+103257,20174,Smoked Salmon & Dill,1 cup,360,16,8,0.5,45,390,41,2,2,13,0,0,0,0,0,0,0
+103258,20174,Southwestern Alfredo (Veg),1 cup,350,16,9,0.5,50,420,42,1,3,10,0,0,0,0,0,0,0
+103259,20174,Spicy Italian Sausage & Peppers,1 cup,360,11,6,0,25,710,43,3,3,19,0,0,0,0,0,0,0
+103260,20174,Tuscany Sausage with Capers & Olives,1 cup,240,10,4,0,15,920,29,2,3,10,0,0,0,0,0,0,0
+103261,20174,Vegetable Ragu (Veg),1 cup,250,5,2,0.5,10,480,41,3,4,9,0,0,0,0,0,0,0
+103262,20174,Vegetarian Marinara with Basil (Veg),1 cup,260,4,2,0,10,750,44,3,3,10,0,0,0,0,0,0,0
+103263,20174,Walnut Pesto (Veg),1 cup,310,9,3,0,10,610,42,2,4,10,0,0,0,0,0,0,0
+103264,20175,Apple Cinnamon Bran Muffin (96% Fat Free),1 piece,80,0.5,0,0,0,110,17,1,13,2,0,0,0,0,0,0,0
+103265,20175,Cranberry Orange or Fruit Medley Bran Muffin (96% Fat Free),1 piece,80,0.5,0,0,0,110,17,1,15,2,0,0,0,0,0,0,0
+103266,20175,Buttermilk Cornbread (Low-fat),1 piece,140,2,0,0,10,270,27,2,4,3,0,0,0,0,0,0,0
+103267,20175,Chile Corn Muffin (Low-fat),1 piece,140,3,1,0,10,320,27,2,5,3,0,0,0,0,0,0,0
+103268,20175,Indian Grain Bread (Low-fat),1 piece,200,1.5,0,0,15,260,35,0,5,11,0,0,0,0,0,0,0
+103269,20175,Sourdough Bread (Low-fat),1 piece,150,0.5,0,0,0,240,27,0,0,9,0,0,0,0,0,0,0
+103270,20175,Apple Raisin Nut Muffin,1 piece,150,7,1,0,10,190,22,1,9,2,0,0,0,0,0,0,0
+103271,20175,Banana Nut Muffin,1 piece,150,7,1,0,10,190,22,1,9,2,0,0,0,0,0,0,0
+103272,20175,Black Forest Muffin,1 piece,230,9,2,0,10,190,36,1,19,2,0,0,0,0,0,0,0
+103273,20175,Bruschetta Focaccia,1 piece,130,6,1.5,0.5,5,260,15,1,1,4,0,0,0,0,0,0,0
+103274,20175,Buttermilk Biscuits,1 piece,230,6,1.5,3.5,0,740,39,0,4,6,0,0,0,0,0,0,0
+103275,20175,Cappuccino Chip Muffin,1 piece,160,4,2,0,25,160,28,1,15,3,0,0,0,0,0,0,0
+103276,20175,Caribbean Key Lime Muffin with Coconut,1 piece,170,6,1,0,10,210,28,1,15,2,0,0,0,0,0,0,0
+103277,20175,Carrot Pineapple Muffin with Oat Bran,1 piece,150,6,1,0,10,230,23,2,13,3,0,0,0,0,0,0,0
+103278,20175,Cherry Nut Muffin,1 piece,150,7,1,0,10,190,22,1,9,2,0,0,0,0,0,0,0
+103279,20175,Chocolate Brownie Muffin,1 piece,170,8,2,0,10,190,22,1,10,3,0,0,0,0,0,0,0
+103280,20175,Chocolate Chip Muffin,1 piece,170,8,2,0,10,190,22,1,10,3,0,0,0,0,0,0,0
+103281,20175,Country Blackberry Muffin,1 piece,170,6,2,0,15,190,27,1,13,2,0,0,0,0,0,0,0
+103282,20175,French Quarter Praline Muffin,1 piece,290,15,1.5,0,20,100,38,2,21,4,0,0,0,0,0,0,0
+103283,20175,Garlic Asiago Focaccia,1 piece,140,6,2,0,10,240,19,1,1,4,0,0,0,0,0,0,0
+103284,20175,Georgia Peach Poppyseed Muffin,1 piece,150,6,1,0,10,210,20,1,10,2,0,0,0,0,0,0,0
+103285,20175,Grilled Cheese Focaccia,1 piece,150,8,3,1,10,340,15,0,1,3,0,0,0,0,0,0,0
+103286,20175,Macadamia Nut Spice Muffin,1 piece,220,9,1.5,1,20,260,33,1,18,3,0,0,0,0,0,0,0
+103287,20175,Mango Tropics Muffin with Coconut,1 piece,180,7,2,0,10,200,28,1,17,2,0,0,0,0,0,0,0
+103288,20175,Maple Walnut Muffin,1 piece,230,10,2,0,5,230,33,1,21,3,0,0,0,0,0,0,0
+103289,20175,Nutty Peanut Butter Muffin,1 piece,170,8,1,0,10,210,21,1,9,4,0,0,0,0,0,0,0
+103290,20175,Old World Greek Focaccia,1 piece,150,6,1,0,5,310,19,1,1,3,0,0,0,0,0,0,0
+103291,20175,Pauline's Apple Walnut Cake,1 piece,180,7,3,0,25,180,28,1,21,2,0,0,0,0,0,0,0
+103292,20175,Pepperoni Focaccia,1 piece,160,7,3,0,15,340,19,1,1,5,0,0,0,0,0,0,0
+103293,20175,Pesto & Sun-dried Tomato Focaccia,1 piece,160,7,2,0,10,240,20,1,1,5,0,0,0,0,0,0,0
+103294,20175,Pumpkin Raisin Muffin,1 piece,150,6,1,0,10,210,25,1,14,2,0,0,0,0,0,0,0
+103295,20175,Quattro Formaggio Focaccia,1 piece,140,5,2,0,10,240,19,1,1,4,0,0,0,0,0,0,0
+103296,20175,Roasted Potato Focaccia,1 piece,150,6,2,0,10,220,17,2,1,6,0,0,0,0,0,0,0
+103297,20175,Sauteed Vegetable Focaccia,1 piece,150,7,2,1,10,230,18,1,3,3,0,0,0,0,0,0,0
+103298,20175,Southwest Chipotle Focaccia,1 piece,160,8,1.5,0,10,230,19,1,1,4,0,0,0,0,0,0,0
+103299,20175,Spiced Pumpkin Muffin with Cranberries,1 piece,180,7,1,0,25,170,29,1,18,2,0,0,0,0,0,0,0
+103300,20175,Strawberry Buttermilk Muffin,1 piece,140,6,1,0,10,210,21,1,8,2,0,0,0,0,0,0,0
+103301,20175,Sweet Orange & Cranberry Muffin,1 piece,200,7,1,0,5,220,33,1,20,2,0,0,0,0,0,0,0
+103302,20175,Taffy Apple Muffin,1 piece,160,6,1,0,10,190,25,1,18,2,0,0,0,0,0,0,0
+103303,20175,Tangy Lemon Muffin,1 piece,140,4,1,0,10,190,24,1,13,2,0,0,0,0,0,0,0
+103304,20175,Thai Chicken Focaccia with Peanuts,1 piece,160,6,1.5,0,10,220,20,1,1,7,0,0,0,0,0,0,0
+103305,20175,Wildly Blue Blueberry Muffin-small,1 piece,140,5,1,0,10,180,22,1,9,2,0,0,0,0,0,0,0
+103306,20175,Wildly Blue Blueberry Muffin-large,1 piece,310,12,2,0,20,380,46,2,20,5,0,0,0,0,0,0,0
+103307,20175,Zucchini Nut Muffin,1 piece,150,7,1,0,10,190,22,1,9,2,0,0,0,0,0,0,0
+103308,20176,Albondigas Locas - A Meatball Soup,1 cup,210,10,4,0,15,720,17,3,3,12,0,0,0,0,0,0,0
+103309,20176,Autumn Root Vegetable with Wild Rice (Fat free/Veg),1 cup,80,0,0,0,0,970,18,2,3,1,0,0,0,0,0,0,0
+103310,20176,Baked Potato & Cheese with Bacon,1 cup,290,18,10,1,50,670,22,2,6,11,0,0,0,0,0,0,0
+103311,20176,Beef & Barley Stew,1 cup,240,10,4,0,30,930,19,3,5,12,0,0,0,0,0,0,0
+103312,20176,Better Than Mom's Beef Stew,1 cup,270,17,6,1.5,35,1100,19,2,3,9,0,0,0,0,0,0,0
+103313,20176,Big Chunk Chicken Noodle (Low-fat),1 cup,160,3,2,0,20,480,17,2,3,15,0,0,0,0,0,0,0
+103314,20176,Border Black Bean & Chorizo,1 cup,230,9,3,1,15,830,27,6,6,11,0,0,0,0,0,0,0
+103315,20176,Broccoli Cheese (Veg),1 cup,280,20,11,1,50,810,15,2,7,11,0,0,0,0,0,0,0
+103316,20176,Butternut Squash (Veg),1 cup,140,6,4,0.5,17,670,15,4,4,3,0,0,0,0,0,0,0
+103317,20176,Canadian Cheese with Smoked Ham,1 cup,370,27,14,2,65,980,20,1,9,13,0,0,0,0,0,0,0
+103318,20176,Cheese Stuffed Cappelletti (Non-Veg),1 cup,130,3.5,1.5,0.5,10,1580,20,1,8,5,0,0,0,0,0,0,0
+103319,20176,Chesapeake Corn Chowder (Non-Veg),1 cup,280,16,8,1,35,750,30,2,8,7,0,0,0,0,0,0,0
+103320,20176,Chicken Fajitas & Black Bean,1 cup,280,7,2,1,20,980,33,7,4,22,0,0,0,0,0,0,0
+103321,20176,Chicken Pot Pie Stew,1 cup,310,21,9,1.5,60,750,21,2,7,8,0,0,0,0,0,0,0
+103322,20176,Chicken Tortilla with Jalapeño Chiles & Tomatoes (Low-fat),1 cup,100,3,1,0,20,990,5,1,2,12,0,0,0,0,0,0,0
+103323,20176,Chunky Potato Cheese with Thyme (Veg),1 cup,210,10,6,0.5,30,480,19,2,3,10,0,0,0,0,0,0,0
+103324,20176,Classic Creamy Tomato,1 cup,180,11,6,1,30,650,18,2,10,2,0,0,0,0,0,0,0
+103325,20176,Classical French Onion (Non-Veg),1 cup,130,5,2,0.5,5,1280,16,2,12,2,0,0,0,0,0,0,0
+103326,20176,Classical Minestrone (Low-fat/Veg),1 cup,120,2,0,0,0,510,20,3,4,4,0,0,0,0,0,0,0
+103327,20176,Classical Shrimp Bisque,1 cup,240,16,7,1,70,230,15,1,5,9,0,0,0,0,0,0,0
+103328,20176,Country Corn & Red Potato Chowder (Non-Veg),1 cup,160,6,3,1,15,330,24,4,6,3,0,0,0,0,0,0,0
+103329,20176,Cream of Broccoli (Veg),1 cup,220,16,7,2.5,35,960,15,3,2,4,0,0,0,0,0,0,0
+103330,20176,Cream of Chicken,1 cup,250,15,6,0.5,40,350,21,2,3,12,0,0,0,0,0,0,0
+103331,20176,Cream of Mushroom (Non-Veg),1 cup,290,21,8,1.5,30,820,15,2,3,10,0,0,0,0,0,0,0
+103332,20176,Cream of Rosemary Potato (Non-Veg),1 cup,270,19,10,1,50,790,22,2,4,3,0,0,0,0,0,0,0
+103333,20176,Creamy Herbed Turkey,1 cup,320,22,10,2,60,990,18,1,5,11,0,0,0,0,0,0,0
+103334,20176,Creamy Vegetable Chowder (Veg),1 cup,200,10,4,1,20,610,23,3,6,6,0,0,0,0,0,0,0
+103335,20176,Deep Kettle House Chili (Low-fat/Non-Veg),1 cup,230,3,2,0,15,560,26,7,4,15,0,0,0,0,0,0,0
+103336,20176,Deep Kettle House Chili w/33% more meat,1 cup,250,8,3,0,25,790,26,7,7,15,0,0,0,0,0,0,0
+103337,20176,Deep Kettle House Chili w/50% more meat,1 cup,290,10,3.5,0,40,670,29,6,5,17,0,0,0,0,0,0,0
+103338,20176,8 Vegetable Chicken Stew,1 cup,190,9,5,0,45,890,17,2,5,11,0,0,0,0,0,0,0
+103339,20176,El Paso Lime & Chicken,1 cup,160,4,1,0,15,1250,24,2,5,7,0,0,0,0,0,0,0
+103340,20176,Field of Creams–Cauliflower with Proud to be American Cheese (Veg),1 cup,280,21,9,3,40,990,17,1,3,5,0,0,0,0,0,0,0
+103341,20176,Field of Creams–Fresh Celery (Veg),1 cup,210,15,7,2,30,800,15,2,2,2,0,0,0,0,0,0,0
+103342,20176,Field of Creams–Spinach (Veg),1 cup,230,16,10,1.5,45,950,18,2,3,4,0,0,0,0,0,0,0
+103343,20176,Field of Creams–Sweet Tomato Basil (Veg),1 cup,220,15,7,1,30,990,20,2,4,3,0,0,0,0,0,0,0
+103344,20176,Fire Roasted Green Chile & Corn Chowder w/Bacon,1 cup,230,14,6,1,25,670,21,1,7,5,0,0,0,0,0,0,0
+103345,20176,Garden Fresh Vegetable (Low-fat/Veg),1 cup,110,1,0,0.5,0,890,22,4,4,4,0,0,0,0,0,0,0
+103346,20176,Garden of Eatin' (Low-fat/Veg),1 cup,150,3,0,0,0,770,25,6,6,5,0,0,0,0,0,0,0
+103347,20176,Green Chile Stew with Pork,1 cup,150,6,2,0,20,980,14,3,2,9,0,0,0,0,0,0,0
+103348,20176,Hungarian Vegetable (Low-fat/Veg),1 cup,120,2,0,0,0,520,20,2,5,2,0,0,0,0,0,0,0
+103349,20176,Irish Potato Leek (Veg),1 cup,260,16,8,1,35,680,23,3,7,5,0,0,0,0,0,0,0
+103350,20176,Longhorn Beef Chili,1 cup,190,6,3,0,20,790,25,4,5,10,0,0,0,0,0,0,0
+103351,20176,Marvelous Minestrone with Bacon,1 cup,210,7,1.5,0,5,950,31,5,7,8,0,0,0,0,0,0,0
+103352,20176,Minestrone with Italian Sausage,1 cup,210,11,4,1,20,890,14,5,3,13,0,0,0,0,0,0,0
+103353,20176,Mulligatawny (Non-Veg),1 cup,210,12,5,0,40,690,18,2,5,8,0,0,0,0,0,0,0
+103354,20176,Navy Bean with Ham,1 cup,340,10,4,0,40,980,30,6,3,35,0,0,0,0,0,0,0
+103355,20176,Neighbor Joe's Gumbo (Non-Veg),1 cup,220,11,5,0,30,1360,21,3,5,9,0,0,0,0,0,0,0
+103356,20176,New Mexican Corn Tortilla with Chicken,1 cup,200,10,3,1,30,990,20,2,3,8,0,0,0,0,0,0,0
+103357,20176,New Orleans Jambalaya (Non-Veg),1 cup,210,11,4,1,30,820,18,3,7,11,0,0,0,0,0,0,0
+103358,20176,Old Fashion Vegetable (Low-fat/Veg),1 cup,100,2,0,0,0,590,18,5,5,2,0,0,0,0,0,0,0
+103359,20176,Posole with Pork,1 cup,150,6,2,0,35,980,8,2,1,12,0,0,0,0,0,0,0
+103360,20176,Ratatouille Provencale (Fat-free/Veg),1 cup,110,0,0,0,0,600,25,2,3,2,0,0,0,0,0,0,0
+103361,20176,Roasted Mushroom with Sage (Non-Veg),1 cup,320,25,11,2,50,910,20,1,7,5,0,0,0,0,0,0,0
+103362,20176,Rustic Tuscan Stew (Low-fat/Non Veg),1 cup,140,2,0,0,5,620,25,4,3,6,0,0,0,0,0,0,0
+103363,20176,Santa Fe Black Bean Chili (Low-fat/Veg),1 cup,190,3,0,0,0,580,26,8,2,9,0,0,0,0,0,0,0
+103364,20176,Savory Turkey Harvest,1 cup,210,11,5,1,30,730,18,2,7,9,0,0,0,0,0,0,0
+103365,20176,Southwest Tomato Cream (Veg),1 cup,120,6,2,0,10,720,14,2,5,3,0,0,0,0,0,0,0
+103366,20176,Southwest Turkey Chowder with Bacon,1 cup,240,15,7,1.5,40,890,21,2,3,6,0,0,0,0,0,0,0
+103367,20176,Spicy Sausage & Pasta,1 cup,310,12,4.5,10,30,1270,36,5,8,15,0,0,0,0,0,0,0
+103368,20176,Split Pea with Ham,1 cup,350,10,4,0.5,40,980,32,6,3,36,0,0,0,0,0,0,0
+103369,20176,Sweet Tomato Onion (Low-fat/Veg),1 cup,90,3,0.5,1,0,620,11,2,5,2,0,0,0,0,0,0,0
+103370,20176,Texas Red Chili (Non-Veg),1 cup,190,6,2,1,15,990,23,5,6,8,0,0,0,0,0,0,0
+103371,20176,Three-Bean Turkey Chili (Low-fat),1 cup,170,3,1,0,25,710,24,7,6,13,0,0,0,0,0,0,0
+103372,20176,Tomato Chipotle Bisque (Non-Veg),1 cup,240,16,8,1,40,1140,21,2,7,5,0,0,0,0,0,0,0
+103373,20176,Tomato Parmesan & Vegetables (Low-fat/Veg),1 cup,120,3,1,0,5,460,18,3,3,4,0,0,0,0,0,0,0
+103374,20176,Turkey Cassoulet with Bacon,1 cup,360,12,6,1.5,40,780,32,5,3,35,0,0,0,0,0,0,0
+103375,20176,Turkey Vegetable,1 cup,180,8,3,1,30,140,15,2,4,10,0,0,0,0,0,0,0
+103376,20176,U.S. Senate Bean with Smoked Ham,1 cup,150,4,1,0,10,890,20,3,4,7,0,0,0,0,0,0,0
+103377,20176,Vegetable Medley (Low-fat/Veg),1 cup,90,1,0,0,0,520,14,3,2,2,0,0,0,0,0,0,0
+103378,20176,Vegetarian Harvest (Veg),1 cup,190,8,2,0.5,0,990,23,4,5,5,0,0,0,0,0,0,0
+103379,20176,White Bean & Lime Chicken Chili,1 cup,210,4,1,0.5,35,960,27,6,4,15,0,0,0,0,0,0,0
+103380,20176,Yam & Sweet Potato Bisque (Veg),1 cup,200,7,4,1,20,630,32,4,5,2,0,0,0,0,0,0,0
+103381,20176,Yankee Clipper Clam Chowder with Bacon,1 cup,330,20,10,1.5,80,630,21,2,3,18,0,0,0,0,0,0,0

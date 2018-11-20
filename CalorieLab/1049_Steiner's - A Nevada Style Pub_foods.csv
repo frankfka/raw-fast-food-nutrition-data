@@ -1,0 +1,11 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+104866,20326,Sun City,2.5 cups,170,2,0,0,0,210,37,5,22,5,0,0,0,0,0,0,0
+104867,20326,Pyramid Shrimp Cocktail,0.5 cup,180,2.5,1,0,215,1170,15,0,12,23,0,0,0,0,0,0,0
+104868,20326,Silver Springs Oysters,,175,4,1,0,75,915,19,0,9,15,0,0,0,0,0,0,0
+104869,20326,Gazpacho Ala Elsie,1 cup,40,0,0,0,0,1005,7,2,3,3,0,0,0,0,0,0,0
+104870,20327,State Line Chinese Chicken Salad,2 cups,650,26,5,0,170,580,33,6,5,69,0,0,0,0,0,0,0
+104871,20328,Venetian Chicken Sandwich,0.5 cup,635,20,6,0,185,910,40,5,10,73,0,0,0,0,0,0,0
+104872,20328,Round Mountain,0.5 cup,455,21,9,0,135,380,21,3,5,48,0,0,0,0,0,0,0
+104873,20328,Rhyolite Sliced Turkey Sandwich,1 cup,250,4,0,0,65,1230,25,4,4,30,0,0,0,0,0,0,0
+104874,20329,Angel Hair Arabiata,1 cup,715,24,3,0,5,1115,100,9,10,21,0,0,0,0,0,0,0
+104875,20329,Broiled Salmon,1 cup,595,23,6,0,160,165,38,4,2,58,0,0,0,0,0,0,0

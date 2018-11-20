@@ -1,0 +1,7 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+114876,21153,Rice,,478,0,0,0,0,0,95,3,0,9,0,0,0,0,0,0,0
+114877,21153,Beans,,483,0,0,0,0,0,82,20,0,28,0,0,0,0,0,0,0
+114878,21153,Southwest Rice and Bean Burrito,,783,0,0,0,0,0,108,11.5,0,31,0,0,0,0,0,0,0
+114879,21153,Yin Yang Salad,,867,0,0,0,0,0,92,18,0,18,0,0,0,0,0,0,0
+114880,21153,"Yin Yang Salad, w/o dressing",,471,0,0,0,0,0,81,18,0,15,0,0,0,0,0,0,0
+114881,21153,Rice and Bean Taco,,352,0,0,0,0,0,53,6,0,12,0,0,0,0,0,0,0

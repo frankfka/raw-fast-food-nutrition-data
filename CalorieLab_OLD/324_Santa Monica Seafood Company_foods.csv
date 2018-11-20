@@ -1,0 +1,6 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+33014,2558,Hawaiian Tuna Poki,290,10,1.5,0,75,655,6,2,0,42,0,0,0,0,0,0,0
+33015,2558,Grilled Alaskan Halibut,370,18,2.5,0,65,235,7,2,0,43,0,0,0,0,0,0,0
+33016,2558,Sushi Roll Combination,405,5,1,0,55,125,63,4,0,22,0,0,0,0,0,0,0
+33017,2558,Ceviche,105,1,0,0,20,245,8,1,0,17,0,0,0,0,0,0,0
+33018,2558,Manhattan Chowder,70,1,0,0,10,700,11,2,0,7,0,0,0,0,0,0,0

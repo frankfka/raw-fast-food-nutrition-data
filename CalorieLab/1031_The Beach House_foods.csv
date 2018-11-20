@@ -1,0 +1,5 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+103391,20178,Stuffed Artichoke,1 cup,235,6,0,0,30,435,33,7,0,15,0,0,0,0,0,0,0
+103392,20178,Sautéed Bluenose Bass,2 cups,345,11,1,0,80,510,17,5,0,41,0,0,0,0,0,0,0
+103393,20178,Baked Gulf Prawns,2 cups,425,20,0.5,0,350,1590,14,5,0,52,0,0,0,0,0,0,0
+103394,20178,Bouillabaisse,0.5 cup,480,7,1,0,295,1990,12,1,0,86,0,0,0,0,0,0,0

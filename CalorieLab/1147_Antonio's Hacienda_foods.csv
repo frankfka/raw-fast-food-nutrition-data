@@ -1,0 +1,5 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+114208,21092,Arroz Con Pollo,1/2 portion,530,27,6,0,60,2090,45,5,4,27,0,0,0,0,0,0,0
+114209,21093,Camarones Fajitas,,615,22,3,0,295,2470,58,20,7,49,0,0,0,0,0,0,0
+114210,21093,Vegetable Fajitas,,565,21,2.5,0,0,2145,82,26,20,21,0,0,0,0,0,0,0
+114211,21094,Garden Fresh Burrito,,565,21,4,0,5,1785,83,11,7,17,0,0,0,0,0,0,0

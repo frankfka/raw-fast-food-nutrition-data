@@ -1,0 +1,229 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+23725,1698,Classic Pizza - Bacon Double Cheeseburger,220,8,3.5,0.1,20,600,27,1,1,10,4,0,2,15,0,0,0
+23726,1698,Classic Pizza - Big Bacon Bonanza,230,9,4,0.1,20,570,27,1,1,10,4,0,2,10,0,0,0
+23727,1698,Classic Pizza - Cheese,190,5,2.5,0.1,15,450,27,1,1,9,4,0,2,10,0,0,0
+23728,1698,Classic Pizza - Canandian Eh!,220,8,3.5,0.1,20,620,27,1,1,10,6,0,2,15,0,0,0
+23729,1698,Classic Pizza - Classic Super,200,6,2.5,0.1,20,550,27,1,2,9,10,0,2,15,0,0,0
+23730,1698,Classic Pizza - Garden Veggie,180,4.5,2,0.1,10,420,28,2,2,8,15,1,2,10,0,0,0
+23731,1698,Classic Pizza - Mini Char-Grilled Burger,250,11,4.5,0.3,10,530,28,2,2,11,8,0,2,15,0,0,0
+23732,1698,Classic Pizza - New York Pepperoni,210,8,3.5,0.2,15,580,27,1,1,9,15,0,2,15,0,0,0
+23733,1698,Classic Pizza - Pepperoni,200,6,2.5,0.1,15,550,27,1,1,9,4,0,2,15,0,0,0
+23734,1698,Classic Pizza - Pepperoni & Mushroom,200,6,2.5,0.1,20,550,27,1,1,9,6,0,2,15,0,0,0
+23735,1698,Classic Pizza - Sicilian,230,9,3.5,0.2,25,590,28,1,2,10,10,3,2,15,0,0,0
+23736,1698,Classic Pizza - Spicy BBQ Chicken,190,4.5,2,0.1,15,500,28,2,2,10,10,0,4,15,0,0,0
+23737,1698,Classic Pizza - Tropical Hawaiian,210,7,3,0.1,15,610,28,1,3,10,6,0,2,10,0,0,0
+23738,1698,Signature Pizza - Bacon Chicken Mushroom Melt,260,13,3,0.2,15,570,27,1,1,11,2,0,4,10,0,0,0
+23739,1698,Signature Pizza - Chicken Bruschetta Parm,190,6,2.5,0.1,23,560,23,1,2,10,4,0,4,10,0,0,0
+23740,1698,Signature Pizza - Chicken Mango,200,6,2.5,0.1,15,510,27,3,3,11,8,2,6,15,0,0,0
+23741,1698,Signature Pizza - Garden Riviera,210,6,2.5,0.1,10,650,29,2,1,9,6,1,2,15,0,0,0
+23742,1698,Signature Pizza - Meat Supreme,280,13,5,0.2,40,860,28,1,1,14,4,0,2,15,0,0,0
+23743,1698,Signature Pizza - Mediterranean Vegetarian,190,5,2,0.1,10,500,28,2,2,8,35,5,4,15,0,0,0
+23744,1698,Signature Pizza - Napa Valley,210,8,3,0.1,15,430,23,1,1,10,2,1,4,10,0,0,0
+23745,1698,Signature Pizza - Pesto Amore,180,7,2.5,0.1,10,320,21,2,3,7,8,4,2,10,0,0,0
+23746,1698,Signature Pizza - Philly Cheese Steak,210,6,3,0.1,20,530,28,1,2,12,6,0,6,20,0,0,0
+23747,1698,Signature Pizza - Sweet Chili Chicken,170,4,1.5,0.1,10,420,27,2,8,8,20,3,2,15,0,0,0
+23748,1698,Signature Pizza - Trio Pomodoro,170,6,2,0.1,10,480,24,1,2,7,10,1,0,10,0,0,0
+23749,1699,Classic Pizza - Bacon Double Cheeseburger,220,7,3.5,0.1,15,650,29,1,2,11,4,0,2,15,0,0,0
+23750,1699,Classic Pizza - Big Bacon Bonanza,220,7,3.5,0.1,15,650,29,1,2,10,4,0,2,15,0,0,0
+23751,1699,Classic Pizza - Cheese,200,5,3,0.2,15,480,29,1,1,9,4,0,4,15,0,0,0
+23752,1699,Classic Pizza - Canandian Eh!,230,7,3,0.1,20,690,30,2,2,11,6,0,2,15,0,0,0
+23753,1699,Classic Pizza - Classic Super,210,6,2.5,0.1,20,580,30,2,2,10,10,0,2,15,0,0,0
+23754,1699,Classic Pizza - Deep Dish Pepperoni,330,11,4.5,0.2,20,800,45,2,2,14,15,0,4,20,0,0,0
+23755,1699,Classic Pizza - Garden Veggie,190,4.5,2,0.1,10,440,30,2,2,8,15,2,2,15,0,0,0
+23756,1699,Classic Pizza - Mini Char-Grilled Burger,260,10,4.5,0.3,10,540,30,2,2,11,6,0,2,15,0,0,0
+23757,1699,Classic Pizza - New York Pepperoni,230,8,3.5,0.2,15,600,29,2,1,10,15,0,2,15,0,0,0
+23758,1699,Classic Pizza - Pepperoni,210,6,2.5,0.1,20,580,29,1,1,10,4,0,2,15,0,0,0
+23759,1699,Classic Pizza - Pepperoni & Mushroom,210,6,2.5,0.1,20,580,30,2,2,10,6,0,2,15,0,0,0
+23760,1699,Classic Pizza - Sicilian,240,9,3.5,0.1,20,600,30,1,2,10,10,3,2,15,0,0,0
+23761,1699,Classic Pizza - Spicy BBQ Chicken,200,4.5,2,0.1,15,510,30,2,2,10,10,0,4,15,0,0,0
+23762,1699,Classic Pizza - Tropical Hawaiian,220,7,3,0.1,15,630,30,1,3,10,6,0,2,15,0,0,0
+23763,1699,Signature Pizza - Bacon Chicken Mushroom Melt,270,12,3,0.2,15,600,29,1,1,12,2,0,4,15,0,0,0
+23764,1699,Signature Pizza - Chicken Bruschetta Parm,180,6,2.5,0.1,20,560,22,1,2,10,4,0,6,10,0,0,0
+23765,1699,Signature Pizza - Chicken Mango,220,7,2.5,0.1,15,540,30,3,3,11,8,2,6,15,0,0,0
+23766,1699,Signature Pizza - Garden Riviera,220,6,2.5,0.1,10,690,31,2,2,9,6,1,4,15,0,0,0
+23767,1699,Signature Pizza - Meat Lover,290,13,5,0.2,35,880,30,1,2,14,4,0,2,15,0,0,0
+23768,1699,Signature Pizza - Mediterranean Vegetarian,210,6,2.5,0.1,10,590,31,2,2,9,35,5,4,15,0,0,0
+23769,1699,Signature Pizza - Napa Valley,200,8,3,0.1,15,420,22,1,1,10,2,1,4,10,0,0,0
+23770,1699,Signature Pizza - Pesto Amore,170,7,2.5,0.1,10,320,19,2,2,8,8,5,2,10,0,0,0
+23771,1699,Signature Pizza - Philly Cheese Steak,230,6,3,0.1,20,570,31,2,2,12,6,0,6,25,0,0,0
+23772,1699,Signature Pizza - Sweet Chili Chicken,170,4.5,2,0.1,15,440,26,2,8,9,25,4,4,15,0,0,0
+23773,1699,Signature Pizza - Trio Pomodoro,180,6,2.5,0.1,10,470,22,1,2,8,10,2,6,10,0,0,0
+23774,1700,Classic Pizza - Bacon Double Cheeseburger,250,9,4,0.2,20,750,32,2,2,12,4,0,2,15,0,0,0
+23775,1700,Classic Pizza - Big Bacon Bonanza,250,9,4,0.1,20,720,32,1,2,12,4,0,2,15,0,0,0
+23776,1700,Classic Pizza - Cheese,230,7,3.5,0.2,15,530,32,1,1,11,4,0,4,15,0,0,0
+23777,1700,Classic Pizza - Canandian Eh!,260,9,4,0.2,25,780,33,2,2,13,4,0,4,15,0,0,0
+23778,1700,Classic Pizza - Classic Super,240,8,3.5,0.2,25,650,33,2,2,12,20,0,4,15,0,0,0
+23779,1700,Classic Pizza - Garden Veggie,220,6,3,0.2,15,500,33,2,2,10,20,2,4,15,0,0,0
+23780,1700,Classic Pizza - Mini Char-Grilled Burger,290,12,5,0.3,15,600,32,2,2,13,6,0,4,15,0,0,0
+23781,1700,Classic Pizza - New York Pepperoni,260,9,4,0.2,20,660,32,2,1,12,15,0,4,15,0,0,0
+23782,1700,Classic Pizza - Pepperoni,240,8,3.5,0.2,25,650,32,1,1,11,4,0,4,15,0,0,0
+23783,1700,Classic Pizza - Pepperoni & Mushroom,250,8,3.5,0.2,25,660,32,2,2,12,4,0,4,15,0,0,0
+23784,1700,Classic Pizza - Sicilian,280,11,4.5,0.2,30,690,33,2,2,12,15,4,4,15,0,0,0
+23785,1700,Classic Pizza - Spicy BBQ Chicken,230,6,3,0.2,20,570,33,2,2,12,15,0,4,15,0,0,0
+23786,1700,Classic Pizza - Tropical Hawaiian,260,9,4,0.2,15,760,34,2,3,13,6,0,4,15,0,0,0
+23787,1700,Signature Pizza - Bacon Chicken Mushroom Melt,310,15,4,0.3,20,680,32,1,2,13,2,0,4,15,0,0,0
+23788,1700,Signature Pizza - Chicken Bruschetta Parm,220,8,3.5,0.2,25,630,25,1,2,12,4,0,10,10,0,0,0
+23789,1700,Signature Pizza - Chicken Mango,250,8,3.5,0.2,20,620,32,3,3,14,8,4,8,15,0,0,0
+23790,1700,Signature Pizza - Garden Riviera,250,8,3,0.2,15,760,34,2,2,11,6,2,4,15,0,0,0
+23791,1700,Signature Pizza - Meat Supreme,320,14,6,0.2,40,970,33,2,2,16,4,0,4,15,0,0,0
+23792,1700,Signature Pizza - Mediterranean Vegetarian,240,8,3,0.1,10,670,34,2,2,9,20,2,4,15,0,0,0
+23793,1700,Signature Pizza - Napa Valley,230,9,3.5,0.2,20,500,25,1,1,12,2,2,4,10,0,0,0
+23794,1700,Signature Pizza - Pesto Amore,200,9,3.5,0.1,15,310,22,2,3,9,10,6,4,15,0,0,0
+23795,1700,Signature Pizza - Philly Cheese Steak,270,8,4,0.2,25,650,34,2,3,15,6,0,8,30,0,0,0
+23796,1700,Signature Pizza - Sweet Chili Chicken,200,6,2.5,0.1,15,470,28,3,7,10,25,4,6,15,0,0,0
+23797,1700,Signature Pizza - Trio Pomodoro,200,7,3,0.2,15,490,26,1,2,9,15,2,4,10,0,0,0
+23798,1701,Classic Pizza - Bacon Double Cheeseburger,270,9,4.5,0.2,20,800,35,2,2,13,6,0,2,15,0,0,0
+23799,1701,Classic Pizza - Big Bacon Bonanza,280,10,4.5,0.2,20,790,35,2,2,13,6,0,2,15,0,0,0
+23800,1701,Classic Pizza - Cheese,240,6,3,0.2,15,560,35,2,2,11,6,0,4,15,0,0,0
+23801,1701,Classic Pizza - Canandian Eh!,280,9,4,0.2,25,820,36,2,2,14,6,0,4,15,0,0,0
+23802,1701,Classic Pizza - Classic Super,260,8,3.5,0.2,25,690,36,2,2,12,15,0,4,15,0,0,0
+23803,1701,Classic Pizza - Garden Veggie,240,6,2.5,0.2,15,540,36,2,2,10,20,2,4,15,0,0,0
+23804,1701,Classic Pizza - Mini Char-Grilled Burger,300,12,5,0.3,15,640,36,2,2,14,8,0,4,20,0,0,0
+23805,1701,Classic Pizza - New York Pepperoni,270,10,4.5,0.2,20,720,35,2,2,12,15,0,4,15,0,0,0
+23806,1701,Classic Pizza - Pepperoni,260,8,3.5,0.2,25,690,35,2,2,12,6,0,4,15,0,0,0
+23807,1701,Classic Pizza - Pepperoni & Mushroom,260,8,3.5,0.2,25,690,35,2,2,12,6,0,4,15,0,0,0
+23808,1701,Classic Pizza - Sicilian,290,11,4.5,0.2,25,720,37,2,2,12,15,4,4,15,0,0,0
+23809,1701,Classic Pizza - Spicy BBQ Chicken,250,6,3,0.2,20,610,36,2,2,12,15,0,4,15,0,0,0
+23810,1701,Classic Pizza - Tropical Hawaiian,280,9,4,0.2,20,750,37,2,3,13,6,0,2,15,0,0,0
+23811,1701,Signature Pizza - Bacon Chicken Mushroom Melt,320,14,4,0.3,20,700,35,1,2,14,2,0,4,15,0,0,0
+23812,1701,Signature Pizza - Chicken Bruschetta Parm,240,8,4,0.2,25,670,28,1,2,13,4,0,10,15,0,0,0
+23813,1701,Signature Pizza - Chicken Mango,260,8,3.5,0.2,20,630,36,3,4,13,8,4,8,20,0,0,0
+23814,1701,Signature Pizza - Garden Riviera,270,8,3,0.2,15,800,37,2,2,11,6,2,4,15,0,0,0
+23815,1701,Signature Pizza - Meat Lover,350,15,6,0.3,45,"1,030",36,2,2,17,6,0,4,20,0,0,0
+23816,1701,Signature Pizza - Mediterranean Vegetarian,250,8,3,0.1,10,690,38,2,2,10,35,4,4,15,0,0,0
+23817,1701,Signature Pizza - Napa Valley,250,9,3.5,0.2,20,530,29,2,1,12,2,2,4,15,0,0,0
+23818,1701,Signature Pizza - Pesto Amore,200,8,2.5,0.1,10,370,25,3,3,8,10,6,4,15,0,0,0
+23819,1701,Signature Pizza - Philly Cheese Steak,280,8,4,0.2,20,670,37,2,3,15,6,0,8,25,0,0,0
+23820,1701,Signature Pizza - Sweet Chili Chicken,220,6,2.5,0.1,15,490,32,3,9,10,25,4,4,15,0,0,0
+23821,1701,Signature Pizza - Trio Pomodoro,210,7,3,0.1,15,520,29,2,2,9,15,2,4,15,0,0,0
+23822,1702,Classic Pizza - Canandian Eh!,510,18,8,0.4,35,"1,400",66,3,3,23,25,0,6,30,0,0,0
+23823,1702,Classic Pizza - Cheese,430,11,5,0.3,25,"1,000",64,3,3,19,8,0,6,30,0,0,0
+23824,1702,Classic Pizza - Classic Super,460,13,6,0.3,35,"1,160",66,3,3,21,30,1,6,30,0,0,0
+23825,1702,Classic Pizza - Garden Veggie,430,10,5,0.3,20,970,67,4,4,19,35,3,6,30,0,0,0
+23826,1702,Classic Pizza - Meat Lover,600,25,10,0.4,70,"1,700",67,3,3,28,8,0,6,35,0,0,0
+23827,1702,Classic Pizza - Mediterranean Vegetarian,500,16,7,0.3,30,"1,340",69,4,4,21,50,6,6,30,0,0,0
+23828,1702,Classic Pizza - Pepperoni,450,13,6,0.3,35,"1,160",65,3,3,20,8,0,6,30,0,0,0
+23829,1702,Classic Pizza - Tropical Hawaiian,470,13,6,0.3,25,"1,240",68,3,3,21,10,0,6,30,0,0,0
+23830,1703,Classic Pizza - Bacon Double Cheeseburger,670,22,10,0.4,50,"1,920",87,4,4,32,15,0,6,40,0,0,0
+23831,1703,Classic Pizza - Big Bacon Bonanza,710,26,11,0.4,55,"2,090",88,4,5,34,15,0,6,40,0,0,0
+23832,1703,Classic Pizza - Cheese,570,14,7,0.4,30,"1,330",86,4,4,25,15,0,8,40,0,0,0
+23833,1703,Classic Pizza - Canandian Eh!,680,22,10,0.5,60,"2,000",88,4,5,33,15,0,8,40,0,0,0
+23834,1703,Classic Pizza - Classic Super,640,19,9,0.4,60,"1,710",89,5,5,30,40,1,8,40,0,0,0
+23835,1703,Classic Pizza - Garden Veggie,580,14,7,0.4,30,"1,330",89,5,6,26,50,4,8,40,0,0,0
+23836,1703,Classic Pizza - Mini Char-Grilled Burger,730,27,12,1,40,"1,580",89,5,5,33,20,2,8,45,0,0,0
+23837,1703,Classic Pizza - New York Pepperoni,680,24,11,0.5,50,"1,770",87,5,4,30,35,0,8,40,0,0,0
+23838,1703,Classic Pizza - Pepperoni,630,19,9,0.4,60,"1,710",87,4,4,29,15,0,8,40,0,0,0
+23839,1703,Classic Pizza - Sicilian,670,22,9,0.5,55,"1,660",90,4,5,29,35,10,8,40,0,0,0
+23840,1703,Classic Pizza - Spicy BBQ Chicken,620,15,7,0.4,45,"1,540",91,5,6,31,40,0,10,40,0,0,0
+23841,1703,Classic Pizza - Tropical Hawaiian,660,20,9,0.4,40,"1,860",90,4,7,31,15,0,8,40,0,0,0
+23842,1703,Signature Pizza - Bacon Chicken Mushroom Melt,830,39,10,0.5,45,"1,770",88,4,4,34,8,0,15,40,0,0,0
+23843,1703,Signature Pizza - Chicken Bruschetta Parm,730,24,10,0.4,65,"1,990",91,4,5,38,10,3,35,30,0,0,0
+23844,1703,Signature Pizza - Chicken Mango,670,21,8,0.4,50,"1,640",88,8,9,34,20,8,20,45,0,0,0
+23845,1703,Signature Pizza - Meat Lover,810,33,13,0.5,95,"2,400",89,4,4,39,15,0,8,45,0,0,0
+23846,1703,Signature Pizza - Mediterranean Vegetarian,650,21,8,0.4,30,"1,820",94,6,5,25,60,7,10,45,0,0,0
+23847,1703,Signature Pizza - Napa Valley,740,26,9,0.4,55,"1,500",92,5,4,35,8,4,15,30,0,0,0
+23848,1703,Signature Pizza - Pesto Amore,710,31,12,0.4,50,"1,310",82,8,10,32,30,16,10,40,0,0,0
+23849,1703,Signature Pizza - Philly Cheese Steak,700,20,10,0.4,60,"1,730",93,5,8,37,15,0,20,70,0,0,0
+23850,1703,Signature Pizza - Quatro Fromaggio,600,17,8,0.4,40,"1,400",86,4,4,26,15,0,6,40,0,0,0
+23851,1703,Signature Pizza - Sweet Chili Chicken,650,17,7,0.2,40,"1,420",99,9,25,30,50,8,15,40,0,0,0
+23852,1703,Signature Pizza - Trio Pomodoro,640,19,7,0.4,30,"1,510",94,5,5,26,50,8,15,40,0,0,0
+23853,1704,Dipping Sauce - Italian Marinara,32.5,1.9,0,0,0,163,3.1,2,1.9,0.8,0,0,0,0,0,0,0
+23854,1704,Dipping Sauce - Horseradish,205,19,0,0,30,510,7.5,0,4,0.5,0,0,0,0,0,0,0
+23855,1704,Dipping Sauce - Jalapeno Cheddar,180,18,0,0,30,325,3.5,0,1.7,1.5,0,0,0,0,0,0,0
+23856,1704,Dipping Sauce - Creamy Garlic,311,34,0,0,0.5,250,2.1,0.3,0.5,0.3,0,0,0,0,0,0,0
+23857,1705,New Oven Toasted Sandwich - Philly Cheese Steak,530,14,6,0.1,60,"1,440",61,3,12,37,20,10,20,100,0,0,0
+23858,1705,New Oven Toasted Sandwich - Italian Meatball,520,23,10,0.2,50,"1,230",52,4,0,25,0,0,4,25,0,0,0
+23859,1705,New Oven Toasted Sandwich - Mesquite BBQ Chicken,500,11,6,0.2,55,"1,610",62,3,11,34,15,8,8,35,0,0,0
+23860,1705,New Oven Toasted Sandwich - Assorted Italian Deli,680,32,12,0.4,100,"2,670",48,2,2,46,8,4,20,40,0,0,0
+23861,1705,New Oven Toasted Sandwich - Mediterranean Veggie,560,27,8,0.5,30,"1,550",57,4,4,20,30,20,10,30,0,0,0
+23862,1705,Stuffed Sandwich - Bacon Cheeseburger,350,12,6,0.2,30,990,44,2,2,17,10,0,4,20,0,0,0
+23863,1705,Stuffed Sandwich - Basic Cheese and Sauce,300,8,4,0.2,20,750,44,2,2,14,10,0,4,20,0,0,0
+23864,1705,Stuffed Sandwich - Burger,620,29,12,0.2,105,"1,180",58,2,5,33,6,3,2,25,0,0,0
+23865,1705,Stuffed Sandwich - Supreme Burger,770,40,18,0.4,145,"1,740",59,2,5,45,6,4,5,25,0,0,0
+23866,1705,Stuffed Sandwich - Classic Super,340,11,5,0.3,30,940,45,3,3,16,25,0,3,15,0,0,0
+23867,1705,Stuffed Sandwich - Garden Veggie,310,8,4,0.2,20,750,45,3,3,14,25,2,3,15,0,0,0
+23868,1705,Stuffed Sandwich - Mediterranean Vegetarian,390,15,6,0.3,25,"1,130",49,3,3,16,45,6,8,25,0,0,0
+23869,1705,Stuffed Sandwich - Pepperoni,330,10,5,0.3,30,940,44,2,2,16,10,0,3,15,0,0,0
+23870,1705,Stuffed Sandwich - Tropical Hawaiian,360,12,5,0.3,25,"1,050",47,2,5,17,10,0,4,20,0,0,0
+23871,1706,Classic Wings (approx. 6),422,30,0,0,150,118,0.4,0,0,40,0,8,4,8,0,0,0
+23872,1706,Crispy Breaded Wings (approx. 6),720,46,0,0,180,"1,320",22,0,1,46,0,4,4,20,0,0,0
+23873,1706,Lightly Breaded Wings (approx. 6),660,40,0,0,150,"1,620",36,0,8,40,0,0,0,6,0,0,0
+23874,1706,Chicken Crunchers (approx. 6 pcs.),316,22,0,0,20,"1,028",28.8,0,0,16.1,0,2,0,1,0,0,0
+23875,1706,Chicken Bites (approx. 3 pcs.),230,11,0,0,40,450,14,1,0,19,0,0,0,6,0,0,0
+23876,1706,Chicken Strips (approx. 3),310,16,0,0,30,"1,010",22,1,4,19,0,0,0,1,0,0,0
+23877,1706,Dipping Sauce - Hot,17.5,0.2,0,0,0,471.2,3.6,0.6,1.5,0.5,0,0,0,0,0,0,0
+23878,1706,Dipping Sauce - Mild,15.5,0.1,0,0,0,438,3.5,0.4,2,0.4,0,0,0,0,0,0,0
+23879,1706,Dipping Sauce - Honey Mustard,78.5,0.3,0,0,0,137.5,18.1,0.4,15.5,0.9,0,0,0,0,0,0,0
+23880,1706,Dipping Sauce - Honey Garlic,90.6,0,0,0,0,259.4,22.2,0.1,17,0.3,0,0,0,0,0,0,0
+23881,1706,Dipping Sauce - Plum,94,0.3,0,0,0,222,23.4,0.1,18.5,0.2,0,0,0,0,0,0,0
+23882,1706,Dipping Sauce - Blue Cheese,259,26,0,0,20,529,18.9,0,1.2,1.8,0,0,0,0,0,0,0
+23883,1706,Dipping Sauce - Sweet Chili Thai,97,0.2,0,0,0,463,24,0.4,22,0.3,0,0,0,0,0,0,0
+23884,1706,Dipping Sauce - Texas BBQ,102,0,0,0,0,800,26,0,22,0.5,0,0,0,0,0,0,0
+23885,1707,Cool and Fresh Salads - Caesar Salad,360,32,2.5,0,20,400,15,2,4,5,60,45,10,10,0,0,0
+23886,1707,Cool and Fresh Salads - Caesar Salad with light dressing,240,17,1.5,0.2,35,510,15,2,4,5,60,45,10,10,0,0,0
+23887,1707,Cool and Fresh Salads - Caesar Salad with Chicken,410,33,3,0.1,45,680,15,2,4,14,60,45,15,15,0,0,0
+23888,1707,Cool and Fresh Salads - Caesar Salad with Bacon,450,38,4.5,0.1,40,890,16,2,4,11,60,45,10,15,0,0,0
+23889,1707,Cool and Fresh Salads - Garden Salad,110,6,0.5,0.1,0,370,13,3,6,3,120,34,8,10,0,0,0
+23890,1707,Cool and Fresh Salads - Garden Salad with Bacon,190,13,2.5,0.2,20,860,13,3,6,9,12,35,8,15,0,0,0
+23891,1707,Cool and Fresh Salads - Garden Salad with Cheese,250,18,8,0.4,35,730,13,3,6,15,120,34,10,10,0,0,0
+23892,1707,Cool and Fresh Salads - Garden Salad with Chicken,160,7,1,0.2,25,650,13,3,6,12,120,35,15,15,0,0,0
+23893,1707,Cool and Fresh Salads - Mandarin Chicken Salad,310,11,1.5,0.1,40,830,36,2,21,19,50,25,15,20,0,0,0
+23894,1707,Cool and Fresh Salads - Mediterranean Greek Salad,230,17,5,0.3,20,"1,100",14,3,6,8,60,35,10,10,0,0,0
+23895,1707,Cool and Fresh Salads - Steak Caesar,760,48,7,0.3,65,"1,850",54,2,6,23,60,45,20,60,0,0,0
+23896,1707,Cool and Fresh Salads - Chicken Mango,570,22,3.5,0.2,30,"1,640",72,3,15,18,45,35,8,15,0,0,0
+23897,1707,Cool and Fresh Salads - Tuscan Chicken Salad,290,16,3.5,0,30,"1,100",20,2,7,15,60,32,15,20,0,0,0
+23898,1707,Cool and Fresh Salads - Caesar Salad,110,4,0.2,0,0,230,14,2,4,4,60,45,8,10,0,0,0
+23899,1707,Cool and Fresh Salads - Garden Salad,50,0,0.1,0,0,25,11,3,6,3,110,35,6,10,0,0,0
+23900,1707,Cool and Fresh Salads - Mandarin Chicken Salad,190,4,1,0.1,40,530,24,2,11,18,50,25,15,20,0,0,0
+23901,1707,Cool and Fresh Salads - Mediterranean Greek Salad,170,11,4.5,0.2,20,740,12,3,6,8,60,35,10,10,0,0,0
+23902,1707,Cool and Fresh Salads - Tuscan Chicken Salad,150,7,2.5,0,30,520,10,2,3,14,90,40,15,15,0,0,0
+23903,1707,Cool and Fresh Salads - Chicken Mango,460,14,3,0.2,30,"1,330",60,3,5,17,45,35,6,15,0,0,0
+23904,1707,Cool and Fresh Salads - Steak Caesar,500,19,5,0.3,45,"1,680",53,2,6,22,60,45,20,60,0,0,0
+23905,1707,Cool and Fresh Salads - Renee's Balsamic,80,7,0.5,0,0,280,5,0,4,0,0,0,0,0,0,0,0
+23906,1707,Cool and Fresh Salads - Renee's Buttermilk Ranch,120,12,1,0,10,250,2,0,1,1,0,0,2,0,0,0,0
+23907,1707,Cool and Fresh Salads - Renee's Oriental,80,5,0.5,0,0,230,9,0,8,1,0,0,0,2,0,0,0
+23908,1707,Cool and Fresh Salads - Renee's Spring Herb Italian Light,70,7,0.5,0,0,310,2,0,0,0,2,0,0,2,0,0,0
+23909,1707,Cool and Fresh Salads - Renee's Caesar,190,20,2,0.4,15,210,1,0,0,1,2,0,2,0,0,0,0
+23910,1707,Cool and Fresh Salads - Renee's Light Caesar,100,10,1,0,30,190,1,0,0,1,2,0,0,2,0,0,0
+23911,1707,Breads and Sticks - Garlic Stix,663,39,7.5,7.1,6.8,756,67.7,2.6,8.9,10.2,0,0,1.5,0,0,0,0
+23912,1707,Breads and Sticks - Garlic Stix with 4-cheese blend,760,47,12,7,30,990,68,3,9,18,0,0,15,30,0,0,0
+23913,1707,Breads and Sticks - Garlic Bread/Toast,760,42.4,7.2,3.4,0,"1,218",79,1,7.2,15.6,0,0,0,0,0,0,0
+23914,1707,Breads and Sticks - Garlic Bread with Cheese,800,49,15,3,45,"1,450",63,1,6,28,0,0,6,0,0,0,0
+23915,1707,Breads and Sticks - Garlic Bread with Bruschetta & parm.,950,58,15,3,55,"3,050",71,1,10,31,0,0,30,0,0,0,0
+23916,1707,Breads and Sticks - Garlic Bread with Roma tom. & cheese,760,45,13,3,40,"1,360",64,1,7,26,6,2,6,0,0,0,0
+23917,1708,Beverages - Pepsi,150,0,0,0,0,15,41,0,41,0,0,0,0,0,0,0,0
+23918,1708,Beverages - Diet Pepsi,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0
+23919,1708,Beverages - 7UP,160,0,0,0,0,65,43,0,42,0,0,0,0,0,0,0,0
+23920,1708,Beverages - Diet 7UP,4,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0
+23921,1708,Beverages - Mountain Dew,170,0,0,0,0,45,47,0,46,0,0,0,0,0,0,0,0
+23922,1708,Beverages - Mug Root Beer,160,0,0,0,0,50,41,0,41,0,0,0,0,0,0,0,0
+23923,1708,Beverages - Brisk Tea,120,0,0,0,0,55,31,0,31,0,0,0,0,0,0,0,0
+23924,1708,Beverages - Orange Crush,180,0,0,0,0,10,48,0,48,0,0,0,0,0,0,0,0
+23925,1708,Beverages - Dr. Pepper,160,0,0,0,0,30,40,0,40,0,0,0,0,0,0,0,0
+23926,1708,Beverages - Schweppes Ginger Ale,120,0,0,0,0,0,32,0,32,0,0,0,0,0,0,0,0
+23927,1708,Beverages - Crush Cream Soda,180,0,0,0,0,10,48,0,48,0,0,0,0,0,0,0,0
+23928,1708,Beverages - Pepsi,250,0,0,0,0,25,68,0,68,0,0,0,0,0,0,0,0
+23929,1708,Beverages - Diet Pepsi,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0
+23930,1708,Beverages - 7UP,266,0,0,0,0,108,71,0,71,0,0,0,0,0,0,0,0
+23931,1708,Beverages - Mountain Dew,283,0,0,0,0,75,78,0,78,0,0,0,0,0,0,0,0
+23932,1708,Beverages - Tropicana Twister Fruit Fusion,402,0,0,0,0,106,111,0,109,0,0,0,0,0,0,0,0
+23933,1708,Beverages - Tropicana Twister Lemonade,236,0,0,0,0,118,69,0,66,0,14,0,0,0,0,0,0
+23934,1708,Beverages - Tropicana Twister Grape,283,0,0,0,0,95,73,0,71,0,142,0,0,0,0,0,0
+23935,1708,Beverages - Aquafina Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23936,1708,Beverages - ml Pepsi,300,0,0,0,0,30,82,0,82,0,0,0,0,0,0,0,0
+23937,1708,Beverages - Aquafina Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23938,1708,Beverages - Dole Orange Juice,237,0,0,0,0,19,55,0,45,4,114,0,48,0,0,0,0
+23939,1708,Beverages - Dole Apple,227,0,0,0,0,19,53,0,49,2,114,0,49,0,0,0,0
+23940,1708,Beverages - Dole Ruby Red,265,0,0,0,0,28,62,0,55,2,114,76,49,0.4,0,0,0
+23941,1708,Beverages - Lipton with Lemon,147,0,0,0,0,0,37,0,37,0,0,0,0,0,0,0,0
+23942,1708,Beverages - Starbucks Frappuccino,209,3,0,0,0,104,37,0,32,6,0,0,0,0,0,0,0
+23943,1708,Beverages - SoBe Orange Carrot,213,0,0,0,0,35,59,0,59,0,142,0,0,0,0,0,0
+23944,1708,Beverages - SoBe Berry Energy,307,0,0,0,0,35,80,0,78,0,142,0,0,0,0,0,0
+23945,1708,Beverages - SoBe Green Tea,213,0,0,0,0,24,57,0,57,0,142,0,0,0,0,0,0
+23946,1708,Beverages - SoBe Lizard Lightening,331,0,0,0,0,47,80,0,78,0,142,0,0,0,0,0,0
+23947,1708,Beverages - SoBe Lizard Fuel,331,0,0,0,0,47,80,0,78,0,142,0,0,0,0,0,0
+23948,1708,Beverages - SoBe Liz Bliz,307,0,0,0,0,118,78,0,77,0,142,0,0,0,0,0,0
+23949,1708,Beverages - SoBe Liz Bliz,307,0,0,0,0,0,78,0,77,0,0,142,0,118,0,0,0
+23950,1708,Beverages - Crispy Crunch Milkshake,350,11,0,0,47,0,50,0,49,13,457,0,0,201,0,0,0
+23951,1708,Beverages - Partly Skimmed Milk - 2% white,258,10,0,0,37.6,0,24,0,0,17.2,730,0,0,258,0,0,0
+23952,1708,"Beverages - Partly Skimmed Chocolate Milk, 1%",342,5.6,0,0,20,0,56,0,0,17.2,610,0,0,300,0,0,0

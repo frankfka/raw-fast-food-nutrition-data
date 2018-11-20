@@ -1,0 +1,236 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+106213,20507,BBQ Chicken Pizza,1/2 pizza,370,18,8,0,50,720,32,1,6,18,0,0,0,0,0,0,0
+106214,20507,Bosco Breadsticks,1 stick,210,7,3.5,1,15,400,24,1,1,12,0,0,0,0,0,0,0
+106215,20507,Breaded Mozzarella Sticks With Sauce,2 sticks,190,11,4,0,15,430,15,1,1,9,0,0,0,0,0,0,0
+106216,20507,Buffalo Chicken Bites,3 pieces,180,7,1,0,30,610,17,2,0,14,0,0,0,0,0,0,0
+106217,20507,Buffalo Chicken Pizza,1/3 pizza,340,15,7,0,45,1280,34,2,4,17,0,0,0,0,0,0,0
+106218,20507,Cheese Pizza Eat-zzas™,1 pizza,380,14,6,2,20,610,47,4,8,18,0,0,0,0,0,0,0
+106219,20507,Cheesy Garlic Bread,1/2 loaf,290,15,5,1.5,15,550,30,1,1,10,0,0,0,0,0,0,0
+106220,20507,Chicken Bites with Asian Ginger Sauce (4 bites with 1 1/2 tbsp. sauce),,180,6,0.5,0,35,520,19,1,4,14,0,0,0,0,0,0,0
+106221,20507,Chicken Chipotle Quesadilla Rolls,3 pieces,340,13,5,2.5,20,800,43,5,3,13,0,0,0,0,0,0,0
+106222,20507,Chicken Classics,1 piece - 6 oz,320,12,4,0,65,800,30,1,1,24,0,0,0,0,0,0,0
+106223,20507,Chicken Cordon Bleu,6 oz,350,15,6,0,85,880,26,1,3,29,0,0,0,0,0,0,0
+106224,20507,Chicken Gems,1 gem,130,6,1,0,20,390,9,4,3,11,0,0,0,0,0,0,0
+106225,20507,Egg Rolls with Sauce,3 egg rolls,290,16,5,0,20,590,28,2,3,8,0,0,0,0,0,0,0
+106226,20507,Honey BBQ Chicken Tenders,1 piece - 69 g,160,6,1,0,15,520,15,1,3,10,0,0,0,0,0,0,0
+106227,20507,Hot & Spicy Buffalo Wings,4 pieces,240,17,4,0,60,600,3,0,0,16,0,0,0,0,0,0,0
+106228,20507,Italian Four Cheese Dipper,1/6 dipper,240,11,4.5,0,20,430,24,1,1,12,0,0,0,0,0,0,0
+106229,20507,Li'L Bagel Dogs,79 g,210,10,3,0,25,480,22,1,2,8,0,0,0,0,0,0,0
+106230,20507,Mediterranean Pizza,1/2 pizza,370,24,9,0,40,370,25,2,1,14,0,0,0,0,0,0,0
+106231,20507,Mexican Chili Crispitos,1 crispito,220,10,2.5,0,25,350,22,1,1,10,0,0,0,0,0,0,0
+106232,20507,Pepperoni Pizza Eat-zzas™,1 pizza,470,20,7,2,25,840,51,5,9,21,0,0,0,0,0,0,0
+106233,20507,Pepperoni Pizzatas,1 stick - 2.2 oz - 62 g,180,10,4,0,20,460,14,0,2,9,0,0,0,0,0,0,0
+106234,20507,Pesto Bruschetta,2 pieces,140,9,3,0,10,210,10,1,1,5,0,0,0,0,0,0,0
+106235,20507,Popcorn Chicken,13 pieces,170,6,1,0,25,530,17,1,0,14,0,0,0,0,0,0,0
+106236,20507,Potato Skins,3 pieces,180,9,4,1,25,320,17,4,1,7,0,0,0,0,0,0,0
+106237,20507,Stuffed Appetizer Bread,1/4 loaf - 156 g,470,22,11,0.5,45,1010,47,2,4,20,0,0,0,0,0,0,0
+106238,20507,Sundried Tomato & Three-Cheese Dip,2 tbsp,60,5,3,0,15,190,2,1,2,2,0,0,0,0,0,0,0
+106239,20508,Gatorade Kid Size Variety Pack,1 bottle - 355 ml,90,0,0,0,0,160,22,0,22,0,0,0,0,0,0,0,0
+106240,20508,Ocean Spray Berry Blue Lemonade,1 bottle - 8 fl oz,120,0,0,0,0,35,31,0,31,0,0,0,0,0,0,0,0
+106241,20508,Ocean Spray Wildberry Singles,1 bottle - 8 fl oz,140,0,0,0,0,35,34,0,34,0,0,0,0,0,0,0,0
+106242,20508,Pina Colada Smoothie Mix,5 oz,230,3.5,3,0,0,20,48,1,44,1,0,0,0,0,0,0,0
+106243,20508,Tropicana Orange Juice Singles,1 carton - 8 fl oz,110,0,0,0,0,0,26,0,22,2,0,0,0,0,0,0,0
+106244,20509,Apple Berry Breakfast Bowl,1 bowl,200,2.5,1,0,5,140,50,7,34,1,0,0,0,0,0,0,0
+106245,20509,Bacon Quiche,1/8 quiche,320,22,12,0,130,650,20,1,3,10,0,0,0,0,0,0,0
+106246,20509,Blueberry Muffins,1 muffin,170,6,1,0,15,150,27,1,15,3,0,0,0,0,0,0,0
+106247,20509,Breakfast Bundles,one breakfast bundle - 2.6 oz,180,6,1.5,0,15,460,25,1,9,7,0,0,0,0,0,0,0
+106248,20509,Breakfast Burritos,1 burrito,280,12,3.5,0,20,550,31,1,2,12,0,0,0,0,0,0,0
+106249,20509,Breakfast Casserole,1/2 cup - 115 g,190,11,4.5,0,165,660,6,2,1,13,0,0,0,0,0,0,0
+106250,20509,Breakfast Pizzas,1 pizza,510,27,9,0,75,1280,43,2,6,23,0,0,0,0,0,0,0
+106251,20509,Breakfast Quesadillas,1 quesadilla - 106 g,290,14,7,0,115,730,26,1,2,15,0,0,0,0,0,0,0
+106252,20509,Chocolate Chip Mini Pancakes,6 pancakes,130,3,1,0,5,240,22,1,8,3,0,0,0,0,0,0,0
+106253,20509,Cinnamon Brown Sugar Bagel·ers™,1 bageler,190,4,2.5,0,10,220,35,3,8,6,0,0,0,0,0,0,0
+106254,20509,French Toast Sticks,4 pieces,280,12,2.5,0,0,460,38,1,9,5,0,0,0,0,0,0,0
+106255,20509,Fully Cooked Turkey Sausage Links,2 links,100,6,2,0,50,300,0,0,0,11,0,0,0,0,0,0,0
+106256,20509,Gourmet Cinnamon Rolls,1 roll - 3 oz,300,15,5,0.4,15,790,37,2,13,5,0,0,0,0,0,0,0
+106257,20509,Microwave Pancakes,3 pancakes,200,6,1,0,5,440,36,1,13,3,0,0,0,0,0,0,0
+106258,20509,Mini Cheese Omelets,1 omelet,60,2.5,1.5,0,5,170,2,0,1,7,0,0,0,0,0,0,0
+106259,20509,Original Plain Bagel·ers™,1 bagel bar,190,6,3,0,15,230,31,3,5,6,0,0,0,0,0,0,0
+106260,20509,Sausage & Egg Pancake Sandwich,1 sandwich,430,25,7,0,140,890,39,1,15,13,0,0,0,0,0,0,0
+106261,20509,Spectrum Blend Fruit Cup,1 cup - 6 oz,120,0,0,0,0,10,28,2,24,1,0,0,0,0,0,0,0
+106262,20510,Andes Chocolate Mint Layer Pie,1/8 pie,420,27,14,3,5,300,44,2,28,3,0,0,0,0,0,0,0
+106263,20510,Apple Blossoms,1 pastry,350,20,6,4.5,5,310,38,5,12,3,0,0,0,0,0,0,0
+106264,20510,Apple Cranberry Deep Dish Pie,1 slice,350,20,4,5,0,290,40,2,14,2,0,0,0,0,0,0,0
+106265,20510,Apple Cranberry Ring,1/8 ring,190,4,1,1,0,105,39,3,28,1,0,0,0,0,0,0,0
+106266,20510,Apple Deep Dish Pie,1/12 pie,330,19,4,5,0,280,39,2,13,2,0,0,0,0,0,0,0
+106267,20510,Apple Razz Deep Dish Pie,1 slice,380,23,5,0,0,570,42,3,19,3,0,0,0,0,0,0,0
+106268,20510,Bumbleberry Blossoms,1 piece,350,20,6,4,5,280,42,5,15,3,0,0,0,0,0,0,0
+106269,20510,Candy Cane Pie,1 slice,530,36,19,2.5,95,210,47,1,39,4,0,0,0,0,0,0,0
+106270,20510,Caramel Apple Blossoms,1 piece,370,17,9,0,15,330,50,2,22,4,0,0,0,0,0,0,0
+106271,20510,Chocolate Chip Cookie Dough,2 cookies,150,6,2,1.5,5,150,21,1,13,2,0,0,0,0,0,0,0
+106272,20510,Chocolate Fudge Volcano Cakes,1 cake,480,20,6,0,70,580,70,3,48,7,0,0,0,0,0,0,0
+106273,20510,Chocolate Toffee Pretzels,6 pieces - 38 g,190,9,5,0,5,100,24,0,15,3,0,0,0,0,0,0,0
+106274,20510,Cinnamon Apple Slices,5 oz,90,0,0,0,0,55,23,2,19,0,0,0,0,0,0,0,0
+106275,20510,Double Chocolate Cheesecake,1/6 cheesecake,440,27,13,2.5,95,390,44,2,23,6,0,0,0,0,0,0,0
+106276,20510,Double Chocolate Mini Oreos,4 pieces,100,5,2.5,0,5,60,13,0,10,1,0,0,0,0,0,0,0
+106277,20510,Fannie May Mint Meltaways,5 pieces,254,17,10,0,5,35,23,2,19,3,0,0,0,0,0,0,0
+106278,20510,Fannie May Pixies,3 pieces,211,11,4,0,5,45,26,1,20,3,0,0,0,0,0,0,0
+106279,20510,French Silk Pie,1/8 pie,540,41,24,1,40,340,42,1,24,4,0,0,0,0,0,0,0
+106280,20510,Fruit Medley Deep Dish Pie,1/10 pie,380,22,4.5,6,0,330,44,2,16,3,0,0,0,0,0,0,0
+106281,20510,Funnel Cakes,1 cake,280,9,2,2.5,30,360,45,1,15,5,0,0,0,0,0,0,0
+106282,20510,Gingerbread Boys,4 cookies - 30 g,120,4.5,2.5,0,10,115,20,1,8,2,0,0,0,0,0,0,0
+106283,20510,Holiday Cookie Shapes,1 cookie - 24 g,110,5,1,2,9,90,14,0,8,1,0,0,0,0,0,0,0
+106284,20510,Holiday Sprinkles,3 g,14,1,0.2,0,0,0,3,0,3,0,0,0,0,0,0,0,0
+106285,20510,Individual Carrot Cakes,1 cake,380,20,4.5,0.5,50,360,46,1,33,3,0,0,0,0,0,0,0
+106286,20510,Lemon Delight Bars,1 pre-sliced bar,230,11,6,0,80,90,29,0,20,3,0,0,0,0,0,0,0
+106287,20510,Lemon Herb ChicNSteakes,1 chicnsteake,110,1.5,0,0,60,380,1,0,0,23,0,0,0,0,0,0,0
+106288,20510,Lemon Lime Ice,1/2 container - 4 oz,80,0,0,0,0,55,20,0,17,0,0,0,0,0,0,0,0
+106289,20510,Lemon Supreme Pie,1 slice,410,26,13,2.5,45,230,42,0,30,3,0,0,0,0,0,0,0
+106290,20510,Mini Jack O'Lantern Cookies,3 cookies - 28 g,130,6,3,0,0,100,18,0,6,2,0,0,0,0,0,0,0
+106291,20510,New York Style Cheesecake,1/6 cheesecake,480,30,16,2.5,135,490,47,1,31,7,0,0,0,0,0,0,0
+106292,20510,No Sugar Added Apple Pie,1 slice,270,17,9,0,10,300,30,2,10,2,0,0,0,0,0,0,0
+106293,20510,No Sugar Added New York Style Cheesecake,1/6 cheesecake,310,23,15,0,125,220,20,0,2,5,0,0,0,0,0,0,0
+106294,20510,Pecan Pie,1/8 pie,510,25,10,0,95,380,69,1,25,5,0,0,0,0,0,0,0
+106295,20510,Peppermint Dusted Pretzels,6 pieces - 39 g,190,8,4.5,0,5,125,27,1,18,2,0,0,0,0,0,0,0
+106296,20510,Pumpkin Cookie Shapes,1 cookie - 1 oz,130,6,1,2,10,110,16,0,6,1,0,0,0,0,0,0,0
+106297,20510,Pumpkin Pie,1/8 pie,330,22,11,2,90,280,31,2,19,3,0,0,0,0,0,0,0
+106298,20510,Rainbow Chocolate Drop Cookie Dough,2 cookie dough,120,5,1.5,1.6,5,160,18,0,10,1,0,0,0,0,0,0,0
+106299,20510,Strawberries n' Cream Pie,1/9 pie,350,23,12,1.5,30,120,36,1,22,3,0,0,0,0,0,0,0
+106300,20510,Strawberry Smoothie Mix,5 oz,250,0,0,0,0,35,62,3,51,0,0,0,0,0,0,0,0
+106301,20510,Taffy Apple Deep Dish Pie,12 pie,390,23,8,0,0,290,43,2,16,4,0,0,0,0,0,0,0
+106302,20510,Teriyaki ChicNSteakes,1 chicnsteake,170,6,1,0,55,760,7,0,4,22,0,0,0,0,0,0,0
+106303,20510,Tortilla Crusted Pepper Jack Stuffed Chicken,1 piece - 5.5 oz,370,24,7,0,85,550,15,1,1,23,0,0,0,0,0,0,0
+106304,20510,Turtle Cheesecake,1/6 cheesecake,460,28,12,2,85,370,44,1,28,7,0,0,0,0,0,0,0
+106305,20510,Key West Lime Pie,1/8 pie,410,22,11,2,25,210,47,1,35,5,0,0,0,0,0,0,0
+106306,20510,Confetti Cheesecake,1/6 cake,450,29,16,2.5,135,460,40,1,27,7,0,0,0,0,0,0,0
+106307,20510,Triple Chocolate Bundt Cake,1/6 cake,290,13,3.5,5,30,320,42,1,28,3,0,0,0,0,0,0,0
+106308,20510,M&M Mix Ins,1 shake,500,20,11,0,40,190,75,1,74,10,0,0,0,0,0,0,0
+106309,20511,Baked Potato Soup,1 cup prepared,180,10,6,0.5,20,990,17,1,3,6,0,0,0,0,0,0,0
+106310,20511,Beef & Broccoli with Rice,7.5 oz - 213 g,220,6,1.5,0,15,980,20,1,5,14,0,0,0,0,0,0,0
+106311,20511,Broccoli Cheese Soup Singles,1 pouch,230,14,4,0,15,940,18,3,5,8,0,0,0,0,0,0,0
+106312,20511,Cheese Lasagna Roll-Ups,1 portion - 3 oz,170,5,2.5,0,20,110,24,4,3,9,0,0,0,0,0,0,0
+106313,20511,Cheese Pizza,1/4 pizza,280,11,6,0,5,500,31,2,3,13,0,0,0,0,0,0,0
+106314,20511,Cheese Ravioli,7 ravioli,210,7,3.5,0,35,170,28,5,4,11,0,0,0,0,0,0,0
+106315,20511,Chicken Dumpling Soup,1 cup prepared,140,3.5,1.5,0,30,1130,19,1,2,7,0,0,0,0,0,0,0
+106316,20511,Chicken Cacciatore,8 oz,170,4,1,0,50,810,13,2,7,21,0,0,0,0,0,0,0
+106317,20511,Chicken Fettuccini Alfredo,9.5 oz,460,8,2.5,0,50,640,70,12,5,30,0,0,0,0,0,0,0
+106318,20511,Chicken Pot Pie,1 cup - 230 g,290,31,5,1,35,500,28,1,2,10,0,0,0,0,0,0,0
+106319,20511,Chicken Stir-Fry Kit,1/3 cup - 185 g,230,4,1,0,50,1110,26,3,22,22,0,0,0,0,0,0,0
+106320,20511,Florentine Lasagna Roll-Ups,1 portion - 3 oz,90,2.5,1,0,5,120,13,2,0,4,0,0,0,0,0,0,0
+106321,20511,Florentine Stuffed Chicken,1 piece,340,20,7,0,90,970,11,1,1,30,0,0,0,0,0,0,0
+106322,20511,Hearty Beef Stew,2/3 cup,160,2,1,0,10,810,19,2,3,15,0,0,0,0,0,0,0
+106323,20511,Home-Style Gravy & Beef Tips,2/3 cup,130,6,3,0,35,670,5,0,1,14,0,0,0,0,0,0,0
+106324,20511,Individual Beef Pot Pies,1 individual pot pie,680,40,15,2.5,30,1170,58,4,5,17,0,0,0,0,0,0,0
+106325,20511,Individual Chicken Pot Pies,1 pot pie,650,38,13,2.5,30,1150,58,3,6,17,0,0,0,0,0,0,0
+106326,20511,Italian Wedding Soup,1 cup,130,4,2,0,5,940,16,1,2,6,0,0,0,0,0,0,0
+106327,20511,Kraft Macaroni & Cheese Singles,1 pouch,340,11,3,0,25,830,48,2,11,12,0,0,0,0,0,0,0
+106328,20511,Lobster Bisque,1/3 cup,100,6,1,2,10,890,6,0,0,4,0,0,0,0,0,0,0
+106329,20511,Oriental Chicken & Noodles,7.5 oz - 213 g,300,8,1.5,0,65,1130,36,4,8,20,0,0,0,0,0,0,0
+106330,20511,Rosemary Chicken Soup,1 cup,80,1,0.5,0,15,680,12,1,2,5,0,0,0,0,0,0,0
+106331,20511,Single Serve Meat Lasagna,1 tray,480,20,10,0.3,70,960,47,8,17,29,0,0,0,0,0,0,0
+106332,20511,Southwest Chicken Soup,1 cup,100,1.5,0.5,0,10,580,15,4,1,6,0,0,0,0,0,0,0
+106333,20511,Taco Pizzas,1/4 pizza,320,13,6,0,50,770,34,5,3,17,0,0,0,0,0,0,0
+106334,20511,Tomato Basil Soup Singles,1 pouch,140,3.5,1,0,5,1670,20,6,10,7,0,0,0,0,0,0,0
+106335,20511,Turkey Gravy,1/4 cup,35,25,0.5,0.5,0,270,3,0,0,1,0,0,0,0,0,0,0
+106336,20512,Crab Cakes,1 crab cake,100,4.5,1,0,45,340,7,0,1,7,0,0,0,0,0,0,0
+106337,20512,Fish & Chips,2 fillet - 4 oz,550,35,5,1,30,750,45,8,4,15,0,0,0,0,0,0,0
+106338,20512,Flounder Del Rey,6 oz,170,9,2.5,0,90,660,2,1,0,22,0,0,0,0,0,0,0
+106339,20512,Garlic & Herb Shrimp,15 shrimp,130,4,0.5,0,150,690,3,0,0,17,0,0,0,0,0,0,0
+106340,20512,Jumbo Party Shrimp with Sauce,3 oz,60,1,0,0,120,490,0,0,0,14,0,0,0,0,0,0,0
+106341,20512,Krispy Krunchy Cod,1 fillet,220,10,1.5,0,30,330,18,1,1,14,0,0,0,0,0,0,0
+106342,20512,Large Shrimp - 1 lb.,4 oz,90,0,0,0,160,140,2,0,0,21,0,0,0,0,0,0,0
+106343,20512,Oven-Ready Butterfly Shrimp,4 shrimp,190,8,3,0,30,460,21,1,2,7,0,0,0,0,0,0,0
+106344,20512,Popcorn Shrimp,21 shrimp,200,10,3.5,0,30,620,21,1,1,6,0,0,0,0,0,0,0
+106345,20512,Pre-Split King Crab Legs,3 pieces,80,1.5,0,0,45,900,0,0,0,16,0,0,0,0,0,0,0
+106346,20512,Premium Cod,4 oz,90,1,0,0,55,70,0,0,0,20,0,0,0,0,0,0,0
+106347,20512,Seasoned Salmon,6 oz,270,17,3,0,70,170,1.5,0,1.5,30,0,0,0,0,0,0,0
+106348,20512,Shore Style Catfish,1 fillet,290,13,3,0,60,380,23,1,2,22,0,0,0,0,0,0,0
+106349,20512,Shrimp & Crab Parmesan Dip,2 tbsp,50,4,1.5,0,30,200,2,1,0,3,0,0,0,0,0,0,0
+106350,20512,Stuffed Shrimp Treasures,4 shrimp - 4 oz,290,24,6,0,55,440,12,2,1,9,0,0,0,0,0,0,0
+106351,20512,Tilapia Fillets,4 oz,93,1,0.5,0,55,40,0,0,0,21,0,0,0,0,0,0,0
+106352,20512,Tortilla Crusted Tilapia,5.3 oz,250,11,5,0,50,370,15,0,2,24,0,0,0,0,0,0,0
+106353,20512,Wild Alaskan Grilled Salmon,1 fillet,110,1,0.5,0,25,390,2,0,0,21,0,0,0,0,0,0,0
+106354,20512,Coconut Popcorn Shrimp with Citrus Dipping Sauce,14 shrimp - 3 oz,250,13,0,1.5,55,470,23,1,5,11,0,0,0,0,0,0,0
+106355,20513,Heart Cookie Shapes,1 cookie,130,7,1.5,0,10,120,16,0,7,1,0,0,0,0,0,0,0
+106356,20513,Nut Assortment,1 oz,160,12,2,0,0,110,11,1,6,4,0,0,0,0,0,0,0
+106357,20514,American Cheese,1 slice,70,6,4,0,15,240,1,0,0,4,0,0,0,0,0,0,0
+106358,20514,Breaded Chicken Breast Patties,1 patty - 3 oz,190,10,2,0,35,230,12,0,0,13,0,0,0,0,0,0,0
+106359,20514,Broccoli Cheese Stuffed Chicken,1 piece,330,23,6,0,70,870,16,9,2,23,0,0,0,0,0,0,0
+106360,20514,Cheddar Broccoli Bake,1 cup,250,14,8,0,50,1180,21,8,5,10,0,0,0,0,0,0,0
+106361,20514,Cheddar Cheese Goldfish Crackers,1 pouch,60,2.5,0.5,0,0,115,9,0,0,2,0,0,0,0,0,0,0
+106362,20514,Cheese Stuffed Pretzels,1 pretzel,195,4,2.5,0,15,350,33,1,2,6,0,0,0,0,0,0,0
+106363,20514,Chicken Bacon Ranch Sandwich,1 sandwich,410,16,5,1.5,50,1180,42,2,7,22,0,0,0,0,0,0,0
+106364,20514,Chicken Fries,8 pieces,150,3.5,1,0,35,730,15,1,1,15,0,0,0,0,0,0,0
+106365,20514,Chicken Nuggets,4 nuggets,180,8,1.5,0,30,640,12,1,0,16,0,0,0,0,0,0,0
+106366,20514,Chocolate Pudding Cups,1 cup - 4 oz,190,9,9,0,0,160,25,0,20,3,0,0,0,0,0,0,0
+106367,20514,Chocolate-Chocolate Chip Puddin' Cakes,1 slice,240,12,2.5,0,30,230,31,1,20,3,0,0,0,0,0,0,0
+106368,20514,Colby Jack Snack Sticks,1 stick,110,9,5,0,30,170,1,0,0,7,0,0,0,0,0,0,0
+106369,20514,Frozen Fruit Pops,1 fruit pop,80,0,0,0,0,10,18,1,16,1,0,0,0,0,0,0,0
+106370,20514,Fruit Singles,1 cup - 4 oz,70,0,0,0,0,5,16,2,13,1,0,0,0,0,0,0,0
+106371,20514,Fruit Snacks Variety Pack,1 pouch,80,0,0,0,0,30,18,0,13,2,0,0,0,0,0,0,0
+106372,20514,Giant Cinnamon Goldfish Grahams,1 pouch,120,4.5,1,0,0,105,19,1,6,1,0,0,0,0,0,0,0
+106373,20514,Munch Packs,1 pouch,240,7,4.5,0,5,25,42,2,31,3,0,0,0,0,0,0,0
+106374,20514,PB&J Squarewiches,1 sandwich,260,14,1.3,0,0,290,28,2,3,9,0,0,0,0,0,0,0
+106375,20514,Quaker Chewy Granola Bar Variety Pack,1 bar,120,4,1.5,0,0,85,22,1,10,2,0,0,0,0,0,0,0
+106376,20514,String Cheese,1 stick,80,6,3,0,15,190,1,0,0,7,0,0,0,0,0,0,0
+106377,20514,Traditional Pretzels with Salt Packets,1 pretzel,190,1,0,0,0,160,40,2,1,6,0,0,0,0,0,0,0
+106378,20514,Turkey Burgers,1 burger,150,6,2,0,80,440,1,0,0,25,0,0,0,0,0,0,0
+106379,20515,1/4 Pound Patties,1 patty - 113 g,290,24,10,1,65,80,0,0,0,18,0,0,0,0,0,0,0
+106380,20515,Bacon Wrapped Pork Tournedos,2 pieces,370,26,9,0,90,1060,2,1,0,31,0,0,0,0,0,0,0
+106381,20515,Bacon Wrapped Ranch Steaks,1 steak,277,16,5.9,0,81,594,1,1,1,29,0,0,0,0,0,0,0
+106382,20515,Barbecued Pork,1/2 cup,280,13,5,0,80,870,16,1,6,24,0,0,0,0,0,0,0
+106383,20515,Beef Teriyaki Kit,11.2 oz - 320 g,310,4.5,1.5,0,35,530,49,5,13,18,0,0,0,0,0,0,0
+106384,20515,Bone In Pork Chops (without the bone),5.1 oz,180,7,2,0,80,520,0,0,0,28,0,0,0,0,0,0,0
+106385,20515,Boneless Pork Chops,1 chop - 140 g,180,6,2,0,80,540,0,0,0,28,0,0,0,0,0,0,0
+106386,20515,Boneless Pork Riblets,7 riblets,380,27,9,1,80,780,14,0,9,19,0,0,0,0,0,0,0
+106387,20515,Chop House Cheeseburgers,1 burger,430,23,9,2,50,620,38,1,6,17,0,0,0,0,0,0,0
+106388,20515,Flame Broiled Beef Patties,1 patty,260,22,9,0,60,290,0,0,0,15,0,0,0,0,0,0,0
+106389,20515,Deluxe Ham Steaks,1 slice - 5 oz - 140 g,155,6,2,0,60,1130,2,0,2,25,0,0,0,0,0,0,0
+106390,20515,Filet Mignon Steaks,6 oz,348,16,6,0,144,108,0,0,0,48,0,0,0,0,0,0,0
+106391,20515,Filet of Sirloin,1 steak,225,8,3,0,101,98,0,0,0,36,0,0,0,0,0,0,0
+106392,20515,French Dip,2/3 cup - 151 g,80,2,0.5,0,30,980,2,0,1,14,0,0,0,0,0,0,0
+106393,20515,Fully Cooked Bacon Slices,3 slices,80,7,2.5,0,15,260,0,0,0,5,0,0,0,0,0,0,0
+106394,20515,Fully Cooked Pot Roast,3 oz,110,4,1,0,50,320,2,0,0,16,0,0,0,0,0,0,0
+106395,20515,Ground Beef - 85% lean,4 oz,240,17,7,1,75,75,0,0,0,21,0,0,0,0,0,0,0
+106396,20515,Ground Chuck - All Natural,4 oz,331,28,11,2,85,75,0,0,0,18,0,0,0,0,0,0,0
+106397,20515,Trial Ground Beef 85% Lean,4 oz,240,17,7,0,75,75,0,0,0,21,0,0,0,0,0,0,0
+106398,20515,Italian Combo Sub,1 sandwich,460,23,8,2,50,1200,43,3,8,20,0,0,0,0,0,0,0
+106399,20515,Italian Style Meatballs,4 meatballs - 84 g,170,12,4.5,0,35,400,6,1,1,15,0,0,0,0,0,0,0
+106400,20515,Marinated Sirloin Roast (Garlic & Herb),4 oz - 112 g,170,9,4,0,45,320,0,0,0,23,0,0,0,0,0,0,0
+106401,20515,Meat Loaf Slices,1 portion,260,19,8,1,45,640,10,1,4,12,0,0,0,0,0,0,0
+106402,20515,Philly Cheese Steak Kit,1 sandwich,650,31,14,0,110,870,56,3,3,41,0,0,0,0,0,0,0
+106403,20515,Ranch Steaks,1 steak,275,10,4,0,125,95,0,0,0,43,0,0,0,0,0,0,0
+106404,20515,Stuffed Pork Chops,1 chop,420,22,6,2,75,1140,25,2,1,31,0,0,0,0,0,0,0
+106405,20515,Teriyaki Ranch Steaks,1 steak,395,20,10,0,95,140,5,1,2,41,0,0,0,0,0,0,0
+106406,20515,Teriyaki Steak Kabobs,2 skewers,250,8,2.5,0,90,600,7,0,7,33,0,0,0,0,0,0,0
+106407,20515,Whole Pork Tenderloins,4 oz,120,4,1.5,0,65,65,0,0,0,20,0,0,0,0,0,0,0
+106408,20516,Crown Pork Roast,4 oz,270,22,8,0,60,540,2,0,1,17,0,0,0,0,0,0,0
+106409,20516,Prime Rib Roast,3 oz,200,15,6,0.5,50,470,1,0,0,14,0,0,0,0,0,0,0
+106410,20516,Rack of Pork Roast,6 oz - 169 g,140,5,2,0,65,430,0,0,0,22,0,0,0,0,0,0,0
+106411,20516,Rack of Pork Roast,4 oz - 112 g,270,22,8,0,60,540,2,0,1,17,0,0,0,0,0,0,0
+106412,20516,Spiral Sliced Ham,3 oz - 85 g,180,11,4,0,45,1000,4,0,4,16,0,0,0,0,0,0,0
+106413,20516,Stuffed Chicken Roast,4 oz,150,3.5,0.5,0,40,430,13,1,8,17,0,0,0,0,0,0,0
+106414,20516,Turkey Breast Roast,4 oz,140,4.5,1.5,0,40,530,1,0,1,22,0,0,0,0,0,0,0
+106415,20517,"""Extra Young"" Tiny Peas",2/3 cup,60,0,0,0,0,7,11,8,5,5,0,0,0,0,0,0,0
+106416,20517,Asparagus Spears,5 spears,20,0,0,0,0,0,5,2,2,2,0,0,0,0,0,0,0
+106417,20517,Broccoli Florets,3 oz,25,0,0,0,0,20,4,2,1,2,0,0,0,0,0,0,0
+106418,20517,California Blend,1 cup,29,0,0,0,0,30,5,2,2,1,0,0,0,0,0,0,0
+106419,20517,Cheesy Hashbrown Casserole,4 oz,180,9,4,0,20,440,19,1,1,6,0,0,0,0,0,0,0
+106420,20517,French Breadsticks,1 breadstick,130,0.5,0,0,0,270,26,1,0,4,0,0,0,0,0,0,0
+106421,20517,Garlic Bread Slices,1 slice,140,7,2,3,0,240,15,0,2,3,0,0,0,0,0,0,0
+106422,20517,Gemelli Pasta & Vegetable Blend,1 cup,76,1,0,0,0,16,19,2,1,4,0,0,0,0,0,0,0
+106423,20517,Gourmet Green Beans,3 oz,20,0,0,0,0,0,5,2,3,1,0,0,0,0,0,0,0
+106424,20517,Homestyle Frozen Biscuit Dough,1 biscuit,210,9,2.5,3.5,0,530,26,1,3,5,0,0,0,0,0,0,0
+106425,20517,Mashed Potato Patties,1 patty,120,6,2,1,10,240,15,1,1,2,0,0,0,0,0,0,0
+106426,20517,Praline Sweet Potato Casserole,1/2 cup,210,10,4,0,35,45,29,4,9,3,0,0,0,0,0,0,0
+106427,20517,Prince Edward Vegetable Medley,1 cup,27,0,0,0,0,7,3,6,0,1,0,0,0,0,0,0,0
+106428,20517,Quick 'n' Crispy Shoestring French Fries,3 oz - 85 g,170,7,0.5,0,0,270,25,2,0,2,0,0,0,0,0,0,0
+106429,20517,Stir Fry Blend,1 cup,60,0,0,0,0,60,9,3,2,2,0,0,0,0,0,0,0
+106430,20517,Supersweet Corn,1/2 cup,60,0,0,0,0,10,19,1,5,3,0,0,0,0,0,0,0
+106431,20517,Sweet Corn Casserole,1/2 cup,220,11,6,0,35,270,21,2,9,4,0,0,0,0,0,0,0
+106432,20517,Triple-Cheese Stuffed Potatoes,1 potato,170,4,2,0,10,310,22,3,1,4,0,0,0,0,0,0,0
+106433,20517,Vegetable Fried Rice,1 cup,130,1,0,0,20,530,26,1,1,4,0,0,0,0,0,0,0
+106434,20517,Braided Bread - Cream Cheese,1 slice - 62 g,230,8,2.5,1,20,250,36,1,12,4,0,0,0,0,0,0,0
+106435,20517,Creamy Chicken Wild Rice Soup,1 cup,180,11,4.5,0,20,990,16,2,3,5,0,0,0,0,0,0,0
+106436,20517,Creamy Shrimp Scampi,8 shrimp - 5 oz,110,5,2.5,0,100,560,5,1,1,12,0,0,0,0,0,0,0
+106437,20517,All Natural 4 Cheese Pesto Pizza,1/3 pizza,260,9,4,0,15,540,32,2,2,12,0,0,0,0,0,0,0
+106438,20517,Grilled Cheese Sandwiches,1 sandwich,280,11,6,0,35,860,33,7,2,11,0,0,0,0,0,0,0
+106439,20517,Toasted Beef Ravioli,6 pieces,340,13,3,0,30,710,42,2,1,13,0,0,0,0,0,0,0
+106440,20518,Chicken Parmesan Patties,1 patty,250,14,4.5,0,40,660,13,1,2,17,0,0,0,0,0,0,0
+106441,20518,Chicken Tenders,1 piece - 63 g,160,6,1,0,20,490,16,1,0,12,0,0,0,0,0,0,0
+106442,20518,ChicNSteakes,1 piece,110,1,0,0,55,350,0,0,0,23,0,0,0,0,0,0,0
+106443,20518,Crispy ChicNSteakes,1 piece,240,10,1.5,0,40,770,19,1,0,19,0,0,0,0,0,0,0
+106444,20518,Herb & Garlic ChicNSteakes,1 piece - 4 oz,120,2,0,0,55,460,1,0,0,21,0,0,0,0,0,0,0
+106445,20518,Diced Chicken Tenderloins,3/4 cup,90,1,0,0,45,320,1,0,0,18,0,0,0,0,0,0,0
+106446,20518,Turkey Steaks,1 piece,100,1,0,0,35,470,0,0,0,25,0,0,0,0,0,0,0
+106447,20518,Seasoned Chicken Breast Strips,1 cup,140,1.5,0,0,55,1080,3,0,2,26,0,0,0,0,0,0,0

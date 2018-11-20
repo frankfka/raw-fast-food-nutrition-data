@@ -1,0 +1,6 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+472,27,Lite Fiery Szechuan Chicken,560,10,2.5,0,160,"2,595",45,8,0,61,0,0,0,0,0,0,0
+473,27,Lite Ginger Wine Shrimp,435,2,0.5,0,290,"1,785",67,13,0,35,0,0,0,0,0,0,0
+474,27,Lite Vegetable Bowl with Mandarin Kung Pao Sauce,705,4,0.5,0,0,"2,560",153,21,0,20,0,0,0,0,0,0,0
+475,27,Lite Classic Chicken Salad,440,16,1.5,0,60,"3,570",43,5,0,31,0,0,0,0,0,0,0
+476,27,Steamed Chicken Potstickers,175,5,1,0,30,525,22,1,0,10,0,0,0,0,0,0,0

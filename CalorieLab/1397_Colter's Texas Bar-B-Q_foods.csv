@@ -1,0 +1,9 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+141972,23028,Lean Brisket,4 oz - 113 g,190,6,2,0,95,230,0.5,0,0,34,0,0,12,4,0,0,0
+141973,23028,Chicken,4 oz - 113 g,270,14,4,0,175,230,2,1,1,33,0,0,0,0,0,0,0
+141974,23028,Spare Ribs,4 oz - 113 g,440,32,14,0,120,450,8,1,6,31,0,0,40,3.3,0,0,0
+141975,23028,Baby Back Ribs,4 oz - 113 g,380,25,10,0,140,530,8,1,7,32,0,0,0,0,0,0,0
+141976,23028,Turkey,8 oz - 224 g,280,4,1,0,95,0,2,0,0,58,0,0,0,0,0,0,0
+141977,23028,Ham,8 oz - 224 g,270,5,2,0,120,0,9,0,0,47,0,0,0,0,0,0,0
+141978,23029,Bar-B-Q Beans,6 oz - 168 g,210,3,0,0,0,0,36,0,0,9,0,0,0,0,0,0,0
+141979,23029,Cole Slaw,4 oz - 112 g,130,9,0,0,0,0,12,0,0,1,0,0,0,0,0,0,0

@@ -1,0 +1,260 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+34320,2654,Whipped Cream,20,2,1,0,5,0,1,0,1,1,0,0,0,0,0,0,0
+34321,2654,Mocha Ice Blended w/Regular Powder,290,6,4,0,0,220,43,1,28,8,0,0,35,8,0,0,0
+34322,2654,Mocha Ice Blended w/NSA Powder,130,2,1,0,0,200,21,3,9,8,0,0,40,20,0,0,0
+34323,2654,Mocha Ice Blended w/Regular Powder,390,8,6,0,0,290,57,1,38,11,0,0,50,10,0,0,0
+34324,2654,Mocha Ice Blended w/NSA Powder,170,2,1,0,0,270,28,3,12,11,0,0,50,25,0,0,0
+34325,2654,Mocha Ice Blended w/Regular Powder,580,10,7,0,0,430,86,2,57,16,0,0,70,15,0,0,0
+34326,2654,Mocha Ice Blended w/NSA Powder,250,3,2,0,0,400,41,5,18,16,0,0,80,35,0,0,0
+34327,2654,Vanilla Ice Blended w/Regular Powder,300,7,5,0,0,260,52,0,44,8,0,0,40,6,0,0,0
+34328,2654,Vanilla Ice Blended w/NSA Powder,120,1,0,0,0,220,21,1,8,6,0,0,35,0,0,0,0
+34329,2654,Vanilla Ice Blended w/Regular Powder,400,9,7,0,1,350,70,0,58,11,0,0,50,8,0,0,0
+34330,2654,Vanilla Ice Blended w/NSA Powder,160,2,0,0,0,290,28,1,11,9,0,0,45,0,0,0,0
+34331,2654,Vanilla Ice Blended w/Regular Powder,600,13,10,0,0,530,104,0,87,16,0,0,80,10,0,0,0
+34332,2654,Vanilla Ice Blended w/NSA Powder,230,2,0,0,0,440,41,1,17,13,0,2,70,0,0,0,0
+34333,2654,Caramel Ice Blended w/Regular Powder,360,8,5,0,0,300,66,0,39,8,0,0,40,6,0,0,0
+34334,2654,Caramel Ice Blended w/NSA Powder,210,2,1,0,8,225,41,0,23,8,0,4,18,15,0,0,0
+34335,2654,Caramel Ice Blended w/Regular Powder,510,10,7,0,0,420,94,0,57,11,0,0,50,8,0,0,0
+34336,2654,Caramel Ice Blended w/NSA Powder,280,3,2,0,10,300,54,0,31,10,0,4,25,15,0,0,0
+34337,2654,Caramel Ice Blended w/Regular Powder,770,16,11,0,0,660,141,0,85,17,0,0,80,10,0,0,0
+34338,2654,Caramel Ice Blended w/NSA Powder,420,4,2,0,15,450,81,0,47,15,0,4,32,15,0,0,0
+34339,2654,White Chocolate Dream Ice Blended w/Regular Powder,300,13,12,0,0,220,42,1,21,3,0,0,15,2,0,0,0
+34340,2654,White Chocolate Dream Ice Blended w/Regular Powder,400,17,17,0,0,300,56,1,28,5,0,0,20,2,0,0,0
+34341,2654,White Chocolate Dream Ice Blended w/Regular Powder,600,26,25,0,0,450,85,1,42,7,0,0,30,4,0,0,0
+34342,2654,The Ultimate Mocha Ice Blended w/Regular Powder,309,8,6,0,4,255,47,0,36,8,0,3,19,11,0,0,0
+34343,2654,The Ultimate Mocha Ice Blended w/NSA Powder,150,3,2,0,5,220,22,3,14,13,0,2,40,4,0,0,0
+34344,2654,The Ultimate Mocha Ice Blended w/Regular Powder,441,10,8,0,5,340,62,0,48,10,0,4,25,15,0,0,0
+34345,2654,The Ultimate Mocha Ice Blended w/NSA Powder,200,4,2,0,5,300,30,3,19,17,0,2,50,6,0,0,0
+34346,2654,The Ultimate Mocha Ice Blended w/Regular Powder,655,15,12,0,7,570,93,0,72,15,0,6,37,23,0,0,0
+34347,2654,The Ultimate Mocha Ice Blended w/NSA Powder,290,6,3,0,5,450,44,5,28,26,0,4,80,10,0,0,0
+34348,2654,The Ultimate Vanilla Ice Blended w/Regular Powder,319,10,6,0,1,274,59,1,35,9,0,3,41,7,0,0,0
+34349,2654,The Ultimate Vanilla Ice Blended w/NSA Powder,160,3,2,0,5,220,24,1,13,9,0,2,40,2,0,0,0
+34350,2654,The Ultimate Vanilla Ice Blended w/Regular Powder,480,13,9,0,2,368,81,1,48,18,0,3,52,10,0,0,0
+34351,2654,The Ultimate Vanilla Ice Blended w/NSA Powder,210,4,2,0,5,290,32,1,17,12,0,2,60,2,0,0,0
+34352,2654,The Ultimate Vanilla Ice Blended w/Regular Powder,729,21,15,0,3,552,122,2,72,19,0,5,82,12,0,0,0
+34353,2654,The Ultimate Vanilla Ice Blended w/NSA Powder,320,6,3,0,5,440,49,1,26,18,0,2,80,2,0,0,0
+34354,2654,Black Forest Ice Blended w/Regular Powder,330,10,2,0,5,310,71,2,50,8,0,2,40,10,0,0,0
+34355,2654,Black Forest Ice Blended w/NSA Powder,180,3,2,0,5,190,35,2,14,7,0,2,35,10,0,0,0
+34356,2654,Black Forest Ice Blended w/Regular Powder,440,13,3,0,5,410,94,3,66,10,0,2,50,15,0,0,0
+34357,2654,Black Forest Ice Blended w/NSA Powder,230,4,2,0,5,250,47,3,18,9,0,2,50,15,0,0,0
+34358,2654,Black Forest Ice Blended w/Regular Powder,660,21,4,0,10,620,141,5,100,16,0,4,80,20,0,0,0
+34359,2654,Black Forest Ice Blended w/NSA Powder,350,6,3,0,5,370,71,4,28,14,0,2,70,25,0,0,0
+34360,2654,Extreme Vanilla Ice Blended w/Regular Powder,233,6,5,0,0,184,38,0,27,7,0,0,20,15,0,0,0
+34361,2654,Extreme Vanilla Ice Blended w/NSA Powder,110,1,0,0,0,190,19,1,6,5,0,0,25,0,0,0,0
+34362,2654,Extreme Vanilla Ice Blended w/Regular Powder,310,8,7,0,0,250,50,0,36,9,0,0,20,15,0,0,0
+34363,2654,Extreme Vanilla Ice Blended w/NSA Powder,140,1,0,0,0,250,26,2,7,7,0,0,35,2,0,0,0
+34364,2654,Extreme Vanilla Ice Blended w/Regular Powder,465,12,11,0,0,375,75,0,54,13,0,0,20,15,0,0,0
+34365,2654,Extreme Vanilla Ice Blended w/NSA Powder,210,2,0,0,0,370,39,3,11,10,0,0,50,2,0,0,0
+34366,2654,Extreme Mocha Ice Blended w/Regular Powder,420,6,5,0,0,320,82,0,40,13,0,0,30,8,0,0,0
+34367,2654,Extreme Mocha Ice Blended w/NSA Powder,290,0,0,0,0,230,56,0,10,14,0,0,35,8,0,0,0
+34368,2654,Extreme Mocha Ice Blended w/Regular Powder,600,8,7,0,0,470,118,0,60,18,0,0,40,10,0,0,0
+34369,2654,Extreme Mocha Ice Blended w/NSA Powder,410,0,0,0,0,350,78,0,15,20,0,0,50,10,0,0,0
+34370,2654,Extreme White Chocolate Ice Blended w/Regular Powder,620,20,0,0,0,370,100,0,47,10,0,0,8,8,0,0,0
+34371,2654,Extreme White Chocolate Ice Blended w/Regular Powder,900,31,0,0,0,550,144,0,71,13,0,0,10,10,0,0,0
+34372,2654,Extreme Ultimate Vanilla Ice Blended w/Regular Powder,610,14,11,0,0,410,110,1,66,16,0,0,40,10,0,0,0
+34373,2654,Extreme Ultimate Vanilla Ice Blended w/NSA Powder,340,3,2,0,0,280,65,1,15,15,0,0,35,10,0,0,0
+34374,2654,Extreme Ultimate Vanilla Ice Blended w/Regular Powder,890,20,16,0,0,610,160,1,100,23,0,0,60,15,0,0,0
+34375,2654,Extreme Ultimate Vanilla Ice Blended w/NSA Powder,470,4,2,0,0,420,90,1,21,22,0,0,50,15,0,0,0
+34376,2654,Extreme Ultimate Mocha Ice Blended w/Regular Powder,590,12,9,0,0,480,113,1,65,16,0,0,40,10,0,0,0
+34377,2654,Extreme Ultimate Mocha Ice Blended w/NSA Powder,340,2,0,0,0,240,62,1,14,15,0,0,35,10,0,0,0
+34378,2654,Extreme Ultimate Mocha Ice Blended w/Regular Powder,680,13,10,0,0,480,128,1,68,19,0,0,45,15,0,0,0
+34379,2654,Extreme Ultimate Mocha Ice Blended w/NSA Powder,470,4,2,0,0,350,86,1,20,21,0,0,50,15,0,0,0
+34380,2654,Extreme Black Forest Ice Blended w/Regular Powder,550,9,7,0,0,320,105,1,61,13,0,0,30,10,0,0,0
+34381,2654,Extreme Black Forest Ice Blended w/NSA Powder,420,3,2,0,0,240,78,1,30,15,0,0,35,10,0,0,0
+34382,2654,Extreme Black Forest Ice Blended w/Regular Powder,890,20,13,0,0,490,164,3,101,21,0,0,45,15,0,0,0
+34383,2654,Extreme Black Forest Ice Blended w/NSA Powder,590,4,2,0,0,350,110,1,44,21,0,0,50,15,0,0,0
+34384,2654,Extreme Caramel Ice Blended w/Regular Powder,650,11,9,0,0,460,124,0,76,15,0,0,40,8,0,0,0
+34385,2654,Extreme Caramel Ice Blended w/NSA Powder,390,1,0,0,0,330,80,0,25,15,0,0,35,8,0,0,0
+34386,2654,Extreme Caramel Ice Blended w/Regular Powder,760,12,9,0,0,490,146,0,84,18,0,0,40,10,0,0,0
+34387,2654,Extreme Caramel Ice Blended w/NSA Powder,550,2,0,0,0,500,114,0,38,21,0,0,50,10,0,0,0
+34388,2654,Chai Tea Ice Blended w/Regular Powder,290,7,5,0,0,230,50,0,25,7,0,0,35,0,0,0,0
+34389,2654,Chai Tea Ice Blended w/NSA Powder,90,1,0,0,0,150,16,1,5,4,0,0,20,4,0,0,0
+34390,2654,Chai Tea Ice Blended w/Regular Powder,390,9,6,0,0,310,67,0,34,9,0,0,55,0,0,0,0
+34391,2654,Chai Tea Ice Blended w/NSA Powder,120,1,0,0,0,200,21,1,7,5,0,0,25,4,0,0,0
+34392,2654,Chai Tea Ice Blended w/Regular Powder,580,14,10,0,0,460,100,0,50,14,0,0,70,0,0,0,0
+34393,2654,Chai Tea Ice Blended w/NSA Powder,180,2,0,0,0,290,32,1,10,8,0,0,40,6,0,0,0
+34394,2654,Green Tea Ice Blended w/Regular Powder,247,5,5,2,0,165,41,0,39,9,0,16,34,6,0,0,0
+34395,2654,Green Tea Ice Blended w/Regular Powder,330,7,6,3,0,220,55,0,52,12,0,21,45,8,0,0,0
+34396,2654,Green Tea Ice Blended w/Regular Powder,494,11,9,4,0,330,83,0,78,18,0,32,67,12,0,0,0
+34397,2654,Pomegranate Blueberry Ice Blended w/Regular Powder,338,6,5,0,0,218,68,0,54,5,0,0,15,5,0,0,0
+34398,2654,Pomegranate Blueberry Ice Blended w/NSA Powder,175,1,0,0,0,132,33,1,19,4,0,0,160,8,0,0,0
+34399,2654,Pomegranate Blueberry Ice Blended w/Regular Powder,450,8,7,0,0,290,90,0,72,6,0,0,20,6,0,0,0
+34400,2654,Pomegranate Blueberry Ice Blended w/NSA Powder,250,1,0,0,0,250,48,1,26,7,0,0,194,10,0,0,0
+34401,2654,Pomegranate Blueberry Ice Blended w/Regular Powder,675,12,11,0,0,435,135,0,108,9,0,0,30,9,0,0,0
+34402,2654,Pomegranate Blueberry Ice Blended w/NSA Powder,350,2,0,0,0,372,67,1,36,10,0,0,259,13,0,0,0
+34403,2654,Lemon Fru-Tea Ice Blended,240,0,0,0,0,510,62,1,61,0,0,0,0,0,0,0,0
+34404,2654,Lemon Fru-Tea Ice Blended,320,0,0,0,0,680,83,1,81,0,0,0,0,0,0,0,0
+34405,2654,Lemon Fru-Tea Ice Blended,480,0,0,0,0,"1,020",125,2,122,0,0,0,0,0,0,0,0
+34406,2654,Mango Fru-Tea Ice Blended,180,0,0,0,0,25,46,1,44,0,0,25,0,0,0,0,0
+34407,2654,Mango Fru-Tea Ice Blended,240,0,0,0,0,35,61,1,59,0,0,30,0,0,0,0,0
+34408,2654,Mango Fru-Tea Ice Blended,360,0,0,0,0,55,92,2,89,0,0,45,0,0,0,0,0
+34409,2654,Malibu Dream Ice Blended w/Regular Powder,300,5,3,0,0,220,58,1,51,7,0,0,30,4,0,0,0
+34410,2654,Malibu Dream Ice Blended w/NSA Powder,140,1,0,0,0,170,30,1,18,5,0,0,25,2,0,0,0
+34411,2654,Malibu Dream Ice Blended w/Regular Powder,410,7,4,0,0,290,78,2,69,9,0,0,40,4,0,0,0
+34412,2654,Malibu Dream Ice Blended w/NSA Powder,190,1,0,0,0,230,41,2,24,6,0,0,30,2,0,0,0
+34413,2654,Malibu Dream Ice Blended w/Regular Powder,610,10,6,0,0,430,116,3,103,13,0,0,60,6,0,0,0
+34414,2654,Malibu Dream Ice Blended w/NSA Powder,280,2,0,0,0,350,61,3,35,9,0,0,50,4,0,0,0
+34415,2654,Pure Chocolate Ice Blended w/Regular Powder,322,6,4,0,5,310,48,2,41,9,0,4,35,8,0,0,0
+34416,2654,Pure Chocolate Ice Blended w/NSA Powder,220,2,1,0,5,370,44,1,20,7,0,4,60,15,0,0,0
+34417,2654,Pure Chocolate Ice Blended w/Regular Powder,423,8,5,0,5,410,65,2,55,12,0,6,45,10,0,0,0
+34418,2654,Pure Chocolate Ice Blended w/NSA Powder,290,2,1,0,5,500,59,2,27,9,0,4,80,20,0,0,0
+34419,2654,Pure Chocolate Ice Blended w/Regular Powder,624,12,7,0,10,610,97,3,82,18,0,10,70,15,0,0,0
+34420,2654,Pure Chocolate Ice Blended w/NSA Powder,430,3,2,0,5,750,88,3,40,14,0,8,120,30,0,0,0
+34421,2654,Pure Vanilla Ice Blended w/Regular Powder,336,7,5,0,0,270,58,0,32,12,0,0,50,6,0,0,0
+34422,2654,Pure Vanilla Ice Blended w/NSA Powder,230,1,0,0,5,370,43,0,21,12,0,2,60,0,0,0,0
+34423,2654,Pure Vanilla Ice Blended w/Regular Powder,442,9,7,0,0,360,78,0,41,16,0,0,60,8,0,0,0
+34424,2654,Pure Vanilla Ice Blended w/NSA Powder,300,1,0,0,5,500,57,0,28,16,0,4,80,0,0,0,0
+34425,2654,Pure Vanilla Ice Blended w/Regular Powder,662,14,11,0,0,540,114,0,61,23,0,0,90,10,0,0,0
+34426,2654,Pure Vanilla Ice Blended w/NSA Powder,450,2,0,0,5,750,85,1,43,25,0,6,100,2,0,0,0
+34427,2654,Cappuccino w/Whole Milk,170,8,5,0,20,110,15,0,12,9,0,2,2,2,0,0,0
+34428,2654,Cappuccino w/Non-Fat Milk,110,1,0,0,0,180,16,0,11,9,0,6,2,2,0,0,0
+34429,2654,Macchiato w/Whole Milk,10,0,0,0,0,10,2,0,1,1,0,0,4,0,0,0,0
+34430,2654,Macchiato w/Non-Fat Milk,10,0,0,0,0,15,3,0,1,1,0,0,4,0,0,0,0
+34431,2654,Café Latte w/Whole Milk,210,11,7,0,50,180,17,0,17,11,0,8,35,0,0,0,0
+34432,2654,Café Latte w/Non-Fat Milk,130,0,0,0,5,180,18,0,17,12,0,15,35,0,0,0,0
+34433,2654,Café Latte w/Whole Milk,270,14,9,0,60,230,22,0,22,14,0,10,45,0,0,0,0
+34434,2654,Café Latte w/Non-Fat Milk,160,0,0,0,5,240,24,0,22,16,0,20,45,0,0,0,0
+34435,2654,Café Latte w/Whole Milk,330,17,11,0,75,280,27,0,27,17,0,15,50,0,0,0,0
+34436,2654,Café Latte w/Non-Fat Milk,200,0,0,0,5,290,29,0,27,19,0,20,50,0,0,0,0
+34437,2654,Vanilla Latte w/Regular powder,300,5,0,0,5,330,51,0,47,15,0,6,70,4,0,0,0
+34438,2654,Vanilla Latte w/NSA powder,180,2,1,0,5,240,30,0,20,13,0,8,60,2,0,0,0
+34439,2654,Vanilla Latte w/Regular powder,435,6,6,0,5,460,73,0,68,22,0,8,80,5,0,0,0
+34440,2654,Vanilla Latte w/NSA powder,250,2,1,0,5,320,40,0,27,18,0,10,80,2,0,0,0
+34441,2654,Vanilla Latte w/Regular powder,570,10,0,0,5,600,96,0,88,27,0,10,90,6,0,0,0
+34442,2654,Vanilla Latte w/NSA powder,310,2,1,0,5,410,50,0,34,22,0,10,100,2,0,0,0
+34443,2654,Mocha Latte w/Regular powder,290,5,2,0,5,310,54,2,47,15,0,8,70,8,0,0,0
+34444,2654,Mocha Latte w/NSA powder,180,2,1,0,5,240,28,2,21,14,0,8,60,8,0,0,0
+34445,2654,Mocha Latte w/Regular powder,420,6,3,0,5,410,71,3,0,0,0,0,0,0,0,0,0
+34446,2654,Mocha Latte w/NSA powder,245,2,1,0,5,250,29,2,22,14,0,8,60,8,0,0,0
+34447,2654,Mocha Latte w/Regular powder,530,8,3,0,5,510,89,4,78,25,0,15,110,15,0,0,0
+34448,2654,Mocha Latte w/NSA powder,300,3,2,0,5,410,47,4,35,23,0,10,100,15,0,0,0
+34449,2654,White Chocolate Dream Latte w/Regular powder,390,15,14,0,5,310,53,0,42,10,0,8,45,4,0,0,0
+34450,2654,White Chocolate Dream Latte w/Regular powder,520,20,19,0,5,410,71,0,56,13,0,10,60,6,0,0,0
+34451,2654,White Chocolate Dream Latte w/Regular powder,650,25,24,0,5,510,89,0,71,17,0,15,70,8,0,0,0
+34452,2654,Caramel Latte w/Regular powder,285,5,4,0,8,195,51,0,39,11,0,8,30,8,0,0,0
+34453,2654,Caramel Latte w/NSA powder,203,2,1,0,8,0,36,0,20,11,0,19,34,11,0,0,0
+34454,2654,Caramel Latte w/Regular powder,380,6,5,0,10,260,68,0,52,15,0,10,40,10,0,0,0
+34455,2654,Caramel Latte w/NSA powder,270,3,2,0,10,0,48,0,26,14,0,25,45,15,0,0,0
+34456,2654,Caramel Latte w/Regular powder,475,8,6,0,13,325,85,0,65,19,0,15,60,15,0,0,0
+34457,2654,Caramel Latte w/NSA powder,338,3,2,0,13,0,60,0,33,18,0,37,67,23,0,0,0
+34458,2654,Iced Cappuccino w/Whole Milk,50,3,2,0,10,45,4,0,4,3,0,2,8,0,0,0,0
+34459,2654,Iced Cappuccino w/Non-Fat Milk,30,0,0,0,0,45,5,0,4,3,0,4,8,0,0,0,0
+34460,2654,Iced Cappuccino w/Whole Milk,120,6,4,0,25,100,10,0,10,6,0,4,20,0,0,0,0
+34461,2654,Iced Cappuccino w/Non-Fat Milk,70,0,0,0,0,105,11,0,10,7,0,8,20,0,0,0,0
+34462,2654,Iced Cappuccino w/Whole Milk,130,7,5,0,30,120,12,0,12,7,0,6,20,0,0,0,0
+34463,2654,Iced Cappuccino w/Non-Fat Milk,80,0,0,0,5,120,12,0,12,8,0,8,20,0,0,0,0
+34464,2654,Iced Latte w/Whole Milk,100,5,3,0,20,80,8,0,8,5,0,4,15,0,0,0,0
+34465,2654,Iced Latte w/Non-Fat Milk,60,0,0,0,0,85,9,0,8,6,0,6,15,0,0,0,0
+34466,2654,Iced Latte w/Whole Milk,140,7,5,0,30,120,12,0,12,7,0,6,25,0,0,0,0
+34467,2654,Iced Latte w/Non-Fat Milk,100,0,0,0,5,140,14,0,14,10,0,10,25,2,0,0,0
+34468,2654,Iced Latte w/Whole Milk,230,12,8,0,55,200,19,0,19,12,0,10,40,0,0,0,0
+34469,2654,Iced Latte w/Non-Fat Milk,140,0,0,0,5,210,21,0,19,14,0,15,40,0,0,0,0
+34470,2654,Iced Mocha Latte w/Regular powder,170,2,0,0,5,200,31,1,25,7,0,2,35,6,0,0,0
+34471,2654,Iced Mocha Latte w/NSA powder,80,0,0,0,5,130,14,1,5,6,0,4,40,2,0,0,0
+34472,2654,Iced Mocha Latte w/Regular powder,230,3,0,0,5,260,42,2,33,9,0,4,50,6,0,0,0
+34473,2654,Iced Mocha Latte w/NSA powder,110,0,0,0,10,180,19,2,7,9,0,6,50,2,0,0,0
+34474,2654,Iced Mocha Latte w/Regular powder,350,5,0,0,5,400,63,3,50,14,0,6,70,10,0,0,0
+34475,2654,Iced Mocha Latte w/NSA powder,170,1,0,0,15,260,29,3,10,13,0,8,80,2,0,0,0
+34476,2654,Iced Vanilla Latte w/Regular powder,180,4,3,0,5,140,31,0,23,6,0,2,40,8,0,0,0
+34477,2654,Iced Vanilla Latte w/NSA powder,80,0,0,0,5,130,13,0,5,5,0,4,35,0,0,0,0
+34478,2654,Iced Vanilla Latte w/Regular powder,250,5,4,0,10,190,42,0,31,9,0,4,50,10,0,0,0
+34479,2654,Iced Vanilla Latte w/NSA powder,110,0,0,0,10,170,18,0,6,7,0,4,45,0,0,0,0
+34480,2654,Iced Vanilla Latte w/Regular powder,370,7,6,0,15,290,63,1,47,13,0,6,80,15,0,0,0
+34481,2654,Iced Vanilla Latte w/NSA powder,160,2,0,0,15,260,27,1,10,11,0,8,70,0,0,0,0
+34482,2654,Café Vanilla w/Regular powder,235,5,5,0,0,195,41,0,40,8,0,0,23,3,0,0,0
+34483,2654,Café Vanilla w/NSA powder,110,0,0,0,0,180,21,1,9,6,0,0,40,2,0,0,0
+34484,2654,Café Vanilla w/Regular powder,330,7,6,0,0,260,55,0,53,10,0,0,30,4,0,0,0
+34485,2654,Café Vanilla w/NSA powder,140,0,0,0,0,240,27,1,12,8,0,0,50,2,0,0,0
+34486,2654,Café Vanilla w/Regular powder,400,9,9,0,0,390,83,0,79,15,0,0,45,6,0,0,0
+34487,2654,Café Vanilla w/NSA powder,185,1,0,0,0,310,34,1,15,11,0,0,70,2,0,0,0
+34488,2654,Café Mocha w/Regular powder,230,5,6,0,0,255,43,0,29,8,0,10,30,30,0,0,0
+34489,2654,Café Mocha w/NSA powder,110,0,0,0,5,150,20,1,6,7,0,0,40,8,0,0,0
+34490,2654,Café Mocha w/Regular powder,320,7,8,0,0,340,57,0,38,11,0,10,30,30,0,0,0
+34491,2654,Café Mocha w/NSA powder,150,0,0,0,10,200,27,2,8,10,0,0,50,10,0,0,0
+34492,2654,Café Mocha w/Regular powder,385,9,10,0,0,425,71,0,48,14,0,10,30,30,0,0,0
+34493,2654,Café Mocha w/NSA powder,180,1,0,0,10,240,33,2,10,12,0,0,70,15,0,0,0
+34494,2654,Café Caramel w/Regular powder,187,3,2,0,0,110,34,0,26,9,0,0,23,3,0,0,0
+34495,2654,Café Caramel w/NSA powder,160,1,0,0,5,190,35,0,9,6,0,0,35,0,0,0,0
+34496,2654,Café Caramel w/Regular powder,284,4,3,0,0,180,54,0,42,10,0,0,30,4,0,0,0
+34497,2654,Café Caramel w/NSA powder,220,1,0,0,5,250,47,0,12,8,0,0,45,0,0,0,0
+34498,2654,Café Caramel w/Regular powder,382,6,4,0,0,250,73,0,57,11,0,0,45,6,0,0,0
+34499,2654,Café Caramel w/NSA powder,270,2,0,0,5,310,58,1,16,10,0,0,60,2,0,0,0
+34500,2654,Café White Chocolate w/Regular powder,323,14,14,0,0,233,44,0,33,4,0,0,10,15,0,0,0
+34501,2654,Café White Chocolate w/Regular powder,430,19,19,0,0,310,59,0,44,5,0,0,10,15,0,0,0
+34502,2654,Café White Chocolate w/Regular powder,538,24,24,0,0,388,74,0,55,6,0,0,10,15,0,0,0
+34503,2654,"Chai, English Breakfast, Double Vanilla, Tropical Passion & Pomegranate Blueberry Tea Lattes (Vanilla Powder Based)",220,5,4,0,0,190,37,0,34,6,0,0,30,8,0,0,0
+34504,2654,"Chai, English Breakfast, Double Vanilla, Tropical Passion & Pomegranate Blueberry Tea Lattes (Vanilla Powder Based)",120,0,0,0,0,210,22,0,9,6,0,6,40,2,0,0,0
+34505,2654,"Chai, English Breakfast, Double Vanilla, Tropical Passion & Pomegranate Blueberry Tea Lattes (Vanilla Powder Based)",290,7,5,0,0,250,50,0,46,7,0,0,40,10,0,0,0
+34506,2654,"Chai, English Breakfast, Double Vanilla, Tropical Passion & Pomegranate Blueberry Tea Lattes (Vanilla Powder Based)",160,0,1,0,0,270,29,0,12,8,0,6,50,4,0,0,0
+34507,2654,"Chai, English Breakfast, Double Vanilla, Tropical Passion & Pomegranate Blueberry Tea Lattes (Vanilla Powder Based)",360,8,7,0,0,310,62,0,57,9,0,0,50,15,0,0,0
+34508,2654,"Chai, English Breakfast, Double Vanilla, Tropical Passion & Pomegranate Blueberry Tea Lattes (Vanilla Powder Based)",200,1,1,0,0,340,37,0,15,10,0,8,70,4,0,0,0
+34509,2654,Moroccan Mint Tea Latte w/Regular powder,230,5,2,0,5,220,42,2,27,6,0,0,30,15,0,0,0
+34510,2654,Moroccan Mint Tea Latte w/NSA powder,120,0,0,0,5,150,23,1,6,5,0,0,30,10,0,0,0
+34511,2654,Moroccan Mint Tea Latte w/Regular powder,310,6,3,0,5,300,56,3,36,8,0,0,40,20,0,0,0
+34512,2654,Moroccan Mint Tea Latte w/NSA powder,160,0,0,0,5,200,31,1,8,7,0,0,40,15,0,0,0
+34513,2654,Moroccan Mint Tea Latte w/Regular powder,390,7,4,0,5,370,70,4,45,10,0,2,50,25,0,0,0
+34514,2654,Moroccan Mint Tea Latte w/NSA powder,200,1,0,0,5,240,39,1,10,9,0,2,50,15,0,0,0
+34515,2654,Hot Chocolate w/Regular powder,340,4,2,0,10,430,60,2,37,15,0,10,80,10,0,0,0
+34516,2654,Hot Chocolate w/NSA powder,170,2,0,0,5,450,25,1,14,13,0,10,60,8,0,0,0
+34517,2654,Hot Chocolate w/Regular powder,450,6,2,0,10,570,80,2,49,19,0,15,110,15,0,0,0
+34518,2654,Hot Chocolate w/NSA powder,220,2,0,0,10,600,34,1,19,17,0,15,80,10,0,0,0
+34519,2654,Hot Chocolate w/Regular powder,560,7,3,0,15,710,101,3,62,24,0,20,140,15,0,0,0
+34520,2654,Hot Chocolate w/NSA powder,280,3,0,0,10,750,42,1,24,22,0,20,100,15,0,0,0
+34521,2654,Hot Vanilla w/Regular powder,360,1,0,0,10,350,72,0,50,16,0,8,80,2,0,0,0
+34522,2654,Hot Vanilla w/NSA powder,170,2,1,0,5,220,27,1,14,12,0,8,60,4,0,0,0
+34523,2654,Hot Vanilla w/Regular powder,480,2,0,0,10,470,96,0,66,21,0,10,100,2,0,0,0
+34524,2654,Hot Vanilla w/NSA powder,230,2,1,0,10,300,36,1,18,17,0,10,70,4,0,0,0
+34525,2654,Hot Vanilla w/Regular powder,600,2,0,0,15,580,120,0,83,26,0,15,130,2,0,0,0
+34526,2654,Hot Vanilla w/NSA powder,290,3,2,0,10,370,45,1,23,21,0,10,90,1,0,0,0
+34527,2655,Almond Biscotti,200,11,1,0,21,75,21,2,9,5,0,2,5,7,0,0,0
+34528,2656,Crispy Rice Treat HOT,290,16,2.5,0,0,450,68,0,36,2,35,35,0,15,0,0,0
+34529,2656,Rice Krispy Treats CBTL,347,5,1,0,0,323,73,1,28.1,3,30,33,1,5,0,0,0
+34530,2656,Mint Coco Jo,220,13,7,0,5,140,28,2,20,3,0,0,4,8,0,0,0
+34531,2656,Milk Chocolate Covered Graham,140,8,4.5,0,0,60,17,0,12,2,0,0,2,4,0,0,0
+34532,2656,Madeline,230,10,5,0,75,90,33,0,19,2,0,8,0,4,0,0,0
+34533,2656,Chocolate Dipped Madeline,120,6,4.5,0,25,40,16,0,10,1,0,2,0,0,0,0,0
+34534,2657,"Granola Cranberry,Almond & Raisins",180,2,0,0,0,26,37,3,11,5,3,1,3,13,0,0,0
+34535,2658,Tomato Mozzarella,770,34,12,0,35,"1,720",83,8,12,34,6,25,70,45,0,0,0
+34536,2658,Tuna,410,9,1.5,0,30,760,53,8,7,28,0,0,10,25,0,0,0
+34537,2658,Peanut Butter and Jelly,790,39,8,0,0,81,5,20,20,29,4,0,15,30,0,0,0
+34538,2658,Potabello Mushroom,460,13,2,0,0,640,71,9,6,16,4,4,15,30,0,0,0
+34539,2658,Roasted Veggie Wrap,270,8,3.5,0,15,520,39,4,6,12,4,20,40,30,0,0,0
+34540,2658,Dressing,400,42,7,0,5,330,3,0,1,2,0,0,2,4,0,0,0
+34541,2659,Egg Salad,430,16,4.5,0,405,710,49,6,2,24,2,4,15,35,0,0,0
+34542,2659,Salmon Spread,420,18,10,0,55,690,52,7,4,13,0,6,10,20,0,0,0
+34543,2659,Chive Cream Cheese,420,18,9,0,50,620,53,7,9,12,0,15,10,20,0,0,0
+34544,2660,Asian Ginger w/o dressing,130,6,1,0,0,130,13,6,2,6,25,140,10,15,0,0,0
+34545,2660,Asian Ginger w/dressing,460,40,6,0,10,540,17,7,4,7,25,150,10,19,0,0,0
+34546,2660,Dressing for Asian Ginger,330,34,5,0,10,410,4,1,2,1,0,10,0,4,0,0,0
+34547,2660,Sante Fe w/o dressing,260,8,4,0,30,500,28,9,9,18,10,80,30,20,0,0,0
+34548,2660,Sante Fe w/dressing,430,22,6,0,30,510,38,9,10,19,18,84,30,20,0,0,0
+34549,2660,Dressing for Sante Fe Salad,170,14,2,0,0,10,10,0,1,1,8,4,0,0,0,0,0
+34550,2660,Greek w/o dressing,250,10,5,0,25,590,27,2,3,15,4,45,35,20,0,0,0
+34551,2660,Greek w/dressing,490,33,8.5,0,25,635,37,2,3,15,24,51,35,20,0,0,0
+34552,2660,Dressing for Greek Salad,240,23,3.5,0,0,45,10,0,0,0,20,6,0,0,0,0,0
+34553,2661,Light Cream Cheese,130,13,8,0,35,105,2,0,1,2,0,0,4,0,0,0,0
+34554,2661,Plain Crem Cheese,140,14,10,0,35,110,1,0,1,2,0,2,4,0,0,0,0
+34555,2662,Bars-Cold Case - Lemon Bar,130,4,2,0,35,30,21,1,1,3,0,4,0,6,0,0,0
+34556,2662,Bars-Dry Case - Iced Brownie,240,12,3,3,35,70,31,1,8,2,0,4,0,8,0,0,0
+34557,2662,Bagels-Dry Case - Plain,130,1,0,0,0,260,27,1,1,5,10,0,2,10,0,0,0
+34558,2662,Bagels-Dry Case - Everything,150,3,0,0,0,800,26,1,1,6,10,0,2,10,0,0,0
+34559,2662,Bagels-Dry Case - Sesame,150,3,0,0,0,240,26,1,1,6,10,0,2,10,0,0,0
+34560,2662,Bagels-Dry Case - Cheese Jalapeno,150,5,5,0,15,300,19,1,1,7,8,0,15,6,0,0,0
+34561,2662,Bagels-Dry Case - Cinnamon Raisin,140,1,0,0,0,230,27,1,4,5,10,0,2,8,0,0,0
+34562,2662,Cookies-Dry Case - Chocolate Chip,120,5,3,0,15,95,18,0,6,1,0,6,2,4,0,0,0
+34563,2662,Cookies-Dry Case - Reese's Peanut Butter,130,7,2,1,5,95,16,1,7,3,0,2,2,2,0,0,0
+34564,2662,Cookies-Dry Case - Oatmeal Raisin,110,4,2,0,15,65,18,1,7,2,0,6,2,4,0,0,0
+34565,2662,Loaves-Dry Case - Chocolate Chip Banana Bread,180,7,2,1,20,135,27,1,4,0,2,2,2,4,0,0,0
+34566,2662,Muffins-Dry Case - Honey Raisin Bran,180,8,2,0,25,150,25,3,18,3,0,2,4,6,0,0,0
+34567,2662,Muffins-Dry Case - Blueberry,170,8,1,0,35,150,24,1,13,3,0,6,2,4,0,0,0
+34568,2662,Muffins-Dry Case - Chocolate,200,9,2,0,40,200,26,1,16,3,0,6,4,4,0,0,0
+34569,2662,Muffins-Dry Case - Banana Walnut,160,6,1,1,10,100,24,2,9,3,0,2,2,4,0,0,0
+34570,2662,Muffins-Dry Case - Lemon Cream Cheese,190,9,2,0,45,170,24,0,12,3,0,6,4,4,0,0,0
+34571,2662,Pastries-Dry Case - Croissant,190,9,6,0,35,85,22,1,13,4,4,2,2,6,0,0,0
+34572,2662,Pastries-Dry Case - Pain au Chocolate,330,21,8,4,30,110,29,3,11,6,4,2,4,20,0,0,0
+34573,2662,Pastries-Dry Case - CB&T Cheese Danish,190,9,5,0,55,85,23,1,15,4,0,6,2,6,0,0,0
+34574,2662,Pastries-Dry Case - CB&T Bear Claw,575,26,13,0,119,250,69,3,45,14,3,10,8,19,0,0,0
+34575,2662,Pastries-Dry Case - Cream Cheese Cinn. Roll,220,10,5,0,20,80,29,1,19,3,4,8,2,4,0,0,0
+34576,2662,Pastries-Dry Case - Pecan Roll,230,13,5,0,20,65,27,1,10,3,4,0,2,6,0,0,0
+34577,2662,Scones - Raisin,210,8,2,2,0,210,31,1,5,3,0,0,0,6,0,0,0
+34578,2662,Scones - Blueberry,190,8,2,2,0,220,29,1,1,3,0,0,0,6,0,0,0

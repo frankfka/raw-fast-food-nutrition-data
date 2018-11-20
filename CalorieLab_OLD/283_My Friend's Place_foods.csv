@@ -1,0 +1,11 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+29301,2204,Turkey Broccoli Melt,295,7,3,0,77,"1,221",26,0,2,35,0,0,0,0,0,0,0
+29302,2204,Grilled Chicken Breast on Pita,324,6,0,0,110,"1,073",24,0,1,44,0,0,0,0,0,0,0
+29303,2204,Turkey Breast on pita,220,2,0,0,60,"1,038",25,0,2,27,0,0,0,0,0,0,0
+29304,2204,Ham on rye,321,6,2,0,70,"1,824",40,2,6,25,0,0,0,0,0,0,0
+29305,2204,Roast Beef on wheat,329,6,1,0,60,"1,584",42,6,6,28,0,0,0,0,0,0,0
+29306,2204,Corned Beef on rye,297,5,1,0,50,"1,424",38,2,2,27,0,0,0,0,0,0,0
+29307,2204,Pastrami on rye,297,5,1,0,50,"1,424",38,2,2,27,0,0,0,0,0,0,0
+29308,2205,Grilled Chicken Breast Salad,215,7,3,0,56,540,13,2,0,25,0,0,0,0,0,0,0
+29309,2206,Italian Wedding Soup,82,2,2,0,8,630,12,2,2,5,0,0,0,0,0,0,0
+29310,2206,Mexican Chicken Tortilla Soup,140,2,2,0,8,615,15,2,2,6,0,0,0,0,0,0,0

@@ -1,0 +1,17 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+33730,2620,Vanilla,210,12,8,0,35,55,24,0,18,3,2,8,10,0,0,0,0
+33731,2620,Chocolate,210,12,7,0,30,60,23,1,19,3,2,8,10,4,0,0,0
+33732,2621,Vanilla Yogurt,150,4,2.5,0,10,105,24,0,19,4,2,8,10,0,0,0,0
+33733,2621,Chocolate Yogurt,150,4.5,2.5,0,10,105,24,1,18,4,2,2,15,4,0,0,0
+33734,2622,NSNF Caramel Swirl,110,0,0,0,0,100,30,1,6,0,2,6,15,0,0,0,0
+33735,2622,NSNF Chocolate,100,0,0,0,0,100,26,1,6,4,2,6,15,0,0,0,0
+33736,2622,NSNF Chocolate Caramel Swirl,120,0,0,0,0,105,31,1,6,4,2,6,15,2,0,0,0
+33737,2622,NSNF Chocolate Fudge Ripple,120,0,0,0,0,120,31,1,6,4,2,6,15,2,0,0,0
+33738,2622,NSNF Chocolate Raspberry Swirl,110,0,0,0,0,85,31,1,6,4,2,6,15,0,0,0,0
+33739,2622,NSNF Cinnamon,100,0,0,0,0,90,23,1,7,5,2,6,15,0,0,0,0
+33740,2622,NSNF Coffee,100,0,0,0,0,95,24,1,7,5,2,6,15,0,0,0,0
+33741,2622,NSNF Coffee Caramel Swirl,120,0,0,0,0,100,30,1,6,4,2,6,15,0,0,0,0
+33742,2622,NSNF Coffee Ripple,110,0,0,0,0,110,30,1,6,4,2,6,15,2,0,0,0
+33743,2622,NSNF Fudge Ripple,110,0,0,0,0,110,30,1,6,4,2,6,15,2,0,0,0
+33744,2622,NSNF Raspberry Swirl,110,0,0,0,0,80,29,1,6,4,2,6,15,0,0,0,0
+33745,2622,NSNF Vanilla,100,0,0,0,0,90,23,1,7,4,2,6,15,0,0,0,0

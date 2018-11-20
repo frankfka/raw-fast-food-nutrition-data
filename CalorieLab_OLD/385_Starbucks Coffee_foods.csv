@@ -1,0 +1,1836 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+38513,2948,Blueberry Muffin,500,20,11,0,75,290,71,2,35,9,0,10,15,15,0,0,0
+38514,2948,Blueberry Scone,490,19,4,5,0,390,71,2,29,5,2,0,15,15,0,0,0
+38515,2948,(Banana) Bran Muffin,390,13,3,0,40,490,66,6,37,11,10,2,15,20,0,0,0
+38516,2948,Caramel Apple Scone,510,18,13,0,50,210,82,3,15,7,0,0,2,15,0,0,0
+38517,2948,Carrot Cake Muffin,680,40,6,1.5,85,260,75,3,49,8,4,110,6,15,0,0,0
+38518,2948,Chocolate Scone,540,23,15,0.5,50,130,75,3,34,8,0,0,2,20,0,0,0
+38519,2948,Cranberry Orange Scone,460,20,5,7,0,610,67,3,23,5,4,15,25,15,0,0,0
+38520,2948,Low Fat Apricot Blueberry Muffin,450,7,1,0,25,70,89,2,56,6,0,4,4,15,0,0,0
+38521,2948,Maple Oat Nut Scone,520,25,8,5,25,240,68,3,29,5,0,4,6,15,0,0,0
+38522,2948,Mini Blueberry Muffin,160,6,3,0,25,40,24,1,12,2,0,4,2,4,0,0,0
+38523,2948,Mini Blueberry Scone,160,7,1,2,0,130,24,1,10,2,0,0,6,4,0,0,0
+38524,2948,Mini Bran Muffin,140,5,1,0,15,180,24,2,13,4,4,0,6,6,0,0,0
+38525,2948,Mini Maple Oat Nut Scone,200,9,3,1.5,10,90,25,1,11,2,0,2,2,6,0,0,0
+38526,2948,Mini Raspberry Scone,170,7,2,2.5,0,210,26,1,9,2,8,6,6,6,0,0,0
+38527,2948,Mini Zucchini Walnut Muffin,210,13,2,0,25,80,21,1,12,4,0,0,2,6,0,0,0
+38528,2948,Raspberry Scone,460,19,4,7,0,570,69,2,24,5,20,15,15,15,0,0,0
+38529,2948,Reduced Fat Cranberry Muffin,450,12,3.5,0,60,220,75,4,38,9,0,2,8,15,0,0,0
+38530,2948,Zucchini Walnut Muffin,640,38,5,0,70,250,65,2,36,11,0,0,4,15,0,0,0
+38531,2949,Banana Nut Loaf Cake,390,16,2,0,35,170,58,2,33,7,4,2,2,10,0,0,0
+38532,2949,Crumble Coffee Cake,670,32,15,1,115,360,89,1,44,8,0,25,4,25,0,0,0
+38533,2949,Gingerbread Loaf,500,16,9,0,90,390,84,2,62,5,0,10,2,10,0,0,0
+38534,2949,Lemon Loaf Cake,420,17,3,1,85,370,66,1,48,5,4,0,4,4,0,0,0
+38535,2949,Marble Loaf Cake,470,28,5,0,100,440,54,1,32,6,0,2,4,4,0,0,0
+38536,2949,Mixed Berry Crumb Cake,530,26,11,0.5,90,360,69,3,33,6,0,2,6,10,0,0,0
+38537,2949,Reduced Fat Blueberry Coffee Cake,350,11,6,1,10,430,61,1,37,4,2,2,8,8,0,0,0
+38538,2949,Reduced Fat Cinnamon Swirl Coffee Cake,330,8,4.5,1,5,400,62,1,40,4,0,2,8,10,0,0,0
+38539,2949,Reduced Fat Marble Coffee Cake,340,11,5,1,5,420,57,1,32,5,0,15,6,10,0,0,0
+38540,2950,Butter Croissant,350,19,7,3,20,360,39,2,5,7,0,4,2,10,0,0,0
+38541,2950,Chocolate Croissant,290,10,3,0,10,270,44,2,16,6,0,2,2,15,0,0,0
+38542,2950,Cinnamon Raisin Bagel,320,2,1,0,0,390,65,4,12,11,2,0,4,20,0,0,0
+38543,2950,Plain Bagel,300,1,0,0,0,590,61,2,4,12,2,0,2,15,0,0,0
+38544,2951,Apple Fritter,540,25,10,4,25,480,70,3,16,9,0,8,4,15,0,0,0
+38545,2951,Cheese Danish,320,19,9,2,45,250,30,1,7,6,0,4,0,8,0,0,0
+38546,2951,Chocolate Old Fashioned Doughnut,450,20,4,5,15,340,64,1,40,5,0,0,0,4,0,0,0
+38547,2951,Cinnamon Roll,480,15,3,4,5,440,79,2,37,6,0,0,8,15,0,0,0
+38548,2951,Cinnamon Twist,430,9,2,2,5,320,74,2,33,8,0,0,4,15,0,0,0
+38549,2951,Cinnamon Walnut Rugulach,160,10,5,0,25,100,16,0.5,14,2,0,2,2,4,0,0,0
+38550,2951,Old Fashioned Doughnut,440,20,5,5,20,420,59,1,31,6,0,0,0,0,0,0,0
+38551,2951,Sticky Bun with Walnuts,730,31,6,6,5,600,104,4,47,10,2,0,10,25,0,0,0
+38552,2952,Apple Cinnamon Bar,350,15,3,3,0,140,53,4,34,3,0,15,2,8,0,0,0
+38553,2952,Chocolate Chunk Cookie,430,19,12,0,70,350,61,2,26,5,0,10,2,20,0,0,0
+38554,2952,Chocolate Peanut Butter Bar,730,38,22,0,120,290,89,4,63,11,0,2,6,15,0,0,0
+38555,2952,Chocolate Petite Cookie,45,3,2,0,5,25,4,1,1,1,0,2,0,2,0,0,0
+38556,2952,Cranberry Bliss Bar,310,16,9,0,45,260,40,1,28,3,0,8,4,6,0,0,0
+38557,2952,Crispy Square,320,8,2,2,0,300,63,0,31,3,8,8,0,8,0,0,0
+38558,2952,Espresso Brownie,370,21,13,0,85,115,43,2,30,4,0,6,4,10,0,0,0
+38559,2952,Fruit Cobbler Bar,400,18,7,2.5,65,170,55,2,34,4,0,15,4,8,0,0,0
+38560,2952,Fudge Brownie,290,17,11,0,65,20,35,2,24,3,0,2,2,10,0,0,0
+38561,2952,Gingerbread Petite Cookie,40,2,1,0,5,20,5,1,2,0,0,2,0,2,0,0,0
+38562,2952,Lemon Blueberry Bar,510,24,15,0,175,210,69,1,20,8,10,4,15,8,0,0,0
+38563,2952,Mini Brownie Bites (Individual),130,7,1.5,1,0,40,16,0,11,0,0,0,0,2,0,0,0
+38564,2952,Mini Chocolate Chunk Cookie,220,10,6,0,35,170,30,1,13,3,0,4,2,10,0,0,0
+38565,2952,Mini Oatmeal Raisin Cookie,210,8,5,0,30,130,32,2,17,3,2,4,2,10,0,0,0
+38566,2952,Oatmeal Raisin Cookie,410,15,9,0,60,260,65,3,34,5,4,10,4,20,0,0,0
+38567,2952,Organic Blueberry Bar,370,15,3,4,0,160,54,3,22,5,2,6,2,10,0,0,0
+38568,2952,Peppermint Petite Cookie,40,2,1,0,5,20,5,1,2,0,0,2,0,2,0,0,0
+38569,2952,Raspberry Petite Cookie,40,2,1,0,5,20,5,1,2,0,0,2,0,2,0,0,0
+38570,2952,Snickerdoodle Cookie,380,18,4,5,30,80,53,1,31,4,0,0,2,8,0,0,0
+38571,2952,Toffee Almond Bar,430,21,7,3.5,50,440,56,1,37,4,0,15,4,10,0,0,0
+38572,2952,Trail Bar,450,20,9,0,55,130,59,6,33,8,2,2,6,15,0,0,0
+38573,2952,Valentine's Day Cookie,360,16,10,0,60,110,51,1,29,3,0,10,2,8,0,0,0
+38574,2953,Caramel Pecan Tart,830,59,24,4,40,220,69,4,43,8,0,20,10,15,0,0,0
+38575,2953,Ultimate Blackout Cake,390,22,14,0,55,370,43,3,29,5,0,10,8,10,0,0,0
+38576,2954,Chocolate Caramel Pretzel,260,12,7,0,25,240,32,1,21,8,4,4,25,4,0,0,0
+38577,2955,Caffè Misto/Café Au Lait (Nonfat Milk),60,0,0,0,5,90,9,0,8,6,0,0,0,0,0,0,0
+38578,2955,Coffee of the Week (Nonfat Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+38579,2955,Decaf Coffee of the Week (Nonfat Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+38580,2955,Caffè Misto/Café Au Lait (Whole Milk),110,6,3.5,0,25,85,8,0,8,6,0,0,0,0,0,0,0
+38581,2955,Coffee of the Week (Whole Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+38582,2955,Decaf Coffee of the Week (Whole Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+38583,2955,Caffè Misto/Café Au Lait (Breve Milk),220,19,12,0.5,65,70,8,0,1,5,0,0,0,0,0,0,0
+38584,2955,Coffee of the Week (Breve Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+38585,2955,Decaf Coffee of the Week (Breve Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+38586,2955,Caffè Misto/Café Au Lait (Soy US Milk),80,2.5,0,0,0,65,12,1,9,4,0,0,0,0,0,0,0
+38587,2955,Coffee of the Week (Soy US Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+38588,2955,Decaf Coffee of the Week (Soy US Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+38589,2955,Caffè Misto/Café Au Lait (Soy CD Milk),70,2.5,0,0,0,85,6,1,4,5,0,0,0,0,0,0,0
+38590,2955,Coffee of the Week (Soy CD Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+38591,2955,Decaf Coffee of the Week (Soy CD Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+38592,2955,Caffè Misto/Café Au Lait (Nonfat Milk),90,0,0,0,5,120,13,0,11,9,0,0,0,0,0,0,0
+38593,2955,Coffee of the Week (Nonfat Milk),10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+38594,2955,Decaf Coffee of the Week (Nonfat Milk),10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+38595,2955,Caffè Misto/Café Au Lait (Whole Milk),140,8,4.5,0,30,115,11,0,11,8,0,0,0,0,0,0,0
+38596,2955,Coffee of the Week (Whole Milk),10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+38597,2955,Decaf Coffee of the Week (Whole Milk),10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+38598,2955,Caffè Misto/Café Au Lait (Breve Milk),300,26,16,1,85,95,11,0,1,7,0,0,0,0,0,0,0
+38599,2955,Coffee of the Week (Breve Milk),10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+38600,2955,Decaf Coffee of the Week (Breve Milk),10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+38601,2955,Caffè Misto/Café Au Lait (Soy US Milk),110,3,0,0,0,90,15,1,12,6,0,0,0,0,0,0,0
+38602,2955,Coffee of the Week (Soy US Milk),10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+38603,2955,Decaf Coffee of the Week (Soy US Milk),10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+38604,2955,Caffè Misto/Café Au Lait (Soy CD Milk),100,3.5,0,0,0,115,8,1,5,7,0,0,0,0,0,0,0
+38605,2955,Coffee of the Week (Soy CD Milk),10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+38606,2955,Decaf Coffee of the Week (Soy CD Milk),10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+38607,2955,Caffè Misto/Café Au Lait (Nonfat Milk),110,0,0,0,5,150,16,0,14,11,0,0,0,0,0,0,0
+38608,2955,Coffee of the Week (Nonfat Milk),15,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+38609,2955,Decaf Coffee of the Week (Nonfat Milk),15,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+38610,2955,Caffè Misto/Café Au Lait (Whole Milk),180,9,6,0,40,140,14,0,13,10,0,0,0,0,0,0,0
+38611,2955,Coffee of the Week (Whole Milk),15,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+38612,2955,Decaf Coffee of the Week (Whole Milk),15,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+38613,2955,Caffè Misto/Café Au Lait (Breve Milk),370,32,20,1,105,120,13,0,1,9,0,0,0,0,0,0,0
+38614,2955,Coffee of the Week (Breve Milk),15,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+38615,2955,Decaf Coffee of the Week (Breve Milk),15,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+38616,2955,Caffè Misto/Café Au Lait (Soy US Milk),140,4,0.5,0,0,110,19,1,15,7,0,0,0,0,0,0,0
+38617,2955,Coffee of the Week (Soy US Milk),15,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+38618,2955,Decaf Coffee of the Week (Soy US Milk),15,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+38619,2955,Caffè Misto/Café Au Lait (Soy CD Milk),120,4.5,0.5,0,0,140,10,1,7,8,0,0,0,0,0,0,0
+38620,2955,Coffee of the Week (Soy CD Milk),15,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+38621,2955,Decaf Coffee of the Week (Soy CD Milk),15,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+38622,2956,Apple Juice (Nonfat Milk),180,0,0,0,0,15,45,0,41,0,0,0,0,0,0,0,0
+38623,2956,Caramel Apple Cider - no whip (Nonfat Milk),230,0,0,0,0,15,55,0,50,0,0,0,0,0,0,0,0
+38624,2956,Caramel Apple Cider - whip (Nonfat Milk),320,8,5,0,35,25,59,0,52,0,0,0,0,0,0,0,0
+38625,2956,Chocolate Milk (Nonfat Milk),190,1.5,0,0,5,170,35,1,28,13,0,0,0,0,0,0,0
+38626,2956,Cinnamon Dolce Crème - no whip (Nonfat Milk),190,0,0,0,5,170,35,0,34,12,0,0,0,0,0,0,0
+38627,2956,Cinnamon Dolce Crème - whip (Nonfat Milk),270,8,5,0,40,180,37,0,35,12,0,0,0,0,0,0,0
+38628,2956,Hot Chocolate - no whip (Nonfat Milk),210,2,0,0,5,150,40,1,33,12,0,0,0,0,0,0,0
+38629,2956,Hot Chocolate - whip (Nonfat Milk),290,9,5,0,35,160,41,1,34,12,0,0,0,0,0,0,0
+38630,2956,Milk (Nonfat Milk),130,0,0,0,5,190,19,0,17,13,0,0,0,0,0,0,0
+38631,2956,Pumpkin Spice Crème - no whip (Nonfat Milk),220,0,0,0,5,220,40,0,39,13,0,0,0,0,0,0,0
+38632,2956,Pumpkin Spice Crème - whip (Nonfat Milk),300,8,5,0,40,220,42,0,40,13,0,0,0,0,0,0,0
+38633,2956,Steamed Apple Cider (Nonfat Milk),180,0,0,0,0,15,45,0,41,0,0,0,0,0,0,0,0
+38634,2956,Toffee Nut Crème - no whip (Nonfat Milk),180,0,0,0,5,290,33,0,31,12,0,0,0,0,0,0,0
+38635,2956,Toffee Nut Crème - whip (Nonfat Milk),260,8,5,0,40,300,34,0,32,12,0,0,0,0,0,0,0
+38636,2956,Vanilla Crème - no whip (Nonfat Milk),180,0,0,0,5,170,32,0,30,11,0,0,0,0,0,0,0
+38637,2956,Vanilla Crème - whip (Nonfat Milk),260,8,5,0,35,170,33,0,31,11,0,0,0,0,0,0,0
+38638,2956,White Hot Chocolate - no whip (Nonfat Milk),300,4.5,3.5,0,10,250,51,0,49,15,0,0,0,0,0,0,0
+38639,2956,White Hot Chocolate - whip (Nonfat Milk),380,12,8,0,40,260,52,0,50,15,0,0,0,0,0,0,0
+38640,2956,Apple Juice (Whole Milk),180,0,0,0,0,15,45,0,41,0,0,0,0,0,0,0,0
+38641,2956,Caramel Apple Cider - no whip (Whole Milk),230,0,0,0,0,15,55,0,50,0,0,0,0,0,0,0,0
+38642,2956,Caramel Apple Cider - whip (Whole Milk),320,8,5,0,35,25,59,0,52,0,0,0,0,0,0,0,0
+38643,2956,Chocolate Milk (Whole Milk),270,12,7,0,40,150,33,1,27,12,0,0,0,0,0,0,0
+38644,2956,Cinnamon Dolce Crème - no whip (Whole Milk),270,11,7,0,45,160,33,0,33,11,0,0,0,0,0,0,0
+38645,2956,Cinnamon Dolce Crème - whip (Whole Milk),350,18,12,0.5,75,170,35,0,34,11,0,0,0,0,0,0,0
+38646,2956,Hot Chocolate - no whip (Whole Milk),270,11,6,0,30,125,38,1,32,11,0,0,0,0,0,0,0
+38647,2956,Hot Chocolate - whip (Whole Milk),360,19,11,0.5,60,30,39,1,33,11,0,0,0,0,0,0,0
+38648,2956,Milk (Whole Milk),210,12,7,0,50,170,16,0,16,12,0,0,0,0,0,0,0
+38649,2956,Pumpkin Spice Crème - no whip (Whole Milk),290,10,6,0,40,210,38,0,38,12,0,0,0,0,0,0,0
+38650,2956,Pumpkin Spice Crème - whip (Whole Milk),370,18,11,0,70,210,40,0,39,12,0,0,0,0,0,0,0
+38651,2956,Steamed Apple Cider (Whole Milk),180,0,0,0,0,15,45,0,41,0,0,0,0,0,0,0,0
+38652,2956,Toffee Nut Crème - no whip (Whole Milk),260,11,7,0,45,270,31,0,30,11,0,0,0,0,0,0,0
+38653,2956,Toffee Nut Crème - whip (Whole Milk),340,19,12,0,75,290,32,0,31,11,0,0,0,0,0,0,0
+38654,2956,Vanilla Crème - no whip (Whole Milk),250,10,6,0,30,135,29,0,29,10,0,0,0,0,0,0,0
+38655,2956,Vanilla Crème - whip (Whole Milk),330,18,11,0.5,65,140,31,0,30,10,0,0,0,0,0,0,0
+38656,2956,White Hot Chocolate - no whip (Whole Milk),370,15,10,0,45,240,49,0,48,13,0,0,0,0,0,0,0
+38657,2956,White Hot Chocolate - whip (Whole Milk),460,22,15,0.5,75,250,50,0,49,13,0,0,0,0,0,0,0
+38658,2956,Apple Juice (Breve Milk),180,0,0,0,0,15,45,0,41,0,0,0,0,0,0,0,0
+38659,2956,Caramel Apple Cider - no whip (Breve Milk),230,0,0,0,0,15,55,0,50,0,0,0,0,0,0,0,0
+38660,2956,Caramel Apple Cider - whip (Breve Milk),320,8,5,0,35,25,59,0,52,0,0,0,0,0,0,0,0
+38661,2956,Chocolate Milk (Breve Milk),480,37,22,1,115,130,32,1,13,11,0,0,0,0,0,0,0
+38662,2956,Cinnamon Dolce Crème - no whip (Breve Milk),490,37,23,1,120,135,32,0,18,9,0,0,0,0,0,0,0
+38663,2956,Cinnamon Dolce Crème - whip (Breve Milk),570,44,28,1.5,150,140,34,0,20,9,0,0,0,0,0,0,0
+38664,2956,Hot Chocolate - no whip (Breve Milk),470,35,21,1,105,120,37,1,19,10,0,0,0,0,0,0,0
+38665,2956,Hot Chocolate - whip (Breve Milk),560,42,26,1,135,125,39,1,21,10,0,0,0,0,0,0,0
+38666,2956,Pumpkin Spice Crème - no whip (Breve Milk),490,34,21,0,110,180,37,0,24,11,0,0,0,0,0,0,0
+38667,2956,Pumpkin Spice Crème - whip (Breve Milk),570,42,26,0,140,190,39,0,26,11,0,0,0,0,0,0,0
+38668,2956,Steamed Apple Cider (Breve Milk),180,0,0,0,0,15,45,0,41,0,0,0,0,0,0,0,0
+38669,2956,Toffee Nut Crème - no whip (Breve Milk),480,37,23,0,120,250,30,0,15,9,0,0,0,0,0,0,0
+38670,2956,Toffee Nut Crème - whip (Breve Milk),480,37,23,0,120,250,29,0,15,9,0,0,0,0,0,0,0
+38671,2956,Vanilla Crème - no whip (Breve Milk),470,36,23,1,115,130,29,0,15,9,0,0,0,0,0,0,0
+38672,2956,Vanilla Crème - whip (Breve Milk),550,44,28,1.5,150,135,30,0,16,9,0,0,0,0,0,0,0
+38673,2956,White Hot Chocolate - no whip (Breve Milk),590,40,25,1,115,210,48,0,34,12,0,0,0,0,0,0,0
+38674,2956,White Hot Chocolate - whip (Breve Milk),670,47,30,1.5,145,220,49,0,35,12,0,0,0,0,0,0,0
+38675,2956,Apple Juice (Soy US Milk),180,0,0,0,0,15,45,0,41,0,0,0,0,0,0,0,0
+38676,2956,Caramel Apple Cider - no whip (Soy US Milk),230,0,0,0,0,15,55,0,50,0,0,0,0,0,0,0,0
+38677,2956,Caramel Apple Cider - whip (Soy US Milk),320,8,5,0,35,25,59,0,52,0,0,0,0,0,0,0,0
+38678,2956,Chocolate Milk (Soy US Milk),230,6,1,0,0,120,38,3,29,9,0,0,0,0,0,0,0
+38679,2956,Cinnamon Dolce Crème - no whip (Soy US Milk),230,4.5,0.5,0,0,125,38,1,35,8,0,0,0,0,0,0,0
+38680,2956,Cinnamon Dolce Crème - whip (Soy US Milk),310,12,6,0,30,130,40,1,36,8,0,0,0,0,0,0,0
+38681,2956,Hot Chocolate - no whip (Soy US Milk),240,6,1,0,0,110,43,3,34,9,0,0,0,0,0,0,0
+38682,2956,Hot Chocolate - whip (Soy US Milk),320,13,6,0,30,115,45,3,35,9,0,0,0,0,0,0,0
+38683,2956,Milk (Soy US Milk),170,5,0.5,0,0,135,22,1,18,8,0,0,0,0,0,0,0
+38684,2956,Pumpkin Spice Crème - no whip (Soy US Milk),250,4,0.5,0,0,170,43,1,40,9,0,0,0,0,0,0,0
+38685,2956,Pumpkin Spice Crème - whip (Soy US Milk),330,12,6,0,30,180,45,1,41,9,0,0,0,0,0,0,0
+38686,2956,Steamed Apple Cider (Soy US Milk),180,0,0,0,0,15,45,0,41,0,0,0,0,0,0,0,0
+38687,2956,Toffee Nut Crème - no whip (Soy US Milk),220,4.5,0.5,0,0,240,36,1,32,8,0,0,0,0,0,0,0
+38688,2956,Toffee Nut Crème - whip (Soy US Milk),210,5,0.5,0,0,240,36,1,32,8,0,0,0,0,0,0,0
+38689,2956,Vanilla Crème - no whip (Soy US Milk),210,4.5,0.5,0,0,120,35,1,31,8,0,0,0,0,0,0,0
+38690,2956,Vanilla Crème - whip (Soy US Milk),300,12,6,0,30,130,37,1,32,8,0,0,0,0,0,0,0
+38691,2956,White Hot Chocolate - no whip (Soy US Milk),330,9,4,0,0,210,54,1,50,11,0,0,0,0,0,0,0
+38692,2956,White Hot Chocolate - whip (Soy US Milk),420,16,9,0,35,210,56,1,51,11,0,0,0,0,0,0,0
+38693,2956,Apple Juice (Soy CD Milk),180,0,0,0,0,15,45,0,41,0,0,0,0,0,0,0,0
+38694,2956,Caramel Apple Cider - no whip (Soy CD Milk),230,0,0,0,0,15,55,0,50,0,0,0,0,0,0,0,0
+38695,2956,Caramel Apple Cider - whip (Soy CD Milk),320,8,5,0,35,25,59,0,52,0,0,0,0,0,0,0,0
+38696,2956,Chocolate Milk (Soy CD Milk),200,7,1,0,0,150,29,3,20,11,0,0,0,0,0,0,0
+38697,2956,Cinnamon Dolce Crème - no whip (Soy CD Milk),200,5,0.5,0,0,160,28,1,26,9,0,0,0,0,0,0,0
+38698,2956,Cinnamon Dolce Crème - whip (Soy CD Milk),290,13,6,0,30,170,30,1,27,9,0,0,0,0,0,0,0
+38699,2956,Hot Chocolate - no whip (Soy CD Milk),220,6,1,0,0,140,34,3,26,10,0,0,0,0,0,0,0
+38700,2956,Hot Chocolate - whip (Soy CD Milk),300,14,6,0,30,150,36,3,27,10,0,0,0,0,0,0,0
+38701,2956,Milk (Soy CD Milk),140,6,0.5,0,0,170,12,1,8,10,0,0,0,0,0,0,0
+38702,2956,Pumpkin Spice Crème - no whip (Soy CD Milk),230,5,0.5,0,0,210,34,1,31,11,0,0,0,0,0,0,0
+38703,2956,Pumpkin Spice Crème - whip (Soy CD Milk),310,13,6,0,30,210,36,1,33,11,0,0,0,0,0,0,0
+38704,2956,Steamed Apple Cider (Soy CD Milk),180,0,0,0,0,15,45,0,41,0,0,0,0,0,0,0,0
+38705,2956,Toffee Nut Crème - no whip (Soy CD Milk),200,5,0.5,0,0,270,26,1,23,9,0,0,0,0,0,0,0
+38706,2956,Toffee Nut Crème - whip (Soy CD Milk),190,5,0.5,0,0,280,26,1,23,9,0,0,0,0,0,0,0
+38707,2956,Vanilla Crème - no whip (Soy CD Milk),190,5,0.5,0,0,160,26,1,22,9,0,0,0,0,0,0,0
+38708,2956,Vanilla Crème - whip (Soy CD Milk),270,13,6,0,30,160,27,1,23,9,0,0,0,0,0,0,0
+38709,2956,White Hot Chocolate - no whip (Soy CD Milk),310,9,4,0,0,240,45,1,41,12,0,0,0,0,0,0,0
+38710,2956,White Hot Chocolate - whip (Soy CD Milk),390,17,9,0,35,250,46,1,42,12,0,0,0,0,0,0,0
+38711,2956,Apple Juice (Nonfat Milk),230,0,0,0,0,20,57,0,52,0,0,0,0,0,0,0,0
+38712,2956,Caramel Apple Cider - no whip (Nonfat Milk),300,0,0,0,0,15,72,0,64,0,0,0,0,0,0,0,0
+38713,2956,Caramel Apple Cider - whip (Nonfat Milk),410,10,7,0,40,30,76,0,68,0,0,0,0,0,0,0,0
+38714,2956,Chocolate Milk (Nonfat Milk),340,15,8,0,50,190,42,2,35,15,0,0,0,0,0,0,0
+38715,2956,Cinnamon Dolce Crème - no whip (Nonfat Milk),360,15,9,0,60,220,44,0,44,14,0,0,0,0,0,0,0
+38716,2956,Cinnamon Dolce Crème - whip (Nonfat Milk),470,24,15,0.5,100,220,46,0,46,14,0,0,0,0,0,0,0
+38717,2956,Hot Chocolate - no whip (Nonfat Milk),350,14,7,0,35,160,47,2,40,14,0,0,0,0,0,0,0
+38718,2956,Hot Chocolate - whip (Nonfat Milk),450,24,13,0.5,75,190,49,2,41,14,0,0,0,0,0,0,0
+38719,2956,Milk (Nonfat Milk),270,15,9,0,60,220,21,0,21,15,0,0,0,0,0,0,0
+38720,2956,Pumpkin Spice Crème - no whip (Nonfat Milk),400,14,9,0,55,290,52,0,52,17,0,0,0,0,0,0,0
+38721,2956,Pumpkin Spice Crème - whip (Nonfat Milk),500,24,15,0,95,300,54,0,54,17,0,0,0,0,0,0,0
+38722,2956,Steamed Apple Cider (Nonfat Milk),230,0,0,0,0,20,57,0,52,0,0,0,0,0,0,0,0
+38723,2956,Toffee Nut Crème - no whip (Nonfat Milk),350,15,9,0,60,370,41,0,41,14,0,0,0,0,0,0,0
+38724,2956,Toffee Nut Crème - whip (Nonfat Milk),450,24,15,0,100,380,43,0,42,14,0,0,0,0,0,0,0
+38725,2956,Vanilla Crème - no whip (Nonfat Milk),330,14,8,0,40,180,39,0,39,14,0,0,0,0,0,0,0
+38726,2956,Vanilla Crème - whip (Nonfat Milk),440,23,14,0.5,80,190,41,0,40,14,0,0,0,0,0,0,0
+38727,2956,White Hot Chocolate - no whip (Nonfat Milk),480,18,12,0,55,300,63,0,62,17,0,0,0,0,0,0,0
+38728,2956,White Hot Chocolate - whip (Nonfat Milk),580,28,19,0.5,95,310,65,0,64,17,0,0,0,0,0,0,0
+38729,2956,Apple Juice (Whole Milk),230,0,0,0,0,20,57,0,52,0,0,0,0,0,0,0,0
+38730,2956,Caramel Apple Cider - no whip (Whole Milk),300,0,0,0,0,15,72,0,64,0,0,0,0,0,0,0,0
+38731,2956,Caramel Apple Cider - whip (Whole Milk),410,10,7,0,40,30,76,0,68,0,0,0,0,0,0,0,0
+38732,2956,Chocolate Milk (Whole Milk),340,15,8,0,50,190,42,2,35,15,0,0,0,0,0,0,0
+38733,2956,Cinnamon Dolce Crème - no whip (Whole Milk),360,15,9,0,60,220,44,0,44,14,0,0,0,0,0,0,0
+38734,2956,Cinnamon Dolce Crème - whip (Whole Milk),470,24,15,0.5,100,220,46,0,46,14,0,0,0,0,0,0,0
+38735,2956,Hot Chocolate - no whip (Whole Milk),350,14,7,0,35,160,47,2,40,14,0,0,0,0,0,0,0
+38736,2956,Hot Chocolate - whip (Whole Milk),450,24,13,0.5,75,190,49,2,41,14,0,0,0,0,0,0,0
+38737,2956,Milk (Whole Milk),270,15,9,0,60,220,21,0,21,15,0,0,0,0,0,0,0
+38738,2956,Pumpkin Spice Crème - no whip (Whole Milk),400,14,9,0,55,290,52,0,52,17,0,0,0,0,0,0,0
+38739,2956,Pumpkin Spice Crème - whip (Whole Milk),500,24,15,0,95,300,54,0,54,17,0,0,0,0,0,0,0
+38740,2956,Steamed Apple Cider (Whole Milk),230,0,0,0,0,20,57,0,52,0,0,0,0,0,0,0,0
+38741,2956,Toffee Nut Crème - no whip (Whole Milk),350,15,9,0,60,370,41,0,41,14,0,0,0,0,0,0,0
+38742,2956,Toffee Nut Crème - whip (Whole Milk),450,24,15,0,100,380,43,0,42,14,0,0,0,0,0,0,0
+38743,2956,Vanilla Crème - no whip (Whole Milk),330,14,8,0,40,180,39,0,39,14,0,0,0,0,0,0,0
+38744,2956,Vanilla Crème - whip (Whole Milk),440,23,14,0.5,80,190,41,0,40,14,0,0,0,0,0,0,0
+38745,2956,White Hot Chocolate - no whip (Whole Milk),480,18,12,0,55,300,63,0,62,17,0,0,0,0,0,0,0
+38746,2956,White Hot Chocolate - whip (Whole Milk),580,28,19,0.5,95,310,65,0,64,17,0,0,0,0,0,0,0
+38747,2956,Apple Juice (Breve Milk),230,0,0,0,0,20,57,0,52,0,0,0,0,0,0,0,0
+38748,2956,Caramel Apple Cider - no whip (Breve Milk),300,0,0,0,0,15,72,0,64,0,0,0,0,0,0,0,0
+38749,2956,Caramel Apple Cider - whip (Breve Milk),410,10,7,0,40,30,76,0,68,0,0,0,0,0,0,0,0
+38750,2956,Chocolate Milk (Breve Milk),600,46,28,1.5,140,160,41,2,17,14,0,0,0,0,0,0,0
+38751,2956,Cinnamon Dolce Crème - no whip (Breve Milk),660,50,31,1.5,160,180,43,0,24,13,0,0,0,0,0,0,0
+38752,2956,Cinnamon Dolce Crème - whip (Breve Milk),760,59,37,2,200,190,45,0,26,13,0,0,0,0,0,0,0
+38753,2956,Hot Chocolate - no whip (Breve Milk),600,44,26,1.5,135,150,47,2,24,13,0,0,0,0,0,0,0
+38754,2956,Hot Chocolate - whip (Breve Milk),700,53,33,1.5,175,160,48,2,25,13,0,0,0,0,0,0,0
+38755,2956,Pumpkin Spice Crème - no whip (Breve Milk),690,48,30,0,155,250,51,0,33,15,0,0,0,0,0,0,0
+38756,2956,Pumpkin Spice Crème - whip (Breve Milk),790,58,36,0,195,260,53,0,34,15,0,0,0,0,0,0,0
+38757,2956,Steamed Apple Cider (Breve Milk),230,0,0,0,0,20,57,0,52,0,0,0,0,0,0,0,0
+38758,2956,Toffee Nut Crème - no whip (Breve Milk),650,50,31,0,160,330,40,0,21,13,0,0,0,0,0,0,0
+38759,2956,Toffee Nut Crème - whip (Breve Milk),750,60,37,0,200,350,41,0,22,13,0,0,0,0,0,0,0
+38760,2956,Vanilla Crème - no whip (Breve Milk),630,49,30,1.5,155,170,38,0,20,13,0,0,0,0,0,0,0
+38761,2956,Vanilla Crème - whip (Breve Milk),730,58,37,1.5,195,180,40,0,22,13,0,0,0,0,0,0,0
+38762,2956,White Hot Chocolate - no whip (Breve Milk),740,49,32,1.5,145,270,62,0,45,16,0,0,0,0,0,0,0
+38763,2956,White Hot Chocolate - whip (Breve Milk),840,59,38,1.5,180,280,64,0,46,16,0,0,0,0,0,0,0
+38764,2956,Apple Juice (Soy US Milk),230,0,0,0,0,20,57,0,52,0,0,0,0,0,0,0,0
+38765,2956,Caramel Apple Cider - no whip (Soy US Milk),300,0,0,0,0,15,72,0,64,0,0,0,0,0,0,0,0
+38766,2956,Caramel Apple Cider - whip (Soy US Milk),410,10,7,0,40,30,76,0,68,0,0,0,0,0,0,0,0
+38767,2956,Chocolate Milk (Soy US Milk),290,8,1,0,0,150,49,3,37,12,0,0,0,0,0,0,0
+38768,2956,Cinnamon Dolce Crème - no whip (Soy US Milk),300,6,1,0,0,170,52,2,47,10,0,0,0,0,0,0,0
+38769,2956,Cinnamon Dolce Crème - whip (Soy US Milk),410,16,7,0,40,180,54,2,48,10,0,0,0,0,0,0,0
+38770,2956,Hot Chocolate - no whip (Soy US Milk),300,7,1,0,0,140,54,3,42,11,0,0,0,0,0,0,0
+38771,2956,Hot Chocolate - whip (Soy US Milk),400,17,7,0,40,150,56,3,44,11,0,0,0,0,0,0,0
+38772,2956,Milk (Soy US Milk),210,6,1,0,0,170,28,2,23,11,0,0,0,0,0,0,0
+38773,2956,Pumpkin Spice Crème - no whip (Soy US Milk),350,6,1,0,0,240,60,2,54,13,0,0,0,0,0,0,0
+38774,2956,Pumpkin Spice Crème - whip (Soy US Milk),450,15,7,0,40,250,62,2,56,13,0,0,0,0,0,0,0
+38775,2956,Steamed Apple Cider (Soy US Milk),230,0,0,0,0,20,57,0,52,0,0,0,0,0,0,0,0
+38776,2956,Toffee Nut Crème - no whip (Soy US Milk),290,6,1,0,0,320,49,2,43,10,0,0,0,0,0,0,0
+38777,2956,Toffee Nut Crème - whip (Soy US Milk),390,16,7,0,40,330,50,2,44,10,0,0,0,0,0,0,0
+38778,2956,Vanilla Crème - no whip (Soy US Milk),280,6,1,0,0,160,47,2,41,10,0,0,0,0,0,0,0
+38779,2956,Vanilla Crème - whip (Soy US Milk),380,15,7,0,40,170,49,2,43,10,0,0,0,0,0,0,0
+38780,2956,White Hot Chocolate - no whip (Soy US Milk),430,11,5,0,5,260,70,2,64,13,0,0,0,0,0,0,0
+38781,2956,White Hot Chocolate - whip (Soy US Milk),530,20,11,0,40,270,72,2,66,13,0,0,0,0,0,0,0
+38782,2956,Apple Juice (Soy CD Milk),230,0,0,0,0,20,57,0,52,0,0,0,0,0,0,0,0
+38783,2956,Caramel Apple Cider - no whip (Soy CD Milk),300,0,0,0,0,15,72,0,64,0,0,0,0,0,0,0,0
+38784,2956,Caramel Apple Cider - whip (Soy CD Milk),410,10,7,0,40,30,76,0,68,0,0,0,0,0,0,0,0
+38785,2956,Chocolate Milk (Soy CD Milk),260,8,1,0,0,190,37,3,26,13,0,0,0,0,0,0,0
+38786,2956,Cinnamon Dolce Crème - no whip (Soy CD Milk),270,7,1,0,0,220,38,2,34,13,0,0,0,0,0,0,0
+38787,2956,Cinnamon Dolce Crème - whip (Soy CD Milk),380,16,7,0,40,220,40,2,36,13,0,0,0,0,0,0,0
+38788,2956,Hot Chocolate - no whip (Soy CD Milk),280,8,1,0,0,180,43,3,32,13,0,0,0,0,0,0,0
+38789,2956,Hot Chocolate - whip (Soy CD Milk),380,18,7,0,40,190,45,3,33,13,0,0,0,0,0,0,0
+38790,2956,Milk (Soy CD Milk),180,7,1,0,0,220,15,2,11,13,0,0,0,0,0,0,0
+38791,2956,Pumpkin Spice Crème - no whip (Soy CD Milk),320,7,1,0,0,290,47,2,43,15,0,0,0,0,0,0,0
+38792,2956,Pumpkin Spice Crème - whip (Soy CD Milk),420,16,7,0,40,300,48,2,44,15,0,0,0,0,0,0,0
+38793,2956,Steamed Apple Cider (Soy CD Milk),230,0,0,0,0,20,57,0,52,0,0,0,0,0,0,0,0
+38794,2956,Toffee Nut Crème - no whip (Soy CD Milk),260,7,1,0,0,370,36,2,31,13,0,0,0,0,0,0,0
+38795,2956,Toffee Nut Crème - whip (Soy CD Milk),360,17,7,0,40,380,37,2,32,13,0,0,0,0,0,0,0
+38796,2956,Vanilla Crème - no whip (Soy CD Milk),250,7,1,0,0,210,34,2,30,12,0,0,0,0,0,0,0
+38797,2956,Vanilla Crème - whip (Soy CD Milk),360,16,7,0,40,220,36,2,31,12,0,0,0,0,0,0,0
+38798,2956,White Hot Chocolate - no whip (Soy CD Milk),400,12,5,0,5,300,58,2,54,15,0,0,0,0,0,0,0
+38799,2956,White Hot Chocolate - whip (Soy CD Milk),500,21,11,0,40,310,60,2,55,15,0,0,0,0,0,0,0
+38800,2956,Apple Juice (Nonfat Milk),300,0,0,0,0,25,74,0,67,0,0,0,0,0,0,0,0
+38801,2956,Caramel Apple Cider - no whip (Nonfat Milk),380,0,0,0,0,25,92,0,83,0,0,0,0,0,0,0,0
+38802,2956,Caramel Apple Cider - whip (Nonfat Milk),490,10,7,0,40,35,96,0,86,0,0,0,0,0,0,0,0
+38803,2956,Chocolate Milk (Nonfat Milk),320,2.5,0,0,10,270,58,2,46,22,0,0,0,0,0,0,0
+38804,2956,Cinnamon Dolce Crème - no whip (Nonfat Milk),320,0,0,0,10,290,59,0,56,20,0,0,0,0,0,0,0
+38805,2956,Cinnamon Dolce Crème - whip (Nonfat Milk),420,9,6,0,50,300,61,0,58,20,0,0,0,0,0,0,0
+38806,2956,Hot Chocolate - no whip (Nonfat Milk),340,3,1,0,5,240,66,2,54,20,0,0,0,0,0,0,0
+38807,2956,Hot Chocolate - whip (Nonfat Milk),440,12,7,0,45,250,68,2,56,20,0,0,0,0,0,0,0
+38808,2956,Milk (Nonfat Milk),200,0,0,0,10,300,30,0,27,20,0,0,0,0,0,0,0
+38809,2956,Pumpkin Spice Crème - no whip (Nonfat Milk),370,0,0,0,10,380,69,0,66,23,0,0,0,0,0,0,0
+38810,2956,Pumpkin Spice Crème - whip (Nonfat Milk),470,10,6,0,50,390,71,0,68,23,0,0,0,0,0,0,0
+38811,2956,Steamed Apple Cider (Nonfat Milk),300,0,0,0,0,25,74,0,67,0,0,0,0,0,0,0,0
+38812,2956,Toffee Nut Crème - no whip (Nonfat Milk),310,0,0,0,10,480,55,0,52,20,0,0,0,0,0,0,0
+38813,2956,Toffee Nut Crème - whip (Nonfat Milk),400,10,6,0,50,490,57,0,53,20,0,0,0,0,0,0,0
+38814,2956,Vanilla Crème - no whip (Nonfat Milk),290,0,0,0,5,280,53,0,50,19,0,0,0,0,0,0,0
+38815,2956,Vanilla Crème - whip (Nonfat Milk),390,9,6,0,45,290,55,0,51,19,0,0,0,0,0,0,0
+38816,2956,White Hot Chocolate - no whip (Nonfat Milk),490,7,5,0,15,410,84,0,80,24,0,0,0,0,0,0,0
+38817,2956,White Hot Chocolate - whip (Nonfat Milk),590,16,12,0,50,420,86,0,82,24,0,0,0,0,0,0,0
+38818,2956,Apple Juice (Whole Milk),300,0,0,0,0,25,74,0,67,0,0,0,0,0,0,0,0
+38819,2956,Caramel Apple Cider - no whip (Whole Milk),380,0,0,0,0,25,92,0,83,0,0,0,0,0,0,0,0
+38820,2956,Caramel Apple Cider - whip (Whole Milk),490,10,7,0,40,35,96,0,86,0,0,0,0,0,0,0,0
+38821,2956,Chocolate Milk (Whole Milk),440,20,11,0.5,70,250,54,2,45,20,0,0,0,0,0,0,0
+38822,2956,Cinnamon Dolce Crème - no whip (Whole Milk),450,18,11,0.5,75,270,55,0,55,18,0,0,0,0,0,0,0
+38823,2956,Cinnamon Dolce Crème - whip (Whole Milk),550,27,18,1,115,280,57,0,57,18,0,0,0,0,0,0,0
+38824,2956,Hot Chocolate - no whip (Whole Milk),450,18,9,0,45,200,63,2,53,18,0,0,0,0,0,0,0
+38825,2956,Hot Chocolate - whip (Whole Milk),550,27,15,0.5,85,210,65,2,54,18,0,0,0,0,0,0,0
+38826,2956,Milk (Whole Milk),340,19,12,0.5,75,270,26,0,26,18,0,0,0,0,0,0,0
+38827,2956,Pumpkin Spice Crème - no whip (Whole Milk),500,18,11,0,70,360,65,0,65,21,0,0,0,0,0,0,0
+38828,2956,Pumpkin Spice Crème - whip (Whole Milk),600,27,17,0,110,370,67,0,67,21,0,0,0,0,0,0,0
+38829,2956,Steamed Apple Cider (Whole Milk),300,0,0,0,0,25,74,0,67,0,0,0,0,0,0,0,0
+38830,2956,Toffee Nut Crème - no whip (Whole Milk),440,18,11,0,75,460,52,0,51,18,0,0,0,0,0,0,0
+38831,2956,Toffee Nut Crème - whip (Whole Milk),540,28,18,0,115,470,53,0,52,18,0,0,0,0,0,0,0
+38832,2956,Vanilla Crème - no whip (Whole Milk),420,17,10,0.5,55,230,49,0,48,17,0,0,0,0,0,0,0
+38833,2956,Vanilla Crème - whip (Whole Milk),520,27,16,1,90,240,51,0,50,17,0,0,0,0,0,0,0
+38834,2956,White Hot Chocolate - no whip (Whole Milk),620,24,16,0.5,70,390,81,0,79,22,0,0,0,0,0,0,0
+38835,2956,White Hot Chocolate - whip (Whole Milk),720,33,22,1,110,400,82,0,81,22,0,0,0,0,0,0,0
+38836,2956,Apple Juice (Breve Milk),300,0,0,0,0,25,74,0,67,0,0,0,0,0,0,0,0
+38837,2956,Caramel Apple Cider - no whip (Breve Milk),380,0,0,0,0,25,92,0,83,0,0,0,0,0,0,0,0
+38838,2956,Caramel Apple Cider - whip (Breve Milk),490,10,7,0,40,35,96,0,86,0,0,0,0,0,0,0,0
+38839,2956,Chocolate Milk (Breve Milk),790,61,37,2,185,210,53,2,22,18,0,0,0,0,0,0,0
+38840,2956,Cinnamon Dolce Crème - no whip (Breve Milk),820,62,39,2,200,220,53,0,30,16,0,0,0,0,0,0,0
+38841,2956,Cinnamon Dolce Crème - whip (Breve Milk),920,72,45,2,240,230,55,0,32,16,0,0,0,0,0,0,0
+38842,2956,Hot Chocolate - no whip (Breve Milk),760,55,33,1.5,170,190,62,2,33,17,0,0,0,0,0,0,0
+38843,2956,Hot Chocolate - whip (Breve Milk),870,64,39,2,205,200,64,2,35,17,0,0,0,0,0,0,0
+38844,2956,Pumpkin Spice Crème - no whip (Breve Milk),860,61,38,0,195,320,64,0,41,19,0,0,0,0,0,0,0
+38845,2956,Pumpkin Spice Crème - whip (Breve Milk),960,70,44,0,235,330,65,0,42,19,0,0,0,0,0,0,0
+38846,2956,Steamed Apple Cider (Breve Milk),300,0,0,0,0,25,74,0,67,0,0,0,0,0,0,0,0
+38847,2956,Toffee Nut Crème - no whip (Breve Milk),810,63,39,0,200,420,50,0,26,16,0,0,0,0,0,0,0
+38848,2956,Toffee Nut Crème - whip (Breve Milk),910,72,45,0,240,430,51,0,27,16,0,0,0,0,0,0,0
+38849,2956,Vanilla Crème - no whip (Breve Milk),790,61,38,2,195,220,48,0,25,16,0,0,0,0,0,0,0
+38850,2956,Vanilla Crème - whip (Breve Milk),890,70,44,2,235,230,50,0,27,16,0,0,0,0,0,0,0
+38851,2956,White Hot Chocolate - no whip (Breve Milk),960,65,42,2,190,350,79,0,56,20,0,0,0,0,0,0,0
+38852,2956,White Hot Chocolate - whip (Breve Milk),"1,070",75,48,2,230,360,80,0,57,20,0,0,0,0,0,0,0
+38853,2956,Apple Juice (Soy US Milk),300,0,0,0,0,25,74,0,67,0,0,0,0,0,0,0,0
+38854,2956,Caramel Apple Cider - no whip (Soy US Milk),380,0,0,0,0,25,92,0,83,0,0,0,0,0,0,0,0
+38855,2956,Caramel Apple Cider - whip (Soy US Milk),490,10,7,0,40,35,96,0,86,0,0,0,0,0,0,0,0
+38856,2956,Chocolate Milk (Soy US Milk),420,11,1.5,0,0,200,72,4,48,15,0,0,0,0,0,0,0
+38857,2956,Cinnamon Dolce Crème - no whip (Soy US Milk),380,8,1,0,0,210,64,2,58,13,0,0,0,0,0,0,0
+38858,2956,Cinnamon Dolce Crème - whip (Soy US Milk),480,17,7,0,40,220,67,2,60,13,0,0,0,0,0,0,0
+38859,2956,Hot Chocolate - no whip (Soy US Milk),390,9,1.5,0,0,180,71,4,56,14,0,0,0,0,0,0,0
+38860,2956,Hot Chocolate - whip (Soy US Milk),490,19,8,0,40,180,73,4,57,14,0,0,0,0,0,0,0
+38861,2956,Milk (Soy US Milk),270,8,1,0,0,210,36,2,29,13,0,0,0,0,0,0,0
+38862,2956,Pumpkin Spice Crème - no whip (Soy US Milk),430,8,1,0,0,300,75,2,68,16,0,0,0,0,0,0,0
+38863,2956,Pumpkin Spice Crème - whip (Soy US Milk),530,17,7,0,40,310,76,2,70,16,0,0,0,0,0,0,0
+38864,2956,Steamed Apple Cider (Soy US Milk),300,0,0,0,0,25,74,0,67,0,0,0,0,0,0,0,0
+38865,2956,Toffee Nut Crème - no whip (Soy US Milk),370,8,1,0,0,400,61,2,54,13,0,0,0,0,0,0,0
+38866,2956,Toffee Nut Crème - whip (Soy US Milk),460,17,7,0,40,410,62,2,55,13,0,0,0,0,0,0,0
+38867,2956,Vanilla Crème - no whip (Soy US Milk),350,7,1,0,0,200,59,2,52,13,0,0,0,0,0,0,0
+38868,2956,Vanilla Crème - whip (Soy US Milk),460,17,7,0,40,210,61,2,53,13,0,0,0,0,0,0,0
+38869,2956,White Hot Chocolate - no whip (Soy US Milk),550,14,6,0,5,340,89,2,82,17,0,0,0,0,0,0,0
+38870,2956,White Hot Chocolate - whip (Soy US Milk),650,24,13,0,40,350,91,2,83,17,0,0,0,0,0,0,0
+38871,2956,Caramel Apple Cider - no whip (Soy CD Milk),380,0,0,0,0,25,92,0,83,0,0,0,0,0,0,0,0
+38872,2956,Caramel Apple Cider - whip (Soy CD Milk),490,10,7,0,40,35,96,0,86,0,0,0,0,0,0,0,0
+38873,2956,Chocolate Milk (Soy CD Milk),340,11,1.5,0,0,250,48,4,34,18,0,0,0,0,0,0,0
+38874,2956,Cinnamon Dolce Crème - no whip (Soy CD Milk),340,9,1,0,0,270,48,2,43,16,0,0,0,0,0,0,0
+38875,2956,Cinnamon Dolce Crème - whip (Soy CD Milk),440,18,7,0,40,280,50,2,45,16,0,0,0,0,0,0,0
+38876,2956,Hot Chocolate - no whip (Soy CD Milk),360,10,1.5,0,0,230,57,4,43,16,0,0,0,0,0,0,0
+38877,2956,Hot Chocolate - whip (Soy CD Milk),460,20,8,0,40,230,59,4,45,16,0,0,0,0,0,0,0
+38878,2956,Milk (Soy CD Milk),230,9,1,0,0,270,18,2,13,16,0,0,0,0,0,0,0
+38879,2956,Pumpkin Spice Crème - no whip (Soy CD Milk),400,9,1,0,0,360,58,2,53,19,0,0,0,0,0,0,0
+38880,2956,Pumpkin Spice Crème - whip (Soy CD Milk),500,18,7,0,40,370,60,2,55,19,0,0,0,0,0,0,0
+38881,2956,Steamed Apple Cider (Soy CD Milk),300,0,0,0,0,25,74,0,67,0,0,0,0,0,0,0,0
+38882,2956,Toffee Nut Crème - no whip (Soy CD Milk),330,9,1,0,0,460,44,2,39,16,0,0,0,0,0,0,0
+38883,2956,Toffee Nut Crème - whip (Soy CD Milk),430,19,7,0,40,470,46,2,40,16,0,0,0,0,0,0,0
+38884,2956,Vanilla Crème - no whip (Soy CD Milk),320,8,1,0,0,260,43,2,37,15,0,0,0,0,0,0,0
+38885,2956,Vanilla Crème - whip (Soy CD Milk),420,18,7,0,40,270,44,2,39,15,0,0,0,0,0,0,0
+38886,2956,White Hot Chocolate - no whip (Soy CD Milk),510,15,6,0,5,390,74,2,68,20,0,0,0,0,0,0,0
+38887,2956,White Hot Chocolate - whip (Soy CD Milk),620,25,13,0,40,400,75,2,69,20,0,0,0,0,0,0,0
+38888,2957,Caffè Americano (Nonfat Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+38889,2957,Caffè Latte (Nonfat Milk),120,0,0,0,5,170,18,0,16,12,0,0,0,0,0,0,0
+38890,2957,Caffè Mocha - no whip (Nonfat Milk),170,1.5,0,0,5,135,33,1,25,11,0,0,0,0,0,0,0
+38891,2957,Caffè Mocha - whip (Nonfat Milk),260,9,5,0,35,140,34,1,26,11,0,0,0,0,0,0,0
+38892,2957,Cappuccino (Nonfat Milk),80,0,0,0,5,100,11,0,9,7,0,0,0,0,0,0,0
+38893,2957,Caramel Macchiato (Nonfat Milk),170,1,0,0,5,160,30,0,27,11,0,0,0,0,0,0,0
+38894,2957,Cinnamon Dolce Latte - no whip (Nonfat Milk),180,0,0,0,5,160,34,0,32,11,0,0,0,0,0,0,0
+38895,2957,Cinnamon Dolce Latte - whip (Nonfat Milk),270,8,5,0,40,160,36,0,34,11,0,0,0,0,0,0,0
+38896,2957,Cinnamon Spice Mocha - no whip (Nonfat Milk),170,0.5,0,0,5,150,32,0,28,11,0,0,0,0,0,0,0
+38897,2957,Cinnamon Spice Mocha - whip (Nonfat Milk),260,8,5,0,40,150,33,0,29,11,0,0,0,0,0,0,0
+38898,2957,Pumpkin Spice Latte - no whip (Nonfat Milk),210,0,0,0,5,200,40,0,37,12,0,0,0,0,0,0,0
+38899,2957,Pumpkin Spice Latte - whip (Nonfat Milk),290,8,5,0,35,210,41,0,39,12,0,0,0,0,0,0,0
+38900,2957,Syrup Flavored Latte (Nonfat Milk),170,0,0,0,5,150,31,0,28,11,0,0,0,0,0,0,0
+38901,2957,Toffee Nut Latte - no whip (Nonfat Milk),180,0,0,0,5,270,32,0,30,11,0,0,0,0,0,0,0
+38902,2957,Toffee Nut Latte - whip (Nonfat Milk),260,8,5,0,40,280,33,0,30,11,0,0,0,0,0,0,0
+38903,2957,Vanilla Latte (Nonfat Milk),170,0,0,0,5,150,31,0,28,11,0,0,0,0,0,0,0
+38904,2957,White Chocolate Mocha - no whip (Nonfat Milk),260,4,3,0,5,210,45,0,42,12,0,0,0,0,0,0,0
+38905,2957,White Chocolate Mocha - whip (Nonfat Milk),340,11,8,0,40,220,46,0,43,12,0,0,0,0,0,0,0
+38906,2957,Caffè Americano (Whole Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+38907,2957,Caffè Latte (Whole Milk),200,11,7,0,45,160,16,0,15,11,0,0,0,0,0,0,0
+38908,2957,Caffè Mocha - no whip (Whole Milk),240,10,5,0,25,110,31,1,24,10,0,0,0,0,0,0,0
+38909,2957,Caffè Mocha - whip (Whole Milk),310,17,10,0,55,115,32,1,25,10,0,0,0,0,0,0,0
+38910,2957,Cappuccino (Whole Milk),120,6,4,0,25,95,10,0,9,7,0,0,0,0,0,0,0
+38911,2957,Caramel Macchiato (Whole Milk),240,10,6,0,30,135,28,0,26,10,0,0,0,0,0,0,0
+38912,2957,Cinnamon Dolce Latte - no whip (Whole Milk),260,10,6,0,40,140,32,0,31,10,0,0,0,0,0,0,0
+38913,2957,Cinnamon Dolce Latte - whip (Whole Milk),340,17,11,0.5,70,150,34,0,33,10,0,0,0,0,0,0,0
+38914,2957,Cinnamon Spice Mocha - no whip (Whole Milk),240,10,6,0,35,135,30,0,27,10,0,0,0,0,0,0,0
+38915,2957,Cinnamon Spice Mocha - whip (Whole Milk),320,17,11,0.5,70,140,31,0,28,10,0,0,0,0,0,0,0
+38916,2957,Pumpkin Spice Latte - no whip (Whole Milk),280,9,6,0,35,190,38,0,37,11,0,0,0,0,0,0,0
+38917,2957,Pumpkin Spice Latte - whip (Whole Milk),360,17,11,0,70,200,39,0,38,11,0,0,0,0,0,0,0
+38918,2957,Syrup Flavored Latte (Whole Milk),240,9,5,0,30,120,29,0,28,9,0,0,0,0,0,0,0
+38919,2957,Toffee Nut Latte - no whip (Whole Milk),250,10,6,0,40,260,30,0,29,10,0,0,0,0,0,0,0
+38920,2957,Toffee Nut Latte - whip (Whole Milk),330,18,11,0,70,270,32,0,30,10,0,0,0,0,0,0,0
+38921,2957,Vanilla Latte (Whole Milk),240,9,5,0,30,120,29,0,28,9,0,0,0,0,0,0,0
+38922,2957,White Chocolate Mocha - no whip (Whole Milk),320,12,8,0,35,200,43,0,41,11,0,0,0,0,0,0,0
+38923,2957,White Chocolate Mocha - whip (Whole Milk),410,20,13,0,70,210,44,0,43,11,0,0,0,0,0,0,0
+38924,2957,Caffè Americano (Breve Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+38925,2957,Caffè Latte (Breve Milk),420,36,23,1,115,130,15,0,1,10,0,0,0,0,0,0,0
+38926,2957,Caffè Mocha - no whip (Breve Milk),400,30,18,1,90,105,30,1,13,9,0,0,0,0,0,0,0
+38927,2957,Caffè Mocha - whip (Breve Milk),490,38,23,1,125,110,32,1,15,9,0,0,0,0,0,0,0
+38928,2957,Cappuccino (Breve Milk),250,22,14,0.5,70,80,9,0,1,6,0,0,0,0,0,0,0
+38929,2957,Caramel Macchiato (Breve Milk),450,35,22,1,110,130,27,0,13,9,0,0,0,0,0,0,0
+38930,2957,Cinnamon Dolce Latte - no whip (Breve Milk),450,33,21,1,105,120,31,0,18,9,0,0,0,0,0,0,0
+38931,2957,Cinnamon Dolce Latte - whip (Breve Milk),540,41,26,1,140,130,33,0,20,9,0,0,0,0,0,0,0
+38932,2957,Cinnamon Spice Mocha - no whip (Breve Milk),430,32,20,1,100,115,29,0,14,9,0,0,0,0,0,0,0
+38933,2957,Cinnamon Spice Mocha - whip (Breve Milk),510,40,25,1,135,120,31,0,15,9,0,0,0,0,0,0,0
+38934,2957,Pumpkin Spice Latte - no whip (Breve Milk),460,31,19,0,100,170,37,0,24,10,0,0,0,0,0,0,0
+38935,2957,Pumpkin Spice Latte - whip (Breve Milk),540,38,24,0,130,180,38,0,26,10,0,0,0,0,0,0,0
+38936,2957,Syrup Flavored Latte (Breve Milk),440,33,21,0,105,120,29,0,15,9,0,0,0,0,0,0,0
+38937,2957,Toffee Nut Latte - no whip (Breve Milk),450,34,21,0,105,240,29,0,15,9,0,0,0,0,0,0,0
+38938,2957,Toffee Nut Latte - whip (Breve Milk),530,41,26,0,140,250,30,0,16,9,0,0,0,0,0,0,0
+38939,2957,Vanilla Latte (Breve Milk),440,33,21,1,105,120,29,0,15,9,0,0,0,0,0,0,0
+38940,2957,White Chocolate Mocha - no whip (Breve Milk),500,33,21,1,95,180,42,0,30,11,0,0,0,0,0,0,0
+38941,2957,White Chocolate Mocha - whip (Breve Milk),580,40,26,1,125,190,44,0,31,11,0,0,0,0,0,0,0
+38942,2957,Caffè Americano (Soy US Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+38943,2957,Caffè Latte (Soy US Milk),160,4.5,0.5,0,0,120,21,1,16,8,0,0,0,0,0,0,0
+38944,2957,Caffè Mocha - no whip (Soy US Milk),200,5,1,0,0,95,35,2,26,8,0,0,0,0,0,0,0
+38945,2957,Caffè Mocha - whip (Soy US Milk),280,13,6,0,30,105,37,2,27,8,0,0,0,0,0,0,0
+38946,2957,Cappuccino (Soy US Milk),100,2.5,0,0,0,75,13,1,10,5,0,0,0,0,0,0,0
+38947,2957,Caramel Macchiato (Soy US Milk),210,5,1,0,5,120,33,1,28,8,0,0,0,0,0,0,0
+38948,2957,Cinnamon Dolce Latte - no whip (Soy US Milk),220,4,0.5,0,0,110,37,1,33,7,0,0,0,0,0,0,0
+38949,2957,Cinnamon Dolce Latte - whip (Soy US Milk),300,12,6,0,30,120,39,1,35,7,0,0,0,0,0,0,0
+38950,2957,Cinnamon Spice Mocha - no whip (Soy US Milk),200,4.5,0.5,0,0,105,35,2,28,8,0,0,0,0,0,0,0
+38951,2957,Cinnamon Spice Mocha - whip (Soy US Milk),290,12,6,0,30,115,36,2,30,8,0,0,0,0,0,0,0
+38952,2957,Pumpkin Spice Latte - no whip (Soy US Milk),240,4,0.5,0,0,160,42,1,38,9,0,0,0,0,0,0,0
+38953,2957,Pumpkin Spice Latte - whip (Soy US Milk),320,11,6,0,30,170,44,1,39,9,0,0,0,0,0,0,0
+38954,2957,Syrup Flavored Latte (Soy US Milk),210,4,0.5,0,0,110,34,1,29,7,0,0,0,0,0,0,0
+38955,2957,Toffee Nut Latte - no whip (Soy US Milk),210,4.5,0.5,0,0,230,35,1,31,7,0,0,0,0,0,0,0
+38956,2957,Toffee Nut Latte - whip (Soy US Milk),290,12,6,0,30,240,37,1,31,7,0,0,0,0,0,0,0
+38957,2957,Vanilla Latte (Soy US Milk),210,4,0.5,0,0,110,34,1,29,7,0,0,0,0,0,0,0
+38958,2957,White Chocolate Mocha - no whip (Soy US Milk),290,7,3.5,0,0,170,47,1,43,9,0,0,0,0,0,0,0
+38959,2957,White Chocolate Mocha - whip (Soy US Milk),350,12,6,0,20,200,50,1,45,10,0,0,0,0,0,0,0
+38960,2957,Caffè Americano (Soy CD Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+38961,2957,Caffè Latte (Soy CD Milk),140,5,0.5,0,0,160,11,1,8,10,0,0,0,0,0,0,0
+38962,2957,Caffè Mocha - no whip (Soy CD Milk),180,6,1,0,0,125,28,2,19,9,0,0,0,0,0,0,0
+38963,2957,Caffè Mocha - whip (Soy CD Milk),270,13,6,0,30,130,29,2,20,9,0,0,0,0,0,0,0
+38964,2957,Cappuccino (Soy CD Milk),80,3,0,0,0,95,7,1,5,6,0,0,0,0,0,0,0
+38965,2957,Caramel Macchiato (Soy CD Milk),190,5,1,0,5,150,24,1,20,9,0,0,0,0,0,0,0
+38966,2957,Cinnamon Dolce Latte - no whip (Soy CD Milk),200,4.5,0.5,0,0,140,28,1,25,9,0,0,0,0,0,0,0
+38967,2957,Cinnamon Dolce Latte - whip (Soy CD Milk),280,12,6,0,30,150,30,1,27,9,0,0,0,0,0,0,0
+38968,2957,Cinnamon Spice Mocha - no whip (Soy CD Milk),180,5,0.5,0,0,135,26,2,21,9,0,0,0,0,0,0,0
+38969,2957,Cinnamon Spice Mocha - whip (Soy CD Milk),270,13,6,0,30,140,28,2,22,9,0,0,0,0,0,0,0
+38970,2957,Pumpkin Spice Latte - no whip (Soy CD Milk),220,4.5,0.5,0,0,190,34,1,31,10,0,0,0,0,0,0,0
+38971,2957,Pumpkin Spice Latte - whip (Soy CD Milk),300,12,6,0,30,200,36,1,32,10,0,0,0,0,0,0,0
+38972,2957,Syrup Flavored Latte (Soy CD Milk),190,4.5,0.5,0,0,140,26,1,22,8,0,0,0,0,0,0,0
+38973,2957,Toffee Nut Latte - no whip (Soy CD Milk),190,5,0.5,0,0,260,26,1,22,9,0,0,0,0,0,0,0
+38974,2957,Toffee Nut Latte - whip (Soy CD Milk),270,13,6,0,30,270,28,1,23,9,0,0,0,0,0,0,0
+38975,2957,Vanilla Latte (Soy CD Milk),190,4.5,0.5,0,0,140,26,1,22,8,0,0,0,0,0,0,0
+38976,2957,White Chocolate Mocha - no whip (Soy CD Milk),270,8,3.5,0,0,200,40,1,36,11,0,0,0,0,0,0,0
+38977,2957,White Chocolate Mocha - whip (Soy CD Milk),330,13,6,0,20,230,42,1,38,11,0,0,0,0,0,0,0
+38978,2957,Caffè Americano (Nonfat Milk),15,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+38979,2957,Caffè Latte (Nonfat Milk),160,0,0,0,10,220,24,0,20,16,0,0,0,0,0,0,0
+38980,2957,Caffè Mocha - no whip (Nonfat Milk),220,2,0,0,5,160,42,2,32,14,0,0,0,0,0,0,0
+38981,2957,Caffè Mocha - whip (Nonfat Milk),330,12,7,0,45,170,44,2,34,14,0,0,0,0,0,0,0
+38982,2957,Cappuccino (Nonfat Milk),100,0,0,0,5,125,14,0,11,9,0,0,0,0,0,0,0
+38983,2957,Caramel Macchiato (Nonfat Milk),220,1,0.5,0,5,190,40,0,35,13,0,0,0,0,0,0,0
+38984,2957,Cinnamon Dolce Latte - no whip (Nonfat Milk),240,0,0,0,10,200,46,0,42,15,0,0,0,0,0,0,0
+38985,2957,Cinnamon Dolce Latte - whip (Nonfat Milk),350,9,6,0,45,210,48,0,44,15,0,0,0,0,0,0,0
+38986,2957,Cinnamon Spice Mocha - no whip (Nonfat Milk),250,1,0,0,5,180,47,1,40,14,0,0,0,0,0,0,0
+38987,2957,Cinnamon Spice Mocha - whip (Nonfat Milk),350,11,6,0,45,190,49,1,41,14,0,0,0,0,0,0,0
+38988,2957,Pumpkin Spice Latte - no whip (Nonfat Milk),290,0,0,0,5,270,54,0,50,17,0,0,0,0,0,0,0
+38989,2957,Pumpkin Spice Latte - whip (Nonfat Milk),390,10,6,0,45,280,56,0,52,17,0,0,0,0,0,0,0
+38990,2957,Syrup Flavored Latte (Nonfat Milk),230,0,0,0,5,200,42,0,38,14,0,0,0,0,0,0,0
+38991,2957,Toffee Nut Latte - no whip (Nonfat Milk),230,0,0,0,10,360,43,0,39,15,0,0,0,0,0,0,0
+38992,2957,Toffee Nut Latte - whip (Nonfat Milk),330,10,6,0,45,370,45,0,40,15,0,0,0,0,0,0,0
+38993,2957,Vanilla Latte (Nonfat Milk),230,0,0,0,5,200,42,0,38,14,0,0,0,0,0,0,0
+38994,2957,White Chocolate Mocha - no whip (Nonfat Milk),340,5,4,0,10,260,58,0,54,16,0,0,0,0,0,0,0
+38995,2957,White Chocolate Mocha - whip (Nonfat Milk),440,14,10,0,45,270,60,0,56,16,0,0,0,0,0,0,0
+38996,2957,Caffè Americano (Whole Milk),15,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+38997,2957,Caffè Latte (Whole Milk),260,14,9,0,55,200,21,0,19,14,0,0,0,0,0,0,0
+38998,2957,Caffè Mocha - no whip (Whole Milk),300,12,6,0,30,135,40,2,31,13,0,0,0,0,0,0,0
+38999,2957,Caffè Mocha - whip (Whole Milk),400,22,13,0.5,80,160,42,2,33,13,0,0,0,0,0,0,0
+39000,2957,Cappuccino (Whole Milk),150,8,5,0,30,115,13,0,11,8,0,0,0,0,0,0,0
+39001,2957,Caramel Macchiato (Whole Milk),310,12,7,0,40,160,37,0,34,12,0,0,0,0,0,0,0
+39002,2957,Cinnamon Dolce Latte - no whip (Whole Milk),340,13,8,0,50,190,43,0,41,13,0,0,0,0,0,0,0
+39003,2957,Cinnamon Dolce Latte - whip (Whole Milk),440,22,14,0.5,90,200,46,0,43,13,0,0,0,0,0,0,0
+39004,2957,Cinnamon Spice Mocha - no whip (Whole Milk),330,12,7,0,45,170,45,1,45,13,0,0,0,0,0,0,0
+39005,2957,Cinnamon Spice Mocha - whip (Whole Milk),430,22,14,0.5,85,180,47,1,41,13,0,0,0,0,0,0,0
+39006,2957,Pumpkin Spice Latte - no whip (Whole Milk),380,12,8,0,50,260,52,0,49,16,0,0,0,0,0,0,0
+39007,2957,Pumpkin Spice Latte - whip (Whole Milk),480,22,14,0,90,270,53,0,51,16,0,0,0,0,0,0,0
+39008,2957,Syrup Flavored Latte (Whole Milk),320,12,7,0,40,160,39,0,36,13,0,0,0,0,0,0,0
+39009,2957,Toffee Nut Latte - no whip (Whole Milk),330,13,8,0,50,340,41,0,38,13,0,0,0,0,0,0,0
+39010,2957,Toffee Nut Latte - whip (Whole Milk),420,22,14,0,90,350,42,0,39,13,0,0,0,0,0,0,0
+39011,2957,Vanilla Latte (Whole Milk),320,12,7,0,40,160,39,0,36,13,0,0,0,0,0,0,0
+39012,2957,White Chocolate Mocha - no whip (Whole Milk),410,15,10,0,45,250,56,0,53,14,0,0,0,0,0,0,0
+39013,2957,White Chocolate Mocha - whip (Whole Milk),510,24,16,0.5,80,260,58,0,55,14,0,0,0,0,0,0,0
+39014,2957,Caffè Americano (Breve Milk),15,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+39015,2957,Caffè Latte (Breve Milk),550,47,29,1.5,150,170,20,0,1,13,0,0,0,0,0,0,0
+39016,2957,Caffè Mocha - no whip (Breve Milk),510,37,22,1,110,125,40,2,17,12,0,0,0,0,0,0,0
+39017,2957,Caffè Mocha - whip (Breve Milk),610,46,28,1.5,150,135,41,2,19,12,0,0,0,0,0,0,0
+39018,2957,Cappuccino (Breve Milk),310,27,17,1,85,95,12,0,1,8,0,0,0,0,0,0,0
+39019,2957,Caramel Macchiato (Breve Milk),550,41,26,1,130,150,36,0,19,11,0,0,0,0,0,0,0
+39020,2957,Cinnamon Dolce Latte - no whip (Breve Milk),590,43,27,1.5,140,160,42,0,24,12,0,0,0,0,0,0,0
+39021,2957,Cinnamon Dolce Latte - whip (Breve Milk),700,53,33,1.5,180,170,44,0,26,12,0,0,0,0,0,0,0
+39022,2957,Cinnamon Spice Mocha - no whip (Breve Milk),560,40,24,1,125,140,44,1,23,12,0,0,0,0,0,0,0
+39023,2957,Cinnamon Spice Mocha - whip (Breve Milk),660,49,31,1.5,165,150,46,1,25,12,0,0,0,0,0,0,0
+39024,2957,Pumpkin Spice Latte - no whip (Breve Milk),620,42,26,0,135,230,50,0,33,14,0,0,0,0,0,0,0
+39025,2957,Pumpkin Spice Latte - whip (Breve Milk),720,51,32,0,175,240,52,0,34,14,0,0,0,0,0,0,0
+39026,2957,Syrup Flavored Latte (Breve Milk),580,43,27,0,140,160,38,0,20,12,0,0,0,0,0,0,0
+39027,2957,Toffee Nut Latte - no whip (Breve Milk),580,43,27,0,140,310,39,0,21,12,0,0,0,0,0,0,0
+39028,2957,Toffee Nut Latte - whip (Breve Milk),680,53,33,0,180,320,41,0,22,12,0,0,0,0,0,0,0
+39029,2957,Vanilla Latte (Breve Milk),580,43,27,1.5,140,160,38,0,20,12,0,0,0,0,0,0,0
+39030,2957,White Chocolate Mocha - no whip (Breve Milk),620,40,25,1,115,230,55,0,39,13,0,0,0,0,0,0,0
+39031,2957,White Chocolate Mocha - whip (Breve Milk),720,49,32,1.5,150,240,57,0,41,13,0,0,0,0,0,0,0
+39032,2957,Caffè Americano (Soy US Milk),15,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+39033,2957,Caffè Latte (Soy US Milk),210,6,1,0,0,160,28,2,21,11,0,0,0,0,0,0,0
+39034,2957,Caffè Mocha - no whip (Soy US Milk),260,6,1,0,0,120,46,3,33,10,0,0,0,0,0,0,0
+39035,2957,Caffè Mocha - whip (Soy US Milk),360,16,7,0,40,125,48,3,35,10,0,0,0,0,0,0,0
+39036,2957,Cappuccino (Soy US Milk),120,3,0,0,0,90,17,1,12,6,0,0,0,0,0,0,0
+39037,2957,Caramel Macchiato (Soy US Milk),270,6,1.5,0,5,140,44,1,37,9,0,0,0,0,0,0,0
+39038,2957,Cinnamon Dolce Latte - no whip (Soy US Milk),290,5,1,0,0,150,50,2,43,10,0,0,0,0,0,0,0
+39039,2957,Cinnamon Dolce Latte - whip (Soy US Milk),390,15,7,0,40,150,52,2,45,10,0,0,0,0,0,0,0
+39040,2957,Cinnamon Spice Mocha - no whip (Soy US Milk),290,6,1,0,0,130,51,2,41,10,0,0,0,0,0,0,0
+39041,2957,Cinnamon Spice Mocha - whip (Soy US Milk),390,15,7,0,40,140,53,2,42,10,0,0,0,0,0,0,0
+39042,2957,Pumpkin Spice Latte - no whip (Soy US Milk),330,5,1,0,0,220,58,1,51,12,0,0,0,0,0,0,0
+39043,2957,Pumpkin Spice Latte - whip (Soy US Milk),430,15,7,0,40,230,60,1,53,12,0,0,0,0,0,0,0
+39044,2957,Syrup Flavored Latte (Soy US Milk),270,5,1,0,0,140,46,2,39,10,0,0,0,0,0,0,0
+39045,2957,Toffee Nut Latte - no whip (Soy US Milk),280,6,1,0,0,300,47,2,40,10,0,0,0,0,0,0,0
+39046,2957,Toffee Nut Latte - whip (Soy US Milk),370,15,7,0,40,310,49,2,41,10,0,0,0,0,0,0,0
+39047,2957,Vanilla Latte (Soy US Milk),270,5,1,0,0,140,46,2,39,10,0,0,0,0,0,0,0
+39048,2957,White Chocolate Mocha - no whip (Soy US Milk),370,9,4.5,0,0,220,62,1,55,12,0,0,0,0,0,0,0
+39049,2957,White Chocolate Mocha - whip (Soy US Milk),440,15,8,0,20,250,65,1,58,13,0,0,0,0,0,0,0
+39050,2957,Caffè Americano (Soy CD Milk),15,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+39051,2957,Caffè Latte (Soy CD Milk),180,7,1,0,0,200,16,2,10,13,0,0,0,0,0,0,0
+39052,2957,Caffè Mocha - no whip (Soy CD Milk),240,7,1,0,0,150,37,3,25,12,0,0,0,0,0,0,0
+39053,2957,Caffè Mocha - whip (Soy CD Milk),340,16,7,0,40,160,38,3,26,12,0,0,0,0,0,0,0
+39054,2957,Cappuccino (Soy CD Milk),110,3.5,0,0,0,115,10,1,6,7,0,0,0,0,0,0,0
+39055,2957,Caramel Macchiato (Soy CD Milk),240,7,1.5,0,5,180,33,1,27,11,0,0,0,0,0,0,0
+39056,2957,Cinnamon Dolce Latte - no whip (Soy CD Milk),260,6,1,0,0,190,38,2,33,12,0,0,0,0,0,0,0
+39057,2957,Cinnamon Dolce Latte - whip (Soy CD Milk),360,15,7,0,40,200,41,2,35,12,0,0,0,0,0,0,0
+39058,2957,Cinnamon Spice Mocha - no whip (Soy CD Milk),260,7,1,0,0,170,41,2,31,12,0,0,0,0,0,0,0
+39059,2957,Cinnamon Spice Mocha - whip (Soy CD Milk),360,16,7,0,40,180,42,2,33,12,0,0,0,0,0,0,0
+39060,2957,Pumpkin Spice Latte - no whip (Soy CD Milk),300,6,1,0,0,260,47,1,41,14,0,0,0,0,0,0,0
+39061,2957,Pumpkin Spice Latte - whip (Soy CD Milk),400,15,7,0,40,270,49,1,43,14,0,0,0,0,0,0,0
+39062,2957,Syrup Flavored Latte (Soy CD Milk),250,6,1,0,0,190,35,2,28,12,0,0,0,0,0,0,0
+39063,2957,Toffee Nut Latte - no whip (Soy CD Milk),250,6,1,0,0,340,36,2,30,12,0,0,0,0,0,0,0
+39064,2957,Toffee Nut Latte - whip (Soy CD Milk),350,16,7,0,40,350,37,2,31,12,0,0,0,0,0,0,0
+39065,2957,Vanilla Latte (Soy CD Milk),250,6,1,0,0,190,35,2,28,12,0,0,0,0,0,0,0
+39066,2957,White Chocolate Mocha - no whip (Soy CD Milk),350,10,4.5,0,0,250,52,1,47,13,0,0,0,0,0,0,0
+39067,2957,White Chocolate Mocha - whip (Soy CD Milk),420,16,8,0,20,290,56,1,50,14,0,0,0,0,0,0,0
+39068,2957,Caffè Americano (Nonfat Milk),25,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+39069,2957,Caffè Latte (Nonfat Milk),210,0,0,0,10,290,30,0,26,20,0,0,0,0,0,0,0
+39070,2957,Caffè Mocha - no whip (Nonfat Milk),290,2.5,0,0,10,220,54,2,41,19,0,0,0,0,0,0,0
+39071,2957,Caffè Mocha - whip (Nonfat Milk),390,12,7,0,50,230,56,2,43,19,0,0,0,0,0,0,0
+39072,2957,Cappuccino (Nonfat Milk),130,0,0,0,5,170,19,0,16,12,0,0,0,0,0,0,0
+39073,2957,Caramel Macchiato (Nonfat Milk),280,1,0.5,0,10,240,49,0,44,17,0,0,0,0,0,0,0
+39074,2957,Cinnamon Dolce Latte - no whip (Nonfat Milk),310,0,0,0,10,260,57,0,53,18,0,0,0,0,0,0,0
+39075,2957,Cinnamon Dolce Latte - whip (Nonfat Milk),410,9,6,0,50,270,60,0,55,18,0,0,0,0,0,0,0
+39076,2957,Cinnamon Spice Mocha - no whip (Nonfat Milk),310,1,0,0,10,240,58,1,50,18,0,0,0,0,0,0,0
+39077,2957,Cinnamon Spice Mocha - whip (Nonfat Milk),410,11,6,0,50,250,60,1,51,18,0,0,0,0,0,0,0
+39078,2957,Pumpkin Spice Latte - no whip (Nonfat Milk),360,0,0,0,10,350,68,0,63,21,0,0,0,0,0,0,0
+39079,2957,Pumpkin Spice Latte - whip (Nonfat Milk),460,10,6,0,50,360,70,0,65,21,0,0,0,0,0,0,0
+39080,2957,Syrup Flavored Latte (Nonfat Milk),290,0,0,0,5,250,52,0,48,18,0,0,0,0,0,0,0
+39081,2957,Toffee Nut Latte - no whip (Nonfat Milk),290,0,0,0,10,450,54,0,49,18,0,0,0,0,0,0,0
+39082,2957,Toffee Nut Latte - whip (Nonfat Milk),390,10,6,0,50,460,55,0,50,18,0,0,0,0,0,0,0
+39083,2957,Vanilla Latte (Nonfat Milk),290,0,0,0,5,250,52,0,48,18,0,0,0,0,0,0,0
+39084,2957,White Chocolate Mocha - no whip (Nonfat Milk),430,6,5,0,10,340,73,0,69,20,0,0,0,0,0,0,0
+39085,2957,White Chocolate Mocha - whip (Nonfat Milk),530,16,11,0,50,350,75,0,70,20,0,0,0,0,0,0,0
+39086,2957,Caffè Americano (Whole Milk),25,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+39087,2957,Caffè Latte (Whole Milk),340,18,11,0,75,260,27,0,24,18,0,0,0,0,0,0,0
+39088,2957,Caffè Mocha - no whip (Whole Milk),390,16,9,0,55,200,52,2,40,17,0,0,0,0,0,0,0
+39089,2957,Caffè Mocha - whip (Whole Milk),490,26,15,1,95,210,53,2,42,17,0,0,0,0,0,0,0
+39090,2957,Cappuccino (Whole Milk),210,11,7,0,45,160,17,0,15,11,0,0,0,0,0,0,0
+39091,2957,Caramel Macchiato (Whole Milk),380,15,9,0,45,200,46,0,43,15,0,0,0,0,0,0,0
+39092,2957,Cinnamon Dolce Latte - no whip (Whole Milk),430,16,10,0,65,240,54,0,52,17,0,0,0,0,0,0,0
+39093,2957,Cinnamon Dolce Latte - whip (Whole Milk),530,25,16,1,105,250,56,0,54,17,0,0,0,0,0,0,0
+39094,2957,Cinnamon Spice Mocha - no whip (Whole Milk),420,16,9,0,60,220,55,1,49,17,0,0,0,0,0,0,0
+39095,2957,Cinnamon Spice Mocha - whip (Whole Milk),520,25,16,0.5,100,230,57,1,50,17,0,0,0,0,0,0,0
+39096,2957,Pumpkin Spice Latte - no whip (Whole Milk),480,16,10,0,65,330,65,0,62,20,0,0,0,0,0,0,0
+39097,2957,Pumpkin Spice Latte - whip (Whole Milk),580,25,16,0,105,340,67,0,64,20,0,0,0,0,0,0,0
+39098,2957,Syrup Flavored Latte (Whole Milk),400,16,9,0,50,210,49,0,46,16,0,0,0,0,0,0,0
+39099,2957,Toffee Nut Latte - no whip (Whole Milk),410,16,10,0,65,430,51,0,48,17,0,0,0,0,0,0,0
+39100,2957,Toffee Nut Latte - whip (Whole Milk),510,26,16,0,105,440,52,0,49,17,0,0,0,0,0,0,0
+39101,2957,Vanilla Latte (Whole Milk),400,16,9,0,50,210,49,0,46,16,0,0,0,0,0,0,0
+39102,2957,White Chocolate Mocha - no whip (Whole Milk),530,19,13,0,55,320,71,0,68,18,0,0,0,0,0,0,0
+39103,2957,White Chocolate Mocha - whip (Whole Milk),630,29,19,0.5,95,330,73,0,69,18,0,0,0,0,0,0,0
+39104,2957,Caffè Americano (Breve Milk),25,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+39105,2957,Caffè Latte (Breve Milk),710,62,38,2,200,220,25,0,1,17,0,0,0,0,0,0,0
+39106,2957,Caffè Mocha - no whip (Breve Milk),670,49,29,1,150,170,50,2,22,16,0,0,0,0,0,0,0
+39107,2957,Caffè Mocha - whip (Breve Milk),770,59,36,2,190,180,52,2,23,16,0,0,0,0,0,0,0
+39108,2957,Cappuccino (Breve Milk),430,37,23,1,120,130,16,0,1,10,0,0,0,0,0,0,0
+39109,2957,Caramel Macchiato (Breve Milk),690,52,32,1.5,165,190,45,0,24,14,0,0,0,0,0,0,0
+39110,2957,Cinnamon Dolce Latte - no whip (Breve Milk),760,55,34,1.5,180,200,53,0,30,15,0,0,0,0,0,0,0
+39111,2957,Cinnamon Dolce Latte - whip (Breve Milk),860,65,41,2,215,210,55,0,32,15,0,0,0,0,0,0,0
+39112,2957,Cinnamon Spice Mocha - no whip (Breve Milk),720,2,32,1.5,165,190,54,1,28,15,0,0,0,0,0,0,0
+39113,2957,Cinnamon Spice Mocha - whip (Breve Milk),820,62,38,2,205,190,55,1,30,15,0,0,0,0,0,0,0
+39114,2957,Pumpkin Spice Latte - no whip (Breve Milk),800,54,33,0,170,290,63,0,41,18,0,0,0,0,0,0,0
+39115,2957,Pumpkin Spice Latte - whip (Breve Milk),900,63,40,0,210,300,65,0,42,18,0,0,0,0,0,0,0
+39116,2957,Syrup Flavored Latte (Breve Milk),740,55,34,0,180,200,48,0,25,15,0,0,0,0,0,0,0
+39117,2957,Toffee Nut Latte - no whip (Breve Milk),740,56,34,0,180,390,49,0,26,15,0,0,0,0,0,0,0
+39118,2957,Toffee Nut Latte - whip (Breve Milk),840,65,41,0,215,410,51,0,27,15,0,0,0,0,0,0,0
+39119,2957,Vanilla Latte (Breve Milk),740,55,34,1.5,180,200,48,0,25,15,0,0,0,0,0,0,0
+39120,2957,White Chocolate Mocha - no whip (Breve Milk),800,52,33,1.5,150,290,69,0,49,17,0,0,0,0,0,0,0
+39121,2957,White Chocolate Mocha - whip (Breve Milk),900,61,39,1.5,190,300,71,0,51,17,0,0,0,0,0,0,0
+39122,2957,Caffè Americano (Soy US Milk),25,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+39123,2957,Caffè Latte (Soy US Milk),270,8,1,0,0,200,36,2,28,14,0,0,0,0,0,0,0
+39124,2957,Caffè Mocha - no whip (Soy US Milk),330,8,1.5,0,0,160,59,4,43,13,0,0,0,0,0,0,0
+39125,2957,Caffè Mocha - whip (Soy US Milk),440,18,8,0,40,170,60,4,44,13,0,0,0,0,0,0,0
+39126,2957,Cappuccino (Soy US Milk),160,4.5,0.5,0,0,120,22,1,17,8,0,0,0,0,0,0,0
+39127,2957,Caramel Macchiato (Soy US Milk),330,7,1.5,0,5,180,55,2,46,11,0,0,0,0,0,0,0
+39128,2957,Cinnamon Dolce Latte - no whip (Soy US Milk),360,7,1,0,0,190,63,2,55,12,0,0,0,0,0,0,0
+39129,2957,Cinnamon Dolce Latte - whip (Soy US Milk),460,16,7,0,40,190,65,2,57,12,0,0,0,0,0,0,0
+39130,2957,Cinnamon Spice Mocha - no whip (Soy US Milk),360,7,1,0,0,170,63,3,51,13,0,0,0,0,0,0,0
+39131,2957,Cinnamon Spice Mocha - whip (Soy US Milk),460,17,7,0,40,180,65,3,53,13,0,0,0,0,0,0,0
+39132,2957,Pumpkin Spice Latte - no whip (Soy US Milk),410,7,1,0,0,280,73,2,65,16,0,0,0,0,0,0,0
+39133,2957,Pumpkin Spice Latte - whip (Soy US Milk),520,16,7,0,40,290,75,2,66,16,0,0,0,0,0,0,0
+39134,2957,Syrup Flavored Latte (Soy US Milk),340,7,1,0,0,180,58,2,49,12,0,0,0,0,0,0,0
+39135,2957,Toffee Nut Latte - no whip (Soy US Milk),350,7,1,0,0,380,59,2,51,12,0,0,0,0,0,0,0
+39136,2957,Toffee Nut Latte - whip (Soy US Milk),450,17,7,0,40,390,61,2,52,12,0,0,0,0,0,0,0
+39137,2957,Vanilla Latte (Soy US Milk),340,7,1,0,0,180,58,2,49,12,0,0,0,0,0,0,0
+39138,2957,White Chocolate Mocha - no whip (Soy US Milk),470,12,6,0,0,280,78,2,70,15,0,0,0,0,0,0,0
+39139,2957,White Chocolate Mocha - whip (Soy US Milk),540,18,9,0,25,320,81,2,73,16,0,0,0,0,0,0,0
+39140,2957,Caffè Americano (Soy CD Milk),25,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+39141,2957,Caffè Latte (Soy CD Milk),230,9,1,0,0,260,20,2,13,16,0,0,0,0,0,0,0
+39142,2957,Caffè Mocha - no whip (Soy CD Milk),310,9,1.5,0,0,200,46,4,31,15,0,0,0,0,0,0,0
+39143,2957,Caffè Mocha - whip (Soy CD Milk),410,19,8,0,40,210,48,4,33,15,0,0,0,0,0,0,0
+39144,2957,Cappuccino (Soy CD Milk),140,5,0.5,0,0,160,13,1,8,10,0,0,0,0,0,0,0
+39145,2957,Caramel Macchiato (Soy CD Milk),300,8,1.5,0,5,230,41,2,34,14,0,0,0,0,0,0,0
+39146,2957,Cinnamon Dolce Latte - no whip (Soy CD Milk),330,8,1,0,0,240,48,2,41,15,0,0,0,0,0,0,0
+39147,2957,Cinnamon Dolce Latte - whip (Soy CD Milk),430,17,7,0,40,250,50,2,43,15,0,0,0,0,0,0,0
+39148,2957,Cinnamon Spice Mocha - no whip (Soy CD Milk),330,8,1,0,0,220,49,3,39,15,0,0,0,0,0,0,0
+39149,2957,Cinnamon Spice Mocha - whip (Soy CD Milk),430,18,7,0,40,230,51,3,40,15,0,0,0,0,0,0,0
+39150,2957,Pumpkin Spice Latte - no whip (Soy CD Milk),380,8,1,0,0,330,58,2,52,18,0,0,0,0,0,0,0
+39151,2957,Pumpkin Spice Latte - whip (Soy CD Milk),480,17,7,0,40,340,60,2,53,18,0,0,0,0,0,0,0
+39152,2957,Syrup Flavored Latte (Soy CD Milk),310,8,1,0,0,240,43,2,36,15,0,0,0,0,0,0,0
+39153,2957,Toffee Nut Latte - no whip (Soy CD Milk),320,8,1,0,0,430,44,2,37,15,0,0,0,0,0,0,0
+39154,2957,Toffee Nut Latte - whip (Soy CD Milk),410,18,7,0,40,440,46,2,38,15,0,0,0,0,0,0,0
+39155,2957,Vanilla Latte (Soy CD Milk),310,8,1,0,0,240,43,2,36,15,0,0,0,0,0,0,0
+39156,2957,White Chocolate Mocha - no whip (Soy CD Milk),450,13,6,0,0,320,66,2,59,17,0,0,0,0,0,0,0
+39157,2957,White Chocolate Mocha - whip (Soy CD Milk),520,19,9,0,25,360,69,2,62,18,0,0,0,0,0,0,0
+39158,2957,Espresso (Nonfat Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+39159,2957,Espresso con Panna (Nonfat Milk),110,9,6,0,40,10,3,0,2,0,0,0,0,0,0,0,0
+39160,2957,Espresso Macchiato (Nonfat Milk),10,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+39161,2957,Espresso (Whole Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+39162,2957,Espresso con Panna (Whole Milk),110,9,6,0,40,10,3,0,2,0,0,0,0,0,0,0,0
+39163,2957,Espresso Macchiato (Whole Milk),10,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+39164,2957,Espresso (Breve Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+39165,2957,Espresso con Panna (Breve Milk),110,9,6,0,40,10,3,0,2,0,0,0,0,0,0,0,0
+39166,2957,Espresso Macchiato (Breve Milk),10,0.5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+39167,2957,Espresso (Soy US Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+39168,2957,Espresso con Panna (Soy US Milk),110,9,6,0,40,10,3,0,2,0,0,0,0,0,0,0,0
+39169,2957,Espresso Macchiato (Soy US Milk),10,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+39170,2957,Espresso (Soy CD Milk),5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+39171,2957,Espresso con Panna (Soy CD Milk),110,9,6,0,40,10,3,0,2,0,0,0,0,0,0,0,0
+39172,2957,Espresso Macchiato (Soy CD Milk),10,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+39173,2957,Espresso (Nonfat Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39174,2957,Espresso con Panna (Nonfat Milk),110,9,6,0,40,10,4,0,2,1,0,0,0,0,0,0,0
+39175,2957,Espresso Macchiato (Nonfat Milk),15,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39176,2957,Espresso (Whole Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39177,2957,Espresso con Panna (Whole Milk),110,9,6,0,40,10,4,0,2,1,0,0,0,0,0,0,0
+39178,2957,Espresso Macchiato (Whole Milk),15,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39179,2957,Espresso (Breve Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39180,2957,Espresso con Panna (Breve Milk),110,9,6,0,40,10,4,0,2,1,0,0,0,0,0,0,0
+39181,2957,Espresso Macchiato (Breve Milk),20,0.5,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39182,2957,Espresso (Soy US Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39183,2957,Espresso con Panna (Soy US Milk),110,9,6,0,40,10,4,0,2,1,0,0,0,0,0,0,0
+39184,2957,Espresso Macchiato (Soy US Milk),15,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39185,2957,Espresso (Soy CD Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39186,2957,Espresso con Panna (Soy CD Milk),110,9,6,0,40,10,4,0,2,1,0,0,0,0,0,0,0
+39187,2957,Espresso Macchiato (Soy CD Milk),15,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39188,2958,Iced Caffè Americano (Nonfat Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39189,2958,Iced Caffè Latte (Nonfat Milk),70,0,0,0,5,105,11,0,9,7,0,0,0,0,0,0,0
+39190,2958,Iced Caffè Mocha - no whip (Nonfat Milk),130,1.5,0,0,5,80,27,1,20,7,0,0,0,0,0,0,0
+39191,2958,Iced Caffè Mocha - whip (Nonfat Milk),230,10,6,0,40,85,28,1,21,7,0,0,0,0,0,0,0
+39192,2958,Iced Caramel Macchiato (Nonfat Milk),140,1,0.5,0,5,120,25,0,23,8,0,0,0,0,0,0,0
+39193,2958,Iced Caramel Mocha - no whip (Nonfat Milk),200,2,0.5,0,5,65,42,1,33,6,0,0,0,0,0,0,0
+39194,2958,Iced Caramel Mocha - whip (Nonfat Milk),300,11,6,0,40,75,44,1,35,6,0,0,0,0,0,0,0
+39195,2958,Iced Syrup Flavored Latte (Nonfat Milk),120,0,0,0,0,90,24,0,22,6,0,0,0,0,0,0,0
+39196,2958,Iced Vanilla Latte (Nonfat Milk),120,0,0,0,0,90,24,0,22,6,0,0,0,0,0,0,0
+39197,2958,Iced White Chocolate Mocha - no whip (Nonfat Milk),240,4,3.5,0,5,170,42,0,40,9,0,0,0,0,0,0,0
+39198,2958,Iced White Chocolate Mocha - whip (Nonfat Milk),330,13,9,0,40,170,44,0,41,9,0,0,0,0,0,0,0
+39199,2958,Iced Caffè Americano (Whole Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39200,2958,Iced Caffè Latte (Whole Milk),120,6,4,0,25,95,10,0,9,6,0,0,0,0,0,0,0
+39201,2958,Iced Caffè Mocha - no whip (Whole Milk),170,6,3,0,20,75,26,1,19,7,0,0,0,0,0,0,0
+39202,2958,Iced Caffè Mocha - whip (Whole Milk),260,15,9,0,55,80,27,1,21,7,0,0,0,0,0,0,0
+39203,2958,Iced Caramel Macchiato (Whole Milk),190,8,4.5,0,30,110,24,0,22,7,0,0,0,0,0,0,0
+39204,2958,Iced Caramel Mocha - no whip (Whole Milk),230,6,2.5,0,15,55,42,1,33,6,0,0,0,0,0,0,0
+39205,2958,Iced Caramel Mocha - whip (Whole Milk),320,14,8,0,50,60,43,1,34,6,0,0,0,0,0,0,0
+39206,2958,Iced Syrup Flavored Latte (Whole Milk),160,5,3,0,15,75,23,0,21,6,0,0,0,0,0,0,0
+39207,2958,Iced Vanilla Latte (Whole Milk),160,5,3,0,15,75,23,0,21,6,0,0,0,0,0,0,0
+39208,2958,Iced White Chocolate Mocha - no whip (Whole Milk),270,9,6,0,20,160,42,0,40,8,0,0,0,0,0,0,0
+39209,2958,Iced White Chocolate Mocha - whip (Whole Milk),370,17,12,0,55,170,43,0,41,8,0,0,0,0,0,0,0
+39210,2958,Iced Caffè Americano (Breve Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39211,2958,Iced Syrup Flavored Latte (Breve Milk),270,19,12,0,60,70,22,0,14,5,0,0,0,0,0,0,0
+39212,2958,Iced Vanilla Latte (Breve Milk),270,19,12,0,60,70,22,0,14,5,0,0,0,0,0,0,0
+39213,2958,Iced Caffè Americano (Soy US Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39214,2958,Iced Caffè Latte (Soy US Milk),90,2.5,0,0,0,75,13,1,10,5,0,0,0,0,0,0,0
+39215,2958,Iced Caffè Mocha - no whip (Soy US Milk),150,3.5,0.5,0,0,60,28,2,20,5,0,0,0,0,0,0,0
+39216,2958,Iced Caffè Mocha - whip (Soy US Milk),240,12,6,0,35,65,30,2,21,5,0,0,0,0,0,0,0
+39217,2958,Iced Caramel Macchiato (Soy US Milk),160,3.5,1,0,5,90,28,1,23,5,0,0,0,0,0,0,0
+39218,2958,Iced Caramel Mocha - no whip (Soy US Milk),220,3.5,1,0,0,50,44,2,34,5,0,0,0,0,0,0,0
+39219,2958,Iced Caramel Mocha - whip (Soy US Milk),310,12,7,0,40,55,45,2,35,5,0,0,0,0,0,0,0
+39220,2958,Iced Syrup Flavored Latte (Soy US Milk),140,2.5,0,0,0,65,26,1,22,4,0,0,0,0,0,0,0
+39221,2958,Iced Vanilla Latte (Soy US Milk),140,2.5,0,0,0,65,26,1,22,4,0,0,0,0,0,0,0
+39222,2958,Iced White Chocolate Mocha - no whip (Soy US Milk),250,6,3.5,0,0,150,44,1,40,7,0,0,0,0,0,0,0
+39223,2958,Iced White Chocolate Mocha - whip (Soy US Milk),350,15,9,0,40,150,45,1,42,7,0,0,0,0,0,0,0
+39224,2958,Iced Caffè Americano (Soy CD Milk),10,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+39225,2958,Iced Caffè Latte (Soy CD Milk),80,3,0,0,0,95,7,1,4,6,0,0,0,0,0,0,0
+39226,2958,Iced Caffè Mocha - no whip (Soy CD Milk),140,4,0.5,0,0,75,24,2,16,6,0,0,0,0,0,0,0
+39227,2958,Iced Caffè Mocha - whip (Soy CD Milk),230,13,6,0,35,80,26,2,18,6,0,0,0,0,0,0,0
+39228,2958,Iced Caramel Macchiato (Soy CD Milk),150,4,1,0,5,110,21,1,18,6,0,0,0,0,0,0,0
+39229,2958,Iced Caramel Mocha - no whip (Soy CD Milk),210,4,1,0,0,60,40,2,31,5,0,0,0,0,0,0,0
+39230,2958,Iced Caramel Mocha - whip (Soy CD Milk),300,13,7,0,40,70,42,2,32,5,0,0,0,0,0,0,0
+39231,2958,Iced Syrup Flavored Latte (Soy CD Milk),130,2.5,0,0,0,85,21,1,18,5,0,0,0,0,0,0,0
+39232,2958,Iced Vanilla Latte (Soy CD Milk),130,2.5,0,0,0,85,21,1,18,5,0,0,0,0,0,0,0
+39233,2958,Iced White Chocolate Mocha - no whip (Soy CD Milk),250,6,3.5,0,0,160,40,1,37,7,0,0,0,0,0,0,0
+39234,2958,Iced White Chocolate Mocha - whip (Soy CD Milk),340,15,9,0,40,170,41,1,38,7,0,0,0,0,0,0,0
+39235,2958,Iced Caffè Americano (Nonfat Milk),20,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+39236,2958,Iced Caffè Latte (Nonfat Milk),100,0,0,0,5,130,14,0,11,9,0,0,0,0,0,0,0
+39237,2958,Iced Caffè Mocha - no whip (Nonfat Milk),180,2,0,0,5,100,36,2,26,9,0,0,0,0,0,0,0
+39238,2958,Iced Caffè Mocha - whip (Nonfat Milk),310,14,9,0,55,110,38,2,28,9,0,0,0,0,0,0,0
+39239,2958,Iced Caramel Macchiato (Nonfat Milk),200,1,0.5,0,10,160,36,0,32,11,0,0,0,0,0,0,0
+39240,2958,Iced Caramel Mocha - no whip (Nonfat Milk),260,2.5,0.5,0,5,75,55,2,43,8,0,0,0,0,0,0,0
+39241,2958,Iced Caramel Mocha - whip (Nonfat Milk),390,15,9,0,55,85,57,2,45,8,0,0,0,0,0,0,0
+39242,2958,Iced Syrup Flavored Latte (Nonfat Milk),160,0,0,0,5,115,32,0,29,8,0,0,0,0,0,0,0
+39243,2958,Iced Vanilla Latte (Nonfat Milk),160,0,0,0,5,115,32,0,29,8,0,0,0,0,0,0,0
+39244,2958,Iced White Chocolate Mocha - no whip (Nonfat Milk),320,6,4.5,0,5,210,57,0,53,11,0,0,0,0,0,0,0
+39245,2958,Iced White Chocolate Mocha - whip (Nonfat Milk),450,18,12,0,55,220,59,0,55,11,0,0,0,0,0,0,0
+39246,2958,Iced Caffè Americano (Whole Milk),20,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+39247,2958,Iced Caffè Latte (Whole Milk),160,8,5,0,30,120,13,0,11,8,0,0,0,0,0,0,0
+39248,2958,Iced Caffè Mocha - no whip (Whole Milk),220,8,4,0,25,95,35,2,25,9,0,0,0,0,0,0,0
+39249,2958,Iced Caffè Mocha - whip (Whole Milk),350,20,12,0.5,75,105,37,2,27,9,0,0,0,0,0,0,0
+39250,2958,Iced Caramel Macchiato (Whole Milk),270,10,6,0,40,150,34,0,31,10,0,0,0,0,0,0,0
+39251,2958,Iced Caramel Mocha - no whip (Whole Milk),290,7,3,0,15,65,54,2,42,7,0,0,0,0,0,0,0
+39252,2958,Iced Caramel Mocha - whip (Whole Milk),420,19,11,0,65,75,57,2,44,7,0,0,0,0,0,0,0
+39253,2958,Iced Syrup Flavored Latte (Whole Milk),210,7,4,0,20,95,31,0,28,7,0,0,0,0,0,0,0
+39254,2958,Iced Vanilla Latte (Whole Milk),210,7,4,0,20,95,31,0,28,7,0,0,0,0,0,0,0
+39255,2958,Iced White Chocolate Mocha - no whip (Whole Milk),360,11,8,0,25,210,56,0,52,11,0,0,0,0,0,0,0
+39256,2958,Iced White Chocolate Mocha - whip (Whole Milk),490,24,16,0,75,220,58,0,54,11,0,0,0,0,0,0,0
+39257,2958,Iced Caffè Americano (Breve Milk),20,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+39258,2958,Iced Syrup Flavored Latte (Breve Milk),360,24,15,0,75,90,30,0,19,7,0,0,0,0,0,0,0
+39259,2958,Iced Vanilla Latte (Breve Milk),360,24,15,0,75,90,30,0,19,7,0,0,0,0,0,0,0
+39260,2958,Iced Caffè Americano (Soy US Milk),20,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+39261,2958,Iced Caffè Latte (Soy US Milk),120,3.5,0,0,0,95,17,1,12,6,0,0,0,0,0,0,0
+39262,2958,Iced Caffè Mocha - no whip (Soy US Milk),200,4.5,0.5,0,0,75,38,3,26,7,0,0,0,0,0,0,0
+39263,2958,Iced Caffè Mocha - whip (Soy US Milk),330,17,9,0,50,85,40,3,28,7,0,0,0,0,0,0,0
+39264,2958,Iced Caramel Macchiato (Soy US Milk),230,5,1,0,5,120,39,1,33,7,0,0,0,0,0,0,0
+39265,2958,Iced Caramel Mocha - no whip (Soy US Milk),280,4.5,1,0,0,55,57,2,43,6,0,0,0,0,0,0,0
+39266,2958,Iced Caramel Mocha - whip (Soy US Milk),410,17,9,0,55,65,59,2,45,6,0,0,0,0,0,0,0
+39267,2958,Iced Syrup Flavored Latte (Soy US Milk),190,3,0,0,0,85,34,1,29,6,0,0,0,0,0,0,0
+39268,2958,Iced Vanilla Latte (Soy US Milk),190,3,0,0,0,85,34,1,29,6,0,0,0,0,0,0,0
+39269,2958,Iced White Chocolate Mocha - no whip (Soy US Milk),340,8,4.5,0,5,190,59,1,53,9,0,0,0,0,0,0,0
+39270,2958,Iced White Chocolate Mocha - whip (Soy US Milk),470,20,13,0,55,200,61,1,55,9,0,0,0,0,0,0,0
+39271,2958,Iced Caffè Americano (Soy CD Milk),20,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+39272,2958,Iced Caffè Latte (Soy CD Milk),110,3.5,0,0,0,120,10,1,6,8,0,0,0,0,0,0,0
+39273,2958,Iced Caffè Mocha - no whip (Soy CD Milk),190,5,0.5,0,0,95,32,3,21,8,0,0,0,0,0,0,0
+39274,2958,Iced Caffè Mocha - whip (Soy CD Milk),320,17,9,0,50,105,35,3,23,8,0,0,0,0,0,0,0
+39275,2958,Iced Caramel Macchiato (Soy CD Milk),210,5,1,0,5,150,30,1,25,9,0,0,0,0,0,0,0
+39276,2958,Iced Caramel Mocha - no whip (Soy CD Milk),270,4.5,1,0,0,70,53,2,40,7,0,0,0,0,0,0,0
+39277,2958,Iced Caramel Mocha - whip (Soy CD Milk),400,17,9,0,55,80,55,2,42,7,0,0,0,0,0,0,0
+39278,2958,Iced Syrup Flavored Latte (Soy CD Milk),170,3.5,0,0,0,105,28,1,24,7,0,0,0,0,0,0,0
+39279,2958,Iced Vanilla Latte (Soy CD Milk),170,3.5,0,0,0,105,28,1,24,7,0,0,0,0,0,0,0
+39280,2958,Iced White Chocolate Mocha - no whip (Soy CD Milk),330,8,4.5,0,5,210,53,1,49,10,0,0,0,0,0,0,0
+39281,2958,Iced White Chocolate Mocha - whip (Soy CD Milk),460,21,13,0,55,220,56,1,51,10,0,0,0,0,0,0,0
+39282,2958,Iced Caffè Americano (Nonfat Milk),25,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+39283,2958,Iced Caffè Latte (Nonfat Milk),130,0,0,0,5,170,19,0,15,12,0,0,0,0,0,0,0
+39284,2958,Iced Caffè Mocha - no whip (Nonfat Milk),260,3.5,0.5,0,5,135,52,3,37,13,0,0,0,0,0,0,0
+39285,2958,Iced Caffè Mocha - whip (Nonfat Milk),390,16,9,0,55,140,54,3,39,13,0,0,0,0,0,0,0
+39286,2958,Iced Caramel Macchiato (Nonfat Milk),260,1,0.5,0,10,220,47,0,41,15,0,0,0,0,0,0,0
+39287,2958,Iced Caramel Mocha - no whip (Nonfat Milk),410,4,1,0,5,150,86,3,67,15,0,0,0,0,0,0,0
+39288,2958,Iced Caramel Mocha - whip (Nonfat Milk),550,16,9,0,55,160,88,3,69,15,0,0,0,0,0,0,0
+39289,2958,Iced Syrup Flavored Latte (Nonfat Milk),240,0,0,0,5,170,47,0,43,12,0,0,0,0,0,0,0
+39290,2958,Iced Vanilla Latte (Nonfat Milk),240,0,0,0,5,170,47,0,43,12,0,0,0,0,0,0,0
+39291,2958,Iced White Chocolate Mocha - no whip (Nonfat Milk),470,8,7,0,10,300,83,0,78,16,0,0,0,0,0,0,0
+39292,2958,Iced White Chocolate Mocha - whip (Nonfat Milk),600,21,15,0,60,310,86,0,80,16,0,0,0,0,0,0,0
+39293,2958,Iced Caffè Americano (Whole Milk),25,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+39294,2958,Iced Caffè Latte (Whole Milk),210,10,6,0,40,160,17,0,14,11,0,0,0,0,0,0,0
+39295,2958,Iced Caffè Mocha - no whip (Whole Milk),310,11,5,0,30,125,51,3,36,12,0,0,0,0,0,0,0
+39296,2958,Iced Caffè Mocha - whip (Whole Milk),440,23,13,0.5,80,135,53,3,38,12,0,0,0,0,0,0,0
+39297,2958,Iced Caramel Macchiato (Whole Milk),350,13,8,0,55,200,45,0,41,13,0,0,0,0,0,0,0
+39298,2958,Iced Caramel Mocha - no whip (Whole Milk),480,13,6,0,30,125,84,3,66,13,0,0,0,0,0,0,0
+39299,2958,Iced Caramel Mocha - whip (Whole Milk),610,25,14,0.5,80,135,86,3,68,13,0,0,0,0,0,0,0
+39300,2958,Iced Syrup Flavored Latte (Whole Milk),310,10,6,0,30,140,45,0,42,10,0,0,0,0,0,0,0
+39301,2958,Iced Vanilla Latte (Whole Milk),310,10,6,0,30,140,45,0,42,10,0,0,0,0,0,0,0
+39302,2958,Iced White Chocolate Mocha - no whip (Whole Milk),520,16,11,0,35,300,82,0,77,15,0,0,0,0,0,0,0
+39303,2958,Iced White Chocolate Mocha - whip (Whole Milk),650,28,19,0.5,85,310,84,0,79,15,0,0,0,0,0,0,0
+39304,2958,Iced Caffè Americano (Breve Milk),25,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+39305,2958,Iced Syrup Flavored Latte (Breve Milk),520,35,22,0,110,135,44,0,29,10,0,0,0,0,0,0,0
+39306,2958,Iced Vanilla Latte (Breve Milk),520,35,22,0,110,135,44,0,29,10,0,0,0,0,0,0,0
+39307,2958,Iced Caffè Americano (Soy US Milk),25,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+39308,2958,Iced Caffè Latte (Soy US Milk),160,4.5,0.5,0,0,125,23,1,16,8,0,0,0,0,0,0,0
+39309,2958,Iced Caffè Mocha - no whip (Soy US Milk),300,7,1,0,0,100,54,4,38,10,0,0,0,0,0,0,0
+39310,2958,Iced Caffè Mocha - whip (Soy US Milk),410,19,9,0,50,110,57,4,40,10,0,0,0,0,0,0,0
+39311,2958,Iced Caramel Macchiato (Soy US Milk),300,6,1.5,0,5,160,51,1,43,10,0,0,0,0,0,0,0
+39312,2958,Iced Caramel Mocha - no whip (Soy US Milk),450,8,1.5,0,0,115,89,4,68,11,0,0,0,0,0,0,0
+39313,2958,Iced Caramel Mocha - whip (Soy US Milk),580,20,10,0,55,125,91,4,70,11,0,0,0,0,0,0,0
+39314,2958,Iced Syrup Flavored Latte (Soy US Milk),270,4.5,0.5,0,0,125,50,1,44,8,0,0,0,0,0,0,0
+39315,2958,Iced Vanilla Latte (Soy US Milk),270,4.5,0.5,0,0,125,50,1,44,8,0,0,0,0,0,0,0
+39316,2958,Iced White Chocolate Mocha - no whip (Soy US Milk),490,12,7,0,5,270,86,1,78,13,0,0,0,0,0,0,0
+39317,2958,Iced White Chocolate Mocha - whip (Soy US Milk),620,24,15,0,55,280,88,1,80,13,0,0,0,0,0,0,0
+39318,2958,Iced Caffè Americano (Soy CD Milk),25,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+39319,2958,Iced Caffè Latte (Soy CD Milk),140,5,0.5,0,0,160,13,1,7,10,0,0,0,0,0,0,0
+39320,2958,Iced Caffè Mocha - no whip (Soy CD Milk),260,7,1,0,0,125,47,4,31,11,0,0,0,0,0,0,0
+39321,2958,Iced Caffè Mocha - whip (Soy CD Milk),400,19,9,0,50,135,50,4,33,11,0,0,0,0,0,0,0
+39322,2958,Iced Caramel Macchiato (Soy CD Milk),280,7,1.5,0,5,200,40,1,32,12,0,0,0,0,0,0,0
+39323,2958,Iced Caramel Mocha - no whip (Soy CD Milk),430,8,1.5,0,0,140,81,4,60,13,0,0,0,0,0,0,0
+39324,2958,Iced Caramel Mocha - whip (Soy CD Milk),560,20,10,0,55,150,83,4,62,13,0,0,0,0,0,0,0
+39325,2958,Iced Syrup Flavored Latte (Soy CD Milk),250,5,0.5,0,0,160,41,1,35,9,0,0,0,0,0,0,0
+39326,2958,Iced Vanilla Latte (Soy CD Milk),250,5,0.5,0,0,160,41,1,35,9,0,0,0,0,0,0,0
+39327,2958,Iced White Chocolate Mocha - no whip (Soy CD Milk),480,12,7,0,5,300,79,1,72,14,0,0,0,0,0,0,0
+39328,2958,Iced White Chocolate Mocha - whip (Soy CD Milk),610,24,15,0,55,310,81,1,74,14,0,0,0,0,0,0,0
+39329,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Nonfat Milk),310,2.5,1.5,0,10,190,66,0,59,4,0,0,0,0,0,0,0
+39330,2959,Banana Caramel Frappuccino Blended Coffee - whip (Nonfat Milk),400,11,7,0,45,190,68,0,60,4,0,0,0,0,0,0,0
+39331,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Nonfat Milk),310,3,2,0,10,190,66,0,59,4,0,0,0,0,0,0,0
+39332,2959,Banana Coconut Frappuccino Blended Coffee - whip (Nonfat Milk),400,12,8,0,45,190,68,0,61,4,0,0,0,0,0,0,0
+39333,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Nonfat Milk),310,3,1.5,0,10,180,66,1,57,5,0,0,0,0,0,0,0
+39334,2959,Banana Mocha Frappuccino Blended Coffee - whip (Nonfat Milk),400,12,7,0,45,190,68,1,59,5,0,0,0,0,0,0,0
+39335,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Nonfat Milk),240,2.5,1.5,0,10,190,51,0,44,4,0,0,0,0,0,0,0
+39336,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Nonfat Milk),340,11,7,0,45,200,53,0,46,4,0,0,0,0,0,0,0
+39337,2959,Caramel Frappuccino Blended Coffee - no whip (Nonfat Milk),210,2.5,1.5,0,10,180,43,0,36,4,0,0,0,0,0,0,0
+39338,2959,Caramel Frappuccino Blended Coffee - whip (Nonfat Milk),320,12,8,0,50,200,47,0,40,4,0,0,0,0,0,0,0
+39339,2959,Coffee Frappuccino Blended Coffee (Nonfat Milk),190,2.5,1.5,0,10,180,38,0,32,4,0,0,0,0,0,0,0
+39340,2959,Espresso Frappuccino Blended Coffee (Nonfat Milk),160,2,1.5,0,10,160,33,0,27,4,0,0,0,0,0,0,0
+39341,2959,Java Chip Frappuccino Blended Coffee - no whip (Nonfat Milk),270,7,4.5,0,10,220,51,1,42,5,0,0,0,0,0,0,0
+39342,2959,Java Chip Frappuccino Blended Coffee - whip (Nonfat Milk),370,15,10,0,45,220,54,1,44,5,0,0,0,0,0,0,0
+39343,2959,Mocha Frappuccino Blended Coffee - no whip (Nonfat Milk),220,3,1.5,0,10,180,44,0,36,5,0,0,0,0,0,0,0
+39344,2959,Mocha Frappuccino Blended Coffee - whip (Nonfat Milk),310,12,7,0,45,190,46,0,38,5,0,0,0,0,0,0,0
+39345,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Nonfat Milk),230,2.5,2,0,10,210,47,0,41,5,0,0,0,0,0,0,0
+39346,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Nonfat Milk),320,11,7,0,45,210,48,0,42,5,0,0,0,0,0,0,0
+39347,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Nonfat Milk),240,3.5,2.5,0,10,210,48,0,42,5,0,0,0,0,0,0,0
+39348,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Nonfat Milk),340,12,8,0,45,220,50,0,43,5,0,0,0,0,0,0,0
+39349,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Whole Milk),310,2.5,1.5,0,10,190,66,0,59,4,0,0,0,0,0,0,0
+39350,2959,Banana Caramel Frappuccino Blended Coffee - whip (Whole Milk),400,11,7,0,45,190,68,0,60,4,0,0,0,0,0,0,0
+39351,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Whole Milk),310,3,2,0,10,190,66,0,59,4,0,0,0,0,0,0,0
+39352,2959,Banana Coconut Frappuccino Blended Coffee - whip (Whole Milk),400,12,8,0,45,190,68,0,61,4,0,0,0,0,0,0,0
+39353,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Whole Milk),310,3,1.5,0,10,180,66,1,57,5,0,0,0,0,0,0,0
+39354,2959,Banana Mocha Frappuccino Blended Coffee - whip (Whole Milk),400,12,7,0,45,190,68,1,59,5,0,0,0,0,0,0,0
+39355,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Whole Milk),240,2.5,1.5,0,10,190,51,0,44,4,0,0,0,0,0,0,0
+39356,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Whole Milk),340,11,7,0,45,200,53,0,46,4,0,0,0,0,0,0,0
+39357,2959,Caramel Frappuccino Blended Coffee - no whip (Whole Milk),210,2.5,1.5,0,10,180,43,0,36,4,0,0,0,0,0,0,0
+39358,2959,Caramel Frappuccino Blended Coffee - whip (Whole Milk),320,12,8,0,50,200,47,0,40,4,0,0,0,0,0,0,0
+39359,2959,Coffee Frappuccino Blended Coffee (Whole Milk),190,2.5,1.5,0,10,180,38,0,32,4,0,0,0,0,0,0,0
+39360,2959,Espresso Frappuccino Blended Coffee (Whole Milk),160,2,1.5,0,10,160,33,0,27,4,0,0,0,0,0,0,0
+39361,2959,Java Chip Frappuccino Blended Coffee - no whip (Whole Milk),270,7,4.5,0,10,220,51,1,42,5,0,0,0,0,0,0,0
+39362,2959,Java Chip Frappuccino Blended Coffee - whip (Whole Milk),370,15,10,0,45,220,54,1,44,5,0,0,0,0,0,0,0
+39363,2959,Mocha Frappuccino Blended Coffee - no whip (Whole Milk),220,3,1.5,0,10,180,44,0,36,5,0,0,0,0,0,0,0
+39364,2959,Mocha Frappuccino Blended Coffee - whip (Whole Milk),310,12,7,0,45,190,46,0,38,5,0,0,0,0,0,0,0
+39365,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Whole Milk),230,2.5,2,0,10,210,47,0,41,5,0,0,0,0,0,0,0
+39366,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Whole Milk),320,11,7,0,45,210,48,0,42,5,0,0,0,0,0,0,0
+39367,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Whole Milk),240,3.5,2.5,0,10,210,48,0,42,5,0,0,0,0,0,0,0
+39368,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Whole Milk),340,12,8,0,45,220,50,0,43,5,0,0,0,0,0,0,0
+39369,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Breve Milk),310,2.5,1.5,0,10,190,66,0,59,4,0,0,0,0,0,0,0
+39370,2959,Banana Caramel Frappuccino Blended Coffee - whip (Breve Milk),400,11,7,0,45,190,68,0,60,4,0,0,0,0,0,0,0
+39371,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Breve Milk),310,3,2,0,10,190,66,0,59,4,0,0,0,0,0,0,0
+39372,2959,Banana Coconut Frappuccino Blended Coffee - whip (Breve Milk),400,12,8,0,45,190,68,0,61,4,0,0,0,0,0,0,0
+39373,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Breve Milk),310,3,1.5,0,10,180,66,1,57,5,0,0,0,0,0,0,0
+39374,2959,Banana Mocha Frappuccino Blended Coffee - whip (Breve Milk),400,12,7,0,45,190,68,1,59,5,0,0,0,0,0,0,0
+39375,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Breve Milk),240,2.5,1.5,0,10,190,51,0,44,4,0,0,0,0,0,0,0
+39376,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Breve Milk),340,11,7,0,45,200,53,0,46,4,0,0,0,0,0,0,0
+39377,2959,Caramel Frappuccino Blended Coffee - no whip (Breve Milk),210,2.5,1.5,0,10,180,43,0,36,4,0,0,0,0,0,0,0
+39378,2959,Caramel Frappuccino Blended Coffee - whip (Breve Milk),320,12,8,0,50,200,47,0,40,4,0,0,0,0,0,0,0
+39379,2959,Coffee Frappuccino Blended Coffee (Breve Milk),190,2.5,1.5,0,10,180,38,0,32,4,0,0,0,0,0,0,0
+39380,2959,Espresso Frappuccino Blended Coffee (Breve Milk),160,2,1.5,0,10,160,33,0,27,4,0,0,0,0,0,0,0
+39381,2959,Java Chip Frappuccino Blended Coffee - no whip (Breve Milk),270,7,4.5,0,10,220,51,1,42,5,0,0,0,0,0,0,0
+39382,2959,Java Chip Frappuccino Blended Coffee - whip (Breve Milk),370,15,10,0,45,220,54,1,44,5,0,0,0,0,0,0,0
+39383,2959,Mocha Frappuccino Blended Coffee - no whip (Breve Milk),220,3,1.5,0,10,180,44,0,36,5,0,0,0,0,0,0,0
+39384,2959,Mocha Frappuccino Blended Coffee - whip (Breve Milk),310,12,7,0,45,190,46,0,38,5,0,0,0,0,0,0,0
+39385,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Breve Milk),230,2.5,2,0,10,210,47,0,41,5,0,0,0,0,0,0,0
+39386,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Breve Milk),320,11,7,0,45,210,48,0,42,5,0,0,0,0,0,0,0
+39387,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Breve Milk),240,3.5,2.5,0,10,210,48,0,42,5,0,0,0,0,0,0,0
+39388,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Breve Milk),340,12,8,0,45,220,50,0,43,5,0,0,0,0,0,0,0
+39389,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Soy US Milk),310,2.5,1.5,0,10,190,66,0,59,4,0,0,0,0,0,0,0
+39390,2959,Banana Caramel Frappuccino Blended Coffee - whip (Soy US Milk),400,11,7,0,45,190,68,0,60,4,0,0,0,0,0,0,0
+39391,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Soy US Milk),310,3,2,0,10,190,66,0,59,4,0,0,0,0,0,0,0
+39392,2959,Banana Coconut Frappuccino Blended Coffee - whip (Soy US Milk),400,12,8,0,45,190,68,0,61,4,0,0,0,0,0,0,0
+39393,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Soy US Milk),310,3,1.5,0,10,180,66,1,57,5,0,0,0,0,0,0,0
+39394,2959,Banana Mocha Frappuccino Blended Coffee - whip (Soy US Milk),400,12,7,0,45,190,68,1,59,5,0,0,0,0,0,0,0
+39395,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Soy US Milk),240,2.5,1.5,0,10,190,51,0,44,4,0,0,0,0,0,0,0
+39396,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Soy US Milk),340,11,7,0,45,200,53,0,46,4,0,0,0,0,0,0,0
+39397,2959,Caramel Frappuccino Blended Coffee - no whip (Soy US Milk),210,2.5,1.5,0,10,180,43,0,36,4,0,0,0,0,0,0,0
+39398,2959,Caramel Frappuccino Blended Coffee - whip (Soy US Milk),320,12,8,0,50,200,47,0,40,4,0,0,0,0,0,0,0
+39399,2959,Coffee Frappuccino Blended Coffee (Soy US Milk),190,2.5,1.5,0,10,180,38,0,32,4,0,0,0,0,0,0,0
+39400,2959,Espresso Frappuccino Blended Coffee (Soy US Milk),160,2,1.5,0,10,160,33,0,27,4,0,0,0,0,0,0,0
+39401,2959,Java Chip Frappuccino Blended Coffee - no whip (Soy US Milk),270,7,4.5,0,10,220,51,1,42,5,0,0,0,0,0,0,0
+39402,2959,Java Chip Frappuccino Blended Coffee - whip (Soy US Milk),370,15,10,0,45,220,54,1,44,5,0,0,0,0,0,0,0
+39403,2959,Mocha Frappuccino Blended Coffee - no whip (Soy US Milk),220,3,1.5,0,10,180,44,0,36,5,0,0,0,0,0,0,0
+39404,2959,Mocha Frappuccino Blended Coffee - whip (Soy US Milk),310,12,7,0,45,190,46,0,38,5,0,0,0,0,0,0,0
+39405,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Soy US Milk),230,2.5,2,0,10,210,47,0,41,5,0,0,0,0,0,0,0
+39406,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Soy US Milk),320,11,7,0,45,210,48,0,42,5,0,0,0,0,0,0,0
+39407,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Soy US Milk),240,3.5,2.5,0,10,210,48,0,42,5,0,0,0,0,0,0,0
+39408,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Soy US Milk),340,12,8,0,45,220,50,0,43,5,0,0,0,0,0,0,0
+39409,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Soy CD Milk),310,2.5,1.5,0,10,190,66,0,59,4,0,0,0,0,0,0,0
+39410,2959,Banana Caramel Frappuccino Blended Coffee - whip (Soy CD Milk),400,11,7,0,45,190,68,0,60,4,0,0,0,0,0,0,0
+39411,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Soy CD Milk),310,3,2,0,10,190,66,0,59,4,0,0,0,0,0,0,0
+39412,2959,Banana Coconut Frappuccino Blended Coffee - whip (Soy CD Milk),400,12,8,0,45,190,68,0,61,4,0,0,0,0,0,0,0
+39413,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Soy CD Milk),310,3,1.5,0,10,180,66,1,57,5,0,0,0,0,0,0,0
+39414,2959,Banana Mocha Frappuccino Blended Coffee - whip (Soy CD Milk),400,12,7,0,45,190,68,1,59,5,0,0,0,0,0,0,0
+39415,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Soy CD Milk),240,2.5,1.5,0,10,190,51,0,44,4,0,0,0,0,0,0,0
+39416,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Soy CD Milk),340,11,7,0,45,200,53,0,46,4,0,0,0,0,0,0,0
+39417,2959,Caramel Frappuccino Blended Coffee - no whip (Soy CD Milk),210,2.5,1.5,0,10,180,43,0,36,4,0,0,0,0,0,0,0
+39418,2959,Caramel Frappuccino Blended Coffee - whip (Soy CD Milk),320,12,8,0,50,200,47,0,40,4,0,0,0,0,0,0,0
+39419,2959,Coffee Frappuccino Blended Coffee (Soy CD Milk),190,2.5,1.5,0,10,180,38,0,32,4,0,0,0,0,0,0,0
+39420,2959,Espresso Frappuccino Blended Coffee (Soy CD Milk),160,2,1.5,0,10,160,33,0,27,4,0,0,0,0,0,0,0
+39421,2959,Java Chip Frappuccino Blended Coffee - no whip (Soy CD Milk),270,7,4.5,0,10,220,51,1,42,5,0,0,0,0,0,0,0
+39422,2959,Java Chip Frappuccino Blended Coffee - whip (Soy CD Milk),370,15,10,0,45,220,54,1,44,5,0,0,0,0,0,0,0
+39423,2959,Mocha Frappuccino Blended Coffee - no whip (Soy CD Milk),220,3,1.5,0,10,180,44,0,36,5,0,0,0,0,0,0,0
+39424,2959,Mocha Frappuccino Blended Coffee - whip (Soy CD Milk),310,12,7,0,45,190,46,0,38,5,0,0,0,0,0,0,0
+39425,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Soy CD Milk),230,2.5,2,0,10,210,47,0,41,5,0,0,0,0,0,0,0
+39426,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Soy CD Milk),320,11,7,0,45,210,48,0,42,5,0,0,0,0,0,0,0
+39427,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Soy CD Milk),240,3.5,2.5,0,10,210,48,0,42,5,0,0,0,0,0,0,0
+39428,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Soy CD Milk),340,12,8,0,45,220,50,0,43,5,0,0,0,0,0,0,0
+39429,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Nonfat Milk),410,3.5,2.5,0,15,260,89,0,79,6,0,0,0,0,0,0,0
+39430,2959,Banana Caramel Frappuccino Blended Coffee - whip (Nonfat Milk),550,16,10,0,65,270,92,0,81,6,0,0,0,0,0,0,0
+39431,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Nonfat Milk),410,4,2.5,0,15,260,89,1,79,6,0,0,0,0,0,0,0
+39432,2959,Banana Coconut Frappuccino Blended Coffee - whip (Nonfat Milk),550,16,11,0,65,270,92,1,81,6,0,0,0,0,0,0,0
+39433,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Nonfat Milk),410,4,2,0,15,250,89,1,77,7,0,0,0,0,0,0,0
+39434,2959,Banana Mocha Frappuccino Blended Coffee - whip (Nonfat Milk),540,16,10,0,65,260,92,1,79,7,0,0,0,0,0,0,0
+39435,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Nonfat Milk),340,3.5,2,0,15,260,72,0,63,6,0,0,0,0,0,0,0
+39436,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Nonfat Milk),470,16,10,0,65,270,74,0,65,6,0,0,0,0,0,0,0
+39437,2959,Caramel Frappuccino Blended Coffee - no whip (Nonfat Milk),280,3.5,2,0,15,250,57,0,48,5,0,0,0,0,0,0,0
+39438,2959,Caramel Frappuccino Blended Coffee - whip (Nonfat Milk),430,16,10,0,65,270,61,0,52,6,0,0,0,0,0,0,0
+39439,2959,Coffee Frappuccino Blended Coffee (Nonfat Milk),260,3.5,2,0,15,250,52,0,44,5,0,0,0,0,0,0,0
+39440,2959,Espresso Frappuccino Blended Coffee (Nonfat Milk),230,3,2,0,10,220,46,0,38,5,0,0,0,0,0,0,0
+39441,2959,Java Chip Frappuccino Blended Coffee - no whip (Nonfat Milk),370,9,6,0,15,300,69,2,56,7,0,0,0,0,0,0,0
+39442,2959,Java Chip Frappuccino Blended Coffee - whip (Nonfat Milk),510,22,15,0,65,310,73,2,59,7,0,0,0,0,0,0,0
+39443,2959,Mocha Frappuccino Blended Coffee - no whip (Nonfat Milk),290,4,2,0,15,250,58,0,48,6,0,0,0,0,0,0,0
+39444,2959,Mocha Frappuccino Blended Coffee - whip (Nonfat Milk),420,16,10,0,65,260,61,0,51,6,0,0,0,0,0,0,0
+39445,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Nonfat Milk),300,3.5,2,0,15,280,61,0,53,6,0,0,0,0,0,0,0
+39446,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Nonfat Milk),430,16,10,0,65,290,63,0,55,6,0,0,0,0,0,0,0
+39447,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Nonfat Milk),320,4.5,3,0,15,280,62,0,54,6,0,0,0,0,0,0,0
+39448,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Nonfat Milk),450,17,11,0,65,290,65,0,56,6,0,0,0,0,0,0,0
+39449,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Whole Milk),410,3.5,2.5,0,15,260,89,0,79,6,0,0,0,0,0,0,0
+39450,2959,Banana Caramel Frappuccino Blended Coffee - whip (Whole Milk),550,16,10,0,65,270,92,0,81,6,0,0,0,0,0,0,0
+39451,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Whole Milk),410,4,2.5,0,15,260,89,1,79,6,0,0,0,0,0,0,0
+39452,2959,Banana Coconut Frappuccino Blended Coffee - whip (Whole Milk),550,16,11,0,65,270,92,1,81,6,0,0,0,0,0,0,0
+39453,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Whole Milk),410,4,2,0,15,250,89,1,77,7,0,0,0,0,0,0,0
+39454,2959,Banana Mocha Frappuccino Blended Coffee - whip (Whole Milk),540,16,10,0,65,260,92,1,79,7,0,0,0,0,0,0,0
+39455,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Whole Milk),340,3.5,2,0,15,260,72,0,63,6,0,0,0,0,0,0,0
+39456,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Whole Milk),470,16,10,0,65,270,74,0,65,6,0,0,0,0,0,0,0
+39457,2959,Caramel Frappuccino Blended Coffee - no whip (Whole Milk),280,3.5,2,0,15,250,57,0,48,5,0,0,0,0,0,0,0
+39458,2959,Caramel Frappuccino Blended Coffee - whip (Whole Milk),430,16,10,0,65,270,61,0,52,6,0,0,0,0,0,0,0
+39459,2959,Coffee Frappuccino Blended Coffee (Whole Milk),260,3.5,2,0,15,250,52,0,44,5,0,0,0,0,0,0,0
+39460,2959,Espresso Frappuccino Blended Coffee (Whole Milk),230,3,2,0,10,220,46,0,38,5,0,0,0,0,0,0,0
+39461,2959,Java Chip Frappuccino Blended Coffee - no whip (Whole Milk),370,9,6,0,15,300,69,2,56,7,0,0,0,0,0,0,0
+39462,2959,Java Chip Frappuccino Blended Coffee - whip (Whole Milk),510,22,15,0,65,310,73,2,59,7,0,0,0,0,0,0,0
+39463,2959,Mocha Frappuccino Blended Coffee - no whip (Whole Milk),290,4,2,0,15,250,58,0,48,6,0,0,0,0,0,0,0
+39464,2959,Mocha Frappuccino Blended Coffee - whip (Whole Milk),420,16,10,0,65,260,61,0,51,6,0,0,0,0,0,0,0
+39465,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Whole Milk),300,3.5,2,0,15,280,61,0,53,6,0,0,0,0,0,0,0
+39466,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Whole Milk),430,16,10,0,65,290,63,0,55,6,0,0,0,0,0,0,0
+39467,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Whole Milk),320,4.5,3,0,15,280,62,0,54,6,0,0,0,0,0,0,0
+39468,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Whole Milk),450,17,11,0,65,290,65,0,56,6,0,0,0,0,0,0,0
+39469,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Breve Milk),410,3.5,2.5,0,15,260,89,0,79,6,0,0,0,0,0,0,0
+39470,2959,Banana Caramel Frappuccino Blended Coffee - whip (Breve Milk),550,16,10,0,65,270,92,0,81,6,0,0,0,0,0,0,0
+39471,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Breve Milk),410,4,2.5,0,15,260,89,1,79,6,0,0,0,0,0,0,0
+39472,2959,Banana Coconut Frappuccino Blended Coffee - whip (Breve Milk),550,16,11,0,65,270,92,1,81,6,0,0,0,0,0,0,0
+39473,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Breve Milk),410,4,2,0,15,250,89,1,77,7,0,0,0,0,0,0,0
+39474,2959,Banana Mocha Frappuccino Blended Coffee - whip (Breve Milk),540,16,10,0,65,260,92,1,79,7,0,0,0,0,0,0,0
+39475,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Breve Milk),340,3.5,2,0,15,260,72,0,63,6,0,0,0,0,0,0,0
+39476,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Breve Milk),470,16,10,0,65,270,74,0,65,6,0,0,0,0,0,0,0
+39477,2959,Caramel Frappuccino Blended Coffee - no whip (Breve Milk),280,3.5,2,0,15,250,57,0,48,5,0,0,0,0,0,0,0
+39478,2959,Caramel Frappuccino Blended Coffee - whip (Breve Milk),430,16,10,0,65,270,61,0,52,6,0,0,0,0,0,0,0
+39479,2959,Coffee Frappuccino Blended Coffee (Breve Milk),260,3.5,2,0,15,250,52,0,44,5,0,0,0,0,0,0,0
+39480,2959,Espresso Frappuccino Blended Coffee (Breve Milk),230,3,2,0,10,220,46,0,38,5,0,0,0,0,0,0,0
+39481,2959,Java Chip Frappuccino Blended Coffee - no whip (Breve Milk),370,9,6,0,15,300,69,2,56,7,0,0,0,0,0,0,0
+39482,2959,Java Chip Frappuccino Blended Coffee - whip (Breve Milk),510,22,15,0,65,310,73,2,59,7,0,0,0,0,0,0,0
+39483,2959,Mocha Frappuccino Blended Coffee - no whip (Breve Milk),290,4,2,0,15,250,58,0,48,6,0,0,0,0,0,0,0
+39484,2959,Mocha Frappuccino Blended Coffee - whip (Breve Milk),420,16,10,0,65,260,61,0,51,6,0,0,0,0,0,0,0
+39485,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Breve Milk),300,3.5,2,0,15,280,61,0,53,6,0,0,0,0,0,0,0
+39486,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Breve Milk),430,16,10,0,65,290,63,0,55,6,0,0,0,0,0,0,0
+39487,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Breve Milk),320,4.5,3,0,15,280,62,0,54,6,0,0,0,0,0,0,0
+39488,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Breve Milk),450,17,11,0,65,290,65,0,56,6,0,0,0,0,0,0,0
+39489,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Soy US Milk),410,3.5,2.5,0,15,260,89,0,79,6,0,0,0,0,0,0,0
+39490,2959,Banana Caramel Frappuccino Blended Coffee - whip (Soy US Milk),550,16,10,0,65,270,92,0,81,6,0,0,0,0,0,0,0
+39491,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Soy US Milk),410,4,2.5,0,15,260,89,1,79,6,0,0,0,0,0,0,0
+39492,2959,Banana Coconut Frappuccino Blended Coffee - whip (Soy US Milk),550,16,11,0,65,270,92,1,81,6,0,0,0,0,0,0,0
+39493,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Soy US Milk),410,4,2,0,15,250,89,1,77,7,0,0,0,0,0,0,0
+39494,2959,Banana Mocha Frappuccino Blended Coffee - whip (Soy US Milk),540,16,10,0,65,260,92,1,79,7,0,0,0,0,0,0,0
+39495,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Soy US Milk),340,3.5,2,0,15,260,72,0,63,6,0,0,0,0,0,0,0
+39496,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Soy US Milk),470,16,10,0,65,270,74,0,65,6,0,0,0,0,0,0,0
+39497,2959,Caramel Frappuccino Blended Coffee - no whip (Soy US Milk),280,3.5,2,0,15,250,57,0,48,5,0,0,0,0,0,0,0
+39498,2959,Caramel Frappuccino Blended Coffee - whip (Soy US Milk),430,16,10,0,65,270,61,0,52,6,0,0,0,0,0,0,0
+39499,2959,Coffee Frappuccino Blended Coffee (Soy US Milk),260,3.5,2,0,15,250,52,0,44,5,0,0,0,0,0,0,0
+39500,2959,Espresso Frappuccino Blended Coffee (Soy US Milk),230,3,2,0,10,220,46,0,38,5,0,0,0,0,0,0,0
+39501,2959,Java Chip Frappuccino Blended Coffee - no whip (Soy US Milk),370,9,6,0,15,300,69,2,56,7,0,0,0,0,0,0,0
+39502,2959,Java Chip Frappuccino Blended Coffee - whip (Soy US Milk),510,22,15,0,65,310,73,2,59,7,0,0,0,0,0,0,0
+39503,2959,Mocha Frappuccino Blended Coffee - no whip (Soy US Milk),290,4,2,0,15,250,58,0,48,6,0,0,0,0,0,0,0
+39504,2959,Mocha Frappuccino Blended Coffee - whip (Soy US Milk),420,16,10,0,65,260,61,0,51,6,0,0,0,0,0,0,0
+39505,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Soy US Milk),300,3.5,2,0,15,280,61,0,53,6,0,0,0,0,0,0,0
+39506,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Soy US Milk),430,16,10,0,65,290,63,0,55,6,0,0,0,0,0,0,0
+39507,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Soy US Milk),320,4.5,3,0,15,280,62,0,54,6,0,0,0,0,0,0,0
+39508,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Soy US Milk),450,17,11,0,65,290,65,0,56,6,0,0,0,0,0,0,0
+39509,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Soy CD Milk),410,3.5,2.5,0,15,260,89,0,79,6,0,0,0,0,0,0,0
+39510,2959,Banana Caramel Frappuccino Blended Coffee - whip (Soy CD Milk),550,16,10,0,65,270,92,0,81,6,0,0,0,0,0,0,0
+39511,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Soy CD Milk),410,4,2.5,0,15,260,89,1,79,6,0,0,0,0,0,0,0
+39512,2959,Banana Coconut Frappuccino Blended Coffee - whip (Soy CD Milk),550,16,11,0,65,270,92,1,81,6,0,0,0,0,0,0,0
+39513,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Soy CD Milk),410,4,2,0,15,250,89,1,77,7,0,0,0,0,0,0,0
+39514,2959,Banana Mocha Frappuccino Blended Coffee - whip (Soy CD Milk),540,16,10,0,65,260,92,1,79,7,0,0,0,0,0,0,0
+39515,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Soy CD Milk),340,3.5,2,0,15,260,72,0,63,6,0,0,0,0,0,0,0
+39516,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Soy CD Milk),470,16,10,0,65,270,74,0,65,6,0,0,0,0,0,0,0
+39517,2959,Caramel Frappuccino Blended Coffee - no whip (Soy CD Milk),280,3.5,2,0,15,250,57,0,48,5,0,0,0,0,0,0,0
+39518,2959,Caramel Frappuccino Blended Coffee - whip (Soy CD Milk),430,16,10,0,65,270,61,0,52,6,0,0,0,0,0,0,0
+39519,2959,Coffee Frappuccino Blended Coffee (Soy CD Milk),260,3.5,2,0,15,250,52,0,44,5,0,0,0,0,0,0,0
+39520,2959,Espresso Frappuccino Blended Coffee (Soy CD Milk),230,3,2,0,10,220,46,0,38,5,0,0,0,0,0,0,0
+39521,2959,Java Chip Frappuccino Blended Coffee - no whip (Soy CD Milk),370,9,6,0,15,300,69,2,56,7,0,0,0,0,0,0,0
+39522,2959,Java Chip Frappuccino Blended Coffee - whip (Soy CD Milk),510,22,15,0,65,310,73,2,59,7,0,0,0,0,0,0,0
+39523,2959,Mocha Frappuccino Blended Coffee - no whip (Soy CD Milk),290,4,2,0,15,250,58,0,48,6,0,0,0,0,0,0,0
+39524,2959,Mocha Frappuccino Blended Coffee - whip (Soy CD Milk),420,16,10,0,65,260,61,0,51,6,0,0,0,0,0,0,0
+39525,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Soy CD Milk),300,3.5,2,0,15,280,61,0,53,6,0,0,0,0,0,0,0
+39526,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Soy CD Milk),430,16,10,0,65,290,63,0,55,6,0,0,0,0,0,0,0
+39527,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Soy CD Milk),320,4.5,3,0,15,280,62,0,54,6,0,0,0,0,0,0,0
+39528,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Soy CD Milk),450,17,11,0,65,290,65,0,56,6,0,0,0,0,0,0,0
+39529,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Nonfat Milk),590,4.5,3,0,20,340,128,1,114,8,0,0,0,0,0,0,0
+39530,2959,Banana Caramel Frappuccino Blended Coffee - whip (Nonfat Milk),720,17,11,0.5,70,350,131,1,116,8,0,0,0,0,0,0,0
+39531,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Nonfat Milk),600,5,3,0,20,340,130,1,117,8,0,0,0,0,0,0,0
+39532,2959,Banana Coconut Frappuccino Blended Coffee - whip (Nonfat Milk),730,17,11,0.5,70,350,132,1,119,8,0,0,0,0,0,0,0
+39533,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Nonfat Milk),590,6,3,0,20,340,129,2,112,9,0,0,0,0,0,0,0
+39534,2959,Banana Mocha Frappuccino Blended Coffee - whip (Nonfat Milk),720,18,11,0.5,70,350,132,2,114,9,0,0,0,0,0,0,0
+39535,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Nonfat Milk),450,4.5,3,0,20,340,95,0,83,7,0,0,0,0,0,0,0
+39536,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Nonfat Milk),580,17,11,0.5,70,350,98,0,85,7,0,0,0,0,0,0,0
+39537,2959,Caramel Frappuccino Blended Coffee - no whip (Nonfat Milk),390,4.5,3,0,20,330,79,0,67,7,0,0,0,0,0,0,0
+39538,2959,Caramel Frappuccino Blended Coffee - whip (Nonfat Milk),530,17,11,0.5,70,340,83,0,71,7,0,0,0,0,0,0,0
+39539,2959,Coffee Frappuccino Blended Coffee (Nonfat Milk),350,4.5,3,0,20,330,69,0,58,7,0,0,0,0,0,0,0
+39540,2959,Espresso Frappuccino Blended Coffee (Nonfat Milk),310,4,2.5,0,15,300,62,0,52,7,0,0,0,0,0,0,0
+39541,2959,Java Chip Frappuccino Blended Coffee - no whip (Nonfat Milk),510,13,9,0,20,400,95,2,77,10,0,0,0,0,0,0,0
+39542,2959,Java Chip Frappuccino Blended Coffee - whip (Nonfat Milk),650,25,17,0.5,70,410,99,3,80,10,0,0,0,0,0,0,0
+39543,2959,Mocha Frappuccino Blended Coffee - no whip (Nonfat Milk),400,6,3,0,20,340,81,1,67,8,0,0,0,0,0,0,0
+39544,2959,Mocha Frappuccino Blended Coffee - whip (Nonfat Milk),530,18,11,0.5,70,350,84,1,69,8,0,0,0,0,0,0,0
+39545,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Nonfat Milk),420,4.5,3,0,20,380,86,0,75,9,0,0,0,0,0,0,0
+39546,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Nonfat Milk),550,17,11,0,70,390,88,0,77,9,0,0,0,0,0,0,0
+39547,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Nonfat Milk),450,7,4.5,0,20,390,89,0,78,9,0,0,0,0,0,0,0
+39548,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Nonfat Milk),580,19,13,0.5,70,400,91,0,80,9,0,0,0,0,0,0,0
+39549,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Whole Milk),590,4.5,3,0,20,340,128,1,114,8,0,0,0,0,0,0,0
+39550,2959,Banana Caramel Frappuccino Blended Coffee - whip (Whole Milk),720,17,11,0.5,70,350,131,1,116,8,0,0,0,0,0,0,0
+39551,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Whole Milk),600,5,3,0,20,340,130,1,117,8,0,0,0,0,0,0,0
+39552,2959,Banana Coconut Frappuccino Blended Coffee - whip (Whole Milk),730,17,11,0.5,70,350,132,1,119,8,0,0,0,0,0,0,0
+39553,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Whole Milk),590,6,3,0,20,340,129,2,112,9,0,0,0,0,0,0,0
+39554,2959,Banana Mocha Frappuccino Blended Coffee - whip (Whole Milk),720,18,11,0.5,70,350,132,2,114,9,0,0,0,0,0,0,0
+39555,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Whole Milk),450,4.5,3,0,20,340,95,0,83,7,0,0,0,0,0,0,0
+39556,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Whole Milk),580,17,11,0.5,70,350,98,0,85,7,0,0,0,0,0,0,0
+39557,2959,Caramel Frappuccino Blended Coffee - no whip (Whole Milk),390,4.5,3,0,20,330,79,0,67,7,0,0,0,0,0,0,0
+39558,2959,Caramel Frappuccino Blended Coffee - whip (Whole Milk),530,17,11,0.5,70,340,83,0,71,7,0,0,0,0,0,0,0
+39559,2959,Coffee Frappuccino Blended Coffee (Whole Milk),350,4.5,3,0,20,330,69,0,58,7,0,0,0,0,0,0,0
+39560,2959,Espresso Frappuccino Blended Coffee (Whole Milk),310,4,2.5,0,15,300,62,0,52,7,0,0,0,0,0,0,0
+39561,2959,Java Chip Frappuccino Blended Coffee - no whip (Whole Milk),510,13,9,0,20,400,95,2,77,10,0,0,0,0,0,0,0
+39562,2959,Java Chip Frappuccino Blended Coffee - whip (Whole Milk),650,25,17,0.5,70,410,99,3,80,10,0,0,0,0,0,0,0
+39563,2959,Mocha Frappuccino Blended Coffee - no whip (Whole Milk),400,6,3,0,20,340,81,1,67,8,0,0,0,0,0,0,0
+39564,2959,Mocha Frappuccino Blended Coffee - whip (Whole Milk),530,18,11,0.5,70,350,84,1,69,8,0,0,0,0,0,0,0
+39565,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Whole Milk),420,4.5,3,0,20,380,86,0,75,9,0,0,0,0,0,0,0
+39566,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Whole Milk),550,17,11,0,70,390,88,0,77,9,0,0,0,0,0,0,0
+39567,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Whole Milk),450,7,4.5,0,20,390,89,0,78,9,0,0,0,0,0,0,0
+39568,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Whole Milk),580,19,13,0.5,70,400,91,0,80,9,0,0,0,0,0,0,0
+39569,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Breve Milk),590,4.5,3,0,20,340,128,1,114,8,0,0,0,0,0,0,0
+39570,2959,Banana Caramel Frappuccino Blended Coffee - whip (Breve Milk),720,17,11,0.5,70,350,131,1,116,8,0,0,0,0,0,0,0
+39571,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Breve Milk),600,5,3,0,20,340,130,1,117,8,0,0,0,0,0,0,0
+39572,2959,Banana Coconut Frappuccino Blended Coffee - whip (Breve Milk),730,17,11,0.5,70,350,132,1,119,8,0,0,0,0,0,0,0
+39573,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Breve Milk),590,6,3,0,20,340,129,2,112,9,0,0,0,0,0,0,0
+39574,2959,Banana Mocha Frappuccino Blended Coffee - whip (Breve Milk),720,18,11,0.5,70,350,132,2,114,9,0,0,0,0,0,0,0
+39575,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Breve Milk),450,4.5,3,0,20,340,95,0,83,7,0,0,0,0,0,0,0
+39576,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Breve Milk),580,17,11,0.5,70,350,98,0,85,7,0,0,0,0,0,0,0
+39577,2959,Caramel Frappuccino Blended Coffee - no whip (Breve Milk),390,4.5,3,0,20,330,79,0,67,7,0,0,0,0,0,0,0
+39578,2959,Caramel Frappuccino Blended Coffee - whip (Breve Milk),530,17,11,0.5,70,340,83,0,71,7,0,0,0,0,0,0,0
+39579,2959,Coffee Frappuccino Blended Coffee (Breve Milk),350,4.5,3,0,20,330,69,0,58,7,0,0,0,0,0,0,0
+39580,2959,Espresso Frappuccino Blended Coffee (Breve Milk),310,4,2.5,0,15,300,62,0,52,7,0,0,0,0,0,0,0
+39581,2959,Java Chip Frappuccino Blended Coffee - no whip (Breve Milk),510,13,9,0,20,400,95,2,77,10,0,0,0,0,0,0,0
+39582,2959,Java Chip Frappuccino Blended Coffee - whip (Breve Milk),650,25,17,0.5,70,410,99,3,80,10,0,0,0,0,0,0,0
+39583,2959,Mocha Frappuccino Blended Coffee - no whip (Breve Milk),400,6,3,0,20,340,81,1,67,8,0,0,0,0,0,0,0
+39584,2959,Mocha Frappuccino Blended Coffee - whip (Breve Milk),530,18,11,0.5,70,350,84,1,69,8,0,0,0,0,0,0,0
+39585,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Breve Milk),420,4.5,3,0,20,380,86,0,75,9,0,0,0,0,0,0,0
+39586,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Breve Milk),550,17,11,0,70,390,88,0,77,9,0,0,0,0,0,0,0
+39587,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Breve Milk),450,7,4.5,0,20,390,89,0,78,9,0,0,0,0,0,0,0
+39588,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Breve Milk),580,19,13,0.5,70,400,91,0,80,9,0,0,0,0,0,0,0
+39589,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Soy US Milk),590,4.5,3,0,20,340,128,1,114,8,0,0,0,0,0,0,0
+39590,2959,Banana Caramel Frappuccino Blended Coffee - whip (Soy US Milk),720,17,11,0.5,70,350,131,1,116,8,0,0,0,0,0,0,0
+39591,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Soy US Milk),600,5,3,0,20,340,130,1,117,8,0,0,0,0,0,0,0
+39592,2959,Banana Coconut Frappuccino Blended Coffee - whip (Soy US Milk),730,17,11,0.5,70,350,132,1,119,8,0,0,0,0,0,0,0
+39593,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Soy US Milk),590,6,3,0,20,340,129,2,112,9,0,0,0,0,0,0,0
+39594,2959,Banana Mocha Frappuccino Blended Coffee - whip (Soy US Milk),720,18,11,0.5,70,350,132,2,114,9,0,0,0,0,0,0,0
+39595,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Soy US Milk),450,4.5,3,0,20,340,95,0,83,7,0,0,0,0,0,0,0
+39596,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Soy US Milk),580,17,11,0.5,70,350,98,0,85,7,0,0,0,0,0,0,0
+39597,2959,Caramel Frappuccino Blended Coffee - no whip (Soy US Milk),390,4.5,3,0,20,330,79,0,67,7,0,0,0,0,0,0,0
+39598,2959,Caramel Frappuccino Blended Coffee - whip (Soy US Milk),530,17,11,0.5,70,340,83,0,71,7,0,0,0,0,0,0,0
+39599,2959,Coffee Frappuccino Blended Coffee (Soy US Milk),350,4.5,3,0,20,330,69,0,58,7,0,0,0,0,0,0,0
+39600,2959,Espresso Frappuccino Blended Coffee (Soy US Milk),310,4,2.5,0,15,300,62,0,52,7,0,0,0,0,0,0,0
+39601,2959,Java Chip Frappuccino Blended Coffee - no whip (Soy US Milk),510,13,9,0,20,400,95,2,77,10,0,0,0,0,0,0,0
+39602,2959,Java Chip Frappuccino Blended Coffee - whip (Soy US Milk),650,25,17,0.5,70,410,99,3,80,10,0,0,0,0,0,0,0
+39603,2959,Mocha Frappuccino Blended Coffee - no whip (Soy US Milk),400,6,3,0,20,340,81,1,67,8,0,0,0,0,0,0,0
+39604,2959,Mocha Frappuccino Blended Coffee - whip (Soy US Milk),530,18,11,0.5,70,350,84,1,69,8,0,0,0,0,0,0,0
+39605,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Soy US Milk),420,4.5,3,0,20,380,86,0,75,9,0,0,0,0,0,0,0
+39606,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Soy US Milk),550,17,11,0,70,390,88,0,77,9,0,0,0,0,0,0,0
+39607,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Soy US Milk),450,7,4.5,0,20,390,89,0,78,9,0,0,0,0,0,0,0
+39608,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Soy US Milk),580,19,13,0.5,70,400,91,0,80,9,0,0,0,0,0,0,0
+39609,2959,Banana Caramel Frappuccino Blended Coffee - no whip (Soy CD Milk),590,4.5,3,0,20,340,128,1,114,8,0,0,0,0,0,0,0
+39610,2959,Banana Caramel Frappuccino Blended Coffee - whip (Soy CD Milk),720,17,11,0.5,70,350,131,1,116,8,0,0,0,0,0,0,0
+39611,2959,Banana Coconut Frappuccino Blended Coffee - no whip (Soy CD Milk),600,5,3,0,20,340,130,1,117,8,0,0,0,0,0,0,0
+39612,2959,Banana Coconut Frappuccino Blended Coffee - whip (Soy CD Milk),730,17,11,0.5,70,350,132,1,119,8,0,0,0,0,0,0,0
+39613,2959,Banana Mocha Frappuccino Blended Coffee - no whip (Soy CD Milk),590,6,3,0,20,340,129,2,112,9,0,0,0,0,0,0,0
+39614,2959,Banana Mocha Frappuccino Blended Coffee - whip (Soy CD Milk),720,18,11,0.5,70,350,132,2,114,9,0,0,0,0,0,0,0
+39615,2959,Caffè Vanilla Frappuccino Blended Coffee - no whip (Soy CD Milk),450,4.5,3,0,20,340,95,0,83,7,0,0,0,0,0,0,0
+39616,2959,Caffè Vanilla Frappuccino Blended Coffee - whip (Soy CD Milk),580,17,11,0.5,70,350,98,0,85,7,0,0,0,0,0,0,0
+39617,2959,Caramel Frappuccino Blended Coffee - no whip (Soy CD Milk),390,4.5,3,0,20,330,79,0,67,7,0,0,0,0,0,0,0
+39618,2959,Caramel Frappuccino Blended Coffee - whip (Soy CD Milk),530,17,11,0.5,70,340,83,0,71,7,0,0,0,0,0,0,0
+39619,2959,Coffee Frappuccino Blended Coffee (Soy CD Milk),350,4.5,3,0,20,330,69,0,58,7,0,0,0,0,0,0,0
+39620,2959,Espresso Frappuccino Blended Coffee (Soy CD Milk),310,4,2.5,0,15,300,62,0,52,7,0,0,0,0,0,0,0
+39621,2959,Java Chip Frappuccino Blended Coffee - no whip (Soy CD Milk),510,13,9,0,20,400,95,2,77,10,0,0,0,0,0,0,0
+39622,2959,Java Chip Frappuccino Blended Coffee - whip (Soy CD Milk),650,25,17,0.5,70,410,99,3,80,10,0,0,0,0,0,0,0
+39623,2959,Mocha Frappuccino Blended Coffee - no whip (Soy CD Milk),400,6,3,0,20,340,81,1,67,8,0,0,0,0,0,0,0
+39624,2959,Mocha Frappuccino Blended Coffee - whip (Soy CD Milk),530,18,11,0.5,70,350,84,1,69,8,0,0,0,0,0,0,0
+39625,2959,Pumpkin Spice Frappuccino Blended Coffee - no whip (Soy CD Milk),420,4.5,3,0,20,380,86,0,75,9,0,0,0,0,0,0,0
+39626,2959,Pumpkin Spice Frappuccino Blended Coffee - whip (Soy CD Milk),550,17,11,0,70,390,88,0,77,9,0,0,0,0,0,0,0
+39627,2959,White Chocolate Mocha Frappuccino Blended Coffee - no whip (Soy CD Milk),450,7,4.5,0,20,390,89,0,78,9,0,0,0,0,0,0,0
+39628,2959,White Chocolate Mocha Frappuccino Blended Coffee - whip (Soy CD Milk),580,19,13,0.5,70,400,91,0,80,9,0,0,0,0,0,0,0
+39629,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Nonfat Milk),290,1.5,0,0,5,230,60,0,50,9,0,0,0,0,0,0,0
+39630,2960,Bananas & Crème Frappuccino Blended Crème - whip (Nonfat Milk),380,10,6,0,40,240,61,0,52,9,0,0,0,0,0,0,0
+39631,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Nonfat Milk),310,2,0,0,5,240,63,1,54,9,0,0,0,0,0,0,0
+39632,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Nonfat Milk),400,11,6,0,40,240,65,1,55,9,0,0,0,0,0,0,0
+39633,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Nonfat Milk),320,6,3.5,0,5,270,60,2,46,11,0,0,0,0,0,0,0
+39634,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Nonfat Milk),420,15,9,0,40,280,62,2,47,11,0,0,0,0,0,0,0
+39635,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Nonfat Milk),320,2,0,0,5,240,66,0,58,9,0,0,0,0,0,0,0
+39636,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Nonfat Milk),410,11,6,0,40,250,68,0,59,9,0,0,0,0,0,0,0
+39637,2960,Tazo Chai Frappuccino Blended Crème - no whip (Nonfat Milk),280,2,0,0,5,240,57,0,47,9,0,0,0,0,0,0,0
+39638,2960,Tazo Chai Frappuccino Blended Crème - whip (Nonfat Milk),370,11,6,0,40,250,59,0,49,9,0,0,0,0,0,0,0
+39639,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Nonfat Milk),300,2,0,0,5,230,62,1,52,9,0,0,0,0,0,0,0
+39640,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Nonfat Milk),390,11,6,0,40,240,63,1,54,9,0,0,0,0,0,0,0
+39641,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Nonfat Milk),260,2,0,0,5,240,53,0,43,9,0,0,0,0,0,0,0
+39642,2960,Vanilla Bean Frappuccino Blended Crème - whip (Nonfat Milk),350,11,6,0,40,250,54,0,45,9,0,0,0,0,0,0,0
+39643,2960,White Chocolate Frappuccino blended crème - no whip (Nonfat Milk),340,4.5,2.5,0,5,290,64,0,55,11,0,0,0,0,0,0,0
+39644,2960,White Chocolate Frappuccino blended crème - whip (Nonfat Milk),430,13,8,0,45,300,65,0,56,11,0,0,0,0,0,0,0
+39645,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Whole Milk),290,1.5,0,0,5,230,60,0,50,9,0,0,0,0,0,0,0
+39646,2960,Bananas & Crème Frappuccino Blended Crème - whip (Whole Milk),380,10,6,0,40,240,61,0,52,9,0,0,0,0,0,0,0
+39647,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Whole Milk),310,2,0,0,5,240,63,1,54,9,0,0,0,0,0,0,0
+39648,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Whole Milk),400,11,6,0,40,240,65,1,55,9,0,0,0,0,0,0,0
+39649,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Whole Milk),320,6,3.5,0,5,270,60,2,46,11,0,0,0,0,0,0,0
+39650,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Whole Milk),420,15,9,0,40,280,62,2,47,11,0,0,0,0,0,0,0
+39651,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Whole Milk),320,2,0,0,5,240,66,0,58,9,0,0,0,0,0,0,0
+39652,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Whole Milk),410,11,6,0,40,250,68,0,59,9,0,0,0,0,0,0,0
+39653,2960,Tazo Chai Frappuccino Blended Crème - no whip (Whole Milk),280,2,0,0,5,240,57,0,47,9,0,0,0,0,0,0,0
+39654,2960,Tazo Chai Frappuccino Blended Crème - whip (Whole Milk),370,11,6,0,40,250,59,0,49,9,0,0,0,0,0,0,0
+39655,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Whole Milk),300,2,0,0,5,230,62,1,52,9,0,0,0,0,0,0,0
+39656,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Whole Milk),390,11,6,0,40,240,63,1,54,9,0,0,0,0,0,0,0
+39657,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Whole Milk),260,2,0,0,5,240,53,0,43,9,0,0,0,0,0,0,0
+39658,2960,Vanilla Bean Frappuccino Blended Crème - whip (Whole Milk),350,11,6,0,40,250,54,0,45,9,0,0,0,0,0,0,0
+39659,2960,White Chocolate Frappuccino blended crème - no whip (Whole Milk),340,4.5,2.5,0,5,290,64,0,55,11,0,0,0,0,0,0,0
+39660,2960,White Chocolate Frappuccino blended crème - whip (Whole Milk),430,13,8,0,45,300,65,0,56,11,0,0,0,0,0,0,0
+39661,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Breve Milk),290,1.5,0,0,5,230,60,0,50,9,0,0,0,0,0,0,0
+39662,2960,Bananas & Crème Frappuccino Blended Crème - whip (Breve Milk),380,10,6,0,40,240,61,0,52,9,0,0,0,0,0,0,0
+39663,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Breve Milk),310,2,0,0,5,240,63,1,54,9,0,0,0,0,0,0,0
+39664,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Breve Milk),400,11,6,0,40,240,65,1,55,9,0,0,0,0,0,0,0
+39665,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Breve Milk),320,6,3.5,0,5,270,60,2,46,11,0,0,0,0,0,0,0
+39666,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Breve Milk),420,15,9,0,40,280,62,2,47,11,0,0,0,0,0,0,0
+39667,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Breve Milk),320,2,0,0,5,240,66,0,58,9,0,0,0,0,0,0,0
+39668,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Breve Milk),410,11,6,0,40,250,68,0,59,9,0,0,0,0,0,0,0
+39669,2960,Tazo Chai Frappuccino Blended Crème - no whip (Breve Milk),280,2,0,0,5,240,57,0,47,9,0,0,0,0,0,0,0
+39670,2960,Tazo Chai Frappuccino Blended Crème - whip (Breve Milk),370,11,6,0,40,250,59,0,49,9,0,0,0,0,0,0,0
+39671,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Breve Milk),300,2,0,0,5,230,62,1,52,9,0,0,0,0,0,0,0
+39672,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Breve Milk),390,11,6,0,40,240,63,1,54,9,0,0,0,0,0,0,0
+39673,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Breve Milk),260,2,0,0,5,240,53,0,43,9,0,0,0,0,0,0,0
+39674,2960,Vanilla Bean Frappuccino Blended Crème - whip (Breve Milk),350,11,6,0,40,250,54,0,45,9,0,0,0,0,0,0,0
+39675,2960,White Chocolate Frappuccino blended crème - no whip (Breve Milk),340,4.5,2.5,0,5,290,64,0,55,11,0,0,0,0,0,0,0
+39676,2960,White Chocolate Frappuccino blended crème - whip (Breve Milk),430,13,8,0,45,300,65,0,56,11,0,0,0,0,0,0,0
+39677,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Soy US Milk),290,1.5,0,0,5,230,60,0,50,9,0,0,0,0,0,0,0
+39678,2960,Bananas & Crème Frappuccino Blended Crème - whip (Soy US Milk),380,10,6,0,40,240,61,0,52,9,0,0,0,0,0,0,0
+39679,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Soy US Milk),310,2,0,0,5,240,63,1,54,9,0,0,0,0,0,0,0
+39680,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Soy US Milk),400,11,6,0,40,240,65,1,55,9,0,0,0,0,0,0,0
+39681,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Soy US Milk),320,6,3.5,0,5,270,60,2,46,11,0,0,0,0,0,0,0
+39682,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Soy US Milk),420,15,9,0,40,280,62,2,47,11,0,0,0,0,0,0,0
+39683,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Soy US Milk),320,2,0,0,5,240,66,0,58,9,0,0,0,0,0,0,0
+39684,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Soy US Milk),410,11,6,0,40,250,68,0,59,9,0,0,0,0,0,0,0
+39685,2960,Tazo Chai Frappuccino Blended Crème - no whip (Soy US Milk),280,2,0,0,5,240,57,0,47,9,0,0,0,0,0,0,0
+39686,2960,Tazo Chai Frappuccino Blended Crème - whip (Soy US Milk),370,11,6,0,40,250,59,0,49,9,0,0,0,0,0,0,0
+39687,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Soy US Milk),300,2,0,0,5,230,62,1,52,9,0,0,0,0,0,0,0
+39688,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Soy US Milk),390,11,6,0,40,240,63,1,54,9,0,0,0,0,0,0,0
+39689,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Soy US Milk),260,2,0,0,5,240,53,0,43,9,0,0,0,0,0,0,0
+39690,2960,Vanilla Bean Frappuccino Blended Crème - whip (Soy US Milk),350,11,6,0,40,250,54,0,45,9,0,0,0,0,0,0,0
+39691,2960,White Chocolate Frappuccino blended crème - no whip (Soy US Milk),340,4.5,2.5,0,5,290,64,0,55,11,0,0,0,0,0,0,0
+39692,2960,White Chocolate Frappuccino blended crème - whip (Soy US Milk),430,13,8,0,45,300,65,0,56,11,0,0,0,0,0,0,0
+39693,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Soy CD Milk),290,1.5,0,0,5,230,60,0,50,9,0,0,0,0,0,0,0
+39694,2960,Bananas & Crème Frappuccino Blended Crème - whip (Soy CD Milk),380,10,6,0,40,240,61,0,52,9,0,0,0,0,0,0,0
+39695,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Soy CD Milk),310,2,0,0,5,240,63,1,54,9,0,0,0,0,0,0,0
+39696,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Soy CD Milk),400,11,6,0,40,240,65,1,55,9,0,0,0,0,0,0,0
+39697,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Soy CD Milk),320,6,3.5,0,5,270,60,2,46,11,0,0,0,0,0,0,0
+39698,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Soy CD Milk),420,15,9,0,40,280,62,2,47,11,0,0,0,0,0,0,0
+39699,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Soy CD Milk),320,2,0,0,5,240,66,0,58,9,0,0,0,0,0,0,0
+39700,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Soy CD Milk),410,11,6,0,40,250,68,0,59,9,0,0,0,0,0,0,0
+39701,2960,Tazo Chai Frappuccino Blended Crème - no whip (Soy CD Milk),280,2,0,0,5,240,57,0,47,9,0,0,0,0,0,0,0
+39702,2960,Tazo Chai Frappuccino Blended Crème - whip (Soy CD Milk),370,11,6,0,40,250,59,0,49,9,0,0,0,0,0,0,0
+39703,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Soy CD Milk),300,2,0,0,5,230,62,1,52,9,0,0,0,0,0,0,0
+39704,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Soy CD Milk),390,11,6,0,40,240,63,1,54,9,0,0,0,0,0,0,0
+39705,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Soy CD Milk),260,2,0,0,5,240,53,0,43,9,0,0,0,0,0,0,0
+39706,2960,Vanilla Bean Frappuccino Blended Crème - whip (Soy CD Milk),350,11,6,0,40,250,54,0,45,9,0,0,0,0,0,0,0
+39707,2960,White Chocolate Frappuccino blended crème - no whip (Soy CD Milk),340,4.5,2.5,0,5,290,64,0,55,11,0,0,0,0,0,0,0
+39708,2960,White Chocolate Frappuccino blended crème - whip (Soy CD Milk),430,13,8,0,45,300,65,0,56,11,0,0,0,0,0,0,0
+39709,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Nonfat Milk),410,2.5,0,0,10,330,86,0,72,12,0,0,0,0,0,0,0
+39710,2960,Bananas & Crème Frappuccino Blended Crème - whip (Nonfat Milk),550,15,9,0,60,340,88,0,74,12,0,0,0,0,0,0,0
+39711,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Nonfat Milk),430,2.5,0,0,5,320,89,1,76,13,0,0,0,0,0,0,0
+39712,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Nonfat Milk),560,15,9,0,60,330,91,1,78,13,0,0,0,0,0,0,0
+39713,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Nonfat Milk),450,9,5,0,5,360,83,3,63,14,0,0,0,0,0,0,0
+39714,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Nonfat Milk),580,22,13,0,60,370,86,3,65,14,0,0,0,0,0,0,0
+39715,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Nonfat Milk),440,2.5,0,0,5,320,92,1,81,12,0,0,0,0,0,0,0
+39716,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Nonfat Milk),570,15,9,0,60,330,95,1,83,12,0,0,0,0,0,0,0
+39717,2960,Tazo Chai Frappuccino Blended Crème - no whip (Nonfat Milk),380,2.5,0,0,5,330,79,0,66,12,0,0,0,0,0,0,0
+39718,2960,Tazo Chai Frappuccino Blended Crème - whip (Nonfat Milk),510,15,9,0,60,340,82,0,68,12,0,0,0,0,0,0,0
+39719,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Nonfat Milk),420,2.5,0,0,5,310,86,1,74,12,0,0,0,0,0,0,0
+39720,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Nonfat Milk),550,15,9,0,60,320,88,1,76,12,0,0,0,0,0,0,0
+39721,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Nonfat Milk),360,2.5,0,0,5,320,73,0,60,12,0,0,0,0,0,0,0
+39722,2960,Vanilla Bean Frappuccino Blended Crème - whip (Nonfat Milk),490,15,9,0,60,330,75,0,62,12,0,0,0,0,0,0,0
+39723,2960,White Chocolate Frappuccino blended crème - no whip (Nonfat Milk),480,7,4,0,10,410,89,0,77,15,0,0,0,0,0,0,0
+39724,2960,White Chocolate Frappuccino blended crème - whip (Nonfat Milk),610,19,12,0,60,420,92,0,79,15,0,0,0,0,0,0,0
+39725,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Whole Milk),410,2.5,0,0,10,330,86,0,72,12,0,0,0,0,0,0,0
+39726,2960,Bananas & Crème Frappuccino Blended Crème - whip (Whole Milk),550,15,9,0,60,340,88,0,74,12,0,0,0,0,0,0,0
+39727,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Whole Milk),430,2.5,0,0,5,320,89,1,76,13,0,0,0,0,0,0,0
+39728,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Whole Milk),560,15,9,0,60,330,91,1,78,13,0,0,0,0,0,0,0
+39729,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Whole Milk),450,9,5,0,5,360,83,3,63,14,0,0,0,0,0,0,0
+39730,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Whole Milk),580,22,13,0,60,370,86,3,65,14,0,0,0,0,0,0,0
+39731,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Whole Milk),440,2.5,0,0,5,320,92,1,81,12,0,0,0,0,0,0,0
+39732,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Whole Milk),570,15,9,0,60,330,95,1,83,12,0,0,0,0,0,0,0
+39733,2960,Tazo Chai Frappuccino Blended Crème - no whip (Whole Milk),380,2.5,0,0,5,330,79,0,66,12,0,0,0,0,0,0,0
+39734,2960,Tazo Chai Frappuccino Blended Crème - whip (Whole Milk),510,15,9,0,60,340,82,0,68,12,0,0,0,0,0,0,0
+39735,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Whole Milk),420,2.5,0,0,5,310,86,1,74,12,0,0,0,0,0,0,0
+39736,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Whole Milk),550,15,9,0,60,320,88,1,76,12,0,0,0,0,0,0,0
+39737,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Whole Milk),360,2.5,0,0,5,320,73,0,60,12,0,0,0,0,0,0,0
+39738,2960,Vanilla Bean Frappuccino Blended Crème - whip (Whole Milk),490,15,9,0,60,330,75,0,62,12,0,0,0,0,0,0,0
+39739,2960,White Chocolate Frappuccino blended crème - no whip (Whole Milk),480,7,4,0,10,410,89,0,77,15,0,0,0,0,0,0,0
+39740,2960,White Chocolate Frappuccino blended crème - whip (Whole Milk),610,19,12,0,60,420,92,0,79,15,0,0,0,0,0,0,0
+39741,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Breve Milk),410,2.5,0,0,10,330,86,0,72,12,0,0,0,0,0,0,0
+39742,2960,Bananas & Crème Frappuccino Blended Crème - whip (Breve Milk),550,15,9,0,60,340,88,0,74,12,0,0,0,0,0,0,0
+39743,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Breve Milk),430,2.5,0,0,5,320,89,1,76,13,0,0,0,0,0,0,0
+39744,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Breve Milk),560,15,9,0,60,330,91,1,78,13,0,0,0,0,0,0,0
+39745,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Breve Milk),450,9,5,0,5,360,83,3,63,14,0,0,0,0,0,0,0
+39746,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Breve Milk),580,22,13,0,60,370,86,3,65,14,0,0,0,0,0,0,0
+39747,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Breve Milk),440,2.5,0,0,5,320,92,1,81,12,0,0,0,0,0,0,0
+39748,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Breve Milk),570,15,9,0,60,330,95,1,83,12,0,0,0,0,0,0,0
+39749,2960,Tazo Chai Frappuccino Blended Crème - no whip (Breve Milk),380,2.5,0,0,5,330,79,0,66,12,0,0,0,0,0,0,0
+39750,2960,Tazo Chai Frappuccino Blended Crème - whip (Breve Milk),510,15,9,0,60,340,82,0,68,12,0,0,0,0,0,0,0
+39751,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Breve Milk),420,2.5,0,0,5,310,86,1,74,12,0,0,0,0,0,0,0
+39752,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Breve Milk),550,15,9,0,60,320,88,1,76,12,0,0,0,0,0,0,0
+39753,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Breve Milk),360,2.5,0,0,5,320,73,0,60,12,0,0,0,0,0,0,0
+39754,2960,Vanilla Bean Frappuccino Blended Crème - whip (Breve Milk),490,15,9,0,60,330,75,0,62,12,0,0,0,0,0,0,0
+39755,2960,White Chocolate Frappuccino blended crème - no whip (Breve Milk),480,7,4,0,10,410,89,0,77,15,0,0,0,0,0,0,0
+39756,2960,White Chocolate Frappuccino blended crème - whip (Breve Milk),610,19,12,0,60,420,92,0,79,15,0,0,0,0,0,0,0
+39757,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Soy US Milk),410,2.5,0,0,10,330,86,0,72,12,0,0,0,0,0,0,0
+39758,2960,Bananas & Crème Frappuccino Blended Crème - whip (Soy US Milk),550,15,9,0,60,340,88,0,74,12,0,0,0,0,0,0,0
+39759,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Soy US Milk),430,2.5,0,0,5,320,89,1,76,13,0,0,0,0,0,0,0
+39760,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Soy US Milk),560,15,9,0,60,330,91,1,78,13,0,0,0,0,0,0,0
+39761,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Soy US Milk),450,9,5,0,5,360,83,3,63,14,0,0,0,0,0,0,0
+39762,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Soy US Milk),580,22,13,0,60,370,86,3,65,14,0,0,0,0,0,0,0
+39763,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Soy US Milk),440,2.5,0,0,5,320,92,1,81,12,0,0,0,0,0,0,0
+39764,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Soy US Milk),570,15,9,0,60,330,95,1,83,12,0,0,0,0,0,0,0
+39765,2960,Tazo Chai Frappuccino Blended Crème - no whip (Soy US Milk),380,2.5,0,0,5,330,79,0,66,12,0,0,0,0,0,0,0
+39766,2960,Tazo Chai Frappuccino Blended Crème - whip (Soy US Milk),510,15,9,0,60,340,82,0,68,12,0,0,0,0,0,0,0
+39767,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Soy US Milk),420,2.5,0,0,5,310,86,1,74,12,0,0,0,0,0,0,0
+39768,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Soy US Milk),550,15,9,0,60,320,88,1,76,12,0,0,0,0,0,0,0
+39769,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Soy US Milk),360,2.5,0,0,5,320,73,0,60,12,0,0,0,0,0,0,0
+39770,2960,Vanilla Bean Frappuccino Blended Crème - whip (Soy US Milk),490,15,9,0,60,330,75,0,62,12,0,0,0,0,0,0,0
+39771,2960,White Chocolate Frappuccino blended crème - no whip (Soy US Milk),480,7,4,0,10,410,89,0,77,15,0,0,0,0,0,0,0
+39772,2960,White Chocolate Frappuccino blended crème - whip (Soy US Milk),610,19,12,0,60,420,92,0,79,15,0,0,0,0,0,0,0
+39773,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Soy CD Milk),410,2.5,0,0,10,330,86,0,72,12,0,0,0,0,0,0,0
+39774,2960,Bananas & Crème Frappuccino Blended Crème - whip (Soy CD Milk),550,15,9,0,60,340,88,0,74,12,0,0,0,0,0,0,0
+39775,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Soy CD Milk),430,2.5,0,0,5,320,89,1,76,13,0,0,0,0,0,0,0
+39776,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Soy CD Milk),560,15,9,0,60,330,91,1,78,13,0,0,0,0,0,0,0
+39777,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Soy CD Milk),450,9,5,0,5,360,83,3,63,14,0,0,0,0,0,0,0
+39778,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Soy CD Milk),580,22,13,0,60,370,86,3,65,14,0,0,0,0,0,0,0
+39779,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Soy CD Milk),440,2.5,0,0,5,320,92,1,81,12,0,0,0,0,0,0,0
+39780,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Soy CD Milk),570,15,9,0,60,330,95,1,83,12,0,0,0,0,0,0,0
+39781,2960,Tazo Chai Frappuccino Blended Crème - no whip (Soy CD Milk),380,2.5,0,0,5,330,79,0,66,12,0,0,0,0,0,0,0
+39782,2960,Tazo Chai Frappuccino Blended Crème - whip (Soy CD Milk),510,15,9,0,60,340,82,0,68,12,0,0,0,0,0,0,0
+39783,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Soy CD Milk),420,2.5,0,0,5,310,86,1,74,12,0,0,0,0,0,0,0
+39784,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Soy CD Milk),550,15,9,0,60,320,88,1,76,12,0,0,0,0,0,0,0
+39785,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Soy CD Milk),360,2.5,0,0,5,320,73,0,60,12,0,0,0,0,0,0,0
+39786,2960,Vanilla Bean Frappuccino Blended Crème - whip (Soy CD Milk),490,15,9,0,60,330,75,0,62,12,0,0,0,0,0,0,0
+39787,2960,White Chocolate Frappuccino blended crème - no whip (Soy CD Milk),480,7,4,0,10,410,89,0,77,15,0,0,0,0,0,0,0
+39788,2960,White Chocolate Frappuccino blended crème - whip (Soy CD Milk),610,19,12,0,60,420,92,0,79,15,0,0,0,0,0,0,0
+39789,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Nonfat Milk),570,3.5,0.5,0,10,430,119,1,101,16,0,0,0,0,0,0,0
+39790,2960,Bananas & Crème Frappuccino Blended Crème - whip (Nonfat Milk),700,15,9,0,60,440,121,1,103,16,0,0,0,0,0,0,0
+39791,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Nonfat Milk),560,3.5,0.5,0,10,420,117,2,99,17,0,0,0,0,0,0,0
+39792,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Nonfat Milk),700,16,9,0,60,430,119,2,101,17,0,0,0,0,0,0,0
+39793,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Nonfat Milk),590,12,7,0,10,480,110,3,84,19,0,0,0,0,0,0,0
+39794,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Nonfat Milk),720,25,15,0,60,490,112,3,86,19,0,0,0,0,0,0,0
+39795,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Nonfat Milk),620,3,0.5,0,10,430,133,1,117,16,0,0,0,0,0,0,0
+39796,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Nonfat Milk),750,15,9,0,60,440,135,1,120,16,0,0,0,0,0,0,0
+39797,2960,Tazo Chai Frappuccino Blended Crème - no whip (Nonfat Milk),510,3,0.5,0,10,430,106,0,88,16,0,0,0,0,0,0,0
+39798,2960,Tazo Chai Frappuccino Blended Crème - whip (Nonfat Milk),640,15,9,0,60,440,108,0,90,16,0,0,0,0,0,0,0
+39799,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Nonfat Milk),560,3.5,0.5,0,10,420,115,2,98,17,0,0,0,0,0,0,0
+39800,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Nonfat Milk),690,16,9,0,60,430,117,2,100,17,0,0,0,0,0,0,0
+39801,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Nonfat Milk),470,3,0.5,0,10,420,96,0,80,15,0,0,0,0,0,0,0
+39802,2960,Vanilla Bean Frappuccino Blended Crème - whip (Nonfat Milk),600,15,9,0,60,430,99,0,82,15,0,0,0,0,0,0,0
+39803,2960,White Chocolate Frappuccino blended crème - no whip (Nonfat Milk),630,9,5,0,10,540,119,0,103,20,0,0,0,0,0,0,0
+39804,2960,White Chocolate Frappuccino blended crème - whip (Nonfat Milk),760,21,13,0,65,550,121,0,105,20,0,0,0,0,0,0,0
+39805,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Whole Milk),570,3.5,0.5,0,10,430,119,1,101,16,0,0,0,0,0,0,0
+39806,2960,Bananas & Crème Frappuccino Blended Crème - whip (Whole Milk),700,15,9,0,60,440,121,1,103,16,0,0,0,0,0,0,0
+39807,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Whole Milk),560,3.5,0.5,0,10,420,117,2,99,17,0,0,0,0,0,0,0
+39808,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Whole Milk),700,16,9,0,60,430,119,2,101,17,0,0,0,0,0,0,0
+39809,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Whole Milk),590,12,7,0,10,480,110,3,84,19,0,0,0,0,0,0,0
+39810,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Whole Milk),720,25,15,0,60,490,112,3,86,19,0,0,0,0,0,0,0
+39811,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Whole Milk),620,3,0.5,0,10,430,133,1,117,16,0,0,0,0,0,0,0
+39812,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Whole Milk),750,15,9,0,60,440,135,1,120,16,0,0,0,0,0,0,0
+39813,2960,Tazo Chai Frappuccino Blended Crème - no whip (Whole Milk),510,3,0.5,0,10,430,106,0,88,16,0,0,0,0,0,0,0
+39814,2960,Tazo Chai Frappuccino Blended Crème - whip (Whole Milk),640,15,9,0,60,440,108,0,90,16,0,0,0,0,0,0,0
+39815,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Whole Milk),560,3.5,0.5,0,10,420,115,2,98,17,0,0,0,0,0,0,0
+39816,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Whole Milk),690,16,9,0,60,430,117,2,100,17,0,0,0,0,0,0,0
+39817,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Whole Milk),470,3,0.5,0,10,420,96,0,80,15,0,0,0,0,0,0,0
+39818,2960,Vanilla Bean Frappuccino Blended Crème - whip (Whole Milk),600,15,9,0,60,430,99,0,82,15,0,0,0,0,0,0,0
+39819,2960,White Chocolate Frappuccino blended crème - no whip (Whole Milk),630,9,5,0,10,540,119,0,103,20,0,0,0,0,0,0,0
+39820,2960,White Chocolate Frappuccino blended crème - whip (Whole Milk),760,21,13,0,65,550,121,0,105,20,0,0,0,0,0,0,0
+39821,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Breve Milk),570,3.5,0.5,0,10,430,119,1,101,16,0,0,0,0,0,0,0
+39822,2960,Bananas & Crème Frappuccino Blended Crème - whip (Breve Milk),700,15,9,0,60,440,121,1,103,16,0,0,0,0,0,0,0
+39823,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Breve Milk),560,3.5,0.5,0,10,420,117,2,99,17,0,0,0,0,0,0,0
+39824,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Breve Milk),700,16,9,0,60,430,119,2,101,17,0,0,0,0,0,0,0
+39825,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Breve Milk),590,12,7,0,10,480,110,3,84,19,0,0,0,0,0,0,0
+39826,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Breve Milk),720,25,15,0,60,490,112,3,86,19,0,0,0,0,0,0,0
+39827,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Breve Milk),620,3,0.5,0,10,430,133,1,117,16,0,0,0,0,0,0,0
+39828,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Breve Milk),750,15,9,0,60,440,135,1,120,16,0,0,0,0,0,0,0
+39829,2960,Tazo Chai Frappuccino Blended Crème - no whip (Breve Milk),510,3,0.5,0,10,430,106,0,88,16,0,0,0,0,0,0,0
+39830,2960,Tazo Chai Frappuccino Blended Crème - whip (Breve Milk),640,15,9,0,60,440,108,0,90,16,0,0,0,0,0,0,0
+39831,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Breve Milk),560,3.5,0.5,0,10,420,115,2,98,17,0,0,0,0,0,0,0
+39832,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Breve Milk),690,16,9,0,60,430,117,2,100,17,0,0,0,0,0,0,0
+39833,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Breve Milk),470,3,0.5,0,10,420,96,0,80,15,0,0,0,0,0,0,0
+39834,2960,Vanilla Bean Frappuccino Blended Crème - whip (Breve Milk),600,15,9,0,60,430,99,0,82,15,0,0,0,0,0,0,0
+39835,2960,White Chocolate Frappuccino blended crème - no whip (Breve Milk),630,9,5,0,10,540,119,0,103,20,0,0,0,0,0,0,0
+39836,2960,White Chocolate Frappuccino blended crème - whip (Breve Milk),760,21,13,0,65,550,121,0,105,20,0,0,0,0,0,0,0
+39837,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Soy US Milk),570,3.5,0.5,0,10,430,119,1,101,16,0,0,0,0,0,0,0
+39838,2960,Bananas & Crème Frappuccino Blended Crème - whip (Soy US Milk),700,15,9,0,60,440,121,1,103,16,0,0,0,0,0,0,0
+39839,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Soy US Milk),560,3.5,0.5,0,10,420,117,2,99,17,0,0,0,0,0,0,0
+39840,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Soy US Milk),700,16,9,0,60,430,119,2,101,17,0,0,0,0,0,0,0
+39841,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Soy US Milk),590,12,7,0,10,480,110,3,84,19,0,0,0,0,0,0,0
+39842,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Soy US Milk),720,25,15,0,60,490,112,3,86,19,0,0,0,0,0,0,0
+39843,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Soy US Milk),620,3,0.5,0,10,430,133,1,117,16,0,0,0,0,0,0,0
+39844,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Soy US Milk),750,15,9,0,60,440,135,1,120,16,0,0,0,0,0,0,0
+39845,2960,Tazo Chai Frappuccino Blended Crème - no whip (Soy US Milk),510,3,0.5,0,10,430,106,0,88,16,0,0,0,0,0,0,0
+39846,2960,Tazo Chai Frappuccino Blended Crème - whip (Soy US Milk),640,15,9,0,60,440,108,0,90,16,0,0,0,0,0,0,0
+39847,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Soy US Milk),560,3.5,0.5,0,10,420,115,2,98,17,0,0,0,0,0,0,0
+39848,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Soy US Milk),690,16,9,0,60,430,117,2,100,17,0,0,0,0,0,0,0
+39849,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Soy US Milk),470,3,0.5,0,10,420,96,0,80,15,0,0,0,0,0,0,0
+39850,2960,Vanilla Bean Frappuccino Blended Crème - whip (Soy US Milk),600,15,9,0,60,430,99,0,82,15,0,0,0,0,0,0,0
+39851,2960,White Chocolate Frappuccino blended crème - no whip (Soy US Milk),630,9,5,0,10,540,119,0,103,20,0,0,0,0,0,0,0
+39852,2960,White Chocolate Frappuccino blended crème - whip (Soy US Milk),760,21,13,0,65,550,121,0,105,20,0,0,0,0,0,0,0
+39853,2960,Bananas & Crème Frappuccino Blended Crème - no whip (Soy CD Milk),570,3.5,0.5,0,10,430,119,1,101,16,0,0,0,0,0,0,0
+39854,2960,Bananas & Crème Frappuccino Blended Crème - whip (Soy CD Milk),700,15,9,0,60,440,121,1,103,16,0,0,0,0,0,0,0
+39855,2960,Blackberry Green Tea Frappuccino Blended Crème - no whip (Soy CD Milk),560,3.5,0.5,0,10,420,117,2,99,17,0,0,0,0,0,0,0
+39856,2960,Blackberry Green Tea Frappuccino Blended Crème - whip (Soy CD Milk),700,16,9,0,60,430,119,2,101,17,0,0,0,0,0,0,0
+39857,2960,Double Chocolate Chip Frappuccino Blended Crème - no whip (Soy CD Milk),590,12,7,0,10,480,110,3,84,19,0,0,0,0,0,0,0
+39858,2960,Double Chocolate Chip Frappuccino Blended Crème - whip (Soy CD Milk),720,25,15,0,60,490,112,3,86,19,0,0,0,0,0,0,0
+39859,2960,Strawberries & Crème Frappuccino Blended Crème - no whip (Soy CD Milk),620,3,0.5,0,10,430,133,1,117,16,0,0,0,0,0,0,0
+39860,2960,Strawberries & Crème Frappuccino Blended Crème - whip (Soy CD Milk),750,15,9,0,60,440,135,1,120,16,0,0,0,0,0,0,0
+39861,2960,Tazo Chai Frappuccino Blended Crème - no whip (Soy CD Milk),510,3,0.5,0,10,430,106,0,88,16,0,0,0,0,0,0,0
+39862,2960,Tazo Chai Frappuccino Blended Crème - whip (Soy CD Milk),640,15,9,0,60,440,108,0,90,16,0,0,0,0,0,0,0
+39863,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - no whip (Soy CD Milk),560,3.5,0.5,0,10,420,115,2,98,17,0,0,0,0,0,0,0
+39864,2960,Tazo Green Tea Frappuccino Blended Crème with Melon Syrup - whip (Soy CD Milk),690,16,9,0,60,430,117,2,100,17,0,0,0,0,0,0,0
+39865,2960,Vanilla Bean Frappuccino Blended Crème - no whip (Soy CD Milk),470,3,0.5,0,10,420,96,0,80,15,0,0,0,0,0,0,0
+39866,2960,Vanilla Bean Frappuccino Blended Crème - whip (Soy CD Milk),600,15,9,0,60,430,99,0,82,15,0,0,0,0,0,0,0
+39867,2960,White Chocolate Frappuccino blended crème - no whip (Soy CD Milk),630,9,5,0,10,540,119,0,103,20,0,0,0,0,0,0,0
+39868,2960,White Chocolate Frappuccino blended crème - whip (Soy CD Milk),760,21,13,0,65,550,121,0,105,20,0,0,0,0,0,0,0
+39869,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Nonfat Milk),230,1,0,0,0,220,51,3,41,5,0,0,0,0,0,0,0
+39870,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Nonfat Milk),240,1,0,0,0,220,51,3,42,6,0,0,0,0,0,0,0
+39871,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Nonfat Milk),230,1.5,0,0,0,220,51,3,40,6,0,0,0,0,0,0,0
+39872,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Nonfat Milk),160,1,0,0,0,220,34,3,27,5,0,0,0,0,0,0,0
+39873,2961,Caramel Frappuccino Light Blended Coffee - no whip (Nonfat Milk),250,10,6,0,4,230,36,3,28,5,0,0,0,0,0,0,0
+39874,2961,Caramel Frappuccino Light Blended Coffee - whip (Nonfat Milk),140,1.5,0,0,5,220,28,2,21,5,0,0,0,0,0,0,0
+39875,2961,Coffee Frappuccino Light Blended Coffee - no whip (Nonfat Milk),240,10,6,0,40,230,31,2,23,5,0,0,0,0,0,0,0
+39876,2961,Coffee Frappuccino Light Blended Coffee - whip (Nonfat Milk),110,1,0,0,0,220,22,2,15,5,0,0,0,0,0,0,0
+39877,2961,Espresso Frappuccino Light Blended Coffee - no whip (Nonfat Milk),200,10,6,0,40,230,23,2,16,5,0,0,0,0,0,0,0
+39878,2961,Espresso Frappuccino Light Blended Coffee - whip (Nonfat Milk),100,0.5,0,0,0,190,19,2,12,4,0,0,0,0,0,0,0
+39879,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Nonfat Milk),190,9,6,0,40,190,21,2,14,4,0,0,0,0,0,0,0
+39880,2961,Java Chip Frappuccino Light Blended Coffee - whip (Nonfat Milk),190,5,3,0,0,250,34,4,24,6,0,0,0,0,0,0,0
+39881,2961,Mocha Frappuccino Light Blended Coffee - no whip (Nonfat Milk),290,14,9,0,40,260,38,4,26,6,0,0,0,0,0,0,0
+39882,2961,Mocha Frappuccino Light Blended Coffee - whip (Nonfat Milk),140,1.5,0,0,0,220,28,3,19,5,0,0,0,0,0,0,0
+39883,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Nonfat Milk),230,10,6,0,40,230,29,3,21,5,0,0,0,0,0,0,0
+39884,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Nonfat Milk),150,1,0,0,0,240,30,2,23,6,0,0,0,0,0,0,0
+39885,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Nonfat Milk),240,10,6,0,40,250,32,3,25,6,0,0,0,0,0,0,0
+39886,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Nonfat Milk),160,2,1,0,5,250,32,2,25,6,0,0,0,0,0,0,0
+39887,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Whole Milk),260,11,7,0,40,250,33,2,26,6,0,0,0,0,0,0,0
+39888,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Whole Milk),230,1,0,0,0,220,51,3,41,5,0,0,0,0,0,0,0
+39889,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Whole Milk),240,1,0,0,0,220,51,3,42,6,0,0,0,0,0,0,0
+39890,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Whole Milk),230,1.5,0,0,0,220,51,3,40,6,0,0,0,0,0,0,0
+39891,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Whole Milk),160,1,0,0,0,220,34,3,27,5,0,0,0,0,0,0,0
+39892,2961,Caramel Frappuccino Light Blended Coffee - no whip (Whole Milk),250,10,6,0,4,230,36,3,28,5,0,0,0,0,0,0,0
+39893,2961,Caramel Frappuccino Light Blended Coffee - whip (Whole Milk),140,1.5,0,0,5,220,28,2,21,5,0,0,0,0,0,0,0
+39894,2961,Coffee Frappuccino Light Blended Coffee - no whip (Whole Milk),240,10,6,0,40,230,31,2,23,5,0,0,0,0,0,0,0
+39895,2961,Coffee Frappuccino Light Blended Coffee - whip (Whole Milk),110,1,0,0,0,220,22,2,15,5,0,0,0,0,0,0,0
+39896,2961,Espresso Frappuccino Light Blended Coffee - no whip (Whole Milk),200,10,6,0,40,230,23,2,16,5,0,0,0,0,0,0,0
+39897,2961,Espresso Frappuccino Light Blended Coffee - whip (Whole Milk),100,0.5,0,0,0,190,19,2,12,4,0,0,0,0,0,0,0
+39898,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Whole Milk),190,9,6,0,40,190,21,2,14,4,0,0,0,0,0,0,0
+39899,2961,Java Chip Frappuccino Light Blended Coffee - whip (Whole Milk),190,5,3,0,0,250,34,4,24,6,0,0,0,0,0,0,0
+39900,2961,Mocha Frappuccino Light Blended Coffee - no whip (Whole Milk),290,14,9,0,40,260,38,4,26,6,0,0,0,0,0,0,0
+39901,2961,Mocha Frappuccino Light Blended Coffee - whip (Whole Milk),140,1.5,0,0,0,220,28,3,19,5,0,0,0,0,0,0,0
+39902,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Whole Milk),230,10,6,0,40,230,29,3,21,5,0,0,0,0,0,0,0
+39903,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Whole Milk),150,1,0,0,0,240,30,2,23,6,0,0,0,0,0,0,0
+39904,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Whole Milk),240,10,6,0,40,250,32,3,25,6,0,0,0,0,0,0,0
+39905,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Whole Milk),160,2,1,0,5,250,32,2,25,6,0,0,0,0,0,0,0
+39906,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Breve Milk),260,11,7,0,40,250,33,2,26,6,0,0,0,0,0,0,0
+39907,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Breve Milk),230,1,0,0,0,220,51,3,41,5,0,0,0,0,0,0,0
+39908,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Breve Milk),240,1,0,0,0,220,51,3,42,6,0,0,0,0,0,0,0
+39909,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Breve Milk),230,1.5,0,0,0,220,51,3,40,6,0,0,0,0,0,0,0
+39910,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Breve Milk),160,1,0,0,0,220,34,3,27,5,0,0,0,0,0,0,0
+39911,2961,Caramel Frappuccino Light Blended Coffee - no whip (Breve Milk),250,10,6,0,4,230,36,3,28,5,0,0,0,0,0,0,0
+39912,2961,Caramel Frappuccino Light Blended Coffee - whip (Breve Milk),140,1.5,0,0,5,220,28,2,21,5,0,0,0,0,0,0,0
+39913,2961,Coffee Frappuccino Light Blended Coffee - no whip (Breve Milk),240,10,6,0,40,230,31,2,23,5,0,0,0,0,0,0,0
+39914,2961,Coffee Frappuccino Light Blended Coffee - whip (Breve Milk),110,1,0,0,0,220,22,2,15,5,0,0,0,0,0,0,0
+39915,2961,Espresso Frappuccino Light Blended Coffee - no whip (Breve Milk),200,10,6,0,40,230,23,2,16,5,0,0,0,0,0,0,0
+39916,2961,Espresso Frappuccino Light Blended Coffee - whip (Breve Milk),100,0.5,0,0,0,190,19,2,12,4,0,0,0,0,0,0,0
+39917,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Breve Milk),190,9,6,0,40,190,21,2,14,4,0,0,0,0,0,0,0
+39918,2961,Java Chip Frappuccino Light Blended Coffee - whip (Breve Milk),190,5,3,0,0,250,34,4,24,6,0,0,0,0,0,0,0
+39919,2961,Mocha Frappuccino Light Blended Coffee - no whip (Breve Milk),290,14,9,0,40,260,38,4,26,6,0,0,0,0,0,0,0
+39920,2961,Mocha Frappuccino Light Blended Coffee - whip (Breve Milk),140,1.5,0,0,0,220,28,3,19,5,0,0,0,0,0,0,0
+39921,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Breve Milk),230,10,6,0,40,230,29,3,21,5,0,0,0,0,0,0,0
+39922,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Breve Milk),150,1,0,0,0,240,30,2,23,6,0,0,0,0,0,0,0
+39923,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Breve Milk),240,10,6,0,40,250,32,3,25,6,0,0,0,0,0,0,0
+39924,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Breve Milk),160,2,1,0,5,250,32,2,25,6,0,0,0,0,0,0,0
+39925,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Soy US Milk),260,11,7,0,40,250,33,2,26,6,0,0,0,0,0,0,0
+39926,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Soy US Milk),230,1,0,0,0,220,51,3,41,5,0,0,0,0,0,0,0
+39927,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Soy US Milk),240,1,0,0,0,220,51,3,42,6,0,0,0,0,0,0,0
+39928,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Soy US Milk),230,1.5,0,0,0,220,51,3,40,6,0,0,0,0,0,0,0
+39929,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Soy US Milk),160,1,0,0,0,220,34,3,27,5,0,0,0,0,0,0,0
+39930,2961,Caramel Frappuccino Light Blended Coffee - no whip (Soy US Milk),250,10,6,0,4,230,36,3,28,5,0,0,0,0,0,0,0
+39931,2961,Caramel Frappuccino Light Blended Coffee - whip (Soy US Milk),140,1.5,0,0,5,220,28,2,21,5,0,0,0,0,0,0,0
+39932,2961,Coffee Frappuccino Light Blended Coffee - no whip (Soy US Milk),240,10,6,0,40,230,31,2,23,5,0,0,0,0,0,0,0
+39933,2961,Coffee Frappuccino Light Blended Coffee - whip (Soy US Milk),110,1,0,0,0,220,22,2,15,5,0,0,0,0,0,0,0
+39934,2961,Espresso Frappuccino Light Blended Coffee - no whip (Soy US Milk),200,10,6,0,40,230,23,2,16,5,0,0,0,0,0,0,0
+39935,2961,Espresso Frappuccino Light Blended Coffee - whip (Soy US Milk),100,0.5,0,0,0,190,19,2,12,4,0,0,0,0,0,0,0
+39936,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Soy US Milk),190,9,6,0,40,190,21,2,14,4,0,0,0,0,0,0,0
+39937,2961,Java Chip Frappuccino Light Blended Coffee - whip (Soy US Milk),190,5,3,0,0,250,34,4,24,6,0,0,0,0,0,0,0
+39938,2961,Mocha Frappuccino Light Blended Coffee - no whip (Soy US Milk),290,14,9,0,40,260,38,4,26,6,0,0,0,0,0,0,0
+39939,2961,Mocha Frappuccino Light Blended Coffee - whip (Soy US Milk),140,1.5,0,0,0,220,28,3,19,5,0,0,0,0,0,0,0
+39940,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Soy US Milk),230,10,6,0,40,230,29,3,21,5,0,0,0,0,0,0,0
+39941,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Soy US Milk),150,1,0,0,0,240,30,2,23,6,0,0,0,0,0,0,0
+39942,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Soy US Milk),240,10,6,0,40,250,32,3,25,6,0,0,0,0,0,0,0
+39943,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Soy US Milk),160,2,1,0,5,250,32,2,25,6,0,0,0,0,0,0,0
+39944,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Soy CD Milk),260,11,7,0,40,250,33,2,26,6,0,0,0,0,0,0,0
+39945,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Soy CD Milk),230,1,0,0,0,220,51,3,41,5,0,0,0,0,0,0,0
+39946,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Soy CD Milk),240,1,0,0,0,220,51,3,42,6,0,0,0,0,0,0,0
+39947,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Soy CD Milk),230,1.5,0,0,0,220,51,3,40,6,0,0,0,0,0,0,0
+39948,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Soy CD Milk),160,1,0,0,0,220,34,3,27,5,0,0,0,0,0,0,0
+39949,2961,Caramel Frappuccino Light Blended Coffee - no whip (Soy CD Milk),250,10,6,0,4,230,36,3,28,5,0,0,0,0,0,0,0
+39950,2961,Caramel Frappuccino Light Blended Coffee - whip (Soy CD Milk),140,1.5,0,0,5,220,28,2,21,5,0,0,0,0,0,0,0
+39951,2961,Coffee Frappuccino Light Blended Coffee - no whip (Soy CD Milk),240,10,6,0,40,230,31,2,23,5,0,0,0,0,0,0,0
+39952,2961,Coffee Frappuccino Light Blended Coffee - whip (Soy CD Milk),110,1,0,0,0,220,22,2,15,5,0,0,0,0,0,0,0
+39953,2961,Espresso Frappuccino Light Blended Coffee - no whip (Soy CD Milk),200,10,6,0,40,230,23,2,16,5,0,0,0,0,0,0,0
+39954,2961,Espresso Frappuccino Light Blended Coffee - whip (Soy CD Milk),100,0.5,0,0,0,190,19,2,12,4,0,0,0,0,0,0,0
+39955,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Soy CD Milk),190,9,6,0,40,190,21,2,14,4,0,0,0,0,0,0,0
+39956,2961,Java Chip Frappuccino Light Blended Coffee - whip (Soy CD Milk),190,5,3,0,0,250,34,4,24,6,0,0,0,0,0,0,0
+39957,2961,Mocha Frappuccino Light Blended Coffee - no whip (Soy CD Milk),290,14,9,0,40,260,38,4,26,6,0,0,0,0,0,0,0
+39958,2961,Mocha Frappuccino Light Blended Coffee - whip (Soy CD Milk),140,1.5,0,0,0,220,28,3,19,5,0,0,0,0,0,0,0
+39959,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Soy CD Milk),230,10,6,0,40,230,29,3,21,5,0,0,0,0,0,0,0
+39960,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Soy CD Milk),150,1,0,0,0,240,30,2,23,6,0,0,0,0,0,0,0
+39961,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Soy CD Milk),240,10,6,0,40,250,32,3,25,6,0,0,0,0,0,0,0
+39962,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Soy CD Milk),160,2,1,0,5,250,32,2,25,6,0,0,0,0,0,0,0
+39963,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Nonfat Milk),260,11,7,0,40,250,33,2,26,6,0,0,0,0,0,0,0
+39964,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Nonfat Milk),310,1,0,0,0,300,68,4,55,7,0,0,0,0,0,0,0
+39965,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Nonfat Milk),310,1.5,0,0,5,290,67,4,55,7,0,0,0,0,0,0,0
+39966,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Nonfat Milk),310,1.5,0,0,5,300,68,4,53,8,0,0,0,0,0,0,0
+39967,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Nonfat Milk),230,1,0,0,5,310,49,4,38,7,0,0,0,0,0,0,0
+39968,2961,Caramel Frappuccino Light Blended Coffee - no whip (Nonfat Milk),360,13,8,0,55,320,51,4,40,7,0,0,0,0,0,0,0
+39969,2961,Caramel Frappuccino Light Blended Coffee - whip (Nonfat Milk),180,1.5,0,0,5,310,36,3,26,7,0,0,0,0,0,0,0
+39970,2961,Coffee Frappuccino Light Blended Coffee - no whip (Nonfat Milk),310,14,8,0,55,320,39,3,28,7,0,0,0,0,0,0,0
+39971,2961,Coffee Frappuccino Light Blended Coffee - whip (Nonfat Milk),150,1,0,0,5,300,30,3,20,7,0,0,0,0,0,0,0
+39972,2961,Espresso Frappuccino Light Blended Coffee - no whip (Nonfat Milk),280,13,8,0,55,310,32,3,22,7,0,0,0,0,0,0,0
+39973,2961,Espresso Frappuccino Light Blended Coffee - whip (Nonfat Milk),140,1,0,0,5,260,27,3,18,6,0,0,0,0,0,0,0
+39974,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Nonfat Milk),270,13,8,0,55,270,29,3,20,6,0,0,0,0,0,0,0
+39975,2961,Java Chip Frappuccino Light Blended Coffee - whip (Nonfat Milk),260,7,4.5,0,5,350,46,5,32,8,0,0,0,0,0,0,0
+39976,2961,Mocha Frappuccino Light Blended Coffee - no whip (Nonfat Milk),400,19,13,0,55,360,50,5,35,9,0,0,0,0,0,0,0
+39977,2961,Mocha Frappuccino Light Blended Coffee - whip (Nonfat Milk),180,1.5,0,0,5,300,36,4,25,7,0,0,0,0,0,0,0
+39978,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Nonfat Milk),310,14,8,0,55,310,38,4,27,7,0,0,0,0,0,0,0
+39979,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Nonfat Milk),190,1,0,0,5,320,38,3,29,7,0,0,0,0,0,0,0
+39980,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Nonfat Milk),320,13,8,0,55,330,41,3,31,7,0,0,0,0,0,0,0
+39981,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Nonfat Milk),200,2.5,1,0,5,330,40,3,30,8,0,0,0,0,0,0,0
+39982,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Nonfat Milk),340,15,9,0,55,340,42,3,32,8,0,0,0,0,0,0,0
+39983,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Whole Milk),310,1,0,0,0,300,68,4,55,7,0,0,0,0,0,0,0
+39984,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Whole Milk),310,1.5,0,0,5,290,67,4,55,7,0,0,0,0,0,0,0
+39985,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Whole Milk),310,1.5,0,0,5,300,68,4,53,8,0,0,0,0,0,0,0
+39986,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Whole Milk),230,1,0,0,5,310,49,4,38,7,0,0,0,0,0,0,0
+39987,2961,Caramel Frappuccino Light Blended Coffee - no whip (Whole Milk),360,13,8,0,55,320,51,4,40,7,0,0,0,0,0,0,0
+39988,2961,Caramel Frappuccino Light Blended Coffee - whip (Whole Milk),180,1.5,0,0,5,310,36,3,26,7,0,0,0,0,0,0,0
+39989,2961,Coffee Frappuccino Light Blended Coffee - no whip (Whole Milk),310,14,8,0,55,320,39,3,28,7,0,0,0,0,0,0,0
+39990,2961,Coffee Frappuccino Light Blended Coffee - whip (Whole Milk),150,1,0,0,5,300,30,3,20,7,0,0,0,0,0,0,0
+39991,2961,Espresso Frappuccino Light Blended Coffee - no whip (Whole Milk),280,13,8,0,55,310,32,3,22,7,0,0,0,0,0,0,0
+39992,2961,Espresso Frappuccino Light Blended Coffee - whip (Whole Milk),140,1,0,0,5,260,27,3,18,6,0,0,0,0,0,0,0
+39993,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Whole Milk),270,13,8,0,55,270,29,3,20,6,0,0,0,0,0,0,0
+39994,2961,Java Chip Frappuccino Light Blended Coffee - whip (Whole Milk),260,7,4.5,0,5,350,46,5,32,8,0,0,0,0,0,0,0
+39995,2961,Mocha Frappuccino Light Blended Coffee - no whip (Whole Milk),400,19,13,0,55,360,50,5,35,9,0,0,0,0,0,0,0
+39996,2961,Mocha Frappuccino Light Blended Coffee - whip (Whole Milk),180,1.5,0,0,5,300,36,4,25,7,0,0,0,0,0,0,0
+39997,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Whole Milk),310,14,8,0,55,310,38,4,27,7,0,0,0,0,0,0,0
+39998,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Whole Milk),190,1,0,0,5,320,38,3,29,7,0,0,0,0,0,0,0
+39999,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Whole Milk),320,13,8,0,55,330,41,3,31,7,0,0,0,0,0,0,0
+40000,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Whole Milk),200,2.5,1,0,5,330,40,3,30,8,0,0,0,0,0,0,0
+40001,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Whole Milk),340,15,9,0,55,340,42,3,32,8,0,0,0,0,0,0,0
+40002,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Breve Milk),310,1,0,0,0,300,68,4,55,7,0,0,0,0,0,0,0
+40003,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Breve Milk),310,1.5,0,0,5,290,67,4,55,7,0,0,0,0,0,0,0
+40004,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Breve Milk),310,1.5,0,0,5,300,68,4,53,8,0,0,0,0,0,0,0
+40005,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Breve Milk),230,1,0,0,5,310,49,4,38,7,0,0,0,0,0,0,0
+40006,2961,Caramel Frappuccino Light Blended Coffee - no whip (Breve Milk),360,13,8,0,55,320,51,4,40,7,0,0,0,0,0,0,0
+40007,2961,Caramel Frappuccino Light Blended Coffee - whip (Breve Milk),180,1.5,0,0,5,310,36,3,26,7,0,0,0,0,0,0,0
+40008,2961,Coffee Frappuccino Light Blended Coffee - no whip (Breve Milk),310,14,8,0,55,320,39,3,28,7,0,0,0,0,0,0,0
+40009,2961,Coffee Frappuccino Light Blended Coffee - whip (Breve Milk),150,1,0,0,5,300,30,3,20,7,0,0,0,0,0,0,0
+40010,2961,Espresso Frappuccino Light Blended Coffee - no whip (Breve Milk),280,13,8,0,55,310,32,3,22,7,0,0,0,0,0,0,0
+40011,2961,Espresso Frappuccino Light Blended Coffee - whip (Breve Milk),140,1,0,0,5,260,27,3,18,6,0,0,0,0,0,0,0
+40012,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Breve Milk),270,13,8,0,55,270,29,3,20,6,0,0,0,0,0,0,0
+40013,2961,Java Chip Frappuccino Light Blended Coffee - whip (Breve Milk),260,7,4.5,0,5,350,46,5,32,8,0,0,0,0,0,0,0
+40014,2961,Mocha Frappuccino Light Blended Coffee - no whip (Breve Milk),400,19,13,0,55,360,50,5,35,9,0,0,0,0,0,0,0
+40015,2961,Mocha Frappuccino Light Blended Coffee - whip (Breve Milk),180,1.5,0,0,5,300,36,4,25,7,0,0,0,0,0,0,0
+40016,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Breve Milk),310,14,8,0,55,310,38,4,27,7,0,0,0,0,0,0,0
+40017,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Breve Milk),190,1,0,0,5,320,38,3,29,7,0,0,0,0,0,0,0
+40018,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Breve Milk),320,13,8,0,55,330,41,3,31,7,0,0,0,0,0,0,0
+40019,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Breve Milk),200,2.5,1,0,5,330,40,3,30,8,0,0,0,0,0,0,0
+40020,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Soy US Milk),340,15,9,0,55,340,42,3,32,8,0,0,0,0,0,0,0
+40021,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Soy US Milk),310,1,0,0,0,300,68,4,55,7,0,0,0,0,0,0,0
+40022,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Soy US Milk),310,1.5,0,0,5,290,67,4,55,7,0,0,0,0,0,0,0
+40023,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Soy US Milk),310,1.5,0,0,5,300,68,4,53,8,0,0,0,0,0,0,0
+40024,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Soy US Milk),230,1,0,0,5,310,49,4,38,7,0,0,0,0,0,0,0
+40025,2961,Caramel Frappuccino Light Blended Coffee - no whip (Soy US Milk),360,13,8,0,55,320,51,4,40,7,0,0,0,0,0,0,0
+40026,2961,Caramel Frappuccino Light Blended Coffee - whip (Soy US Milk),180,1.5,0,0,5,310,36,3,26,7,0,0,0,0,0,0,0
+40027,2961,Coffee Frappuccino Light Blended Coffee - no whip (Soy US Milk),310,14,8,0,55,320,39,3,28,7,0,0,0,0,0,0,0
+40028,2961,Coffee Frappuccino Light Blended Coffee - whip (Soy US Milk),150,1,0,0,5,300,30,3,20,7,0,0,0,0,0,0,0
+40029,2961,Espresso Frappuccino Light Blended Coffee - no whip (Soy US Milk),280,13,8,0,55,310,32,3,22,7,0,0,0,0,0,0,0
+40030,2961,Espresso Frappuccino Light Blended Coffee - whip (Soy US Milk),140,1,0,0,5,260,27,3,18,6,0,0,0,0,0,0,0
+40031,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Soy US Milk),270,13,8,0,55,270,29,3,20,6,0,0,0,0,0,0,0
+40032,2961,Java Chip Frappuccino Light Blended Coffee - whip (Soy US Milk),260,7,4.5,0,5,350,46,5,32,8,0,0,0,0,0,0,0
+40033,2961,Mocha Frappuccino Light Blended Coffee - no whip (Soy US Milk),400,19,13,0,55,360,50,5,35,9,0,0,0,0,0,0,0
+40034,2961,Mocha Frappuccino Light Blended Coffee - whip (Soy US Milk),180,1.5,0,0,5,300,36,4,25,7,0,0,0,0,0,0,0
+40035,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Soy US Milk),310,14,8,0,55,310,38,4,27,7,0,0,0,0,0,0,0
+40036,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Soy US Milk),190,1,0,0,5,320,38,3,29,7,0,0,0,0,0,0,0
+40037,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Soy US Milk),320,13,8,0,55,330,41,3,31,7,0,0,0,0,0,0,0
+40038,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Soy US Milk),200,2.5,1,0,5,330,40,3,30,8,0,0,0,0,0,0,0
+40039,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Soy CD Milk),340,15,9,0,55,340,42,3,32,8,0,0,0,0,0,0,0
+40040,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Soy CD Milk),310,1,0,0,0,300,68,4,55,7,0,0,0,0,0,0,0
+40041,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Soy CD Milk),310,1.5,0,0,5,290,67,4,55,7,0,0,0,0,0,0,0
+40042,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Soy CD Milk),310,1.5,0,0,5,300,68,4,53,8,0,0,0,0,0,0,0
+40043,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Soy CD Milk),230,1,0,0,5,310,49,4,38,7,0,0,0,0,0,0,0
+40044,2961,Caramel Frappuccino Light Blended Coffee - no whip (Soy CD Milk),360,13,8,0,55,320,51,4,40,7,0,0,0,0,0,0,0
+40045,2961,Caramel Frappuccino Light Blended Coffee - whip (Soy CD Milk),180,1.5,0,0,5,310,36,3,26,7,0,0,0,0,0,0,0
+40046,2961,Coffee Frappuccino Light Blended Coffee - no whip (Soy CD Milk),310,14,8,0,55,320,39,3,28,7,0,0,0,0,0,0,0
+40047,2961,Coffee Frappuccino Light Blended Coffee - whip (Soy CD Milk),150,1,0,0,5,300,30,3,20,7,0,0,0,0,0,0,0
+40048,2961,Espresso Frappuccino Light Blended Coffee - no whip (Soy CD Milk),280,13,8,0,55,310,32,3,22,7,0,0,0,0,0,0,0
+40049,2961,Espresso Frappuccino Light Blended Coffee - whip (Soy CD Milk),140,1,0,0,5,260,27,3,18,6,0,0,0,0,0,0,0
+40050,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Soy CD Milk),270,13,8,0,55,270,29,3,20,6,0,0,0,0,0,0,0
+40051,2961,Java Chip Frappuccino Light Blended Coffee - whip (Soy CD Milk),260,7,4.5,0,5,350,46,5,32,8,0,0,0,0,0,0,0
+40052,2961,Mocha Frappuccino Light Blended Coffee - no whip (Soy CD Milk),400,19,13,0,55,360,50,5,35,9,0,0,0,0,0,0,0
+40053,2961,Mocha Frappuccino Light Blended Coffee - whip (Soy CD Milk),180,1.5,0,0,5,300,36,4,25,7,0,0,0,0,0,0,0
+40054,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Soy CD Milk),310,14,8,0,55,310,38,4,27,7,0,0,0,0,0,0,0
+40055,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Soy CD Milk),190,1,0,0,5,320,38,3,29,7,0,0,0,0,0,0,0
+40056,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Soy CD Milk),320,13,8,0,55,330,41,3,31,7,0,0,0,0,0,0,0
+40057,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Soy CD Milk),200,2.5,1,0,5,330,40,3,30,8,0,0,0,0,0,0,0
+40058,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Nonfat Milk),340,15,9,0,55,340,42,3,32,8,0,0,0,0,0,0,0
+40059,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Nonfat Milk),460,1.5,0,0,5,400,100,5,82,10,0,0,0,0,0,0,0
+40060,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Nonfat Milk),460,1.5,0,0,5,390,101,5,84,10,0,0,0,0,0,0,0
+40061,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Nonfat Milk),460,2.5,0,0,5,400,101,6,80,11,0,0,0,0,0,0,0
+40062,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Nonfat Milk),300,1.5,0,0,5,410,65,5,51,9,0,0,0,0,0,0,0
+40063,2961,Caramel Frappuccino Light Blended Coffee - no whip (Nonfat Milk),430,14,8,0,55,420,67,5,53,9,0,0,0,0,0,0,0
+40064,2961,Caramel Frappuccino Light Blended Coffee - whip (Nonfat Milk),250,2,0,0,5,400,51,4,37,9,0,0,0,0,0,0,0
+40065,2961,Coffee Frappuccino Light Blended Coffee - no whip (Nonfat Milk),380,14,9,0,55,410,53,4,39,9,0,0,0,0,0,0,0
+40066,2961,Coffee Frappuccino Light Blended Coffee - whip (Nonfat Milk),200,1.5,0,0,5,400,39,4,27,9,0,0,0,0,0,0,0
+40067,2961,Espresso Frappuccino Light Blended Coffee - no whip (Nonfat Milk),330,14,8,0,55,410,42,4,29,9,0,0,0,0,0,0,0
+40068,2961,Espresso Frappuccino Light Blended Coffee - whip (Nonfat Milk),180,1.5,0,0,5,360,36,4,24,8,0,0,0,0,0,0,0
+40069,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Nonfat Milk),310,14,8,0,55,370,38,4,26,8,0,0,0,0,0,0,0
+40070,2961,Java Chip Frappuccino Light Blended Coffee - whip (Nonfat Milk),360,10,6,0,5,460,65,7,45,11,0,0,0,0,0,0,0
+40071,2961,Mocha Frappuccino Light Blended Coffee - no whip (Nonfat Milk),500,22,14,0,55,470,69,7,48,12,0,0,0,0,0,0,0
+40072,2961,Mocha Frappuccino Light Blended Coffee - whip (Nonfat Milk),250,2.5,0,0,5,400,52,5,35,10,0,0,0,0,0,0,0
+40073,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Nonfat Milk),380,15,8,0,55,410,54,5,38,10,0,0,0,0,0,0,0
+40074,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Nonfat Milk),270,1.5,0,0,5,440,56,4,43,10,0,0,0,0,0,0,0
+40075,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Nonfat Milk),400,14,8,0,55,450,58,5,46,10,0,0,0,0,0,0,0
+40076,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Nonfat Milk),310,4,2,0,5,450,60,4,47,11,0,0,0,0,0,0,0
+40077,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Whole Milk),440,16,10,0,55,460,62,4,49,11,0,0,0,0,0,0,0
+40078,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Whole Milk),460,1.5,0,0,5,400,100,5,82,10,0,0,0,0,0,0,0
+40079,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Whole Milk),460,1.5,0,0,5,390,101,5,84,10,0,0,0,0,0,0,0
+40080,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Whole Milk),460,2.5,0,0,5,400,101,6,80,11,0,0,0,0,0,0,0
+40081,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Whole Milk),300,1.5,0,0,5,410,65,5,51,9,0,0,0,0,0,0,0
+40082,2961,Caramel Frappuccino Light Blended Coffee - no whip (Whole Milk),430,14,8,0,55,420,67,5,53,9,0,0,0,0,0,0,0
+40083,2961,Caramel Frappuccino Light Blended Coffee - whip (Whole Milk),250,2,0,0,5,400,51,4,37,9,0,0,0,0,0,0,0
+40084,2961,Coffee Frappuccino Light Blended Coffee - no whip (Whole Milk),380,14,9,0,55,410,53,4,39,9,0,0,0,0,0,0,0
+40085,2961,Coffee Frappuccino Light Blended Coffee - whip (Whole Milk),200,1.5,0,0,5,400,39,4,27,9,0,0,0,0,0,0,0
+40086,2961,Espresso Frappuccino Light Blended Coffee - no whip (Whole Milk),330,14,8,0,55,410,42,4,29,9,0,0,0,0,0,0,0
+40087,2961,Espresso Frappuccino Light Blended Coffee - whip (Whole Milk),180,1.5,0,0,5,360,36,4,24,8,0,0,0,0,0,0,0
+40088,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Whole Milk),310,14,8,0,55,370,38,4,26,8,0,0,0,0,0,0,0
+40089,2961,Java Chip Frappuccino Light Blended Coffee - whip (Whole Milk),360,10,6,0,5,460,65,7,45,11,0,0,0,0,0,0,0
+40090,2961,Mocha Frappuccino Light Blended Coffee - no whip (Whole Milk),500,22,14,0,55,470,69,7,48,12,0,0,0,0,0,0,0
+40091,2961,Mocha Frappuccino Light Blended Coffee - whip (Whole Milk),250,2.5,0,0,5,400,52,5,35,10,0,0,0,0,0,0,0
+40092,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Whole Milk),380,15,8,0,55,410,54,5,38,10,0,0,0,0,0,0,0
+40093,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Whole Milk),270,1.5,0,0,5,440,56,4,43,10,0,0,0,0,0,0,0
+40094,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Whole Milk),400,14,8,0,55,450,58,5,46,10,0,0,0,0,0,0,0
+40095,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Whole Milk),310,4,2,0,5,450,60,4,47,11,0,0,0,0,0,0,0
+40096,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Breve Milk),440,16,10,0,55,460,62,4,49,11,0,0,0,0,0,0,0
+40097,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Breve Milk),460,1.5,0,0,5,400,100,5,82,10,0,0,0,0,0,0,0
+40098,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Breve Milk),460,1.5,0,0,5,390,101,5,84,10,0,0,0,0,0,0,0
+40099,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Breve Milk),460,2.5,0,0,5,400,101,6,80,11,0,0,0,0,0,0,0
+40100,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Breve Milk),300,1.5,0,0,5,410,65,5,51,9,0,0,0,0,0,0,0
+40101,2961,Caramel Frappuccino Light Blended Coffee - no whip (Breve Milk),430,14,8,0,55,420,67,5,53,9,0,0,0,0,0,0,0
+40102,2961,Caramel Frappuccino Light Blended Coffee - whip (Breve Milk),250,2,0,0,5,400,51,4,37,9,0,0,0,0,0,0,0
+40103,2961,Coffee Frappuccino Light Blended Coffee - no whip (Breve Milk),380,14,9,0,55,410,53,4,39,9,0,0,0,0,0,0,0
+40104,2961,Coffee Frappuccino Light Blended Coffee - whip (Breve Milk),200,1.5,0,0,5,400,39,4,27,9,0,0,0,0,0,0,0
+40105,2961,Espresso Frappuccino Light Blended Coffee - no whip (Breve Milk),330,14,8,0,55,410,42,4,29,9,0,0,0,0,0,0,0
+40106,2961,Espresso Frappuccino Light Blended Coffee - whip (Breve Milk),180,1.5,0,0,5,360,36,4,24,8,0,0,0,0,0,0,0
+40107,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Breve Milk),310,14,8,0,55,370,38,4,26,8,0,0,0,0,0,0,0
+40108,2961,Java Chip Frappuccino Light Blended Coffee - whip (Breve Milk),360,10,6,0,5,460,65,7,45,11,0,0,0,0,0,0,0
+40109,2961,Mocha Frappuccino Light Blended Coffee - no whip (Breve Milk),500,22,14,0,55,470,69,7,48,12,0,0,0,0,0,0,0
+40110,2961,Mocha Frappuccino Light Blended Coffee - whip (Breve Milk),250,2.5,0,0,5,400,52,5,35,10,0,0,0,0,0,0,0
+40111,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Breve Milk),380,15,8,0,55,410,54,5,38,10,0,0,0,0,0,0,0
+40112,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Breve Milk),270,1.5,0,0,5,440,56,4,43,10,0,0,0,0,0,0,0
+40113,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Breve Milk),400,14,8,0,55,450,58,5,46,10,0,0,0,0,0,0,0
+40114,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Breve Milk),310,4,2,0,5,450,60,4,47,11,0,0,0,0,0,0,0
+40115,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Soy US Milk),440,16,10,0,55,460,62,4,49,11,0,0,0,0,0,0,0
+40116,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Soy US Milk),460,1.5,0,0,5,400,100,5,82,10,0,0,0,0,0,0,0
+40117,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Soy US Milk),460,1.5,0,0,5,390,101,5,84,10,0,0,0,0,0,0,0
+40118,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Soy US Milk),460,2.5,0,0,5,400,101,6,80,11,0,0,0,0,0,0,0
+40119,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Soy US Milk),300,1.5,0,0,5,410,65,5,51,9,0,0,0,0,0,0,0
+40120,2961,Caramel Frappuccino Light Blended Coffee - no whip (Soy US Milk),430,14,8,0,55,420,67,5,53,9,0,0,0,0,0,0,0
+40121,2961,Caramel Frappuccino Light Blended Coffee - whip (Soy US Milk),250,2,0,0,5,400,51,4,37,9,0,0,0,0,0,0,0
+40122,2961,Coffee Frappuccino Light Blended Coffee - no whip (Soy US Milk),380,14,9,0,55,410,53,4,39,9,0,0,0,0,0,0,0
+40123,2961,Coffee Frappuccino Light Blended Coffee - whip (Soy US Milk),200,1.5,0,0,5,400,39,4,27,9,0,0,0,0,0,0,0
+40124,2961,Espresso Frappuccino Light Blended Coffee - no whip (Soy US Milk),330,14,8,0,55,410,42,4,29,9,0,0,0,0,0,0,0
+40125,2961,Espresso Frappuccino Light Blended Coffee - whip (Soy US Milk),180,1.5,0,0,5,360,36,4,24,8,0,0,0,0,0,0,0
+40126,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Soy US Milk),310,14,8,0,55,370,38,4,26,8,0,0,0,0,0,0,0
+40127,2961,Java Chip Frappuccino Light Blended Coffee - whip (Soy US Milk),360,10,6,0,5,460,65,7,45,11,0,0,0,0,0,0,0
+40128,2961,Mocha Frappuccino Light Blended Coffee - no whip (Soy US Milk),500,22,14,0,55,470,69,7,48,12,0,0,0,0,0,0,0
+40129,2961,Mocha Frappuccino Light Blended Coffee - whip (Soy US Milk),250,2.5,0,0,5,400,52,5,35,10,0,0,0,0,0,0,0
+40130,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Soy US Milk),380,15,8,0,55,410,54,5,38,10,0,0,0,0,0,0,0
+40131,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Soy US Milk),270,1.5,0,0,5,440,56,4,43,10,0,0,0,0,0,0,0
+40132,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Soy US Milk),400,14,8,0,55,450,58,5,46,10,0,0,0,0,0,0,0
+40133,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Soy US Milk),310,4,2,0,5,450,60,4,47,11,0,0,0,0,0,0,0
+40134,2961,Banana Caramel Frappuccino Light Blended Coffee - no whip (Soy CD Milk),440,16,10,0,55,460,62,4,49,11,0,0,0,0,0,0,0
+40135,2961,Banana Coconut Frappuccino Light Blended Coffee - no whip (Soy CD Milk),460,1.5,0,0,5,400,100,5,82,10,0,0,0,0,0,0,0
+40136,2961,Banana Mocha Frappuccino Light Blended Coffee - no whip (Soy CD Milk),460,1.5,0,0,5,390,101,5,84,10,0,0,0,0,0,0,0
+40137,2961,Caffé Vanilla Frappuccino Light Blended Coffee - no whip (Soy CD Milk),460,2.5,0,0,5,400,101,6,80,11,0,0,0,0,0,0,0
+40138,2961,Caffé Vanilla Frappuccino Light Blended Coffee - whip (Soy CD Milk),300,1.5,0,0,5,410,65,5,51,9,0,0,0,0,0,0,0
+40139,2961,Caramel Frappuccino Light Blended Coffee - no whip (Soy CD Milk),430,14,8,0,55,420,67,5,53,9,0,0,0,0,0,0,0
+40140,2961,Caramel Frappuccino Light Blended Coffee - whip (Soy CD Milk),250,2,0,0,5,400,51,4,37,9,0,0,0,0,0,0,0
+40141,2961,Coffee Frappuccino Light Blended Coffee - no whip (Soy CD Milk),380,14,9,0,55,410,53,4,39,9,0,0,0,0,0,0,0
+40142,2961,Coffee Frappuccino Light Blended Coffee - whip (Soy CD Milk),200,1.5,0,0,5,400,39,4,27,9,0,0,0,0,0,0,0
+40143,2961,Espresso Frappuccino Light Blended Coffee - no whip (Soy CD Milk),330,14,8,0,55,410,42,4,29,9,0,0,0,0,0,0,0
+40144,2961,Espresso Frappuccino Light Blended Coffee - whip (Soy CD Milk),180,1.5,0,0,5,360,36,4,24,8,0,0,0,0,0,0,0
+40145,2961,Java Chip Frappuccino Light Blended Coffee - no whip (Soy CD Milk),310,14,8,0,55,370,38,4,26,8,0,0,0,0,0,0,0
+40146,2961,Java Chip Frappuccino Light Blended Coffee - whip (Soy CD Milk),360,10,6,0,5,460,65,7,45,11,0,0,0,0,0,0,0
+40147,2961,Mocha Frappuccino Light Blended Coffee - no whip (Soy CD Milk),500,22,14,0,55,470,69,7,48,12,0,0,0,0,0,0,0
+40148,2961,Mocha Frappuccino Light Blended Coffee - whip (Soy CD Milk),250,2.5,0,0,5,400,52,5,35,10,0,0,0,0,0,0,0
+40149,2961,Pumpkin Spice Frappuccino Light Blended Coffee - no whip (Soy CD Milk),380,15,8,0,55,410,54,5,38,10,0,0,0,0,0,0,0
+40150,2961,Pumpkin Spice Frappuccino Light Blended Coffee - whip (Soy CD Milk),270,1.5,0,0,5,440,56,4,43,10,0,0,0,0,0,0,0
+40151,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - no whip (Soy CD Milk),400,14,8,0,55,450,58,5,46,10,0,0,0,0,0,0,0
+40152,2961,White Chocolate Mocha Frappuccino Light Blended Coffee - whip (Soy CD Milk),310,4,2,0,5,450,60,4,47,11,0,0,0,0,0,0,0
+40153,2961,Pomegranate Frappuccino Juice Blend (Nonfat Milk),440,16,10,0,55,460,62,4,49,11,0,0,0,0,0,0,0
+40154,2962,Tangerine Frappuccino Juice Blend (Nonfat Milk),210,0,0,0,0,10,51,1,49,2,0,0,0,0,0,0,0
+40155,2962,Pomegranate Frappuccino Juice Blend (Whole Milk),140,0,0,0,0,20,34,1,33,1,0,0,0,0,0,0,0
+40156,2962,Tangerine Frappuccino Juice Blend (Whole Milk),210,0,0,0,0,10,51,1,49,2,0,0,0,0,0,0,0
+40157,2962,Pomegranate Frappuccino Juice Blend (Breve Milk),140,0,0,0,0,20,34,1,33,1,0,0,0,0,0,0,0
+40158,2962,Tangerine Frappuccino Juice Blend (Breve Milk),210,0,0,0,0,10,51,1,49,2,0,0,0,0,0,0,0
+40159,2962,Pomegranate Frappuccino Juice Blend (Soy US Milk),140,0,0,0,0,20,34,1,33,1,0,0,0,0,0,0,0
+40160,2962,Tangerine Frappuccino Juice Blend (Soy US Milk),210,0,0,0,0,10,51,1,49,2,0,0,0,0,0,0,0
+40161,2962,Pomegranate Frappuccino Juice Blend (Soy CD Milk),140,0,0,0,0,20,34,1,33,1,0,0,0,0,0,0,0
+40162,2962,Tangerine Frappuccino Juice Blend (Soy CD Milk),210,0,0,0,0,10,51,1,49,2,0,0,0,0,0,0,0
+40163,2962,Pomegranate Frappuccino Juice Blend (Nonfat Milk),140,0,0,0,0,20,34,1,33,1,0,0,0,0,0,0,0
+40164,2962,Tangerine Frappuccino Juice Blend (Nonfat Milk),280,0,0,0,0,10,68,1,67,2,0,0,0,0,0,0,0
+40165,2962,Pomegranate Frappuccino Juice Blend (Whole Milk),190,0,0,0,0,25,46,1,45,1,0,0,0,0,0,0,0
+40166,2962,Tangerine Frappuccino Juice Blend (Whole Milk),280,0,0,0,0,10,68,1,67,2,0,0,0,0,0,0,0
+40167,2962,Pomegranate Frappuccino Juice Blend (Breve Milk),190,0,0,0,0,25,46,1,45,1,0,0,0,0,0,0,0
+40168,2962,Tangerine Frappuccino Juice Blend (Breve Milk),280,0,0,0,0,10,68,1,67,2,0,0,0,0,0,0,0
+40169,2962,Pomegranate Frappuccino Juice Blend (Soy US Milk),190,0,0,0,0,25,46,1,45,1,0,0,0,0,0,0,0
+40170,2962,Tangerine Frappuccino Juice Blend (Soy US Milk),280,0,0,0,0,10,68,1,67,2,0,0,0,0,0,0,0
+40171,2962,Pomegranate Frappuccino Juice Blend (Soy CD Milk),190,0,0,0,0,25,46,1,45,1,0,0,0,0,0,0,0
+40172,2962,Tangerine Frappuccino Juice Blend (Soy CD Milk),280,0,0,0,0,10,68,1,67,2,0,0,0,0,0,0,0
+40173,2962,Pomegranate Frappuccino Juice Blend (Nonfat Milk),190,0,0,0,0,25,46,1,45,1,0,0,0,0,0,0,0
+40174,2962,Tangerine Frappuccino Juice Blend (Nonfat Milk),390,0.5,0,0,0,15,94,2,92,3,0,0,0,0,0,0,0
+40175,2962,Pomegranate Frappuccino Juice Blend (Whole Milk),260,0,0,0,0,35,63,1,62,1,0,0,0,0,0,0,0
+40176,2962,Tangerine Frappuccino Juice Blend (Whole Milk),390,0.5,0,0,0,15,94,2,92,3,0,0,0,0,0,0,0
+40177,2962,Pomegranate Frappuccino Juice Blend (Breve Milk),260,0,0,0,0,35,63,1,62,1,0,0,0,0,0,0,0
+40178,2962,Tangerine Frappuccino Juice Blend (Breve Milk),390,0.5,0,0,0,15,94,2,92,3,0,0,0,0,0,0,0
+40179,2962,Pomegranate Frappuccino Juice Blend (Soy US Milk),260,0,0,0,0,35,63,1,62,1,0,0,0,0,0,0,0
+40180,2962,Tangerine Frappuccino Juice Blend (Soy US Milk),390,0.5,0,0,0,15,94,2,92,3,0,0,0,0,0,0,0
+40181,2962,Pomegranate Frappuccino Juice Blend (Soy CD Milk),260,0,0,0,0,35,63,1,62,1,0,0,0,0,0,0,0
+40182,2962,Tangerine Frappuccino Juice Blend (Soy CD Milk),390,0.5,0,0,0,15,94,2,92,3,0,0,0,0,0,0,0
+40183,2962,Iced Tazo Green Tea Latte (Nonfat Milk),260,0,0,0,0,35,63,1,62,1,0,0,0,0,0,0,0
+40184,2963,Tazo Black Iced Tea (Nonfat Milk),140,0,0,0,5,75,28,1,27,7,0,0,0,0,0,0,0
+40185,2963,Tazo Black Tea Lemonade (Nonfat Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40186,2963,Tazo Chai Iced Tea Latte (Nonfat Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40187,2963,Tazo Chai Tea Latte (Nonfat Milk),170,0,0,0,5,90,36,0,33,6,0,0,0,0,0,0,0
+40188,2963,Tazo Green Iced Tea (Nonfat Milk),170,0,0,0,5,95,37,0,34,6,0,0,0,0,0,0,0
+40189,2963,Tazo Green Tea Latte (Nonfat Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40190,2963,Tazo Green Tea Lemonade (Nonfat Milk),130,0,0,0,5,65,27,1,26,6,0,0,0,0,0,0,0
+40191,2963,Tazo Passion™ Iced Tea (Nonfat Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40192,2963,Tazo Passion™ Tea Lemonade (Nonfat Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40193,2963,Iced Tazo Green Tea Latte (Whole Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40194,2963,Tazo Black Iced Tea (Whole Milk),190,6,3.5,0,20,75,27,1,26,6,0,0,0,0,0,0,0
+40195,2963,Tazo Black Tea Lemonade (Whole Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40196,2963,Tazo Chai Iced Tea Latte (Whole Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40197,2963,Tazo Chai Tea Latte (Whole Milk),200,5,3,0,20,80,36,0,33,5,0,0,0,0,0,0,0
+40198,2963,Tazo Green Iced Tea (Whole Milk),210,5,3.5,0,20,85,36,0,34,6,0,0,0,0,0,0,0
+40199,2963,Tazo Green Tea Latte (Whole Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40200,2963,Tazo Green Tea Lemonade (Whole Milk),170,5,3,0,15,65,26,1,25,6,0,0,0,0,0,0,0
+40201,2963,Tazo Passion™ Iced Tea (Whole Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40202,2963,Tazo Passion™ Tea Lemonade (Whole Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40203,2963,Tazo Black Iced Tea (Breve Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40204,2963,Tazo Black Tea Lemonade (Breve Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40205,2963,Tazo Chai Tea Latte (Breve Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40206,2963,Tazo Green Iced Tea (Breve Milk),320,18,11,0.5,60,75,36,0,26,5,0,0,0,0,0,0,0
+40207,2963,Tazo Green Tea Lemonade (Breve Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40208,2963,Tazo Passion™ Iced Tea (Breve Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40209,2963,Tazo Passion™ Tea Lemonade (Breve Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40210,2963,Iced Tazo Green Tea Latte (Soy US Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40211,2963,Tazo Black Iced Tea (Soy US Milk),170,2.5,0,0,0,70,30,1,28,5,0,0,0,0,0,0,0
+40212,2963,Tazo Black Tea Lemonade (Soy US Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40213,2963,Tazo Chai Iced Tea Latte (Soy US Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40214,2963,Tazo Chai Tea Latte (Soy US Milk),180,2,0,0,0,65,38,1,34,4,0,0,0,0,0,0,0
+40215,2963,Tazo Green Iced Tea (Soy US Milk),190,2,0,0,0,70,39,1,35,4,0,0,0,0,0,0,0
+40216,2963,Tazo Green Tea Latte (Soy US Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40217,2963,Tazo Green Tea Lemonade (Soy US Milk),160,2.5,0,0,0,60,29,1,26,4,0,0,0,0,0,0,0
+40218,2963,Tazo Passion™ Iced Tea (Soy US Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40219,2963,Tazo Passion™ Tea Lemonade (Soy US Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40220,2963,Iced Tazo Green Tea Latte (Soy CD Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40221,2963,Tazo Black Iced Tea (Soy CD Milk),150,3,0,0,0,90,25,1,22,6,0,0,0,0,0,0,0
+40222,2963,Tazo Black Tea Lemonade (Soy CD Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40223,2963,Tazo Chai Iced Tea Latte (Soy CD Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40224,2963,Tazo Chai Tea Latte (Soy CD Milk),170,2.5,0,0,0,80,34,1,30,5,0,0,0,0,0,0,0
+40225,2963,Tazo Green Iced Tea (Soy CD Milk),180,2.5,0,0,0,85,34,1,30,5,0,0,0,0,0,0,0
+40226,2963,Tazo Green Tea Latte (Soy CD Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40227,2963,Tazo Green Tea Lemonade (Soy CD Milk),140,2.5,0,0,0,80,24,1,22,5,0,0,0,0,0,0,0
+40228,2963,Tazo Passion™ Iced Tea (Soy CD Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40229,2963,Tazo Passion™ Tea Lemonade (Soy CD Milk),60,0,0,0,0,5,16,0,15,0,0,0,0,0,0,0,0
+40230,2963,Iced Tazo Green Tea Latte (Nonfat Milk),90,0,0,0,0,15,23,0,22,0,0,0,0,0,0,0,0
+40231,2963,Tazo Black Iced Tea (Nonfat Milk),190,0,0,0,5,100,39,1,37,9,0,0,0,0,0,0,0
+40232,2963,Tazo Black Tea Lemonade (Nonfat Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40233,2963,Tazo Chai Iced Tea Latte (Nonfat Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40234,2963,Tazo Chai Tea Latte (Nonfat Milk),230,0,0,0,5,120,50,0,45,8,0,0,0,0,0,0,0
+40235,2963,Tazo Green Iced Tea (Nonfat Milk),230,0,0,0,5,125,51,0,47,8,0,0,0,0,0,0,0
+40236,2963,Tazo Green Tea Latte (Nonfat Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40237,2963,Tazo Green Tea Lemonade (Nonfat Milk),180,0,0,0,5,85,37,1,36,8,0,0,0,0,0,0,0
+40238,2963,Tazo Passion™ Iced Tea (Nonfat Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40239,2963,Tazo Passion™ Tea Lemonade (Nonfat Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40240,2963,Iced Tazo Green Tea Latte (Whole Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40241,2963,Tazo Black Iced Tea (Whole Milk),250,8,4.5,0,25,95,37,1,36,8,0,0,0,0,0,0,0
+40242,2963,Tazo Black Tea Lemonade (Whole Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40243,2963,Tazo Chai Iced Tea Latte (Whole Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40244,2963,Tazo Chai Tea Latte (Whole Milk),270,7,4,0,25,110,48,0,45,7,0,0,0,0,0,0,0
+40245,2963,Tazo Green Iced Tea (Whole Milk),290,7,4.5,0,30,120,50,0,46,8,0,0,0,0,0,0,0
+40246,2963,Tazo Green Tea Latte (Whole Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40247,2963,Tazo Green Tea Lemonade (Whole Milk),230,7,4,0,20,80,36,1,35,7,0,0,0,0,0,0,0
+40248,2963,Tazo Passion™ Iced Tea (Whole Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40249,2963,Tazo Passion™ Tea Lemonade (Whole Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40250,2963,Tazo Black Iced Tea (Breve Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40251,2963,Tazo Black Tea Lemonade (Breve Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40252,2963,Tazo Chai Tea Latte (Breve Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40253,2963,Tazo Green Iced Tea (Breve Milk),430,25,15,1,80,100,49,0,36,7,0,0,0,0,0,0,0
+40254,2963,Tazo Green Tea Lemonade (Breve Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40255,2963,Tazo Passion™ Iced Tea (Breve Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40256,2963,Tazo Passion™ Tea Lemonade (Breve Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40257,2963,Iced Tazo Green Tea Latte (Soy US Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40258,2963,Tazo Black Iced Tea (Soy US Milk),220,3.5,0,0,0,90,42,2,38,7,0,0,0,0,0,0,0
+40259,2963,Tazo Black Tea Lemonade (Soy US Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40260,2963,Tazo Chai Iced Tea Latte (Soy US Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40261,2963,Tazo Chai Tea Latte (Soy US Milk),250,3,0,0,0,90,52,1,46,5,0,0,0,0,0,0,0
+40262,2963,Tazo Green Iced Tea (Soy US Milk),260,3,0,0,0,95,53,1,47,6,0,0,0,0,0,0,0
+40263,2963,Tazo Green Tea Latte (Soy US Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40264,2963,Tazo Green Tea Lemonade (Soy US Milk),210,3,0,0,0,75,40,2,36,6,0,0,0,0,0,0,0
+40265,2963,Tazo Passion™ Iced Tea (Soy US Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40266,2963,Tazo Passion™ Tea Lemonade (Soy US Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40267,2963,Iced Tazo Green Tea Latte (Soy CD Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40268,2963,Tazo Black Iced Tea (Soy CD Milk),210,4,0,0,0,115,35,2,31,8,0,0,0,0,0,0,0
+40269,2963,Tazo Black Tea Lemonade (Soy CD Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40270,2963,Tazo Chai Iced Tea Latte (Soy CD Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40271,2963,Tazo Chai Tea Latte (Soy CD Milk),230,3,0,0,0,110,46,1,41,6,0,0,0,0,0,0,0
+40272,2963,Tazo Green Iced Tea (Soy CD Milk),240,3.5,0,0,0,120,47,1,41,7,0,0,0,0,0,0,0
+40273,2963,Tazo Green Tea Latte (Soy CD Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40274,2963,Tazo Green Tea Lemonade (Soy CD Milk),200,3.5,0,0,0,100,34,2,31,7,0,0,0,0,0,0,0
+40275,2963,Tazo Passion™ Iced Tea (Soy CD Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40276,2963,Tazo Passion™ Tea Lemonade (Soy CD Milk),80,0,0,0,0,10,21,0,20,0,0,0,0,0,0,0,0
+40277,2963,Iced Tazo Green Tea Latte (Nonfat Milk),120,0,0,0,0,15,30,0,29,0,0,0,0,0,0,0,0
+40278,2963,Tazo Black Iced Tea (Nonfat Milk),270,0,0,0,5,140,54,2,52,12,0,0,0,0,0,0,0
+40279,2963,Tazo Black Tea Lemonade (Nonfat Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40280,2963,Tazo Chai Iced Tea Latte (Nonfat Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40281,2963,Tazo Chai Tea Latte (Nonfat Milk),320,0,0,0,5,160,70,0,64,11,0,0,0,0,0,0,0
+40282,2963,Tazo Green Iced Tea (Nonfat Milk),300,0,0,0,5,160,64,0,59,11,0,0,0,0,0,0,0
+40283,2963,Tazo Green Tea Latte (Nonfat Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40284,2963,Tazo Green Tea Lemonade (Nonfat Milk),240,0,0,0,5,115,49,2,47,11,0,0,0,0,0,0,0
+40285,2963,Tazo Passion™ Iced Tea (Nonfat Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40286,2963,Tazo Passion™ Tea Lemonade (Nonfat Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40287,2963,Iced Tazo Green Tea Latte (Whole Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40288,2963,Tazo Black Iced Tea (Whole Milk),350,11,6,0,35,130,53,2,51,12,0,0,0,0,0,0,0
+40289,2963,Tazo Black Tea Lemonade (Whole Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40290,2963,Tazo Chai Iced Tea Latte (Whole Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40291,2963,Tazo Chai Tea Latte (Whole Milk),380,9,6,0,35,150,68,0,63,10,0,0,0,0,0,0,0
+40292,2963,Tazo Green Iced Tea (Whole Milk),360,9,6,0,35,150,62,0,58,10,0,0,0,0,0,0,0
+40293,2963,Tazo Green Tea Latte (Whole Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40294,2963,Tazo Green Tea Lemonade (Whole Milk),310,9,5,0,30,110,48,2,46,10,0,0,0,0,0,0,0
+40295,2963,Tazo Passion™ Iced Tea (Whole Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40296,2963,Tazo Passion™ Tea Lemonade (Whole Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40297,2963,Tazo Black Iced Tea (Breve Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40298,2963,Tazo Black Tea Lemonade (Breve Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40299,2963,Tazo Chai Tea Latte (Breve Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40300,2963,Tazo Green Iced Tea (Breve Milk),550,31,20,1,100,130,61,0,45,9,0,0,0,0,0,0,0
+40301,2963,Tazo Green Tea Lemonade (Breve Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40302,2963,Tazo Passion™ Iced Tea (Breve Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40303,2963,Tazo Passion™ Tea Lemonade (Breve Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40304,2963,Iced Tazo Green Tea Latte (Soy US Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40305,2963,Tazo Black Iced Tea (Soy US Milk),320,5,0.5,0,0,125,59,3,53,9,0,0,0,0,0,0,0
+40306,2963,Tazo Black Tea Lemonade (Soy US Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40307,2963,Tazo Chai Iced Tea Latte (Soy US Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40308,2963,Tazo Chai Tea Latte (Soy US Milk),350,4,0.5,0,0,125,73,1,65,7,0,0,0,0,0,0,0
+40309,2963,Tazo Green Iced Tea (Soy US Milk),350,4.5,0.5,0,0,120,72,1,60,7,0,0,0,0,0,0,0
+40310,2963,Tazo Green Tea Latte (Soy US Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40311,2963,Tazo Green Tea Lemonade (Soy US Milk),280,4,0.5,0,0,105,53,3,48,8,0,0,0,0,0,0,0
+40312,2963,Tazo Passion™ Iced Tea (Soy US Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40313,2963,Tazo Passion™ Tea Lemonade (Soy US Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40314,2963,Iced Tazo Green Tea Latte (Soy CD Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40315,2963,Tazo Black Iced Tea (Soy CD Milk),290,5,0.5,0,0,160,49,3,44,11,0,0,0,0,0,0,0
+40316,2963,Tazo Black Tea Lemonade (Soy CD Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40317,2963,Tazo Chai Iced Tea Latte (Soy CD Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40318,2963,Tazo Chai Tea Latte (Soy CD Milk),330,4.5,0.5,0,0,150,65,1,57,9,0,0,0,0,0,0,0
+40319,2963,Tazo Green Iced Tea (Soy CD Milk),310,4.5,0.5,0,0,150,59,1,52,9,0,0,0,0,0,0,0
+40320,2963,Tazo Green Tea Latte (Soy CD Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40321,2963,Tazo Green Tea Lemonade (Soy CD Milk),260,4.5,0.5,0,0,135,44,3,40,9,0,0,0,0,0,0,0
+40322,2963,Tazo Passion™ Iced Tea (Soy CD Milk),170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40323,2963,Tazo Passion™ Tea Lemonade (Soy CD Milk),120,0,0,0,0,10,31,0,29,0,0,0,0,0,0,0,0
+40324,2963,Tazo Passion™ Tea Lemonade,170,0,0,0,0,25,45,0,43,0,0,0,0,0,0,0,0
+40325,2964,Flavored Sugar Free Syrup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40326,2964,Flavored Sugar Free Syrup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40327,2964,Flavored Sugar Free Syrup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40328,2964,Flavored Sugar Free Syrup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40329,2964,Flavored Syrup,20,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0
+40330,2964,Flavored Syrup,40,0,0,0,0,0,10,0,10,0,0,0,0,0,0,0,0
+40331,2964,Flavored Syrup,60,0,0,0,0,0,15,0,15,0,0,0,0,0,0,0,0
+40332,2964,Flavored Syrup,80,0,0,0,0,0,20,0,20,0,0,0,0,0,0,0,0
+40333,2964,Malt (2 scoops),90,2,1,0,5,90,16,1,10,3,0,0,4,0,0,0,0
+40334,2964,Malt (3 scoops),140,3,1.5,0,10,135,24,1,16,5,0,0,6,0,0,0,0
+40335,2964,Malt (4 scoops),190,4,2,0,10,180,31,1,21,6,0,0,8,0,0,0,0
+40336,2964,Mocha Syrup,25,0.5,0,0,0,0,6,0,4,1,0,0,0,4,0,0,0
+40337,2964,Mocha Syrup,50,1,0,0,0,0,12,1,9,1,0,0,0,8,0,0,0
+40338,2964,Mocha Syrup,80,1.5,0,0,0,0,18,1,13,2,0,0,0,15,0,0,0
+40339,2964,Mocha Syrup,100,2,0,0,0,0,25,2,17,2,0,0,0,15,0,0,0
+40340,2964,Mocha Syrup,130,2.5,0,0,0,0,31,2,22,3,0,0,0,20,0,0,0
+40341,2964,Chocolate Topping,5,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+40342,2964,Caramel Topping,15,0.5,0,0,0,5,2,0,2,0,0,0,0,0,0,0,0
+40343,2964,Sprinkles Topping,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+40344,2964,Whipped Cream Topping - Cold Beverage,90,9,6,0,35,5,2,0,1,0,0,0,0,0,0,0,0
+40345,2964,Whipped Cream Topping - Cold Beverage,130,12,8,0,50,10,2,0,2,0,0,0,2,0,0,0,0
+40346,2964,Whipped Cream Topping -Hot Beverage,80,8,5,0,30,5,1,0,1,0,0,0,0,0,0,0,0
+40347,2964,Whipped Cream Topping -Hot Beverage,100,9,6,0,40,10,2,0,2,0,0,0,0,0,0,0,0

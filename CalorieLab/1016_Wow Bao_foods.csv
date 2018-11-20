@@ -1,0 +1,14 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+100477,20068,Chicken Terayaki Bao,1 bao,175,6,1.5,0,15,320,24,1,8,7,0,0,0,0,0,0,0
+100478,20068,Thai Curry Chicken Bao,1 bao,160,5,1.5,0,20,300,22,0,7,7,0,0,0,0,0,0,0
+100479,20068,Spicy Mongolian Beef Bao,1 bao,170,5,1.5,0,15,300,22,1,6,8,0,0,0,0,0,0,0
+100480,20068,Kung Pao Chicken Bao,1 bao,160,5,1,0,15,270,22,2,6,7,0,0,0,0,0,0,0
+100481,20068,Bbq Pork Bao,1 bao,190,6,1.5,0,20,370,26,2,8,8,0,0,0,0,0,0,0
+100482,20068,Green Vegetable Bao,1 bao,160,6,1,0,0,280,23,4,5,5,0,0,0,0,0,0,0
+100483,20069,Kung Pao Chicken Rice Bowl,310 g,570,14,3.5,0,65,1070,86,3,4,24,0,0,0,0,0,0,0
+100484,20069,Bbq Pork Rice Bowl,325 g,630,17,6,0,65,1120,95,2,15,25,0,0,0,0,0,0,0
+100485,20070,Pad Thai Salad,365 g,560,28,6,0,50,1400,49,10,9,28,0,0,0,0,0,0,0
+100486,20070,8 Vegetable Salad,270 g,280,19,3.5,0,0,980,19,9,7,8,0,0,0,0,0,0,0
+100487,20071,Thai Hot & Sour Walkaway Broth,320 g,40,0,0,0,0,1190,4,1,3,5,0,0,0,0,0,0,0
+100488,20071,Thai Chicken Noodle Soup,410 g,190,3.5,1,0,20,1360,24,0,2,15,0,0,0,0,0,0,0
+100489,20072,"Fresh Ginger, Ginger Ale",10 fl oz,90,0,0,0,0,10,23,2,20,0,0,0,0,0,0,0,0

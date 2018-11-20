@@ -1,0 +1,2 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+138002,22911,Vanilla Custard,4 oz,210,11,7,0,65,75,23,0,21,5,0,10,20,0,0,0,0

@@ -1,0 +1,6 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+100103,20011,Lite Fiery Szechuan Chicken,2 cup,560,10,2.5,0,160,2595,45,8,0,61,0,0,0,0,0,0,0
+100104,20011,Lite Ginger Wine Shrimp,2 cup,435,2,0.5,0,290,1785,67,13,0,35,0,0,0,0,0,0,0
+100105,20011,Lite Vegetable Bowl with Mandarin Kung Pao Sauce,3 cup,705,4,0.5,0,0,2560,153,21,0,20,0,0,0,0,0,0,0
+100106,20011,Lite Classic Chicken Salad,2 cup,440,16,1.5,0,60,3570,43,5,0,31,0,0,0,0,0,0,0
+100107,20011,Steamed Chicken Potstickers,2 potstickers,175,5,1,0,30,525,22,1,0,10,0,0,0,0,0,0,0

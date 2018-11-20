@@ -1,0 +1,12 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+114197,21089,Chicken Fajitas,,565,25,8.5,0,175,1945,25,6,0,60,0,0,0,0,0,0,0
+114198,21089,"Chicken Fajitas w/ Rice, beans & flour tortilla",,1060,37,10,0,174,3310,107,18,0,76,0,0,0,0,0,0,0
+114199,21089,"Chicken Fajitas w/ Rice, beans & corn tortilla",,1030,35,10,0,174,3175,104,18,0,75,0,0,0,0,0,0,0
+114200,21090,Halibut Tacos - Special Request,,500,24,7.5,0,60,1900,42,7,0,30,0,0,0,0,0,0,0
+114201,21090,Halibut Tacos - Special Request w/ Rice,,670,27,8,0,59,2575,75,8,0,33,0,0,0,0,0,0,0
+114202,21090,Halibut Filet with Salsa Tomatillo,,420,16,6.5,0,100,1850,18,4,0,51,0,0,0,0,0,0,0
+114203,21090,Halibut Filet with Salsa Tomatillo w/ Rice,,590,19,7,0,99,2525,51,5,0,54,0,0,0,0,0,0,0
+114204,21091,Rice,5 oz,170,3,0.5,0,1,675,33,1,0,3,0,0,0,0,0,0,0
+114205,21091,Refried Beans,5 oz,235,7,1,0,0,530,34,10,0,11,0,0,0,0,0,0,0
+114206,21091,Flour Tortilla,6 inch,90,2,0,0,0,160,15,1,0,2,0,0,0,0,0,0,0
+114207,21091,Corn Tortilla,6 inch,60,0,0,0,0,25,12,1,0,1,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+135972,22770,Vanilla,1/2 cup - 80 g,130,6,4,0,25,60,16,0,16,4,0,4,10,0,0,0,0
+135973,22770,Chocolate,1/2 cup - 80 g,140,6,4,0,25,75,18,0,18,4,0,4,15,0,0,0,0
+135974,22770,Orange Sorbet,1/2 cup - 87 g,104,2,1,0,8,33,21,1,21,1,1,0,3,0,0,0,0

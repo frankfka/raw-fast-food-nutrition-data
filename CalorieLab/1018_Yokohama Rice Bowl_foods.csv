@@ -1,0 +1,24 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+100559,20078,Regular Teriyaki Chicken,1 bowl - 16.2 oz,590,13,3,0,100,830,80,3,15,35,50,60,4,25,0,0,0
+100560,20078,Large Teriyaki Chicken,1 bowl - 22.7 oz,820,18,4,0,125,1590,117,4,29,45,70,80,6,35,0,0,0
+100561,20078,Regular BBQ Chicken,1 bowl - 14.2 oz,570,17,4.5,0,90,180,68,3,4,33,50,60,4,25,0,0,0
+100562,20078,Large BBQ Chicken,1 bowl - 18.7 oz,750,22,6,0,115,220,91,4,6,42,70,80,6,35,0,0,0
+100563,20078,Regular Beef Bowl,1 bowl - 14 oz,440,6,1,0,25,1040,82,3,16,15,50,60,4,25,0,0,0
+100564,20078,Large Beef Bowl,1 bowl - 18.7 oz,590,8,1.5,0,35,1390,109,4,22,20,70,80,4,35,0,0,0
+100565,20078,Teriyaki Chicken & Beef Combo,1 bowl - 24 oz,840,19,5,0,115,2220,112,48,17,93,80,2,6,40,0,0,0
+100566,20078,Regular BBQ Pork,1 bowl - 14.3 oz,550,12,3.5,0,90,280,74,3,9,36,50,60,4,25,0,0,0
+100567,20078,Large BBQ Pork,1 bowl - 19 oz,730,15,4.5,0,115,390,99,4,13,46,70,80,4,35,0,0,0
+100568,20079,Regular Beef Broccoli,1 bowl - 15 oz,500,14,2.5,0,15,990,80,5,12,14,170,35,6,25,0,0,0
+100569,20079,Large Beef Broccoli,1 bowl - 20 oz,650,18,3,0,20,1260,105,6,15,18,220,45,8,35,0,0,0
+100570,20079,Regular Vegetable Bowl,1 bowl - 13.5 oz,380,7,1,0,0,35,70,5,4,8,100,120,6,20,0,0,0
+100571,20079,Large Vegetable Bowl,1 bowl - 19 oz,520,11,1.5,0,0,55,95,8,5,11,130,180,8,30,0,0,0
+100572,20079,Regular BBQ Pork Fried Rice,1 serving - 16 oz,570,17,3,0,160,3020,71,2,5,29,8,40,10,25,0,0,0
+100573,20079,Large BBQ Pork Fried Rice,1 serving - 19 oz,680,21,3.5,0,190,3580,84,3,6,35,8,45,10,30,0,0,0
+100574,20079,Regular Chicken Fried Rice,1 serving - 16 oz,630,23,3.5,0,175,3720,74,2,2,29,8,45,10,25,0,0,0
+100575,20079,Large Chicken Fried Rice,1 serving - 19 oz,740,27,4,0,205,3880,88,3,3,24,8,50,15,30,0,0,0
+100576,20080,Udon Soup,1 bowl - 20 oz,340,6,2,0,130,6040,55,0,2,16,2,4,4,10,0,0,0
+100577,20080,Rice Side,1 serving - 12 oz,440,0.5,0,0,0,0,98,2,1,8,0,0,0,30,0,0,0
+100578,20080,Cucumber Salad,1 serving - 2 oz,10,0,0,0,0,90,2,0,2,0,4,2,0,0,0,0,0
+100579,20080,Miso Soup,1 bowl - 6.1 oz,10,0,0,0,0,115,2,0,0,0,0,0,0,0,0,0,0
+100580,20080,Crab Puffs,1 serving - 11.2 oz,960,46,28,0,160,1480,105,0,4,29,4,35,20,40,0,0,0
+100581,20080,Egg Roll,1 serving - 3 oz,110,2,5,0,110,560,21,1,2,3,15,2,4,6,0,0,0

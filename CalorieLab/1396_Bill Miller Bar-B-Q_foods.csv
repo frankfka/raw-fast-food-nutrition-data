@@ -1,0 +1,20 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+141953,23024,Salad De-Lite,294 g,210,10.5,4,0,20,515,22,4,9,12,0,0,0,0,0,0,0
+141954,23024,Salad De-Lite (plain),4 container - 257 g,60,0.5,0,0,0,35,13,4,8,3,0,0,0,0,0,0,0
+141955,23024,Fat Free Ranch Dressing,1 packet - 42.5 g,60,0,0,0,0,430,13,0,3,0,0,0,0,0,0,0,0
+141956,23024,Italian Dressing,1 container - 95 g,360,40,10,0,0,200,1,0,0,0,0,0,0,0,0,0,0
+141957,23024,Ranch Dressing,2 container - 95 g,450,47,4.5,0,25,340,7,0,7,1,0,0,0,0,0,0,0
+141958,23024,Thousand Island Dressing,3 container - 95 g,280,22,4.5,0,20,710,13,0,13,0,0,0,0,0,0,0,0
+141959,23024,Bacon Bits,1 scoop - 9 g,40,2.5,1.5,0,5,250,0,0,0,4,0,0,0,0,0,0,0
+141960,23024,Cheddar Cheese,1 scoop - 14 g,50,4.5,2.5,0,15,85,0,0,0,3,0,0,0,0,0,0,0
+141961,23024,Croutons,1 packet - 7 g,35,1.5,0,0,0,90,4,0,0,1,0,0,0,0,0,0,0
+141962,23024,Captain's Wafers,2 packet - 7 g,25,1.5,0,0,0,55,5,0,1,1,0,0,0,0,0,0,0
+141963,23024,Coleslaw,1 portion - 136.2 g,120,7,1.5,0,0,140,13,2,10,1,0,0,0,0,0,0,0
+141964,23025,Vegetable Beef Soup,1 pint - 454 g,160,8,3.5,0,30,1430,14,2,2,10,0,0,0,0,0,0,0
+141965,23025,Fruit Salad,1 container - 362 g,170,1.5,0,0,0,15,41,2,36,2,0,0,0,0,0,0,0
+141966,23026,"White Meat, Skinless",1/4 piece - 132 g,180,3,1,0,105,450,0,0,0,38,0,0,0,0,0,0,0
+141967,23026,"Bar-B-Q Chicken Dark Meat, Skinless",1/4 piece - 147 g,290,14,4,0,140,130,0,0,0,39,0,0,0,0,0,0,0
+141968,23026,Bar-B-Q Turkey Breast,0.2 lb - 82 g,90,4.5,1,0,20,520,1,0,0,15,0,0,0,0,0,0,0
+141969,23026,Ham,0.2 lb - 82 g,120,6,2,0,40,1070,2,0,2,14,0,0,0,0,0,0,0
+141970,23026,Turkey Poor Boy,1 piece - 241 g,350,11,2.5,0,30,1450,42,2,9,28,0,0,0,0,0,0,0
+141971,23027,Sugar Free Lemon Pie,1 slice - 177 g,330,19,10,0,35,160,38,2,0,3,0,0,0,0,0,0,0

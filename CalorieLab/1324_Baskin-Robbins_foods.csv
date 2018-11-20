@@ -1,0 +1,184 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+132793,22562,Black Walnut Ice Cream,1 scoop - 4 oz - 113 g,280,19,9,0,50,90,25,1,23,6,2,10,15,2,0,0,0
+132794,22562,Cherries Jubilee,1 scoop - 4 oz - 113 g,240,12,7,0,45,80,30,1,26,4,2,8,15,2,0,0,0
+132795,22562,Chocolate Almond Ice Cream,1 scoop - 4 oz - 113 g,300,18,9,0,45,120,32,1,29,7,2,8,15,6,0,0,0
+132796,22562,Chocolate Chip Cookie Dough Ice Cream,1 scoop - 4 oz - 113 g,290,15,9,1,55,130,36,1,30,5,2,8,15,2,0,0,0
+132797,22562,Chocolate Chip Ice Cream,1 scoop - 4 oz - 113 g,270,16,10,0,55,95,28,1,26,5,2,10,15,4,0,0,0
+132798,22562,Chocolate Fudge Ice Cream,1 scoop - 4 oz - 113 g,270,15,10,0,50,140,35,0,32,4,2,10,10,6,0,0,0
+132799,22562,Chocolate Ice Cream,1 scoop - 4 oz - 113 g,260,14,9,0,50,130,33,0,31,5,2,10,15,4,0,0,0
+132800,22562,Chocolate Oreao Cookie Ice Cream,1 scoop - 4 oz - 113 g,330,19,8,1,40,180,39,1,32,5,2,8,15,6,0,0,0
+132801,22562,Chocolate Ribbon Ice Cream,1 scoop - 4 oz - 113 g,240,12,8,0,45,85,31,0,31,4,2,8,15,2,0,0,0
+132802,22562,French Vanilla Ice Cream,1 scoop - 4 oz - 113 g,280,18,11,0.5,120,85,26,0,25,4,2,15,15,2,0,0,0
+132803,22562,Fudge Brownie Ice Cream,1 scoop - 4 oz - 113 g,300,19,11,0,45,140,35,1,31,5,2,8,10,6,0,0,0
+132804,22562,German Chocolate Cake Ice Cream,1 scoop - 4 oz - 113 g,300,16,9,0,45,150,36,1,35,5,2,8,15,6,0,0,0
+132805,22562,Gold Medal Ribbon Ice Cream,1 scoop - 4 oz - 113 g,260,13,8,0,45,150,34,0,33,5,2,8,15,4,0,0,0
+132806,22562,Jamoca Almond Fudge Ice Cream,1 scoop - 4 oz - 113 g,270,15,7,0,40,80,31,1,28,6,2,8,15,4,0,0,0
+132807,22562,Jamoca Ice Cream,1 scoop - 4 oz - 113 g,240,13,9,0,55,90,26,0,24,5,2,10,15,0,0,0,0
+132808,22562,Mint Chocolate Chip Ice Cream,1 scoop - 4 oz - 113 g,270,16,10,0,55,95,28,1,26,5,2,10,15,4,0,0,0
+132809,22562,Nutty Coconut Ice Cream,1 scoop - 4 oz - 113 g,300,20,9,0,45,90,28,1,27,6,2,8,15,4,0,0,0
+132810,22562,Old Fashioned Butter Pecan Ice Cream,1 scoop - 4 oz - 113 g,280,18,9,0,50,95,24,1,24,5,2,10,15,2,0,0,0
+132811,22562,Oreo Cookies 'n Cream Ice Cream,1 scoop - 4 oz - 113 g,280,15,8,1,50,150,32,1,27,5,2,10,15,4,0,0,0
+132812,22562,Peanut Butter 'n Chocolate Ice Cream,1 scoop - 4 oz - 113 g,320,20,9,0,45,180,31,1,28,7,2,8,15,4,0,0,0
+132813,22562,Pistachio Almond Ice Cream,1 scoop - 4 oz - 113 g,290,19,9,0,50,85,25,1,23,7,2,10,15,2,0,0,0
+132814,22562,Pralines 'n Cream Ice Cream,1 scoop - 4 oz - 113 g,270,14,8,0,45,170,34,0,33,4,2,8,15,2,0,0,0
+132815,22562,Reese's Peanut Butter Cup Ice Cream,1 scoop - 4 oz - 113 g,300,18,10,0,50,130,31,0,29,6,2,8,15,2,0,0,0
+132816,22562,Rocky Road Ice Cream,1 scoop - 4 oz - 113 g,290,15,8,0,45,120,36,1,32,5,2,8,15,4,0,0,0
+132817,22562,Vanilla Ice Cream,1 scoop - 4 oz - 113 g,260,16,10,0.5,65,70,26,0,26,4,2,10,15,0,0,0,0
+132818,22562,Very Berry Strawberry Ice Cream,1 scoop - 4 oz - 113 g,220,11,7,0,40,70,28,0,27,4,20,8,15,2,0,0,0
+132819,22562,World Class Chocolate Ice Cream,1 scoop - 4 oz - 113 g,270,15,8,0.5,45,115,33,0,32,5,2,8,15,2,0,0,0
+132820,22562,Banana Nut Ice Cream,1 scoop - 4 oz - 113 g,260,15,7,0,45,75,27,0,26,5,2,8,15,2,0,0,0
+132821,22562,Bananas 'n Strawberries Ice Cream,1 scoop - 4 oz - 113 g,220,9,6,0,35,70,35,0,34,3,6,6,10,2,0,0,0
+132822,22562,Baseball Nut™ Ice Cream,1 scoop - 4 oz - 113 g,270,14,8,0,45,100,32,0,31,5,8,8,15,4,0,0,0
+132823,22562,Blueberry Cheesecake Ice Cream,1 scoop - 4 oz - 113 g,270,14,8,0.5,55,125,32,0,30,5,2,10,15,2,0,0,0
+132824,22562,Candy Cookie Commotion Ice Cream,1 scoop - 4 oz - 113 g,300,16,9,0,45,150,36,1,29,5,2,8,15,2,0,0,0
+132825,22562,Chocoholic's Resolution Ice Cream,1 scoop - 4 oz - 113 g,300,16,9,0,45,130,38,0,35,5,2,8,15,6,0,0,0
+132826,22562,Chocolate Eclair Ice Cream,1 scoop - 4 oz - 113 g,300,17,11,0,60,130,35,0,29,5,2,10,15,2,0,0,0
+132827,22562,Chocolate Mousse Crossing Ice Cream,1 scoop - 4 oz - 113 g,270,15,9,0,50,115,32,0,30,5,2,10,15,4,0,0,0
+132828,22562,Chocolate Mousse Royale Ice Cream,1 scoop - 4 oz - 113 g,310,16,12,0,40,140,38,1,35,6,4,8,15,6,0,0,0
+132829,22562,Cotton Candy Ice Cream,1 scoop - 4 oz - 113 g,260,12,7,0,45,210,32,0,29,4,2,8,15,0,0,0,0
+132830,22562,Creme Brulee Ice Cream,1 scoop - 4 oz - 113 g,280,11,7,0,80,115,41,0,34,4,2,8,15,2,0,0,0
+132831,22562,Creole Cheesecake Ice Cream,1 scoop - 4 oz - 113 g,240,13,8,0,50,90,29,0,26,5,2,10,20,0,0,0,0
+132832,22562,Egg Nog Ice Cream,1 scoop - 4 oz - 113 g,250,13,8,0,70,90,31,0,30,5,2,10,15,2,0,0,0
+132833,22562,Everyone's Favorite Candy Bar Ice Cream,1 scoop - 4 oz - 113 g,290,14,8,0,45,160,36,0,31,5,2,8,15,2,0,0,0
+132834,22562,Happy Camper,1 scoop - 4 oz - 113 g,340,22,11,0,45,190,30,2,26,8,2,8,15,2,0,0,0
+132835,22562,Honest to Goodnuts Ice Cream,1 scoop - 4 oz - 113 g,300,14,8,0,40,135,38,0,34,5,2,8,15,2,0,0,0
+132836,22562,Hunka Chunka Chip Ice Cream,1 scoop - 4 oz - 113 g,300,15,8,1,45,170,37,0,33,5,2,10,15,4,0,0,0
+132837,22562,Lemon Custard Ice Cream,1 scoop - 4 oz - 113 g,260,13,8,0,75,105,30,0,30,5,2,10,20,2,0,0,0
+132838,22562,Love Potion #31™ Ice Cream,1 scoop - 4 oz - 113 g,270,14,9,0,45,90,34,1,31,4,2,8,15,4,0,0,0
+132839,22562,Macadamia Nuts 'n Cream Ice Cream,1 scoop - 4 oz - 113 g,290,20,9,0,50,85,25,1,23,5,2,10,15,2,0,0,0
+132840,22562,Mississippi Mudd Ice Cream,1 scoop - 4 oz - 113 g,270,13,8,0,45,150,38,1,32,4,2,8,10,6,0,0,0
+132841,22562,New York Cheesecake Ice Cream,1 scoop - 4 oz - 113 g,280,16,10,0,50,135,31,0,27,5,2,10,15,2,0,0,0
+132842,22562,Oregon Blackberry Ice Cream,1 scoop - 4 oz - 113 g,240,12,8,0,50,85,28,0,27,4,2,10,15,0,0,0,0
+132843,22562,Original Cinn Ice Cream,1 scoop - 4 oz - 113 g,290,13,8,0,45,130,39,0,37,4,4,8,15,0,0,0,0
+132844,22562,Pink Bubblegum Ice Cream,1 scoop - 4 oz - 113 g,260,12,8,0,50,80,36,0,34,4,2,10,15,0,0,0,0
+132845,22562,Pumpkin Pie Ice Cream,1 scoop - 4 oz - 113 g,230,12,7,0,45,90,29,0,28,4,2,8,15,2,0,0,0
+132846,22562,Quarterback Crunch™ Ice Cream,1 scoop - 4 oz - 113 g,300,17,12,0,45,150,34,0,28,4,2,8,15,2,0,0,0
+132847,22562,Strawberry Cheesecake Ice Cream,1 scoop - 4 oz - 113 g,270,14,9,0.5,55,115,32,0,30,5,4,10,15,2,0,0,0
+132848,22562,Strawberry Shortcake Ice Cream,1 scoop - 4 oz - 113 g,280,14,9,0,45,130,34,0,28,4,4,8,15,2,0,0,0
+132849,22562,Tax Crunch Ice Cream,1 scoop - 4 oz - 113 g,300,18,8,0,45,135,32,1,29,5,2,8,15,2,0,0,0
+132850,22562,Tea of tranquility,1 scoop - 4 oz - 113 g,270,13,7,1,45,110,36,0,29,4,2,8,15,2,0,0,0
+132851,22562,Tiramisu Ice Cream,1 scoop - 4 oz - 113 g,260,13,8,0,60,120,32,0,26,5,2,10,15,0,0,0,0
+132852,22562,Trick Oreo Treat Ice Cream,1 scoop - 4 oz - 113 g,300,16,9,0,45,150,36,1,29,5,2,8,15,2,0,0,0
+132853,22562,True Blue Ginger Ice Cream,1 scoop - 4 oz - 113 g,270,13,8,0,50,140,33,0,27,4,2,10,15,2,0,0,0
+132854,22562,Truffle In Paradise™ Ice Cream,1 scoop - 4 oz - 113 g,330,21,12,0,50,75,34,1,31,5,2,10,15,6,0,0,0
+132855,22562,Turtle Cheesecake Ice Cream,1 scoop - 4 oz - 113 g,290,16,9,0,50,160,34,1,29,5,2,10,15,2,0,0,0
+132856,22562,Winter White Chocolate Ice Cream,1 scoop - 4 oz - 113 g,270,14,10,0,40,95,32,1,30,4,8,8,15,2,0,0,0
+132857,22562,2 Scoop Hot Fudge Sundae,1 serving - 203 g,530,29,19,0,85,200,62,0,52,8,2,15,20,2,0,0,0
+132858,22562,3 Scoop Hot Fudge Sundae,1 serving - 288 g,750,41,27,0,125,280,86,0,74,11,4,25,30,2,0,0,0
+132859,22562,Banana Royale,1 serving - 316 g,630,27,16,0,85,250,91,5,73,9,15,15,25,6,0,0,0
+132860,22562,Banana Split,1 serving - 570 g,1030,39,23,0,135,190,168,7,140,12,30,25,35,6,0,0,0
+132861,22562,Chocolate Bliss Sundae,1 serving - 286 g,880,42,22,1,120,540,121,5,99,12,2,10,25,35,0,0,0
+132862,22562,Happy Camper Waffle cone Sundae,1 serving - 256 g,820,41,18,0.5,65,490,107,5,69,17,2,10,20,14,0,0,0
+132863,22562,Peanut Butter Pie Sundae,1 serving - 230 g,850,59,21,0.5,60,450,68,5,52,18,2,10,20,8,0,0,0
+132864,22562,Tiramisu Sundae,1 serving - 273 g,790,39,22,1.5,125,170,101,1,82,10,2,25,20,6,0,0,0
+132865,22563,Kiwi Bold Breeze,large - 32 fl oz,680,1,0,0,0,60,174,5,162,1,250,2,15,15,0,0,0
+132866,22563,Kiwi Bold Breeze,medium - 24 fl oz,470,0.5,0,0,0,40,120,4,111,1,170,2,10,10,0,0,0
+132867,22563,Kiwi Bold Breeze,small - 16 fl oz,340,0,0,0,0,30,87,3,81,1,130,2,8,8,0,0,0
+132868,22563,Mango Bold Breeze,large - 32 fl oz,690,2,0,0,0,20,169,3,164,1,25,280,4,2,0,0,0
+132869,22563,Mango Bold Breeze,medium - 24 fl oz,470,1.5,0,0,0,15,116,2,113,1,15,190,4,2,0,0,0
+132870,22563,Mango Bold Breeze,small - 16 fl oz,340,1,0,0,0,10,84,2,82,1,10,140,2,2,0,0,0
+132871,22563,Strawberry Citrus Bold Breeze,large - 32 fl oz,700,1.5,0,0,0,20,178,6,170,3,160,2,8,10,0,0,0
+132872,22563,Strawberry Citrus Bold Breeze,medium - 24 fl oz,480,1,0,0,0,15,122,4,117,2,110,0,6,6,0,0,0
+132873,22563,Strawberry Citrus Bold Breeze,small - 16 fl oz,350,1,0,0,0,10,89,3,85,1,80,0,4,6,0,0,0
+132874,22563,Kiwi Banana Creamy Bold Breeze,large - 32 fl oz,960,1.5,0.5,0,5,190,239,9,213,10,270,4,40,20,0,0,0
+132875,22563,Kiwi Banana Creamy Bold Breeze,medium - 24 fl oz,710,1.5,0,0,5,150,176,7,155,8,190,4,30,15,0,0,0
+132876,22563,Kiwi Banana Creamy Bold Breeze,small - 16 fl oz,480,1,0,0,0,95,119,4,106,5,140,2,20,10,0,0,0
+132877,22563,Kiwi Creamy Bold Breeze,medium - 24 fl oz,620,1,0,0,5,150,152,4,142,7,180,2,30,10,0,0,0
+132878,22563,Kiwi Creamy Bold Breeze,small - 16 fl oz,440,0.5,0,0,0,95,107,3,100,4,130,2,20,8,0,0,0
+132879,22563,Kiwi Pineapple Creamy Bold Breeze,large - 32 fl oz,870,1.5,0,0,5,190,215,6,200,8,260,2,40,15,0,0,0
+132880,22563,Mango Banana Creamy Bold Breeze,large - 32 fl oz,970,3,0.5,0,5,150,233,6,215,10,45,280,30,4,0,0,0
+132881,22563,Mango Banana Creamy Bold Breeze,medium - 24 fl oz,720,2.5,0,0,5,120,172,5,156,8,35,190,25,4,0,0,0
+132882,22563,Mango Banana Creamy Bold Breeze,small - 16 fl oz,480,1.5,0,0,0,75,116,3,108,5,20,140,15,2,0,0,0
+132883,22563,Strawberry Banana Creamy Bold Breeze,large - 32 fl oz,980,2.5,0.5,0,5,150,242,9,221,11,170,2,35,10,0,0,0
+132884,22563,Strawberry Banana Creamy Bold Breeze,medium - 24 fl oz,730,2,0,0,5,120,178,7,160,9,120,2,25,10,0,0,0
+132885,22563,Strawberry Banana Creamy Bold Breeze,small - 16 fl oz,490,1.5,0,0,0,75,121,5,110,5,90,2,15,6,0,0,0
+132886,22563,Strawberry Citrus Creamy Bold Breeze,large - 32 fl oz,890,2.5,0,0,5,150,218,6,208,10,160,2,35,10,0,0,0
+132887,22563,Strawberry Citrus Creamy Bold Breeze,medium - 24 fl oz,630,1.5,0,0,5,120,154,4,147,8,110,2,25,8,0,0,0
+132888,22563,Strawberry Citrus Creamy Bold Breeze,small - 16 fl oz,450,1,0,0,0,75,109,3,104,5,80,0,15,6,0,0,0
+132889,22563,Wild Mango Creamy Bold Breeze,large - 32 fl oz,870,3,0,0,5,150,209,4,202,8,30,280,30,4,0,0,0
+132890,22563,Wild Mango Creamy Bold Breeze,medium - 24 fl oz,620,2,0,0,5,120,148,3,144,7,20,190,25,2,0,0,0
+132891,22563,Wild Mango Creamy Bold Breeze,small - 16 fl oz,440,1.5,0,0,0,75,104,2,101,4,15,140,15,2,0,0,0
+132892,22563,Chocolate Shake,medium - 24 fl oz,990,40,25,1,135,440,149,1,142,20,6,30,60,10,0,0,0
+132893,22563,Chocolate Shake,small - 16 fl oz,620,30,18,1,105,300,81,1,77,15,4,25,45,8,0,0,0
+132894,22563,Chocolate Shake,medium - 24 fl oz,1000,45,28,0,175,290,133,0,131,19,6,40,60,2,0,0,0
+132895,22563,Chocolate Shake,small - 16 fl oz,690,33,21,0,130,210,85,0,83,13,4,30,45,0,0,0,0
+132896,22563,Espresso Shake,medium - 24 fl oz,790,45,28,0,175,300,80,0,76,19,8,40,60,2,0,0,0
+132897,22563,Vanilla Shake,medium - 24 fl oz,980,45,28,0,175,640,125,0,117,19,6,40,60,2,0,0,0
+132898,22563,Vanilla Shake,small - 16 fl oz,680,33,21,0,130,380,81,0,76,13,4,30,45,2,0,0,0
+132899,22563,Brownie Blast,large - 32 fl oz,1100,42,20,1,185,650,174,5,149,18,4,20,40,45,0,0,0
+132900,22563,Brownie Blast,medium - 24 fl oz,860,33,16,1,140,490,133,4,114,14,2,15,30,35,0,0,0
+132901,22563,Brownie Blast,small - 16 fl oz,580,24,12,1,90,320,88,3,75,9,2,10,20,25,0,0,0
+132902,22563,Cappuccino Blast,large - 32 fl oz,620,24,15,0,95,200,94,0,85,12,4,20,40,0,0,0,0
+132903,22563,Cappuccino Blast,large - 32 fl oz,660,28,17,0,105,220,97,0,85,12,4,25,40,0,0,0,0
+132904,22563,Cappuccino Blast Chocolate,medium - 24 fl oz,680,19,12,0.5,65,210,123,0,120,10,2,15,30,4,0,0,0
+132905,22563,Cappuccino Blast Chocolate,small - 16 fl oz,450,12,8,0,45,140,81,0,79,6,2,10,20,2,0,0,0
+132906,22563,Cappuccino Blast Low Fat,small - 16 fl oz,220,2,1.5,0,10,115,45,0,44,6,2,4,20,0,0,0,0
+132907,22563,Cappuccino Blast,medium - 24 fl oz,460,19,12,0,75,150,66,0,65,9,4,20,30,0,0,0,0
+132908,22563,Cappuccino Blast Mocha,large - 32 fl oz,750,23,15,0,90,170,128,0,64,11,4,20,35,0,0,0,0
+132909,22563,Cappuccino Blast Mocha,medium - 24 fl oz,540,18,12,0,70,140,87,0,86,8,2,15,30,0,0,0,0
+132910,22563,Cappuccino Blast Mocha,small - 16 fl oz,380,12,7,0,45,85,64,0,32,5,2,10,20,0,0,0,0
+132911,22563,Cappuccino Blast Mocha,large - 32 fl oz,790,25,16,0,100,190,136,0,100,11,4,20,35,0,0,0,0
+132912,22563,Cappuccino Blast Mocha,medium - 24 fl oz,620,21,13,0,80,160,100,0,51,9,4,20,30,0,0,0,0
+132913,22563,Cappuccino Blast Mocha,small - 16 fl oz,370,13,8,0,50,100,58,0,57,6,2,10,20,0,0,0,0
+132914,22563,Cappuccino Blast Nonfat,small - 16 fl oz,210,0,0,0,5,120,45,0,44,7,2,4,20,0,0,0,0
+132915,22563,Cappuccino Blast,small - 16 fl oz,300,12,7,0,45,95,43,0,42,6,2,10,20,0,0,0,0
+132916,22563,Cappuccino Blast Turtle,large - 32 fl oz,990,28,16,0.5,90,630,155,1,128,13,4,20,45,2,0,0,0
+132917,22563,Cappuccino Blast Turtle,medium - 24 fl oz,710,23,13,0.5,70,500,121,0,100,10,4,15,35,2,0,0,0
+132918,22563,Cappuccino Blast Turtle,small - 16 fl oz,480,16,9,0,50,340,82,0,67,7,2,10,20,0,0,0,0
+132919,22563,Cappuccino Blast,medium - 24 fl oz,480,21,13,0,80,160,67,0,66,9,4,20,30,0,0,0,0
+132920,22563,Cappuccino Blast,small - 16 fl oz,330,14,9,0,55,110,48,0,42,6,2,10,20,0,0,0,0
+132921,22563,Nutty Smore's Blast,large - 32 fl oz,1180,40,19,1,75,560,192,2,149,15,4,20,35,10,0,0,0
+132922,22563,Nutty Smore's Blast,medium - 24 fl oz,870,32,14,1,60,410,134,2,105,12,2,15,25,8,0,0,0
+132923,22563,Nutty Smore's Blast,small - 16 fl oz,620,23,11,1,45,280,97,1,76,8,2,10,20,6,0,0,0
+132924,22563,Oreo N'cookies Blast,large - 32 fl oz,1030,39,18,1.5,85,610,155,3,125,17,4,20,45,15,0,0,0
+132925,22563,Oreo N'cookies Blast,medium - 24 fl oz,800,31,14,1,70,460,118,2,95,13,2,15,35,15,0,0,0
+132926,22563,Oreo N'cookies Blast,small - 16 fl oz,550,22,10,0.5,45,330,81,2,64,9,2,10,20,6,0,0,0
+132927,22564,"Chocolate Chip Ice Cream/Devil's Food 9"" Round Ice Cream Cake",1 serving - 161 g,410,23,11,0,70,320,51,2,38,6,2,10,15,15,0,0,0
+132928,22564,"Oreo Cookies 'n Cream Ice Cream/Devil's Food 9"" Round Ice Cream Cake",1 serving - 161 g,430,23,10,0.5,65,390,55,1,41,7,2,10,15,6,0,0,0
+132929,22564,"Pralines 'n Cream Ice Cream/Devil's Food 9"" Round Ice Cream Cake",1 serving - 161 g,430,20,8,0,50,380,65,1,47,6,2,8,15,0,0,0,0
+132930,22564,Chocolate Chip Ice Cream/Chocolate Roll Ice Cream Cake,1 serving - 117 g,290,15,6,0,40,340,41,2,28,4,4,6,10,6,0,0,0
+132931,22564,Mint Chocolate Chip Ice Cream/Chocolate Roll Ice Cream Cake,1 serving - 117 g,290,14,6,0,45,240,36,2,28,5,4,6,10,10,0,0,0
+132932,22564,Vanilla Ice Cream/Chocolate Roll Ice Cream Cake,1 serving - 117 g,270,14,4,0,45,340,39,2,27,4,2,8,10,8,0,0,0
+132933,22564,Chocolate Chip Ice Cream/Devil's Food Sheet Ice Cream Cake,1 serving - 125 g,330,18,8,0,55,240,40,1,32,5,2,8,15,4,0,0,0
+132934,22564,Mint Chocolate Chip Ice Cream/Devil's Food Sheet Ice Cream Cake,1 serving - 113 g,290,18,8,0,50,200,33,1,26,4,2,8,10,10,0,0,0
+132935,22564,Oreo Cookies 'n Cream Ice Cream/White Sponge Sheet Ice Cream Cake,1 serving - 113 g,300,14,7,0,45,270,40,1,33,5,2,6,10,2,0,0,0
+132936,22564,Pralines 'n Cream Ice Cream/White Sponge Sheet Ice Cream Cake,1 serving - 113 g,300,16,6,0,40,280,49,1,34,5,2,6,10,0,0,0,0
+132937,22564,Vanilla Ice Cream/Devil's Food Sheet Ice Cream Cake,1 serving - 113 g,300,19,9,0,40,220,39,1,27,4,2,8,10,8,0,0,0
+132938,22564,Chocolate Chip Ice Cream/Devil's Food Heart Ice Cream Cake,1 serving - 125 g,330,18,8,0,55,240,40,1,29,5,2,8,10,10,0,0,0
+132939,22564,Oreo Cookies 'n Cream Heart Ice Cream Cake,1 serving - 125 g,300,16,9,1,50,180,35,1,30,5,2,10,15,4,0,0,0
+132940,22564,Oreo Cookies 'n Cream Ice Cream/Devil's Food Heart Ice Cream Cake,1 serving - 125 g,330,17,7,0.5,50,290,41,1,30,5,2,6,10,10,0,0,0
+132941,22564,Vanilla Ice Cream Heart Ice Cream Cake,1 serving - 125 g,290,18,11,0,70,80,29,0,29,5,2,15,15,0,0,0,0
+132942,22564,Vanilla Ice Cream/Devil's Food Heart Ice Cream Cake,1 serving - 125 g,340,19,9,0,60,220,39,1,31,5,2,8,10,10,0,0,0
+132943,22565,Espresso 'n Cream Low Fat Ice Cream,1 scoop - 4 oz - 113 g,180,4,1.5,0,10,120,32,1,29,5,4,2,15,2,0,0,0
+132944,22565,Berries 'n Banana (No Sugar Added Low Fat Ice Cream),1 scoop - 4 oz - 113 g,110,2,1,0,10,125,25,1,7,5,50,10,15,2,0,0,0
+132945,22565,Blueberry Swirl Ice Cream,1 scoop - 4 oz - 113 g,130,2,1,0,10,140,31,1,7,4,2,10,15,0,0,0,0
+132946,22565,Caramel Turtle (No Sugar Added Low Fat Ice Cream),1 scoop - 4 oz - 113 g,160,4,3,0,10,130,37,0,7,5,2,10,15,2,0,0,0
+132947,22565,Chocolate Chip (No Sugar Added Low Fat Ice Cream),1 scoop - 4 oz - 113 g,170,4.5,3.5,0,10,110,30,1,8,4,2,15,15,15,0,0,0
+132948,22565,Chocolate Chocolate Chip (No Sugar Added Low Fat Ice Cream),1 scoop - 4 oz - 113 g,150,4.5,3.5,0,10,140,30,1,7,6,2,15,15,20,0,0,0
+132949,22565,Chocolate Cookie (No Sugar Added Low Fat Ice Cream),1 scoop - 4 oz - 113 g,160,5,2,0.5,10,190,34,1,7,6,2,10,15,15,0,0,0
+132950,22565,Mad About Chocolate NSA Lowfat Ice Cream,1 scoop - 4 oz - 113 g,160,5,3.5,0,10,125,36,1,6,5,2,10,15,15,0,0,0
+132951,22565,Pineapple Coconut (No Sugar Added Low Fat Ice Cream),1 scoop - 4 oz - 113 g,150,2,1.5,0,10,105,27,0,9,4,4,10,15,0,0,0,0
+132952,22565,Tin Roof Sundae (No Sugar Added Low Fat Ice Cream),1 scoop - 4 oz - 113 g,190,3,1.5,0,10,105,34,1,9,4,2,10,15,0,0,0,0
+132953,22565,Maui Brownie Madness Low Fat Yogurt,1 scoop - 4 oz - 113 g,210,4,1.5,0,10,140,41,2,34,6,2,0,15,6,0,0,0
+132954,22565,Perils of Praline Low Fat Yogurt,1 scoop - 4 oz - 113 g,190,3.5,1.5,0,5,170,37,1,34,5,2,0,15,2,0,0,0
+132955,22565,Vanilla Nonfat Yogurt,1 scoop - 4 oz - 113 g,150,0,0,0,5,105,32,0,31,6,2,0,20,0,0,0,0
+132956,22565,Chocolate Nonfat Soft Serve Yogurt,1/2 cup - 88 g,120,0,0,0,0,85,25,1,22,4,2,0,15,2,0,0,0
+132957,22565,Peppermint Nonfat Soft Serve Yogurt,1/2 cup - 88 g,110,0,0,0,0,75,24,0,23,4,2,0,15,0,0,0,0
+132958,22565,Red Raspberry Nonfat Soft Serve Yogurt,1/2 cup - 88 g,110,0,0,0,0,75,25,0,24,4,2,0,15,2,0,0,0
+132959,22565,Vanilla Nonfat Soft Serve Yogurt,1/2 cup - 88 g,110,0,0,0,0,80,23,0,22,4,2,0,15,0,0,0,0
+132960,22565,Truly Free Butter Pecan No Sugar Added Nonfat Soft Serve Yogurt,1/2 cup - 88 g,90,0,0,0,5,90,17,1,6,4,2,0,15,0,0,0,0
+132961,22565,Truly Free Cafe Mocha Nonfat Soft Serve Yogurt,1/2 cup - 88 g,90,0,0,0,5,85,18,1,7,4,2,0,15,0,0,0,0
+132962,22565,Truly Free Chocolate No Sugar Added Nonfat Soft Serve Yogurt,1/2 cup - 88 g,80,0,0,0,0,80,15,0,6,4,2,0,15,2,0,0,0
+132963,22565,Truly Free Strawberry Patch No Sugar Added Nonfat Soft Serve Yogurt,1/2 cup - 88 g,90,0,0,0,5,85,17,1,6,4,2,0,15,0,0,0,0
+132964,22565,Truly Free Vanilla No Sugar Added Nonfat Soft Serve Yogurt,1/2 cup - 88 g,90,0,0,0,5,85,17,1,6,4,2,0,15,0,0,0,0
+132965,22565,Blue Raspberry Sherbet,1 scoop - 4 oz - 113 g,160,2,1.5,0,10,40,34,0,34,1,2,2,4,2,0,0,0
+132966,22565,Orange Sherbet,1 scoop - 4 oz - 113 g,160,2,1.5,0,10,40,34,0,34,1,4,2,6,0,0,0,0
+132967,22565,Rainbow Sherbet,1 scoop - 4 oz - 113 g,160,2,1.5,0,10,40,34,0,34,1,2,2,4,0,0,0,0
+132968,22565,Red Raspberry Sherbet,1 scoop - 4 oz - 113 g,160,2,1,0,10,40,36,0,35,1,2,2,4,4,0,0,0
+132969,22565,Rock 'n Pop Swirl Sherbet,1 scoop - 4 oz - 113 g,190,4,3,0,10,45,37,0,36,1,0,2,4,0,0,0,0
+132970,22565,Twisted Chip Sherbet,1 scoop - 4 oz - 113 g,180,3,2,0,10,35,36,0,36,1,4,2,4,2,0,0,0
+132971,22565,Wild 'N Reckless Spirit Sherbet,1 scoop - 4 oz - 113 g,160,2,1.5,0,10,40,33,0,33,1,0,2,6,0,0,0,0
+132972,22565,Daiquiri Ice,1 scoop - 4 oz - 113 g,130,0,0,0,0,15,34,0,34,0,0,0,0,0,0,0,0
+132973,22565,Margarita Ice,1 scoop - 4 oz - 113 g,130,0,0,0,0,15,34,0,34,0,0,0,0,0,0,0,0
+132974,22565,Pineapple Ice/Sorbet,1 scoop - 4 oz - 113 g,140,0,0,0,0,10,36,0,36,0,2,0,0,0,0,0,0
+132975,22565,Watermelon Ice,1 scoop - 4 oz - 113 g,130,0,0,0,0,15,34,0,34,0,0,0,0,0,0,0,0

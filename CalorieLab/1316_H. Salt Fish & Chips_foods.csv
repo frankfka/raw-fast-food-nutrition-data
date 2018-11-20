@@ -1,0 +1,5 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+132585,22527,Jumbo Shrimp,3 pieces - 107 g,439,13,2,0,191,370,12,0,0,23,0,0,0,0,0,0,0
+132586,22527,Mini Shrimp,212.5 g,514,26,4,0,140,940,46,0,0,24,0,0,0,0,0,0,0
+132587,22528,"Fish Fillet, Battered & Fried",105 g,245,13,3,0,39,500,18,0,0,13,0,0,0,0,0,0,0
+132588,22528,French Fries,30 - 40 fries - 115 g,235,19,6,0,0,187,44,0,0,5,0,0,0,0,0,0,0

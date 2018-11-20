@@ -1,0 +1,16 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+109800,20765,Adopted Luke,1 burger,641,21,10,0,123,1583,62,8,29,48,0,0,0,0,0,0,0
+109801,20765,Cousin Oliver,1 burger,456,12,4,0,109,1254,40,7,12,47,0,0,0,0,0,0,0
+109802,20765,Southwestern Veggie Burger,1 burger,370,8,2,0,20,469,66,13,13,14,0,0,0,0,0,0,0
+109803,20765,Venetian Veggie Burger,1 burger,464,11,2,0,21,947,80,18,21,21,0,0,0,0,0,0,0
+109804,20765,West-Side,1 burger,486,16,4,0,109,1096,43,9,11,46,0,0,0,0,0,0,0
+109805,20766,BBQ Chicken,1 sandwich,498,8,3,0,51,1850,77,8,25,31,0,0,0,0,0,0,0
+109806,20766,Buffalo Chicken,1 sandwich,452,10,3,0,56,1641,60,6,12,32,0,0,0,0,0,0,0
+109807,20766,Grilled Steak,1 sandwich,479,9,2,0,72,603,60,4,2,38,0,0,0,0,0,0,0
+109808,20766,Steak Bomb,1 sandwich,574,12,4,0,78,788,68,5,8,46,0,0,0,0,0,0,0
+109809,20767,Asian Chicken,large salad,262,14,2,0,51,1268,10,3,5,21,0,0,0,0,0,0,0
+109810,20767,Caesar,large salad,258,16,3,0,21,585,19,3,4,15,0,0,0,0,0,0,0
+109811,20767,Chipotle Chicken Salad,large salad,457,16,9,0,0,173,53,10,6,34,0,0,0,0,0,0,0
+109812,20767,New American,large salad,280,20,4,0,19,599,16,5,7,16,0,0,0,0,0,0,0
+109813,20768,Crisp Veggies,70 g,68,2,0,0,0,575,11,5,3,4,0,0,0,0,0,0,0
+109814,20769,Real Fries,3 oz,140,4,0,0,0,400,24,2,0,2,0,0,0,0,0,0,0

@@ -1,0 +1,487 @@
+menu_id,menu_name,restaurant_id
+3306,Peri Peri Sauces,427
+3307,Cooking & Pasta Sauces,427
+3308,Marinades,427
+3309,Table & Dipping Sauces,427
+2998,Sandwiches,389
+2999,Chili & Beans,389
+3000,Soups,389
+3001,Beverages,389
+3002,Donuts,389
+3003,Timbits,389
+3004,Cookies,389
+3005,Muffins,389
+3006,Bagels,389
+3007,Cream Cheese,389
+3008,Specialty Baked Goods,389
+3009,Yogurt & Berries,389
+2987,Sandwiches,388
+2988,Soups,388
+2989,Beverages,388
+2990,Donuts,388
+2991,Timbits,388
+2992,Cookies,388
+2993,Muffins,388
+2994,Bagels,388
+2995,Cream Cheese,388
+2996,Specialty Baked Goods,388
+2997,Yogurt & Berries,388
+2900,Pretzels,376
+2901,Sauces,376
+2896,Pretzels,375
+2897,Pretzels - Bites,375
+2898,Toppings,375
+2899,Beverages,375
+2872,Caffè Latte,371
+2873,Caffè Latte with Vanilla,371
+2874,Cappuccinos,371
+2875,Caffè Mocha,371
+2876,White Chocolate Mocha,371
+2877,Latte Macchiato,371
+2828,Fries,368
+2791,At A Glance,363
+2790,Doughnuts,362
+2787,Doughnuts,361
+2788,Doughnuts Holes,361
+2789,Frozen Blends,361
+2784,Low Fat Flavours,358
+2773,Smoothies,355
+2774,Blends,355
+2775,Juices,355
+2776,Boosts,355
+2777,Baked Goods,355
+2705,Bagels,346
+2706,Cream Cheese,346
+2707,Cookies,346
+2708,Danish,346
+2709,Muffins,346
+2710,Other Bakery,346
+2711,Coffee,346
+2712,Coolatta,346
+2713,Flavored Coffee,346
+2714,Hot Espresso Drinks,346
+2715,Iced Coffee,346
+2716,Iced Espresso Drinks,346
+2717,Other Beverages,346
+2718,Smoothie,346
+2719,Tea,346
+2720,Breakfast Sandwiches,346
+2721,Paninis,346
+2722,Donuts,346
+2723,Fancies,346
+2724,Munchkins,346
+2725,Sticks,346
+2672,Cold Stone Originals™,341
+2673,"Ice Cream (in waffle cone or bowl, no mix-ins)",341
+2674,"Ice Cream (cups, no mix-ins)",341
+2675,Mix-Ins and Waffle Products,341
+2676,Shakes and Smoothies,341
+2677,"Sinless Sorbet™ (in waffle cone or bowl, no mix-ins)",341
+2678,"Sinless Sorbet™ (cups, no mix-ins)",341
+2679,Signature Cakes,341
+2575,Pretzels & More,327
+2576,Beverages,327
+2577,Dipping Sauces,327
+2379,6-inch Sandwiches with 6 grams of fat or less,307
+2380,6-inch Sandwiches,307
+2381,Deli Style Sandwiches,307
+2382,Wraps,307
+2383,Salads,307
+2384,Salad Dressing,307
+2385,Breads & Wrap,307
+2386,Sandwich Condiments,307
+2387,Cookies,307
+2388,Donuts and Muffins,307
+2371,Subway 6-inch Sandwiches with 6 grams of Fat or Less,306
+2372,Subway 6-inch Sandwiches,306
+2373,Deli Style Sandwiches,306
+2374,Wraps,306
+2375,Salads,306
+2376,Cookies,306
+2377,Breads,306
+2378,Sandwich & Salad Condiments,306
+2353,6-inch Sandwiches with 6 grams of Fat or Less,305
+2354,6-inch Sandwiches,305
+2355,Deli Style Sandwiches,305
+2356,Wraps,305
+2357,Salads,305
+2358,Salad Dressing,305
+2359,6-inch Limited Time Offer/Regional Subs,305
+2360,Breakfast Sandwiches on Deli Round,305
+2361,Breakfast Sandwiches on 6-inch Bread,305
+2362,Breakfast Sandwiches on Wrap,305
+2363,Cookies & Desserts,305
+2364,Fruizle Express,305
+2365,Soup,305
+2366,Breads,305
+2367,Sandwich Condiments (amount on 6-inch sub),305
+2368,Vegetables,305
+2369,"Cheese (amount on 6-inch sub, wrap or salad)",305
+2370,Individual Meats (amount on 6-inch sub or salad),305
+2338,Sandwiches,304
+2339,Carb Conscious,304
+2340,6-inch Double Meat (DM),304
+2341,"6"" Limited Time Offer/Regional Subs",304
+2342,Breakfast Sandwiches,304
+2343,Breakfast Wraps,304
+2344,"Individual Meats (amount on 6"" sub or salad)",304
+2345,Salads,304
+2346,Soup,304
+2347,Breads,304
+2348,Condiments & Extras,304
+2349,Select Sauce (Bottled),304
+2350,Vegetables,304
+2351,Cookies,304
+2352,Fruizle Express,304
+2279,Quiznos Subs,296
+2257,Build Your Own Pita,291
+2256,Build Your Own Pita,290
+2242,Freshly Baked Breads,288
+2243,Baked Soufflés & Bagels,288
+2244,Soups,288
+2245,Sandwiches,288
+2246,Hand-Tossed Salads,288
+2247,Salad Dressings,288
+2248,Pastries & Sweets,288
+2249,Beverages,288
+1900,Soups,245
+1901,Entree Salads (with dressing),245
+1902,Side Salads,245
+1903,Salad Dressings,245
+1904,Sandwiches,245
+1905,Panini,245
+1906,Pasta,245
+1907,Breakfast,245
+1773,Roast Beef Sandwiches,235
+1774,Other Sandwiches,235
+1775,Market Fresh Sandwiches,235
+1776,Market Fresh Wraps,235
+1777,Market Fresh Salads,235
+1778,Light Salad Dressings,235
+1779,Sides,235
+1780,Sidekickers,235
+1781,Soups (October to May Only),235
+1782,Desserts,235
+1783,Sauces / Condiments,235
+1784,Shakes,235
+1785,Beverages,235
+1750,Breakfast,234
+1751,Market Fresh™ Sandwiches & Wraps,234
+1752,Arby's Subs,234
+1753,Arby's Roast Beef Sandwiches & Melts,234
+1754,Sides & Sidekickers,234
+1755,Arby's Chicken Naturals™,234
+1756,T.J. Cinnamons,234
+1757,Kids Meal,234
+1758,Other,234
+1759,Shakes & Desserts,234
+1760,Market Fresh™ Salads,234
+1761,Beverages,234
+1762,Breakfast Components,234
+1763,Market Fresh™ Sandwiches & Wraps Components,234
+1764,Arby's Subs Components,234
+1765,Arby's Roast Beef Sandwiches & Melts Components,234
+1766,Sides & Sidekickers Components,234
+1767,Arby's Chicken Naturals™ Components,234
+1768,T.J. Cinnamons Components,234
+1769,Kids Meal Components,234
+1770,Other Components,234
+1771,Shakes & Desserts Components,234
+1772,Market Fresh™ Salads Components,234
+1727,Pizzas,228
+1728,Appetizers & Sandwiches,228
+1729,Salads,228
+1698,Small Pizzas,224
+1699,Medium Pizzas,224
+1700,Large Pizzas,224
+1701,X-Large Pizzas,224
+1702,Square Pizzas,224
+1703,"18"" Pizzas",224
+1704,Pizzas,224
+1705,Sandwiches,224
+1706,Chicken,224
+1707,Salads and Breads,224
+1708,Add-Ons,224
+1669,"12"" Medium Pan Pizzas",222
+1670,"12"" Medium Thin 'N Crispy Pizzas",222
+1671,"12"" Medium Hand-Tossed Style Pizzas",222
+1672,"14"" Large Pan Pizzas",222
+1673,"14"" Large Thin 'N Crispy Pizzas",222
+1674,"14"" Large Hand-Tossed Style Pizzas",222
+1675,"14"" Large Stuffed Crust Pizzas",222
+1676,"16"" Full House XL Pizza™",222
+1677,"6"" Personal Pan Pizzas",222
+1678,"12"" Fit n' Delicious Pizza™",222
+1679,"14"" Fit n' Delicious Pizza™",222
+1680,Cheesy Bites Pizza,222
+1681,Appetizers,222
+1682,Dressings & Dipping Sauces,222
+1683,Desserts,222
+1684,Soft Drinks,222
+1648,Speciality Pizzas,218
+1649,Side Items,218
+1650,Dipping Sauces and Seasonings,218
+1557,"12"" Round Pizza",208
+1558,"12"" Round Pizza Additional Topping",208
+1559,"14"" Round Pizza",208
+1560,"14"" Round Pizza Additional Topping",208
+1561,"12"" Thin Crust",208
+1562,"14"" Thin Crust",208
+1563,"16"" Round Pizza",208
+1564,"18"" Round Pizza",208
+1565,Med Deep Dish,208
+1566,Large Deep Dish,208
+1567,Slice,208
+1568,Other Items,208
+1569,Deli Sandwiches,208
+1570,Individual Size Salads,208
+1571,Salad Dressings,208
+1454,Bread Sides,198
+1455,Chicken Sides,198
+1456,Salads & Dressings,198
+1457,"12"" Medium Classic Hand-Tossed Pizzas",198
+1458,"12"" Medium Ultimate Deep Dish Pizzas",198
+1459,"12"" Medium Crunchy Thin Crust Pizzas",198
+1460,"14"" Large Classic Hand-Tossed Pizzas",198
+1461,"14"" Large Ultimate Deep Dish Pizzas",198
+1462,"14"" Large Crunchy Thin Crust Pizzas",198
+1463,"12"" Medium Pizza Crust/Sauce/Cheese Options",198
+1464,"14"" Large Pizza Crust/Sauce/Cheese Options",198
+1465,"12"" Medium 2-or-3-Topping Pizza Toppings",198
+1466,"14"" Large 2-or-3-Topping Pizza Toppings",198
+1467,"12"" Medium Single-Topping Pizza Toppings",198
+1468,"14"" Large Single-Topping Pizza Toppings",198
+1418,Starters,192
+1419,Soups and Salads,192
+1420,Gourmet Pizza,192
+1421,Gourmet Pastas,192
+1422,Sandwiches,192
+1423,Entrees,192
+1424,Desserts,192
+1425,Delicious Alternatives,192
+1426,Kids Items,192
+1427,Sides Dishes,192
+1391,Burritos,187
+1392,Tacos,187
+1393,Salads,187
+1394,"Nachos, Etc...",187
+1395,Side Items,187
+1396,Dessert Items,187
+1397,Sauces & Dressings,187
+1331,Baja Bowls,180
+1332,Super Burritos,180
+1333,Almost Super Burritos,180
+1334,Jumbo Burritos,180
+1335,Almost Jumbo Burritos,180
+1336,Vegan Burritos,180
+1337,Enchiladas,180
+1338,Nachos & Chips,180
+1339,Quesadillas,180
+1340,Tacos,180
+1341,Taco Salads,180
+1342,Carbohydrate Modified Items,180
+1343,Kids Menu,180
+1344,Breakfast Menu,180
+1345,Tortillas,180
+1346,Sides,180
+1347,Sauces,180
+1348,Desserts,180
+1298,Fresco Style,177
+1299,Big Bell Value Menu,177
+1300,Tacos,177
+1301,Gorditas,177
+1302,Chalupas,177
+1303,Burritos,177
+1304,Specialities,177
+1305,Nachos and Sides,177
+1306,Express Menu Items,177
+1133,Tacos,157
+1134,Burritos,157
+1135,Quesadillas,157
+1136,Salads,157
+1137,Burgers,157
+1138,Nachos,157
+1139,Sides,157
+1140,Fries,157
+1141,Breakfast,157
+1142,Shakes,157
+1143,Drinks,157
+1132,Cheat Sheet,156
+1111,Burritos,152
+1112,Tacos,152
+1113,Salads and Soup,152
+1114,Fajitas,152
+1115,Quesadilla,152
+1116,Kids' Faves,152
+1117,Sides,152
+1084,Appetizers,147
+1085,Salads,147
+1086,Salad Dressings,147
+1087,Soups,147
+1088,Sandwiches,147
+1089,Lunch Menu,147
+1090,Dinner Menu,147
+1091,Platters,147
+1092,Kids Meals,147
+1093,Desserts,147
+1094,Sides,147
+1036,Sandwiches & Meals,143
+1037,Cheeses,143
+1038,Sides,143
+1039,Condiments,143
+1040,Beverages,143
+1041,Milk Shakes,143
+1031,Breakfast,142
+1032,Drinks,142
+1033,Entrees,142
+1034,Side Orders & Desserts,142
+1035,Whatameals,142
+1018,Garden Sensations Salads,141
+1019,Garden Sensations Salads - Additional Salad Dressings,141
+1020,Homestyle Chicken Strips & Crispy Chicken Nuggets,141
+1021,Side Selections,141
+1022,Beverages and Frosty™,141
+1023,Sandwiches,141
+1024,Sandwich Components,141
+1025,Wendy's Old Fashioned Hamburgers,141
+1026,Chicken Temptations Chicken Strips and Nuggets,141
+1027,Super Value Menu™,141
+1028,Hot Stuffed Baked Potatoes,141
+1029,Side Dishes,141
+1030,Frosty™ and Beverages,141
+1011,Garden Sensations Salads,140
+1012,Frosty™ and Beverages,140
+1013,Side Dishes,140
+1014,"Chicken Temptations, Chicken Strips and Fish",140
+1015,Sandwiches,140
+1016,Hot Stuffed Baked Potatoes,140
+1017,Sandwich Components,140
+997,Veg Menu,135
+998,Non-Veg Menu,135
+999,Add Ons,135
+1000,Beverages,135
+1001,Frozen Desserts,135
+990,Main Menu,134
+991,Breakfast,134
+992,Sides,134
+993,Beverages,134
+994,Desserts,134
+995,Salads Plus,134
+996,Deli Choices,134
+984,Salads,133
+985,Sandwiches,133
+986,Breakfast,133
+987,Fries and Dips,133
+988,Desserts,133
+989,Soft Drinks,133
+974,Burgers,132
+975,Fries & Chicken McNuggets,132
+976,Pasta Zoo,132
+977,Lighter Choices,132
+978,Deli Choices,132
+979,Salads,132
+980,Condiments,132
+981,Drinks,132
+982,Breakfast,132
+983,Dessert,132
+963,Breakfast,131
+964,Sandwiches,131
+965,Toasted Deli Sandwiches (also available on whole wheat roll),131
+966,Chicken McNuggets / Sauces,131
+967,Salads Plus™,131
+968,Salads Plus™ - NEWMAN'S OWN All-Natural Salad Dressings,131
+969,Side Orders,131
+970,Baked Muffins,131
+971,Desserts,131
+972,Triple Thick Milkshake / McFlurry Desserts,131
+973,Beverages,131
+955,Sandwiches,130
+956,French Fries,130
+957,Chicken McNuggets/Chicken Selects Premium Breast Strips,130
+958,Salads,130
+959,Salad Dressings,130
+960,Breakfast,130
+961,Desserts/Shakes,130
+962,Beverages,130
+929,Fountain,126
+930,Starters,126
+931,Hamburgers,126
+932,Sandwiches,126
+933,Other Favorites,126
+934,Extra Extras,126
+935,Beverages,126
+936,Desserts,126
+937,Kids,126
+919,Salads,125
+920,Burgers,125
+921,Chicken & More,125
+922,Snacks & Extras,125
+923,Shakes & Desserts,125
+924,Drinks,125
+925,Breakfast,125
+926,Kids Meals,125
+927,Sauces & Dressings,125
+928,Condiments,125
+915,Burgers,124
+916,Sides,124
+917,Shakes & Beverages,124
+918,Secret Menu Burgers (Estimated by CalorieLab),124
+907,Main Menu Items,123
+908,Kids Combos,123
+909,Garnishes,123
+910,Dipping Sauces,123
+911,Salad Dressings,123
+912,Side Orders,123
+913,Beverages,123
+914,Breakfast,123
+852,Breakfast,117
+853,"Burgers, Sandwiches & Other Choices",117
+854,Deserts,117
+855,Extra,117
+856,Hand-Scooped Ice Cream Shakes & Malts™,117
+857,Low Carb,117
+858,Salad Dressings,117
+859,Salads,117
+860,Sides,117
+827,WHOPPER Sandwiches,115
+828,Fire-Grilled Burgers,115
+829,Chicken & Fish,115
+830,Side Orders,115
+831,Dipping Sauces,115
+832,Salads,115
+833,Salad Dressings & Toppings,115
+834,Desserts,115
+835,Breakfast,115
+836,Breakfast Jams and Syrup,115
+837,Drinks,115
+838,Have It Your Way,115
+775,Burgers,108
+776,Chubby Chicken,108
+777,Sides,108
+778,Drinks,108
+779,Breakfast,108
+780,Dessert,108
+767,Sandwiches & Strips,107
+768,Dipping Sauces,107
+769,Hot Dogs,107
+770,Sides,107
+771,Root Beer,107
+772,Root Beer Floats,107
+773,Other Beverages,107
+774,Sweets and Treats,107
+608,Just For Kids,93
+609,Carb Conscious,93
+610,Great All Around Choices,93
+611,Fewer Fat Grams,93
+612,Watching Your Calories,93
+569,Breakfast,87
+570,Breakfast - a la carte,87
+571,Promotional,87
+572,Condiments & Beverages,87
+573,Desserts,87
+574,Toppings,87
+575,Fit™ Fare,87
+576,Sandwiches/Salads/Soups,87
+577,Seniors,87
+578,Kid's D-Zone,87
+579,Appetizers and Entrees,87

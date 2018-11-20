@@ -1,0 +1,5 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+108358,20652,Non Fat Vanilla Yogurt,1/2 cup,100,0,0,0,0,0,22,0,20,0,0,0,0,0,0,0,0
+108359,20652,Vanilla Yogurt,1/2 cup,120,3,0,0,10,0,10,0,19,0,0,0,0,0,0,0,0
+108360,20652,Vanilla No Sugar Added,1/2 cup,100,3,0,0,15,0,19,0,10,0,0,0,0,0,0,0,0
+108361,20652,Chocolate No Sugar Added,1/2 cup,110,3,0,0,10,0,22,0,5,0,0,0,0,0,0,0,0

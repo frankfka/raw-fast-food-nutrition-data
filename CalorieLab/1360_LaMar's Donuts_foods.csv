@@ -1,0 +1,22 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+136077,22776,Ray's Original Glazed Donut,,220,10,2.5,0,0,260,31,0,13,0,0,0,0,0,0,0,0
+136078,22776,Ray's Chocolate Glazed Donut,,290,11,3,0,0,260,44,0,25,0,0,0,0,0,0,0,0
+136079,22776,Chocolate Iced Cake Donut,,330,18,4.5,0,0,320,37,0,21,0,0,0,0,0,0,0,0
+136080,22776,Blueberry Cake Donut,,350,17,4,0,0,280,47,0,33,0,0,0,0,0,0,0,0
+136081,22776,White Iced Cake Donut,,320,17,4.5,0,0,320,38,0,23,0,0,0,0,0,0,0,0
+136082,22776,Apple Spice Cake Donut,,340,17,4.5,0,0,250,44,0,31,0,0,0,0,0,0,0,0
+136083,22776,Old Fashioned Sour Cream Donut,,420,18,4.5,0,15,380,60,0,40,0,0,0,0,0,0,0,0
+136084,22777,Bavarian Cream Bizmark,,620,22,5,0,0,570,101,0,61,0,0,0,0,0,0,0,0
+136085,22777,Lemon Filled Bizmark,,530,21,5,0,0,640,80,0,40,0,0,0,0,0,0,0,0
+136086,22777,Blueberry Filled Bizmark,,520,20,5,0,0,550,81,0,37,0,0,0,0,0,0,0,0
+136087,22777,Cherry Filled Bizmark,,550,19,5,0,0,560,88,0,45,0,0,0,0,0,0,0,0
+136088,22778,Chocolate Iced LaMar's Bar,,540,22,6,0,0,440,81,0,49,0,0,0,0,0,0,0,0
+136089,22778,Chocolate Iced LaMar's Bar,,600,22,6,0,0,490,96,0,61,0,0,0,0,0,0,0,0
+136090,22778,Chocolate Iced LaMar's Bar,,810,35,9,0,0,460,120,0,85,0,0,0,0,0,0,0,0
+136091,22778,Chocolate Iced LaMar's Bar,,800,35,9,0,0,440,118,0,84,0,0,0,0,0,0,0,0
+136092,22778,Caramel Iced LaMar's Bar,,430,18,4.5,0,0,430,59,0,29,0,0,0,0,0,0,0,0
+136093,22779,Cinnamon Twist,,770,26,7,0,0,1190,120,0,32,0,0,0,0,0,0,0,0
+136094,22779,Apple Fritter,,650,26,7,0,0,1020,91,0,13,0,0,0,0,0,0,0,0
+136095,22779,Cinnamon Roll,,690,25,6,0,0,1020,106,0,30,0,0,0,0,0,0,0,0
+136096,22779,German Chocolate Knot,,480,27,9,0,0,580,54,0,15,0,0,0,0,0,0,0,0
+136097,22779,Raisin Nut Cinnamon Roll,,850,27,6,0,0,1020,137,0,62,0,0,0,0,0,0,0,0

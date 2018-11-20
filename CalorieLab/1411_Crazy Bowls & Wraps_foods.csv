@@ -1,0 +1,48 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+143003,23138,Grilled Chicken Caesar,,720,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143004,23138,Grilled BBQ Chicken,,627,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143005,23138,Grilled Teriyaki Chicken,,528,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143006,23138,Grilled Spicy Buffalo,,518,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143007,23138,Grilled Pesto Chicken,,761,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143008,23138,Jalapeno-Cilantro Chicken,,530,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143009,23138,Jalapeno Cilantro Steak,,590,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143010,23138,Mediterranean,,587,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143011,23138,Traditional,,592,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143012,23138,Thai Chicken,,770,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143013,23138,Veggie with Feta Cheese,,677,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143014,23139,Mini Superbowl,regular bowl,325,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143015,23139,Original Superbowl,regular bowl,470,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143016,23139,Salmon Superbowl,regular bowl,470,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143017,23139,Bean Superbowl,regular bowl,460,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143018,23139,Crazy Bowl,regular bowl,420,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143019,23139,Salmon Teriyaki,regular bowl,420,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143020,23139,Zesty Bean,regular bowl,370,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143021,23139,Hot & Spicy Chicken,regular bowl,400,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143022,23139,Thai Chicken,regular bowl,520,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143023,23139,Garlic Ginger Chicken,regular bowl,520,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143024,23139,Sesame Chicken,regular bowl,520,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143025,23139,Wine-Seared Chicken,regular bowl,420,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143026,23139,"Olive Oil, Herb, Lemon Chicken",regular bowl,520,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143027,23139,High Protein,regular bowl,257,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143028,23139,Chicken Fajita,regular bowl,778,18.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143029,23139,Chicken Curry,regular bowl,500,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143030,23139,Power Bowl,regular bowl,569,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143031,23140,Steamed Viggie,regular bowl,300,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143032,23140,Teriyakl,regular bowl,350,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143033,23140,Thai,regular bowl,420,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143034,23140,Garlic Ginger,regular bowl,370,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143035,23140,"Olive Oil, Herb & Lime",regular bowl,420,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143036,23140,Hot & Spicy,regular bowl,270,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143037,23140,Wine-Seared,regular bowl,320,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143038,23140,Veggie Fajita,regular bowl,613,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143039,23140,Veggie Curry,regular bowl,420,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143040,23141,Barley Lentill,,350,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143041,23141,Cheese Quesadilla,,488,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143042,23141,BBQ Chicken Quesadilla,,663,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143043,23141,Veggie Quesadilla,,518,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143044,23142,Chicken Caesar,,692,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143045,23142,Santa Fe Chicken,,656,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143046,23142,Crunchy Chicken,,667,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143047,23143,Very Berry,,360,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143048,23143,Strawberry-Orange-Banana,,359,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143049,23143,Chocolate Lover's Delight,,365,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

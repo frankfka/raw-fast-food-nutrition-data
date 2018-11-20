@@ -1,0 +1,11 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+106127,20491,All American Wing,5 each - 148.8 g,410,19,3.5,0,60,1500,29,1,0,28,0,0,0,20,0,0,0
+106128,20491,Honey BBQ,5 each - 219 g,580,20,3.5,0,60,2050,71,2,34,29,0,6,6,20,0,0,0
+106129,20491,Totally Teriyaki,5 each - 214.9 g,540,20,3.5,0,60,2320,61,2,18,29,0,6,6,20,0,0,0
+106130,20491,Garlic Parmesan,5 each - 177.8 g,530,30,6,0,65,1890,33,2,2,32,2,6,8,20,0,0,0
+106131,20491,Spicy BBQ,5 each - 216.2 g,540,20,3.5,0,65,2320,60,2,24,29,0,0,0,20,0,0,0
+106132,20491,Cajun,5 each - 208.2 g,530,20,3.5,0,60,2280,57,2,17,29,2,10,4,20,0,0,0
+106133,20491,Flame Thrower,5 each - 206.4 g,520,20,3.5,0,55,2370,57,2,15,28,0,30,2,20,0,0,0
+106134,20492,Wing Street Taters,1/4 order - 113.4 g,350,21,5,0,0,1150,37,5,0,4,0,0,4,6,0,0,0
+106135,20492,Cheese Sticks,2 each - 47.6 g,160,10,3.5,0,15,380,12,1,2,5,0,4,15,0,0,0,0
+106136,20492,Apple Pies,2 each - 88.7 g,270,14,5,0,0,210,36,0,14,2,0,0,0,4,0,0,0

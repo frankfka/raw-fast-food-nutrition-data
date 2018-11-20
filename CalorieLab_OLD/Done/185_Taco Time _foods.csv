@@ -1,0 +1,5 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+17701,1377,Gourmet Chicken Burrito,606,26,0,0,92,891,53,9,0,40,0,0,0,0,0,0,0
+17702,1377,Gourmet Mahi Mahi Burrito,759,39,0,0,34,"1,191",78,5,0,25,0,0,0,0,0,0,0
+17703,1377,Gourmet Shredded Beef Burrito,738,42.4,0,0,90.6,"1,563",55,9,0,33,0,0,0,0,0,0,0
+17704,1377,Smother IT,282,17,0,0,28,341,21,0,0,10,0,0,0,0,0,0,0

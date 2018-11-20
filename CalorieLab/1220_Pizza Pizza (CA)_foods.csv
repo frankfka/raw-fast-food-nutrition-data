@@ -1,0 +1,229 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+123356,21682,Classic Pizza - Bacon Double Cheeseburger,1/6 pizza - 92 g,220,8,3.5,0.1,20,600,27,1,1,10,4,0,2,15,0,0,0
+123357,21682,Classic Pizza - Big Bacon Bonanza,1/6 pizza - 89 g,230,9,4,0.1,20,570,27,1,1,10,4,0,2,10,0,0,0
+123358,21682,Classic Pizza - Cheese,1/6 pizza - 83 g,190,5,2.5,0.1,15,450,27,1,1,9,4,0,2,10,0,0,0
+123359,21682,Classic Pizza - Canandian Eh!,1/6 pizza - 101 g,220,8,3.5,0.1,20,620,27,1,1,10,6,0,2,15,0,0,0
+123360,21682,Classic Pizza - Classic Super,1/6 pizza - 99 g,200,6,2.5,0.1,20,550,27,1,2,9,10,0,2,15,0,0,0
+123361,21682,Classic Pizza - Garden Veggie,1/6 pizza - 103 g,180,4.5,2,0.1,10,420,28,2,2,8,15,1,2,10,0,0,0
+123362,21682,Classic Pizza - Mini Char-Grilled Burger,1/6 pizza - 112 g,250,11,4.5,0.3,10,530,28,2,2,11,8,0,2,15,0,0,0
+123363,21682,Classic Pizza - New York Pepperoni,1/6 pizza - 88 g,210,8,3.5,0.2,15,580,27,1,1,9,15,0,2,15,0,0,0
+123364,21682,Classic Pizza - Pepperoni,1/6 pizza - 88 g,200,6,2.5,0.1,15,550,27,1,1,9,4,0,2,15,0,0,0
+123365,21682,Classic Pizza - Pepperoni & Mushroom,1/6 pizza - 94 g,200,6,2.5,0.1,20,550,27,1,1,9,6,0,2,15,0,0,0
+123366,21682,Classic Pizza - Sicilian,1/6 pizza - 104 g,230,9,3.5,0.2,25,590,28,1,2,10,10,3,2,15,0,0,0
+123367,21682,Classic Pizza - Spicy BBQ Chicken,1/6 pizza - 99 g,190,4.5,2,0.1,15,500,28,2,2,10,10,0,4,15,0,0,0
+123368,21682,Classic Pizza - Tropical Hawaiian,1/6 pizza - 96 g,210,7,3,0.1,15,610,28,1,3,10,6,0,2,10,0,0,0
+123369,21682,Signature Pizza - Bacon Chicken Mushroom Melt,1/6 pizza - 104 g,260,13,3,0.2,15,570,27,1,1,11,2,0,4,10,0,0,0
+123370,21682,Signature Pizza - Chicken Bruschetta Parm,1/6 pizza - 95 g,190,6,2.5,0.1,23,560,23,1,2,10,4,0,4,10,0,0,0
+123371,21682,Signature Pizza - Chicken Mango,1/6 pizza - 108 g,200,6,2.5,0.1,15,510,27,3,3,11,8,2,6,15,0,0,0
+123372,21682,Signature Pizza - Garden Riviera,1/6 pizza - 102 g,210,6,2.5,0.1,10,650,29,2,1,9,6,1,2,15,0,0,0
+123373,21682,Signature Pizza - Meat Supreme,1/6 pizza - 117 g,280,13,5,0.2,40,860,28,1,1,14,4,0,2,15,0,0,0
+123374,21682,Signature Pizza - Mediterranean Vegetarian,1/6 pizza - 119 g,190,5,2,0.1,10,500,28,2,2,8,35,5,4,15,0,0,0
+123375,21682,Signature Pizza - Napa Valley,1/6 pizza - 87 g,210,8,3,0.1,15,430,23,1,1,10,2,1,4,10,0,0,0
+123376,21682,Signature Pizza - Pesto Amore,1/6 pizza - 77 g,180,7,2.5,0.1,10,320,21,2,3,7,8,4,2,10,0,0,0
+123377,21682,Signature Pizza - Philly Cheese Steak,1/6 pizza - 106 g,210,6,3,0.1,20,530,28,1,2,12,6,0,6,20,0,0,0
+123378,21682,Signature Pizza - Sweet Chili Chicken,1/6 pizza - 87 g,170,4,1.5,0.1,10,420,27,2,8,8,20,3,2,15,0,0,0
+123379,21682,Signature Pizza - Trio Pomodoro,1/6 pizza - 94 g,170,6,2,0.1,10,480,24,1,2,7,10,1,0,10,0,0,0
+123380,21683,Classic Pizza - Bacon Double Cheeseburger,1/8 pizza - 97 g,220,7,3.5,0.1,15,650,29,1,2,11,4,0,2,15,0,0,0
+123381,21683,Classic Pizza - Big Bacon Bonanza,1/8 pizza - 93 g,220,7,3.5,0.1,15,650,29,1,2,10,4,0,2,15,0,0,0
+123382,21683,Classic Pizza - Cheese,1/8 pizza - 89 g,200,5,3,0.2,15,480,29,1,1,9,4,0,4,15,0,0,0
+123383,21683,Classic Pizza - Canandian Eh!,1/8 pizza - 112 g,230,7,3,0.1,20,690,30,2,2,11,6,0,2,15,0,0,0
+123384,21683,Classic Pizza - Classic Super,1/8 pizza - 110 g,210,6,2.5,0.1,20,580,30,2,2,10,10,0,2,15,0,0,0
+123385,21683,Classic Pizza - Deep Dish Pepperoni,1/8 pizza - 129 g,330,11,4.5,0.2,20,800,45,2,2,14,15,0,4,20,0,0,0
+123386,21683,Classic Pizza - Garden Veggie,1/8 pizza - 111 g,190,4.5,2,0.1,10,440,30,2,2,8,15,2,2,15,0,0,0
+123387,21683,Classic Pizza - Mini Char-Grilled Burger,1/8 pizza - 113 g,260,10,4.5,0.3,10,540,30,2,2,11,6,0,2,15,0,0,0
+123388,21683,Classic Pizza - New York Pepperoni,1/8 pizza - 92 g,230,8,3.5,0.2,15,600,29,2,1,10,15,0,2,15,0,0,0
+123389,21683,Classic Pizza - Pepperoni,1/8 pizza - 93 g,210,6,2.5,0.1,20,580,29,1,1,10,4,0,2,15,0,0,0
+123390,21683,Classic Pizza - Pepperoni & Mushroom,1/8 pizza - 105 g,210,6,2.5,0.1,20,580,30,2,2,10,6,0,2,15,0,0,0
+123391,21683,Classic Pizza - Sicilian,1/8 pizza - 108 g,240,9,3.5,0.1,20,600,30,1,2,10,10,3,2,15,0,0,0
+123392,21683,Classic Pizza - Spicy BBQ Chicken,1/8 pizza - 104 g,200,4.5,2,0.1,15,510,30,2,2,10,10,0,4,15,0,0,0
+123393,21683,Classic Pizza - Tropical Hawaiian,1/8 pizza - 100 g,220,7,3,0.1,15,630,30,1,3,10,6,0,2,15,0,0,0
+123394,21683,Signature Pizza - Bacon Chicken Mushroom Melt,1/8 pizza - 112 g,270,12,3,0.2,15,600,29,1,1,12,2,0,4,15,0,0,0
+123395,21683,Signature Pizza - Chicken Bruschetta Parm,1/8 pizza - 94 g,180,6,2.5,0.1,20,560,22,1,2,10,4,0,6,10,0,0,0
+123396,21683,Signature Pizza - Chicken Mango,1/8 pizza - 115 g,220,7,2.5,0.1,15,540,30,3,3,11,8,2,6,15,0,0,0
+123397,21683,Signature Pizza - Garden Riviera,1/8 pizza - 107 g,220,6,2.5,0.1,10,690,31,2,2,9,6,1,4,15,0,0,0
+123398,21683,Signature Pizza - Meat Lover,1/8 pizza - 120 g,290,13,5,0.2,35,880,30,1,2,14,4,0,2,15,0,0,0
+123399,21683,Signature Pizza - Mediterranean Vegetarian,1/8 pizza - 125 g,210,6,2.5,0.1,10,590,31,2,2,9,35,5,4,15,0,0,0
+123400,21683,Signature Pizza - Napa Valley,1/8 pizza - 86 g,200,8,3,0.1,15,420,22,1,1,10,2,1,4,10,0,0,0
+123401,21683,Signature Pizza - Pesto Amore,1/8 pizza - 76 g,170,7,2.5,0.1,10,320,19,2,2,8,8,5,2,10,0,0,0
+123402,21683,Signature Pizza - Philly Cheese Steak,1/8 pizza - 116 g,230,6,3,0.1,20,570,31,2,2,12,6,0,6,25,0,0,0
+123403,21683,Signature Pizza - Sweet Chili Chicken,1/8 pizza - 91 g,170,4.5,2,0.1,15,440,26,2,8,9,25,4,4,15,0,0,0
+123404,21683,Signature Pizza - Trio Pomodoro,1/8 pizza - 91 g,180,6,2.5,0.1,10,470,22,1,2,8,10,2,6,10,0,0,0
+123405,21684,Classic Pizza - Bacon Double Cheeseburger,1/10 pizza - 107 g,250,9,4,0.2,20,750,32,2,2,12,4,0,2,15,0,0,0
+123406,21684,Classic Pizza - Big Bacon Bonanza,1/10 pizza - 102 g,250,9,4,0.1,20,720,32,1,2,12,4,0,2,15,0,0,0
+123407,21684,Classic Pizza - Cheese,1/10 pizza - 97 g,230,7,3.5,0.2,15,530,32,1,1,11,4,0,4,15,0,0,0
+123408,21684,Classic Pizza - Canandian Eh!,1/10 pizza - 124 g,260,9,4,0.2,25,780,33,2,2,13,4,0,4,15,0,0,0
+123409,21684,Classic Pizza - Classic Super,1/10 pizza - 125 g,240,8,3.5,0.2,25,650,33,2,2,12,20,0,4,15,0,0,0
+123410,21684,Classic Pizza - Garden Veggie,1/10 pizza - 126 g,220,6,3,0.2,15,500,33,2,2,10,20,2,4,15,0,0,0
+123411,21684,Classic Pizza - Mini Char-Grilled Burger,1/10 pizza - 123 g,290,12,5,0.3,15,600,32,2,2,13,6,0,4,15,0,0,0
+123412,21684,Classic Pizza - New York Pepperoni,1/10 pizza - 102 g,260,9,4,0.2,20,660,32,2,1,12,15,0,4,15,0,0,0
+123413,21684,Classic Pizza - Pepperoni,1/10 pizza - 104 g,240,8,3.5,0.2,25,650,32,1,1,11,4,0,4,15,0,0,0
+123414,21684,Classic Pizza - Pepperoni & Mushroom,1/10 pizza - 116 g,250,8,3.5,0.2,25,660,32,2,2,12,4,0,4,15,0,0,0
+123415,21684,Classic Pizza - Sicilian,1/10 pizza - 124 g,280,11,4.5,0.2,30,690,33,2,2,12,15,4,4,15,0,0,0
+123416,21684,Classic Pizza - Spicy BBQ Chicken,1/10 pizza - 116 g,230,6,3,0.2,20,570,33,2,2,12,15,0,4,15,0,0,0
+123417,21684,Classic Pizza - Tropical Hawaiian,1/10 pizza - 118 g,260,9,4,0.2,15,760,34,2,3,13,6,0,4,15,0,0,0
+123418,21684,Signature Pizza - Bacon Chicken Mushroom Melt,1/10 pizza - 126 g,310,15,4,0.3,20,680,32,1,2,13,2,0,4,15,0,0,0
+123419,21684,Signature Pizza - Chicken Bruschetta Parm,1/10 pizza - 105 g,220,8,3.5,0.2,25,630,25,1,2,12,4,0,10,10,0,0,0
+123420,21684,Signature Pizza - Chicken Mango,1/10 pizza - 130 g,250,8,3.5,0.2,20,620,32,3,3,14,8,4,8,15,0,0,0
+123421,21684,Signature Pizza - Garden Riviera,1/10 pizza - 119 g,250,8,3,0.2,15,760,34,2,2,11,6,2,4,15,0,0,0
+123422,21684,Signature Pizza - Meat Supreme,1/10 pizza - 131 g,320,14,6,0.2,40,970,33,2,2,16,4,0,4,15,0,0,0
+123423,21684,Signature Pizza - Mediterranean Vegetarian,1/10 pizza - 121 g,240,8,3,0.1,10,670,34,2,2,9,20,2,4,15,0,0,0
+123424,21684,Signature Pizza - Napa Valley,1/10 pizza - 100 g,230,9,3.5,0.2,20,500,25,1,1,12,2,2,4,10,0,0,0
+123425,21684,Signature Pizza - Pesto Amore,1/10 pizza - 91 g,200,9,3.5,0.1,15,310,22,2,3,9,10,6,4,15,0,0,0
+123426,21684,Signature Pizza - Philly Cheese Steak,1/10 pizza - 132 g,270,8,4,0.2,25,650,34,2,3,15,6,0,8,30,0,0,0
+123427,21684,Signature Pizza - Sweet Chili Chicken,1/10 pizza - 101 g,200,6,2.5,0.1,15,470,28,3,7,10,25,4,6,15,0,0,0
+123428,21684,Signature Pizza - Trio Pomodoro,1/10 pizza - 100 g,200,7,3,0.2,15,490,26,1,2,9,15,2,4,10,0,0,0
+123429,21685,Classic Pizza - Bacon Double Cheeseburger,1/12 pizza - 117 g,270,9,4.5,0.2,20,800,35,2,2,13,6,0,2,15,0,0,0
+123430,21685,Classic Pizza - Big Bacon Bonanza,1/12 pizza - 112 g,280,10,4.5,0.2,20,790,35,2,2,13,6,0,2,15,0,0,0
+123431,21685,Classic Pizza - Cheese,1/12 pizza - 104 g,240,6,3,0.2,15,560,35,2,2,11,6,0,4,15,0,0,0
+123432,21685,Classic Pizza - Canandian Eh!,1/12 pizza - 131 g,280,9,4,0.2,25,820,36,2,2,14,6,0,4,15,0,0,0
+123433,21685,Classic Pizza - Classic Super,1/12 pizza - 130 g,260,8,3.5,0.2,25,690,36,2,2,12,15,0,4,15,0,0,0
+123434,21685,Classic Pizza - Garden Veggie,1/12 pizza - 132 g,240,6,2.5,0.2,15,540,36,2,2,10,20,2,4,15,0,0,0
+123435,21685,Classic Pizza - Mini Char-Grilled Burger,1/12 pizza - 132 g,300,12,5,0.3,15,640,36,2,2,14,8,0,4,20,0,0,0
+123436,21685,Classic Pizza - New York Pepperoni,1/12 pizza - 111 g,270,10,4.5,0.2,20,720,35,2,2,12,15,0,4,15,0,0,0
+123437,21685,Classic Pizza - Pepperoni,1/12 pizza - 112 g,260,8,3.5,0.2,25,690,35,2,2,12,6,0,4,15,0,0,0
+123438,21685,Classic Pizza - Pepperoni & Mushroom,1/12 pizza - 123 g,260,8,3.5,0.2,25,690,35,2,2,12,6,0,4,15,0,0,0
+123439,21685,Classic Pizza - Sicilian,1/12 pizza - 131 g,290,11,4.5,0.2,25,720,37,2,2,12,15,4,4,15,0,0,0
+123440,21685,Classic Pizza - Spicy BBQ Chicken,1/12 pizza - 123 g,250,6,3,0.2,20,610,36,2,2,12,15,0,4,15,0,0,0
+123441,21685,Classic Pizza - Tropical Hawaiian,1/12 pizza - 121 g,280,9,4,0.2,20,750,37,2,3,13,6,0,2,15,0,0,0
+123442,21685,Signature Pizza - Bacon Chicken Mushroom Melt,1/12 pizza - 128 g,320,14,4,0.3,20,700,35,1,2,14,2,0,4,15,0,0,0
+123443,21685,Signature Pizza - Chicken Bruschetta Parm,1/12 pizza - 111 g,240,8,4,0.2,25,670,28,1,2,13,4,0,10,15,0,0,0
+123444,21685,Signature Pizza - Chicken Mango,1/12 pizza - 137 g,260,8,3.5,0.2,20,630,36,3,4,13,8,4,8,20,0,0,0
+123445,21685,Signature Pizza - Garden Riviera,1/12 pizza - 127 g,270,8,3,0.2,15,800,37,2,2,11,6,2,4,15,0,0,0
+123446,21685,Signature Pizza - Meat Lover,1/12 pizza - 142 g,350,15,6,0.3,45,1030,36,2,2,17,6,0,4,20,0,0,0
+123447,21685,Signature Pizza - Mediterranean Vegetarian,1/12 pizza - 129 g,250,8,3,0.1,10,690,38,2,2,10,35,4,4,15,0,0,0
+123448,21685,Signature Pizza - Napa Valley,1/12 pizza - 106 g,250,9,3.5,0.2,20,530,29,2,1,12,2,2,4,15,0,0,0
+123449,21685,Signature Pizza - Pesto Amore,1/12 pizza - 92 g,200,8,2.5,0.1,10,370,25,3,3,8,10,6,4,15,0,0,0
+123450,21685,Signature Pizza - Philly Cheese Steak,1/12 pizza - 137 g,280,8,4,0.2,20,670,37,2,3,15,6,0,8,25,0,0,0
+123451,21685,Signature Pizza - Sweet Chili Chicken,1/12 pizza - 108 g,220,6,2.5,0.1,15,490,32,3,9,10,25,4,4,15,0,0,0
+123452,21685,Signature Pizza - Trio Pomodoro,1/12 pizza - 108 g,210,7,3,0.1,15,520,29,2,2,9,15,2,4,15,0,0,0
+123453,21686,Classic Pizza - Canandian Eh!,1/6 pizza - 220 g,510,18,8,0.4,35,1400,66,3,3,23,25,0,6,30,0,0,0
+123454,21686,Classic Pizza - Cheese,1/6 pizza - 187 g,430,11,5,0.3,25,1000,64,3,3,19,8,0,6,30,0,0,0
+123455,21686,Classic Pizza - Classic Super,1/6 pizza - 227 g,460,13,6,0.3,35,1160,66,3,3,21,30,1,6,30,0,0,0
+123456,21686,Classic Pizza - Garden Veggie,1/6 pizza - 244 g,430,10,5,0.3,20,970,67,4,4,19,35,3,6,30,0,0,0
+123457,21686,Classic Pizza - Meat Lover,1/6 pizza - 246 g,600,25,10,0.4,70,1700,67,3,3,28,8,0,6,35,0,0,0
+123458,21686,Classic Pizza - Mediterranean Vegetarian,1/6 pizza - 247 g,500,16,7,0.3,30,1340,69,4,4,21,50,6,6,30,0,0,0
+123459,21686,Classic Pizza - Pepperoni,1/6 pizza - 196 g,450,13,6,0.3,35,1160,65,3,3,20,8,0,6,30,0,0,0
+123460,21686,Classic Pizza - Tropical Hawaiian,1/6 pizza - 216 g,470,13,6,0.3,25,1240,68,3,3,21,10,0,6,30,0,0,0
+123461,21687,Classic Pizza - Bacon Double Cheeseburger,1/6 pizza - 287 g,670,22,10,0.4,50,1920,87,4,4,32,15,0,6,40,0,0,0
+123462,21687,Classic Pizza - Big Bacon Bonanza,1/6 pizza - 284 g,710,26,11,0.4,55,2090,88,4,5,34,15,0,6,40,0,0,0
+123463,21687,Classic Pizza - Cheese,1/6 pizza - 250 g,570,14,7,0.4,30,1330,86,4,4,25,15,0,8,40,0,0,0
+123464,21687,Classic Pizza - Canandian Eh!,1/6 pizza - 318 g,680,22,10,0.5,60,2000,88,4,5,33,15,0,8,40,0,0,0
+123465,21687,Classic Pizza - Classic Super,1/6 pizza - 316 g,640,19,9,0.4,60,1710,89,5,5,30,40,1,8,40,0,0,0
+123466,21687,Classic Pizza - Garden Veggie,1/6 pizza - 326 g,580,14,7,0.4,30,1330,89,5,6,26,50,4,8,40,0,0,0
+123467,21687,Classic Pizza - Mini Char-Grilled Burger,1/6 pizza - 324 g,730,27,12,1,40,1580,89,5,5,33,20,2,8,45,0,0,0
+123468,21687,Classic Pizza - New York Pepperoni,1/6 pizza - 275 g,680,24,11,0.5,50,1770,87,5,4,30,35,0,8,40,0,0,0
+123469,21687,Classic Pizza - Pepperoni,1/6 pizza - 277 g,630,19,9,0.4,60,1710,87,4,4,29,15,0,8,40,0,0,0
+123470,21687,Classic Pizza - Sicilian,1/6 pizza - 314 g,670,22,9,0.5,55,1660,90,4,5,29,35,10,8,40,0,0,0
+123471,21687,Classic Pizza - Spicy BBQ Chicken,1/6 pizza - 318 g,620,15,7,0.4,45,1540,91,5,6,31,40,0,10,40,0,0,0
+123472,21687,Classic Pizza - Tropical Hawaiian,1/6 pizza - 297 g,660,20,9,0.4,40,1860,90,4,7,31,15,0,8,40,0,0,0
+123473,21687,Signature Pizza - Bacon Chicken Mushroom Melt,1/6 pizza - 327 g,830,39,10,0.5,45,1770,88,4,4,34,8,0,15,40,0,0,0
+123474,21687,Signature Pizza - Chicken Bruschetta Parm,1/6 pizza - 329 g,730,24,10,0.4,65,1990,91,4,5,38,10,3,35,30,0,0,0
+123475,21687,Signature Pizza - Chicken Mango,1/6 pizza - 344 g,670,21,8,0.4,50,1640,88,8,9,34,20,8,20,45,0,0,0
+123476,21687,Signature Pizza - Meat Lover,1/6 pizza - 339 g,810,33,13,0.5,95,2400,89,4,4,39,15,0,8,45,0,0,0
+123477,21687,Signature Pizza - Mediterranean Vegetarian,1/6 pizza - 334 g,650,21,8,0.4,30,1820,94,6,5,25,60,7,10,45,0,0,0
+123478,21687,Signature Pizza - Napa Valley,1/6 pizza - 311 g,740,26,9,0.4,55,1500,92,5,4,35,8,4,15,30,0,0,0
+123479,21687,Signature Pizza - Pesto Amore,1/6 pizza - 310 g,710,31,12,0.4,50,1310,82,8,10,32,30,16,10,40,0,0,0
+123480,21687,Signature Pizza - Philly Cheese Steak,1/6 pizza - 341 g,700,20,10,0.4,60,1730,93,5,8,37,15,0,20,70,0,0,0
+123481,21687,Signature Pizza - Quatro Fromaggio,1/6 pizza - 248 g,600,17,8,0.4,40,1400,86,4,4,26,15,0,6,40,0,0,0
+123482,21687,Signature Pizza - Sweet Chili Chicken,1/6 pizza - 310 g,650,17,7,0.2,40,1420,99,9,25,30,50,8,15,40,0,0,0
+123483,21687,Signature Pizza - Trio Pomodoro,1/6 pizza - 313 g,640,19,7,0.4,30,1510,94,5,5,26,50,8,15,40,0,0,0
+123484,21688,Dipping Sauce - Italian Marinara,1 dipping cup - 2 oz - 50 g,32.5,1.9,0,0,0,163,3.1,2,1.9,0.8,0,0,0,0,0,0,0
+123485,21688,Dipping Sauce - Horseradish,1 dipping cup - 2 oz - 50 g,205,19,0,0,30,510,7.5,0,4,0.5,0,0,0,0,0,0,0
+123486,21688,Dipping Sauce - Jalapeno Cheddar,1 dipping cup - 2 oz - 50 g,180,18,0,0,30,325,3.5,0,1.7,1.5,0,0,0,0,0,0,0
+123487,21688,Dipping Sauce - Creamy Garlic,1 dipping cup - 2 oz - 50 g,311,34,0,0,0.5,250,2.1,0.3,0.5,0.3,0,0,0,0,0,0,0
+123488,21689,New Oven Toasted Sandwich - Philly Cheese Steak,1 sandwich - 316 g,530,14,6,0.1,60,1440,61,3,12,37,20,10,20,100,0,0,0
+123489,21689,New Oven Toasted Sandwich - Italian Meatball,1 sandwich - 242 g,520,23,10,0.2,50,1230,52,4,0,25,0,0,4,25,0,0,0
+123490,21689,New Oven Toasted Sandwich - Mesquite BBQ Chicken,1 sandwich - 298 g,500,11,6,0.2,55,1610,62,3,11,34,15,8,8,35,0,0,0
+123491,21689,New Oven Toasted Sandwich - Assorted Italian Deli,1 sandwich - 286 g,680,32,12,0.4,100,2670,48,2,2,46,8,4,20,40,0,0,0
+123492,21689,New Oven Toasted Sandwich - Mediterranean Veggie,1 sandwich - 355 g,560,27,8,0.5,30,1550,57,4,4,20,30,20,10,30,0,0,0
+123493,21689,Stuffed Sandwich - Bacon Cheeseburger,1 sandwich - 152 g,350,12,6,0.2,30,990,44,2,2,17,10,0,4,20,0,0,0
+123494,21689,Stuffed Sandwich - Basic Cheese and Sauce,1 sandwich - 139 g,300,8,4,0.2,20,750,44,2,2,14,10,0,4,20,0,0,0
+123495,21689,Stuffed Sandwich - Burger,1 sandwich - 270 g,620,29,12,0.2,105,1180,58,2,5,33,6,3,2,25,0,0,0
+123496,21689,Stuffed Sandwich - Supreme Burger,1 sandwich - 312 g,770,40,18,0.4,145,1740,59,2,5,45,6,4,5,25,0,0,0
+123497,21689,Stuffed Sandwich - Classic Super,1 sandwich - 172 g,340,11,5,0.3,30,940,45,3,3,16,25,0,3,15,0,0,0
+123498,21689,Stuffed Sandwich - Garden Veggie,1 sandwich - 172 g,310,8,4,0.2,20,750,45,3,3,14,25,2,3,15,0,0,0
+123499,21689,Stuffed Sandwich - Mediterranean Vegetarian,1 sandwich - 199 g,390,15,6,0.3,25,1130,49,3,3,16,45,6,8,25,0,0,0
+123500,21689,Stuffed Sandwich - Pepperoni,1 sandwich - 153 g,330,10,5,0.3,30,940,44,2,2,16,10,0,3,15,0,0,0
+123501,21689,Stuffed Sandwich - Tropical Hawaiian,1 sandwich - 168 g,360,12,5,0.3,25,1050,47,2,5,17,10,0,4,20,0,0,0
+123502,21690,Classic Wings (approx. 6),200 g,422,30,0,0,150,118,0.4,0,0,40,0,8,4,8,0,0,0
+123503,21690,Crispy Breaded Wings (approx. 6),280 g,720,46,0,0,180,1320,22,0,1,46,0,4,4,20,0,0,0
+123504,21690,Lightly Breaded Wings (approx. 6),280 g,660,40,0,0,150,1620,36,0,8,40,0,0,0,6,0,0,0
+123505,21690,Chicken Crunchers (approx. 6 pcs.),125 g,316,22,0,0,20,1028,28.8,0,0,16.1,0,2,0,1,0,0,0
+123506,21690,Chicken Bites (approx. 3 pcs.),100 g,230,11,0,0,40,450,14,1,0,19,0,0,0,6,0,0,0
+123507,21690,Chicken Strips (approx. 3),138 g,310,16,0,0,30,1010,22,1,4,19,0,0,0,1,0,0,0
+123508,21690,Dipping Sauce - Hot,1 dipping cup - 2 oz - 50 g,17.5,0.2,0,0,0,471.2,3.6,0.6,1.5,0.5,0,0,0,0,0,0,0
+123509,21690,Dipping Sauce - Mild,1 dipping cup - 2 oz - 50 g,15.5,0.1,0,0,0,438,3.5,0.4,2,0.4,0,0,0,0,0,0,0
+123510,21690,Dipping Sauce - Honey Mustard,1 dipping cup - 2 oz - 50 g,78.5,0.3,0,0,0,137.5,18.1,0.4,15.5,0.9,0,0,0,0,0,0,0
+123511,21690,Dipping Sauce - Honey Garlic,1 dipping cup - 2 oz - 50 g,90.6,0,0,0,0,259.4,22.2,0.1,17,0.3,0,0,0,0,0,0,0
+123512,21690,Dipping Sauce - Plum,1 dipping cup - 2 oz - 50 g,94,0.3,0,0,0,222,23.4,0.1,18.5,0.2,0,0,0,0,0,0,0
+123513,21690,Dipping Sauce - Blue Cheese,1 dipping cup - 2 oz - 50 g,259,26,0,0,20,529,18.9,0,1.2,1.8,0,0,0,0,0,0,0
+123514,21690,Dipping Sauce - Sweet Chili Thai,1 dipping cup - 2 oz - 50 g,97,0.2,0,0,0,463,24,0.4,22,0.3,0,0,0,0,0,0,0
+123515,21690,Dipping Sauce - Texas BBQ,1 dipping cup - 2 oz - 50 g,102,0,0,0,0,800,26,0,22,0.5,0,0,0,0,0,0,0
+123516,21691,Cool and Fresh Salads - Caesar Salad,1 salad - 228 g,360,32,2.5,0,20,400,15,2,4,5,60,45,10,10,0,0,0
+123517,21691,Cool and Fresh Salads - Caesar Salad with light dressing,1 salad - 228 g,240,17,1.5,0.2,35,510,15,2,4,5,60,45,10,10,0,0,0
+123518,21691,Cool and Fresh Salads - Caesar Salad with Chicken,1 salad - 270 g,410,33,3,0.1,45,680,15,2,4,14,60,45,15,15,0,0,0
+123519,21691,Cool and Fresh Salads - Caesar Salad with Bacon,1 salad - 249 g,450,38,4.5,0.1,40,890,16,2,4,11,60,45,10,15,0,0,0
+123520,21691,Cool and Fresh Salads - Garden Salad,1 salad - 368 g,110,6,0.5,0.1,0,370,13,3,6,3,120,34,8,10,0,0,0
+123521,21691,Cool and Fresh Salads - Garden Salad with Bacon,1 salad - 389 g,190,13,2.5,0.2,20,860,13,3,6,9,12,35,8,15,0,0,0
+123522,21691,Cool and Fresh Salads - Garden Salad with Cheese,1 salad - 410 g,250,18,8,0.4,35,730,13,3,6,15,120,34,10,10,0,0,0
+123523,21691,Cool and Fresh Salads - Garden Salad with Chicken,1 salad - 410 g,160,7,1,0.2,25,650,13,3,6,12,120,35,15,15,0,0,0
+123524,21691,Cool and Fresh Salads - Mandarin Chicken Salad,1 salad - 368 g,310,11,1.5,0.1,40,830,36,2,21,19,50,25,15,20,0,0,0
+123525,21691,Cool and Fresh Salads - Mediterranean Greek Salad,1 salad - 403 g,230,17,5,0.3,20,1100,14,3,6,8,60,35,10,10,0,0,0
+123526,21691,Cool and Fresh Salads - Steak Caesar,1 salad - 345 g,760,48,7,0.3,65,1850,54,2,6,23,60,45,20,60,0,0,0
+123527,21691,Cool and Fresh Salads - Chicken Mango,1 salad - 438 g,570,22,3.5,0.2,30,1640,72,3,15,18,45,35,8,15,0,0,0
+123528,21691,Cool and Fresh Salads - Tuscan Chicken Salad,1 salad - 311 g,290,16,3.5,0,30,1100,20,2,7,15,60,32,15,20,0,0,0
+123529,21691,Cool and Fresh Salads - Caesar Salad,1 salad - 186 g,110,4,0.2,0,0,230,14,2,4,4,60,45,8,10,0,0,0
+123530,21691,Cool and Fresh Salads - Garden Salad,1 salad - 326 g,50,0,0.1,0,0,25,11,3,6,3,110,35,6,10,0,0,0
+123531,21691,Cool and Fresh Salads - Mandarin Chicken Salad,1 salad - 326 g,190,4,1,0.1,40,530,24,2,11,18,50,25,15,20,0,0,0
+123532,21691,Cool and Fresh Salads - Mediterranean Greek Salad,1 salad - 361 g,170,11,4.5,0.2,20,740,12,3,6,8,60,35,10,10,0,0,0
+123533,21691,Cool and Fresh Salads - Tuscan Chicken Salad,1 salad - 269 g,150,7,2.5,0,30,520,10,2,3,14,90,40,15,15,0,0,0
+123534,21691,Cool and Fresh Salads - Chicken Mango,1 salad - 396 g,460,14,3,0.2,30,1330,60,3,5,17,45,35,6,15,0,0,0
+123535,21691,Cool and Fresh Salads - Steak Caesar,1 salad - 302 g,500,19,5,0.3,45,1680,53,2,6,22,60,45,20,60,0,0,0
+123536,21691,Cool and Fresh Salads - Renee's Balsamic,1 salad - 30 ml,80,7,0.5,0,0,280,5,0,4,0,0,0,0,0,0,0,0
+123537,21691,Cool and Fresh Salads - Renee's Buttermilk Ranch,1 salad - 30 ml,120,12,1,0,10,250,2,0,1,1,0,0,2,0,0,0,0
+123538,21691,Cool and Fresh Salads - Renee's Oriental,1 salad - 30 ml,80,5,0.5,0,0,230,9,0,8,1,0,0,0,2,0,0,0
+123539,21691,Cool and Fresh Salads - Renee's Spring Herb Italian Light,1 salad - 30 ml,70,7,0.5,0,0,310,2,0,0,0,2,0,0,2,0,0,0
+123540,21691,Cool and Fresh Salads - Renee's Caesar,1 salad - 30 ml,190,20,2,0.4,15,210,1,0,0,1,2,0,2,0,0,0,0
+123541,21691,Cool and Fresh Salads - Renee's Light Caesar,1 salad - 30 ml,100,10,1,0,30,190,1,0,0,1,2,0,0,2,0,0,0
+123542,21691,Breads and Sticks - Garlic Stix,3 sticks - 150 g,663,39,7.5,7.1,6.8,756,67.7,2.6,8.9,10.2,0,0,1.5,0,0,0,0
+123543,21691,Breads and Sticks - Garlic Stix with 4-cheese blend,3 sticks,760,47,12,7,30,990,68,3,9,18,0,0,15,30,0,0,0
+123544,21691,Breads and Sticks - Garlic Bread/Toast,5 pieces,760,42.4,7.2,3.4,0,1218,79,1,7.2,15.6,0,0,0,0,0,0,0
+123545,21691,Breads and Sticks - Garlic Bread with Cheese,4 pieces,800,49,15,3,45,1450,63,1,6,28,0,0,6,0,0,0,0
+123546,21691,Breads and Sticks - Garlic Bread with Bruschetta & parm.,4 pieces,950,58,15,3,55,3050,71,1,10,31,0,0,30,0,0,0,0
+123547,21691,Breads and Sticks - Garlic Bread with Roma tom. & cheese,4 pieces,760,45,13,3,40,1360,64,1,7,26,6,2,6,0,0,0,0
+123548,21692,Beverages - Pepsi,355 ml,150,0,0,0,0,15,41,0,41,0,0,0,0,0,0,0,0
+123549,21692,Beverages - Diet Pepsi,355 ml,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0
+123550,21692,Beverages - 7UP,355 ml,160,0,0,0,0,65,43,0,42,0,0,0,0,0,0,0,0
+123551,21692,Beverages - Diet 7UP,355 ml,4,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0
+123552,21692,Beverages - Mountain Dew,355 ml,170,0,0,0,0,45,47,0,46,0,0,0,0,0,0,0,0
+123553,21692,Beverages - Mug Root Beer,355 ml,160,0,0,0,0,50,41,0,41,0,0,0,0,0,0,0,0
+123554,21692,Beverages - Brisk Tea,355 ml,120,0,0,0,0,55,31,0,31,0,0,0,0,0,0,0,0
+123555,21692,Beverages - Orange Crush,355 ml,180,0,0,0,0,10,48,0,48,0,0,0,0,0,0,0,0
+123556,21692,Beverages - Dr. Pepper,355 ml,160,0,0,0,0,30,40,0,40,0,0,0,0,0,0,0,0
+123557,21692,Beverages - Schweppes Ginger Ale,355 ml,120,0,0,0,0,0,32,0,32,0,0,0,0,0,0,0,0
+123558,21692,Beverages - Crush Cream Soda,355 ml,180,0,0,0,0,10,48,0,48,0,0,0,0,0,0,0,0
+123559,21692,Beverages - Pepsi,591 ml,250,0,0,0,0,25,68,0,68,0,0,0,0,0,0,0,0
+123560,21692,Beverages - Diet Pepsi,591 ml,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0
+123561,21692,Beverages - 7UP,591 ml,266,0,0,0,0,108,71,0,71,0,0,0,0,0,0,0,0
+123562,21692,Beverages - Mountain Dew,591 ml,283,0,0,0,0,75,78,0,78,0,0,0,0,0,0,0,0
+123563,21692,Beverages - Tropicana Twister Fruit Fusion,591 ml,402,0,0,0,0,106,111,0,109,0,0,0,0,0,0,0,0
+123564,21692,Beverages - Tropicana Twister Lemonade,591 ml,236,0,0,0,0,118,69,0,66,0,14,0,0,0,0,0,0
+123565,21692,Beverages - Tropicana Twister Grape,591 ml,283,0,0,0,0,95,73,0,71,0,142,0,0,0,0,0,0
+123566,21692,Beverages - Aquafina Water,591 ml,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123567,21692,Beverages - ml Pepsi,710 ml,300,0,0,0,0,30,82,0,82,0,0,0,0,0,0,0,0
+123568,21692,Beverages - Aquafina Water,591 ml,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123569,21692,Beverages - Dole Orange Juice,473 ml,237,0,0,0,0,19,55,0,45,4,114,0,48,0,0,0,0
+123570,21692,Beverages - Dole Apple,473 ml,227,0,0,0,0,19,53,0,49,2,114,0,49,0,0,0,0
+123571,21692,Beverages - Dole Ruby Red,473 ml,265,0,0,0,0,28,62,0,55,2,114,76,49,0.4,0,0,0
+123572,21692,Beverages - Lipton with Lemon,473 ml,147,0,0,0,0,0,37,0,37,0,0,0,0,0,0,0,0
+123573,21692,Beverages - Starbucks Frappuccino,281 ml,209,3,0,0,0,104,37,0,32,6,0,0,0,0,0,0,0
+123574,21692,Beverages - SoBe Orange Carrot,591 ml,213,0,0,0,0,35,59,0,59,0,142,0,0,0,0,0,0
+123575,21692,Beverages - SoBe Berry Energy,591 ml,307,0,0,0,0,35,80,0,78,0,142,0,0,0,0,0,0
+123576,21692,Beverages - SoBe Green Tea,591 ml,213,0,0,0,0,24,57,0,57,0,142,0,0,0,0,0,0
+123577,21692,Beverages - SoBe Lizard Lightening,591 ml,331,0,0,0,0,47,80,0,78,0,142,0,0,0,0,0,0
+123578,21692,Beverages - SoBe Lizard Fuel,591 ml,331,0,0,0,0,47,80,0,78,0,142,0,0,0,0,0,0
+123579,21692,Beverages - SoBe Liz Bliz,591 ml,307,0,0,0,0,118,78,0,77,0,142,0,0,0,0,0,0
+123580,21692,Beverages - SoBe Liz Bliz,591 ml,307,0,0,0,0,0,78,0,77,0,0,142,0,118,0,0,0
+123581,21692,Beverages - Crispy Crunch Milkshake,350 ml,350,11,0,0,47,0,50,0,49,13,457,0,0,201,0,0,0
+123582,21692,Beverages - Partly Skimmed Milk - 2% white,500 ml,258,10,0,0,37.6,0,24,0,0,17.2,730,0,0,258,0,0,0
+123583,21692,"Beverages - Partly Skimmed Chocolate Milk, 1%",500 ml,342,5.6,0,0,20,0,56,0,0,17.2,610,0,0,300,0,0,0

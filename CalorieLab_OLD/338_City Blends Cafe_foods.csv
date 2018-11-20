@@ -1,0 +1,13 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+34308,2649,Urban Orange,264,3,0,0,0,0,37,0,33,23,2,0,0,0,0,0,0
+34309,2649,Urban Orange,330,3,0,0,0,0,52,0,47,23,136,0,0,0,0,0,0
+34310,2650,The Teeter,583,9,0,0,0,0,84,0,63,45,0,0,0,0,0,0,0
+34311,2650,The Teeter,651,9,0,0,0,0,100,0,70,45,62,0,0,0,0,0,0
+34312,2651,The Caffeinator,687,10,0,0,0,0,109,0,89,31,0,0,0,0,0,0,0
+34313,2651,The Caffeinator,767,10,0,0,0,0,127,0,107,31,75,0,0,0,0,0,0
+34314,2651,The City Slicker,266,3,0,0,0,0,37,0,33,23,0,0,0,0,0,0,0
+34315,2651,The City Slicker,330,3,0,0,0,0,52,0,47,23,75,0,0,0,0,0,0
+34316,2652,The Supercharger,291,3,0,0,0,0,44,0,33,25,88,0,0,0,0,0,0
+34317,2652,The Supercharger,355,3,0,0,0,0,59,0,47,25,88,0,0,0,0,0,0
+34318,2653,Strawberry Fields Lite,220,3,0,0,0,0,26,0,23,23,0,0,0,0,0,0,0
+34319,2653,Strawberry Fields Lite,220,3,0,0,0,0,26,0,23,23,0,0,0,0,0,0,0

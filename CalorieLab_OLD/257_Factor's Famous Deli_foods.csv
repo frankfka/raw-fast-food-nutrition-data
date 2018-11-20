@@ -1,0 +1,8 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+27685,2054,Egg White Veggie Omelette,275,4,1.5,0,15,830,30,4,0,28,0,0,0,0,0,0,0
+27686,2054,Turkey Pastrami Scramble,310,3,0.5,0,55,"1,145",38,5,0,32,0,0,0,0,0,0,0
+27687,2055,The Famous Tofu Reuben,455,17,9,0,40,"1,910",45,5,0,33,0,0,0,0,0,0,0
+27688,2055,Turkey Wrap,540,13,1,0,70,575,68,7,0,36,0,0,0,0,0,0,0
+27689,2056,Debbie's Chopped Salad #2,360,22,5.5,0,85,210,11,4,0,32,0,0,0,0,0,0,0
+27690,2056,Grilled Vegetable Salad,305,13,9,0,50,865,35,5,0,15,0,0,0,0,0,0,0
+27691,2057,Grilled Orange Roughy Filet,165,2,0,0,30,160,13,5,0,25,0,0,0,0,0,0,0

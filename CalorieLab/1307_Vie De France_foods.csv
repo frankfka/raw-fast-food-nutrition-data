@@ -1,0 +1,313 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+131604,22387,French,1 piece - 2 oz - 57 g,160,0.5,0,0,0,360,34,1,1,5,0,0,0,10,0,0,0
+131605,22387,Sourdough,2 oz - 56 g,140,1,0,0,0,300,29,1,1,6,0,0,0,10,0,0,0
+131606,22387,Italian,2 oz - 57 g,150,1.5,0,0,5,350,29,1,1,6,0,0,0,10,0,0,0
+131607,22387,"Romano, Swiss & Parsley ",2 oz - 56 g,150,4,1.5,0,10,290,26,1,1,6,0,0,2,10,0,0,0
+131608,22387,Seven Grain,2 oz - 56 g,150,2.5,0,0,0,260,29,3,1,7,0,0,0,10,0,0,0
+131609,22387,Rye,2 oz - 56 g,150,1,0,0,0,330,30,4,1,8,4,0,4,10,0,0,0
+131610,22387,Multigrain,1 piece - 2 oz - 57 g,150,2,0,0,0,290,28,3,3,7,0,0,2,10,0,0,0
+131611,22387,Sun-Dried Tomato,1 slice - 2 oz - 57 g,140,1,0,0,0,300,29,1,2,6,0,0,2,10,0,0,0
+131612,22387,Egg Bread,2 oz - 56 g,190,2.5,0.5,0,35,310,36,1,8,6,0,0,0,10,0,0,0
+131613,22388,Medium Curved Butter Croissant (Eastern),1 croissant - 2 oz - 57 g,230,12,7,0,30,250,27,1,5,5,0,8,4,8,0,0,0
+131614,22388,Medium Curved Butter Croissant (Western),1 croissant - 2 oz - 57 g,230,12,7,0,30,250,27,1,5,5,0,8,4,8,0,0,0
+131615,22388,Petite Curved Butter Croissant (Eastern),1 croissant - 1 oz - 28 g,120,6,4,0,15,125,13,0,2,3,0,4,0,4,0,0,0
+131616,22388,Petite Curved Butter Croissant (Western),1 croissant - 1 oz - 28 g,120,6,4,0,15,125,13,0,2,3,0,4,0,4,0,0,0
+131617,22388,Large Curved Butter Croissant (Eastern),1 croissant - 3 oz - 85 g,310,15,9,0,35,370,39,1,7,7,0,8,6,10,0,0,0
+131618,22388,Large Curved Butter Croissant (Western),1 croissant - 3 oz - 85 g,310,15,9,0,35,370,39,1,7,7,0,8,6,10,0,0,0
+131619,22389,Large Curved Whole Wheat Croissant (Eastern),1 croissant - 3 oz - 85 g,310,15,9,0,35,350,39,2,7,8,0,8,6,10,0,0,0
+131620,22389,Large Curved Whole Wheat Croissant (Western),1 croissant - 3 oz - 85 g,310,15,9,0,35,350,39,2,7,8,0,8,6,10,0,0,0
+131621,22390,Honey Wheat Croissant (Eastern),1 croissant - 3 oz - 85 g,300,13,8,0,30,360,41,2,9,8,0,8,6,10,0,0,0
+131622,22390,Honey Wheat Croissant (Western),1 croissant - 3 oz - 85 g,300,13,8,0,30,360,41,2,9,8,0,8,6,10,0,0,0
+131623,22391,Large Curved Margarine Croissant (Eastern),1 croissant - 3 oz - 85 g,320,16,4.5,4.5,0,360,38,1,7,7,0,15,4,10,0,0,0
+131624,22391,Large Curved Margarine Croissant (Western),1 croissant - 3 oz - 85 g,320,16,4.5,4.5,0,360,38,1,7,7,0,15,4,10,0,0,0
+131625,22392,Petit Curved - Pre-Proof Butter Croissant (Eastern),1 croissant - 1 oz - 28 g,110,5,3.5,0,15,120,13,0,2,3,0,4,0,4,0,0,0
+131626,22392,Petit Curved - Pre-Proof Butter Croissant (Western),1 croissant - 1 oz - 28 g,110,5,3.5,0,15,125,13,0,2,3,0,4,0,4,0,0,0
+131627,22392,Medium Curved - Pre-Proof Croissant (Eastern),1 croissant - 2 oz - 57 g,220,11,7,0,25,240,27,1,5,5,0,6,4,8,0,0,0
+131628,22392,Medium Curved - Pre-Proof Croissant (Western),1 croissant - 2 oz - 57 g,220,11,7,0,25,250,27,1,5,5,0,6,2,8,0,0,0
+131629,22392,Large Curved - Pre-Proof Croissant (Eastern),1 croissant - 3 oz - 85 g,330,16,10,0,40,370,40,1,7,8,0,10,4,10,0,0,0
+131630,22392,Large Curved - Pre-Proof Croissant (Western),1 croissant - 3 oz - 85 g,320,15,9,0,40,360,38,1,7,7,0,8,4,10,0,0,0
+131631,22393,Croissant Sheets (Eastern),1 piece - 1.9 oz - 55 g,210,10,10,0,25,250,27,1,5,5,0,6,4,8,0,0,0
+131632,22393,Croissant Sheets (Western),1 piece - 1.9 oz - 55 g,210,10,6,0,25,250,27,1,5,5,0,6,4,8,0,0,0
+131633,22393,Large Butter Croissant Triangles (Eastern),1 croissant - 3 oz - 85 g,310,15,9,0,35,370,39,1,7,7,0,8,6,10,0,0,0
+131634,22393,Large Butter Croissant Triangles (Western),1 croissant - 3 oz - 85 g,310,15,9,0,35,370,39,1,7,7,0,8,6,10,0,0,0
+131635,22394,Apple Strudel,1/4 strudel - 2.3 oz - 65 g,190,11,3,3,0,170,22,1,6,3,0,8,0,6,0,0,0
+131636,22394,Cherry Strudel,1/4 strudel - 2.3 oz - 65 g,200,11,3,3,0,180,23,1,5,3,0,10,0,6,0,0,0
+131637,22394,Puff Pastry Sheets,1 piece - 1.9 oz - 54 g,210,14,4,4,0,200,19,1,0,3,0,10,0,6,0,0,0
+131638,22395,Raspberry Cream Cheese Croissant (Eastern),1 croissant - 3.5 oz - 99 g,310,14,8,0,35,350,42,1,13,7,0,8,4,10,0,0,0
+131639,22395,Raspberry Cream Cheese Croissant (Western),1 croissant - 3.5 oz - 99 g,310,14,8,0,35,350,42,1,13,7,0,8,4,10,0,0,0
+131640,22395,Apple Croissant (Eastern),1 croissant - 3.1 oz - 88 g,270,11,7,0,30,270,38,1,12,5,0,6,4,8,0,0,0
+131641,22395,Apple Croissant (Western),1 croissant - 3.1 oz - 88 g,270,11,7,0,30,270,38,1,12,5,0,6,4,8,0,0,0
+131642,22395,Strawberry Cream Cheese Croissant (Eastern),1 croissant - 3.5 oz - 99 g,320,14,8,0,35,360,42,1,14,7,0,8,6,10,0,0,0
+131643,22395,Strawberry Cream Cheese Croissant (Western),1 croissant - 3.5 oz - 99 g,300,12,7,0,30,350,42,1,12,6,0,8,4,10,0,0,0
+131644,22395,Raspberry,1 croissant - 3.1 oz - 88 g,260,9,6,0,25,290,40,1,14,5,0,6,4,8,0,0,0
+131645,22395,Almond Croissant (Eastern),1 croissant - 3.1 oz - 88 g,340,16,8,0,35,280,42,2,16,7,0,8,4,10,0,0,0
+131646,22395,Almond Croissant (Western),1 croissant - 3.1 oz - 88 g,340,16,8,0,35,280,42,2,16,7,0,8,4,10,0,0,0
+131647,22395,Blueberry Cream Cheese Croissant (Eastern),1 croissant - 3.5 oz - 99 g,310,14,8,0,35,360,41,1,13,7,0,8,6,10,0,0,0
+131648,22395,Blueberry Cream Cheese Croissant (Western),1 croissant - 3.5 oz - 99 g,300,12,12,0,30,360,41,1,12,6,0,8,4,10,0,0,0
+131649,22395,Cream Cheese Croissant (Eastern),1 croissant - 3.5 oz - 99 g,320,15,10,0,40,380,40,1,13,7,0,10,6,10,0,0,0
+131650,22395,Cream Cheese Croissant (Western),1 croissant - 3.5 oz - 99 g,300,13,8,0,35,370,40,1,12,6,0,8,4,10,0,0,0
+131651,22395,Chocolate Croissant (Eastern),1 croissant - 3.1 oz - 88 g,370,18,12,0,35,300,45,2,18,8,0,8,8,15,0,0,0
+131652,22395,Chocolate Croissant (Western),1 croissant - 3.1 oz - 88 g,370,18,12,0,35,300,45,2,18,8,0,8,8,15,0,0,0
+131653,22396,Raisin Creme Croissant (Eastern),1 croissant - 2.8 oz - 79 g,270,10,6,0,25,300,41,1,15,6,0,6,4,10,0,0,0
+131654,22396,Raisin Creme Croissant (Western),1 croissant - 2.8 oz - 79 g,270,10,6,0,25,300,41,1,15,6,0,6,4,10,0,0,0
+131655,22396,Jumbo Cinnamon Swirl Croissant (Eastern),1 jambo - 3.9 oz - 111 g,380,14,9,0,35,420,57,1,15,8,0,8,6,15,0,0,0
+131656,22396,Jumbo Cinnamon Swirl Croissant (Western),1 jambo - 3.9 oz - 111 g,380,14,9,0,35,420,57,1,15,8,0,8,6,15,0,0,0
+131657,22396,Cinnamon Swirl Croissant (Eastern),1 swril - 2.5 oz - 71 g,250,9,6,0,25,280,38,1,10,5,0,6,4,8,0,0,0
+131658,22396,Cinnamon Swirl Croissant (Western),1 swril - 2.5 oz - 71 g,250,9,6,0,25,280,38,1,10,5,0,6,4,8,0,0,0
+131659,22397,Cinnamon,1 roll - 4.2 oz - 119 g,480,18,4,4.5,35,540,69,2,26,10,0,0,6,15,0,0,0
+131660,22398,Ham And Swiss Cheese Croissant (Eastern),1 croissant - 4.5 oz - 128 g,390,19,12,0.5,65,720,37,1,7,18,0,10,25,10,0,0,0
+131661,22398,Ham And Swiss Cheese Croissant (Western),1 croissant - 4.5 oz - 128 g,390,19,12,0.5,65,720,37,1,7,18,0,10,25,10,0,0,0
+131662,22398,Turkey Breast & Swiss Cheese Croissant (Eastern),1 croissant - 4.5 oz - 128 g,380,19,12,0.5,65,650,37,1,7,18,0,10,30,10,0,0,0
+131663,22398,Turkey Breast & Swiss Cheese Croissant (Western),1 croissant - 4.5 oz - 128 g,380,19,12,0.5,65,650,37,1,7,18,0,10,30,10,0,0,0
+131664,22398,Spinach & Feta Croissant (Eastern),1 croissant - 4.8 oz - 136 g,360,17,10,1,45,570,42,2,8,10,0,40,15,15,0,0,0
+131665,22398,Spinach & Feta Croissant (Western),1 croissant - 4.8 oz - 136 g,360,17,10,1,45,570,42,2,8,10,0,40,15,15,0,0,0
+131666,22399,Cheddar Cheese Omelette Croissant (Eastern),1 croissant - 4.5 oz - 128 g,360,18,10,0,175,590,37,1,7,12,0,15,10,15,0,0,0
+131667,22399,Cheddar Cheese Omelette Croissant (Western),1 croissant - 4.5 oz - 128 g,360,18,10,0,175,590,37,1,7,12,0,15,10,15,0,0,0
+131668,22399,Ham And Cheddar Omelette Croissant (Eastern),1 croissant - 5 oz - 142 g,350,16,10,1,50,670,40,2,7,11,0,10,10,15,0,0,0
+131669,22399,Ham And Cheddar Omelette Croissant (Western),1 croissant - 5 oz - 142 g,350,16,10,1,50,670,40,2,7,11,0,10,10,15,0,0,0
+131670,22399,Sausage And Cheddar Omelette Croissant (Eastern),1 croissant - 5.3 oz - 142 g,470,28,13,0.5,195,770,38,1,7,16,0,15,10,15,0,0,0
+131671,22399,Sausage And Cheddar Omelette Croissant (Western),1 croissant - 5.3 oz - 142 g,470,28,13,0.5,195,770,38,1,7,16,0,15,10,15,0,0,0
+131672,22400,"Bulk, Large Swirls - Large Swirl Danish Bulk",1 danish - 2.5 oz - 71 g,260,12,45,2,25,450,34,1,11,6,0,6,4,8,0,0,0
+131673,22400,French Danish Large Swirl Bulk (Eastern),1 danish - 2.6 oz - 74 g,270,13,8,0,30,320,34,1,6,6,0,8,6,8,0,0,0
+131674,22400,French Danish Large Swirl Bulk (Western),1 danish - 2.6 oz - 74 g,270,13,8,0,30,320,34,1,6,6,0,8,6,8,0,0,0
+131675,22400,French Danish Small Swirl Bulk (Eastern),1 danish - 0.9 oz - 26 g,100,4.5,3,0,15,120,13,0,2,3,0,4,0,4,0,0,0
+131676,22400,"French Danish Bulk, Small (Western)",1 danish - 0.9 oz - 26 g,100,4.5,3,0,15,120,13,0,2,3,0,4,0,4,0,0,0
+131677,22401,Traditional,1 brioche - 2.2 oz - 62 g,260,13,7,0,95,240,30,1,4,7,0,8,2,10,0,0,0
+131678,22402,Chocolate Chip,1 cookie - 2 oz - 57 g,270,12,8,0,35,95,40,1,25,3,0,6,0,8,0,0,0
+131679,22402,Cinnamon Walnut,1 cookie - 2 oz - 57 g,290,16,7,1,35,100,35,1,21,3,0,6,2,4,0,0,0
+131680,22402,Heath Crunch,1 cookie - 2 oz - 57 g,280,14,9,0,40,160,37,1,24,2,0,6,2,2,0,0,0
+131681,22402,Oatmeal Raisin Nut,1 cookie - 2 oz - 57 g,260,12,6,0,30,100,35,2,20,3,0,6,2,4,0,0,0
+131682,22402,Peanut Butter,1 cookie - 2 oz - 57 g,290,18,8,0,35,170,29,2,19,7,0,4,2,4,0,0,0
+131683,22402,Macadamia White And Chocolate Chunk,1 cookie - 2 oz - 57 g,290,15,8,0,40,120,35,1,21,3,0,6,4,6,0,0,0
+131684,22402,Amaretto Chocolate Chunk,1 cookie - 2 oz - 57 g,280,14,8,0,40,95,36,2,21,3,0,6,2,6,0,0,0
+131685,22402,Cappuccino Chocolate Chunk,1 cookie - 2 oz - 57 g,270,13,8,0,35,110,38,1,23,2,0,6,0,6,0,0,0
+131686,22402,Double Chocolate Caramel,1 cookie - 2 oz - 57 g,280,14,7,0,35,105,36,1,23,3,0,6,4,6,0,0,0
+131687,22402,Gourmet Sugar,1 cookie - 2 oz - 57 g,270,12,8,0,50,115,38,1,19,2,0,8,0,4,0,0,0
+131688,22402,Chocolate Chunk,1 cookie - 2 oz - 57 g,270,13,8,0,40,100,37,1,22,2,0,6,0,6,0,0,0
+131689,22402,Cranberry Orange Oatmeal,1 cookie - 2 oz - 57 g,250,10,6,0,40,95,39,2,22,3,0,6,0,4,0,0,0
+131690,22403,Pre-Cut Large Palmier - Large Palmier Cookie Dough (Eastern),1 palmier - 4.4 oz - 125 g,490,25,8,6,0,370,62,1,28,6,0,20,0,10,0,0,0
+131691,22403,Pre-Cut Large Palmier - Large Palmier Cookie Dough (Western),1 palmier - 4.4 oz - 125 g,490,25,8,6,0,370,60,1,28,6,0,20,0,10,0,0,0
+131692,22403,Medium Pre-Cut Palmier,1 cookie - 2.8 oz - 79 g,340,17,5,5,0,250,42,1,19,4,0,15,0,8,0,0,0
+131693,22403,Original Palmier Log,1 palmier - 1 oz - 28 g,130,7,1.5,1.5,0,80,16,0,9,2,0,4,0,4,0,0,0
+131694,22403,Almond Palmier Log,1 palmier - 1 oz - 28 g,130,7,1.5,1.5,0,80,16,0,9,2,0,4,0,4,0,0,0
+131695,22404,Apple Walnut,1 muffin - 2.8 oz - 79 g,280,11,2,0.5,20,200,41,2,22,4,0,0,4,8,0,0,0
+131696,22404,Banana Nut Oat Bran,1 muffin - 2.8 oz - 79 g,280,11,1.5,0.5,20,220,40,2,22,5,0,0,4,8,0,0,0
+131697,22404,Blueberry,1 muffin - 2.8 oz - 79 g,240,7,1.5,0.5,20,240,41,1,23,4,0,0,4,6,0,0,0
+131698,22404,Bran,1 muffin - 1.9 oz - 55 g,180,3.5,0.5,0,15,130,35,2,20,3,0,0,4,10,0,0,0
+131699,22404,Carrot Zucchini Oat Bran,1 muffin - 2.8 oz - 79 g,240,7,1,0.5,20,230,42,2,22,4,0,35,4,8,0,0,0
+131700,22404,Chocolate Chip,1 muffin - 2.8 oz - 79 g,280,10,3,0.5,20,230,45,2,27,4,0,0,4,10,0,0,0
+131701,22404,Corn,1 muffin - 2.8 oz - 79 g,250,6,1,0.5,20,230,45,1,19,4,0,0,4,6,0,0,0
+131702,22404,Cranberry Orange,1 muffin - 2.8 oz - 79 g,240,7,1.5,0.5,20,240,42,1,22,4,0,0,4,6,0,0,0
+131703,22404,Lemon Poppyseed,1 muffin - 2.8 oz - 79 g,260,8,1.5,0.5,25,260,44,1,24,4,0,0,6,8,0,0,0
+131704,22404,Pumpkin Currant,1 muffin - 2.8 oz - 79 g,270,11,3.5,0,45,300,39,1,22,4,0,50,4,10,0,0,0
+131705,22404,Caramel Apple,1 muffin - 2.8 oz - 79 g,300,13,2.5,1.5,25,320,42,1,24,4,0,0,6,8,0,0,0
+131706,22404,Banana Chocolate Chip,1 muffin - 2.8 oz - 79 g,330,17,4,1.5,30,300,43,2,26,4,0,0,2,10,0,0,0
+131707,22404,Triple Chocolate,1 muffin - 2.8 oz - 79 g,300,14,4,1,25,240,42,2,26,4,0,0,4,15,0,0,0
+131708,22404,Wildberry,1 muffin - 2.8 oz - 79 g,250,9,1.5,1,35,290,39,1,22,4,0,0,2,6,0,0,0
+131709,22405,Apple Raisin Swirl,1 danish - 2.7 oz - 77 g,280,14,6,1,15,280,34,1,15,5,0,0,4,10,0,0,0
+131710,22405,Cherry Almond Pocket,1 danish - 2.7 oz - 77 g,270,15,6,1,15,270,30,1,13,5,0,2,4,8,0,0,0
+131711,22405,Cherry Almond Pocket,1 danish - 2.7 oz - 77 g,270,15,6,1,15,270,30,1,13,5,0,2,4,8,0,0,0
+131712,22405,Coconut Creme Double Snail,1 danish - 2.5 oz - 71 g,260,15,7,1,15,290,29,1,11,5,0,0,4,6,0,0,0
+131713,22405,Cream Cheese Swirl,1 danish - 2.5 oz - 71 g,270,16,7,1,20,310,26,1,8,5,0,4,4,8,0,0,0
+131714,22405,Lemon Creme Mini Swirl,1 danish - 1.2 oz - 34 g,140,8,3.5,0.5,10,170,15,0,5,3,0,0,0,4,0,0,0
+131715,22405,Cherry Mini Pocket,1 danish - 1.4 oz - 40 g,150,8,3.5,0.5,10,170,16,0,5,3,0,0,2,4,0,0,0
+131716,22405,Apricot Mini Double Snail,1 danish - 1.3 oz - 37 g,160,8,3.5,0.5,10,170,18,0,7,3,0,0,2,4,0,0,0
+131717,22406,Pre-Proof Almond Croissant (Eastern),1 croissant - 3.2 oz - 91 g,340,17,7,0,0,540,40,2,17,7,0,0,2,10,0,0,0
+131718,22406,Pre-Proof Almond Croissant (Western),1 croissant - 3.2 oz - 91 g,340,17,7,0,0,540,40,2,17,7,0,0,2,10,0,0,0
+131719,22406,Pre-Proof Apple Croissant (Eastern),1 croissant - 3.2 oz - 91 g,290,13,6,0,0,550,38,1,11,5,0,0,4,8,0,0,0
+131720,22406,Pre-Proof Apple Croissant (Western),1 croissant - 3.2 oz - 91 g,290,13,6,0,0,550,38,1,11,5,0,0,4,8,0,0,0
+131721,22406,Pre-Proof Chocolate Croissant (Eastern),1 croissant - 3.2 oz - 91 g,380,20,10,0,5,550,44,2,19,8,0,2,8,15,0,0,0
+131722,22406,Pre-Proof Chocolate Croissant (Western),1 croissant - 3.2 oz - 91 g,380,20,10,0,5,550,44,2,19,8,0,2,8,15,0,0,0
+131723,22406,Pre-Proof Raspberry/Cream Cheese Croissant (Eastern),1 croissant - 3.2 oz - 91 g,310,16,8,0,5,590,37,1,12,6,0,4,4,10,0,0,0
+131724,22406,Pre-Proof Raspberry/Cream Cheese Croissant (Western),1 croissant - 3.2 oz - 91 g,310,16,8,0,5,590,37,1,12,6,0,4,4,10,0,0,0
+131725,22406,Almond Demi,1 croissant - 1.5 oz - 43 g,170,9,3.5,0,0,150,19,1,8,3,0,0,0,4,0,0,0
+131726,22406,Apple Demi,1 croissant - 1.5 oz - 43 g,140,6,3,0,0,140,18,1,6,2,0,0,0,4,0,0,0
+131727,22406,Chocolate Demi,1 croissant - 1.5 oz - 43 g,180,10,5,0,0,150,21,1,9,4,0,0,4,8,0,0,0
+131728,22406,Raspberry Cream Cheese Demi,1 croissant - 1.5 oz - 43 g,150,8,4,0,5,160,18,0,6,3,0,0,0,4,0,0,0
+131729,22407,Small Cinnamon Roll,1 croissant - 1.8 oz - 51 g,180,6,1.5,1.5,15,160,27,1,8,4,0,0,4,6,0,0,0
+131730,22407,Large Cinnamon Roll,1 croissant - 4.2 oz - 119 g,410,15,3.5,4,35,360,60,2,17,10,0,4,8,15,0,0,0
+131731,22408,Lemon Coconut Breeze,1 cookie - 3 oz - 85 g,410,21,12,0,50,200,52,1,32,4,0,10,4,4,0,0,0
+131732,22408,Espresso Brownie Deluxe,1 cookie - 3 oz - 85 g,400,19,9,0.5,50,180,56,2,36,4,0,6,6,10,0,0,0
+131733,22408,Oatmeal Coconut Jumble,1 cookie - 3 oz - 85 g,400,20,12,0,45,160,55,3,30,4,0,8,2,8,0,0,0
+131734,22408,Apple Cranberry Harvest,1 cookie - 3 oz - 85 g,390,18,7,0,40,150,55,4,29,5,0,8,4,6,0,0,0
+131735,22408,Variety Pack - Apple Cranberry Harvest Cookie Dough,1 cookie - 3 oz - 85 g,390,18,7,0,40,150,55,4,29,5,0,8,4,6,0,0,0
+131736,22408,Variety Pack - Espresso Brownie Deluxe Cookie Dough,1 cookie - 3 oz - 85 g,400,19,9,0.5,50,180,56,2,36,4,0,6,6,10,0,0,0
+131737,22408,Variety Pack - Lemon Coconut Breeze Cookie Dough,1 cookie - 3 oz - 85 g,410,21,12,0,50,200,52,1,32,4,0,10,4,4,0,0,0
+131738,22408,Variety Pack - Oatmeal Coconut Jumble Cookie Dough,1 cookie - 3 oz - 85 g,400,20,12,0,45,160,55,3,30,4,0,8,2,8,0,0,0
+131739,22409,Bistro Roll Variety Pack - French,1 roll - 1.4 oz - 40 g,110,0,0,0,0,260,29,1,1,4,0,0,0,8,0,0,0
+131740,22409,Bistro Roll Variety Pack - Multigrain,1 roll - 1.4 oz - 40 g,110,1.5,0,0,0,220,21,2,2,5,0,0,0,8,0,0,0
+131741,22409,Bistro Roll Variety Pack - Sourdough,1 roll - 1.3 oz - 37 g,110,0.5,0,0,0,220,22,1,1,4,0,0,0,8,0,0,0
+131742,22409,Bistro Roll Variety Pack - Wheat,1 roll - 1.3 oz - 37 g,120,0.5,0,0,0,330,24,2,1,5,0,0,0,8,0,0,0
+131743,22409,Multigrain,1 roll - 1.4 oz - 40 g,110,1.5,0,0,0,220,21,2,2,5,0,0,0,8,0,0,0
+131744,22409,French,1 roll - 1.4 oz - 40 g,110,0,0,0,0,260,29,1,1,4,0,0,0,8,0,0,0
+131745,22409,Sourdough,1 roll - 1.3 oz - 37 g,110,0.5,0,0,0,220,22,1,1,4,0,0,0,8,0,0,0
+131746,22410,"Romano, Swiss & Parsley",1 prtit pain - 1.7 oz - 48 g,130,3,1,0,10,250,22,1,1,5,0,0,2,8,0,0,0
+131747,22410,Multigrain,1 prtit pain - 1.3 oz - 37 g,100,1.5,0,0,0,200,19,2,2,5,0,0,0,8,0,0,0
+131748,22410,Seven Grain,1 prtit pain - 1.5 oz - 43 g,130,2,0,0,0,240,26,3,1,7,0,0,0,10,0,0,0
+131749,22410,Sourdough,1 prtit pain - 1.7 oz - 48 g,140,1,0,0,0,250,25,1,1,5,0,0,0,8,0,0,0
+131750,22410,French,1 prtit pain - 1.3 oz - 37 g,100,0,0,0,0,230,22,1,1,3,0,0,0,8,0,0,0
+131751,22410,French Mini,1 prtit pain - 0.7 oz - 20 g,50,0.5,0,0,0,120,11,1,1,2,0,0,0,4,0,0,0
+131752,22410,Petit Pain Roll Variety Pack - French,1 prtit pain - 1.3 oz - 37 g,100,0,0,0,0,230,22,1,1,3,0,0,0,8,0,0,0
+131753,22410,Petit Pain Roll Variety Pack - Multigrain,1 prtit pain - 1.3 oz - 37 g,100,1.5,0,0,0,200,19,2,2,5,0,0,0,8,0,0,0
+131754,22410,"Petit Pain Roll Variety Pack - Romano, Swiss & Parsley",1 prtit pain - 1.7 oz - 48 g,130,3,1,0,10,250,22,1,1,5,0,0,2,8,0,0,0
+131755,22410,Petit Pain Roll Variety Pack - Sourdough,1 prtit pain - 1.7 oz - 48 g,140,1,0,0,0,250,25,1,1,5,0,0,0,8,0,0,0
+131756,22411,Soft French,1 breadstick - 1 oz - 28 g,90,0.5,0,0,0,180,17,1,1,3,0,0,0,6,0,0,0
+131757,22411,Italian Spice,1 breadstick - 1 oz - 28 g,70,0,0,0,0,150,14,1,1,3,0,0,0,4,0,0,0
+131758,22411,Parmesan Cheese,1 breadstick - 1 oz - 28 g,80,1,0,0,0,180,15,1,0,3,0,0,2,6,0,0,0
+131759,22411,Traditional Rustick,1 breadstick - 1.6 oz - 45 g,120,3,0,0,0,290,21,1,1,4,0,0,0,8,0,0,0
+131760,22411,Garlic Rustick,1 breadstick - 1.6 oz - 45 g,120,2.5,0,0,0,290,21,1,1,4,0,0,0,8,0,0,0
+131761,22412,Soft French,1 round - 2.6 oz - 74 g,250,2.5,0,0,5,580,48,2,2,9,0,0,2,15,0,0,0
+131762,22412,Multigrain,1 round - 2.6 oz - 74 g,240,4,1,0.5,0,470,44,4,4,10,0,0,2,15,0,0,0
+131763,22412,"Romano, Swiss & Parsley ",1 round - 2.6 oz - 74 g,230,4,1,0,10,450,42,2,1,8,0,0,4,15,0,0,0
+131764,22412,Potato Onion,1 round - 2.6 oz - 74 g,220,1,0,0,5,480,45,2,4,9,0,0,2,15,0,0,0
+131765,22413,Sourdough Mini Baguette,1 baguette - 3.2 oz - 91 g,220,1.5,0,0,0,450,45,2,1,9,0,0,2,15,0,0,0
+131766,22413,Multigrain Mini Baguette,1 baguette - 3.2 oz - 91 g,240,3,0,0,0,450,45,5,5,10,0,0,0,20,0,0,0
+131767,22413,French Mini Baguette,1 baguette - 2.7 oz - 77 g,220,1,0,0,0,490,48,1,1,7,0,0,0,15,0,0,0
+131768,22413,Seven Grain Table Loaf (2 3/4'' Slice),2 oz - 56 g,150,2.5,0,0,0,260,29,3,1,7,0,0,0,10,0,0,0
+131769,22413,French Mini Alpine (3 7/8'' Slice),2 oz - 56 g,160,0.5,0,0,0,350,34,1,1,5,0,0,0,10,0,0,0
+131770,22414,Pumpkin Currant Mini Boule (1-1/2'' Slice),2 oz - 56 g,160,1.5,0,0,1,260,31,1,8,6,0,25,4,10,0,0,0
+131771,22414,Cranberry Orange Mini Boule (1-1/4'' Slice),2 oz - 56 g,170,2,1,0,10,160,35,2,11,5,0,0,2,8,0,0,0
+131772,22414,Sourdough Boule,7/8 slice - 2 oz - 56 g,140,1,0,0,0,290,29,1,1,6,0,0,0,10,0,0,0
+131773,22414,French Mini Boule (2 5/8'' Slice),2 oz - 56 g,160,0.5,0,0,0,350,34,1,1,5,0,0,0,10,0,0,0
+131774,22414,"Romano, Swiss & Parsley Mini Boule (1 3/4'' Slice)",2 oz - 56 g,150,4,1.5,0,10,290,26,1,1,6,0,0,2,10,0,0,0
+131775,22414,Sourdough Mini Boule (1 3/4'' Slice),2 oz - 56 g,140,1,0,0,0,290,29,1,1,6,0,0,0,10,0,0,0
+131776,22415,Pane Di Como,4 slice - 2 oz - 56 g,150,1,0,0,0,330,32,2,2,6,0,0,0,10,0,0,0
+131777,22415,Ukrainian Bread,4 slice - 2 oz - 57 g,170,2,0,0,0,290,33,3,7,7,0,0,0,10,0,0,0
+131778,22415,French Batard (4 3/4'' Slice),2 oz - 56 g,160,0.5,0,0,0,350,34,1,1,5,0,0,0,10,0,0,0
+131779,22415,Multigrain Batard (3 3/4'' Slice),2 oz - 56 g,150,2,0,0,0,280,28,3,3,6,0,0,0,10,0,0,0
+131780,22415,Sourdough Batard (3 1/4'' Slice),2 oz - 56 g,140,1,0,0,0,290,29,1,1,6,0,0,0,10,0,0,0
+131781,22415,French Midi Baguette (6 7/8'' Slice),2 oz - 56 g,160,0.5,0,0,0,350,34,1,1,5,0,0,0,10,0,0,0
+131782,22415,"Seven Grain Batard (3 3/4"" slice)",2 oz - 56 g,150,2.5,0,0,0,260,29,3,2,7,0,0,0,10,0,0,0
+131783,22416,"Flat Bread, Large (2 1/8'' Slice)",2 oz - 57 g,150,1,0,0,0,320,32,2,1,6,0,0,0,10,0,0,0
+131784,22417,Panella Bread (1 3/4'' Slice),2 oz - 57 g,150,1.5,0,0,5,370,31,1,2,6,0,0,0,10,0,0,0
+131785,22417,Panino Roll,1 roll - 1.2 oz - 34 g,90,1,0,0,0,230,19,1,1,4,0,0,0,6,0,0,0
+131786,22417,8'' Milano Sub Roll,1 sub roll - 3.2 oz - 91 g,260,2.5,0.5,0,5,630,52,2,3,10,0,0,0,20,0,0,0
+131787,22417,12'' Milano Sub Roll,1/2 sub roll - 2.7 oz - 77 g,220,2.5,0.5,0,0,530,44,2,3,8,0,0,0,20,0,0,0
+131788,22417,Rustic Mini Loaf,1 loaf - 2.8 oz - 79 g,220,5,1,0,0,510,37,1,1,7,0,0,0,15,0,0,0
+131789,22418,8'' Multigrain,1 roll - 3.3 oz - 94 g,250,3,0,0,0,460,46,5,5,10,0,0,0,20,0,0,0
+131790,22418,8'' Soft French,1 roll - 3.2 oz - 91 g,250,1.5,0,0,0,610,52,2,4,10,4,0,4,15,0,0,0
+131791,22418,12'' Soft French,1 roll - 5.4 oz - 153 g,420,2.5,0,0,0,1030,88,4,7,17,7,0,7,25,0,0,0
+131792,22419,Petite Straight Butter Croissant (Eastern),1 croissant - 1 oz - 28 g,110,5,3,0,15,130,14,0,2,3,0,4,0,4,0,0,0
+131793,22419,Petite Straight Butter Croissant (Western),1 croissant - 1 oz - 28 g,110,5,3,0,15,130,14,0,2,3,0,4,0,4,0,0,0
+131794,22419,Large Straight Butter Croissant (Eastern),1 croissant - 3 oz - 85 g,310,15,9,0,35,370,39,1,7,7,0,8,6,10,0,0,0
+131795,22419,Large Straight Butter Croissant (Western),1 croissant - 3 oz - 84 g,310,15,9,0,35,370,39,1,7,7,0,8,6,10,0,0,0
+131796,22420,Medium Curved Butter Croissant - Sliced (Eastern),1 croissant - 2 oz - 57 g,220,10,6,0,25,260,28,1,5,5,0,6,4,8,0,0,0
+131797,22420,Medium Curved Butter Croissant - Sliced (Western),1 croissant - 2 oz - 57 g,220,10,6,0,25,260,28,1,5,5,0,6,4,8,0,0,0
+131798,22420,Large Curved Butter Croissant - Sliced (Eastern),1 croissant - 3 oz - 85 g,310,15,9,0,35,370,39,1,7,7,0,8,6,10,0,0,0
+131799,22420,Large Curved Butter Croissant - Sliced (Western),1 croissant - 3 oz - 85 g,310,15,9,0,35,370,39,1,7,7,0,8,6,10,0,0,0
+131800,22421,"Large, Curved - Honey Wheat Croissant (Eastern)",1 croissant - 3 oz - 85 g,290,9,6,0,25,420,44,1,8,8,0,6,4,15,0,0,0
+131801,22421,"Large, Curved - Honey Wheat Croissant (Western)",1 croissant - 3 oz - 85 g,290,9,6,0,25,420,44,1,8,8,0,6,4,15,0,0,0
+131802,22422,Strawberry Cream Cheese Croissant (Eastern),1 croissant - 3.4 oz - 96 g,310,14,8,0,35,350,41,1,14,7,0,8,6,10,0,0,0
+131803,22422,Strawberry Cream Cheese Croissant (Western),1 croissant - 3.4 oz - 96 g,300,12,7,0,30,350,42,1,12,6,0,8,4,10,0,0,0
+131804,22422,Chocolate Croissant (Eastern),1 croissant - 3.1 oz - 88 g,360,16,10,0,30,320,46,2,18,8,0,8,10,15,0,0,0
+131805,22422,Chocolate Croissant (Western),1 croissant - 3.1 oz - 88 g,360,16,10,0,30,320,46,2,18,8,0,8,10,15,0,0,0
+131806,22423,Bistro Roll Variety Pack - French,1 roll - 1.4 oz - 40 g,110,0,0,0,0,260,29,1,1,4,0,0,0,8,0,0,0
+131807,22423,Bistro Roll Variety Pack - Multigrain,1 roll - 1.4 oz - 40 g,110,1.5,0,0,0,220,21,2,2,5,0,0,0,8,0,0,0
+131808,22423,Bistro Roll Variety Pack - Sourdough,1 roll - 1.3 oz - 37 g,110,0.5,0,0,0,220,22,1,1,4,0,0,0,8,0,0,0
+131809,22423,Bistro Roll Variety Pack - Wheat,1 roll - 1.3 oz - 37 g,120,0.5,0,0,0,330,24,2,1,5,0,0,0,8,0,0,0
+131810,22423,Soft Bistro Rolls French,1 roll - 1.2 oz - 34 g,100,1,0.5,0,5,210,20,1,3,3,0,0,0,6,0,0,0
+131811,22423,Variety Pack Soft Bistro Roll - French,1 roll - 1.2 oz - 34 g,100,1,0.5,0,5,210,20,1,3,3,0,0,0,6,0,0,0
+131812,22423,Variety Pack Soft Bistro Roll - Onion Dill,1 roll - 1.2 oz - 34 g,110,2,0,0,5,200,20,1,3,3,0,0,0,6,0,0,0
+131813,22423,Variety Pack Soft Bistro Roll - Sourdough,1 roll - 1.2 oz - 34 g,100,1.5,0,0,0,170,19,1,2,3,0,0,0,6,0,0,0
+131814,22423,Variety Pack Soft Bistro Roll - Wheat,1 roll - 1.2 oz - 34 g,110,0.5,0,0,0,300,22,2,1,5,0,0,0,6,0,0,0
+131815,22424,Country Roll - White,1 roll - 1.2 oz - 34 g,120,2,0.5,0,5,140,21,1,4,3,0,0,0,6,0,0,0
+131816,22424,Country Roll Hearth Style - Dark,1 roll - 1.2 oz - 34 g,130,2.5,1,0,20,160,23,1,5,4,0,0,0,6,0,0,0
+131817,22425,French Restaurant Loaf (4 1/4'' Slice),2 oz - 56 g,160,0.5,0,0,0,350,34,1,1,5,0,0,0,10,0,0,0
+131818,22425,French Batard (4 3/4'' Slice),2 oz - 56 g,160,0.5,0,0,0,350,34,1,1,5,0,0,0,10,0,0,0
+131819,22426,Wheat,1 slice - 1.4 oz - 41 g,130,0.5,0,0,0,360,26,2,1,6,0,0,0,10,0,0,0
+131820,22427,Brioche Bun,1 bun - 2.2 oz - 62 g,280,13,8,0,65,260,34,1,5,7,0,8,2,10,0,0,0
+131821,22427,Soft French,1 round - 2.6 oz - 74 g,250,2.5,0,0,5,580,48,2,2,9,0,0,2,15,0,0,0
+131822,22427,Multigrain,1 round - 2.6 oz - 74 g,240,4,1,0,0,470,44,4,4,10,0,0,2,15,0,0,0
+131823,22428,Focaccia Roll Traditional,1 roll - 1 oz - 28 g,80,1.5,0,0,0,180,15,1,1,3,0,0,0,4,0,0,0
+131824,22428,Focaccia Roll Variety Pack - Garlic Rosemary,1 roll - 1.5 oz - 43 g,140,2.5,0.5,0,0,300,25,1,1,5,0,0,0,8,0,0,0
+131825,22428,Focaccia Roll Variety Pack - Italian Spice,1 roll - 1.5 oz - 43 g,120,1,0.5,0,0,250,24,1,1,5,0,0,0,8,0,0,0
+131826,22428,Focaccia Roll Variety Pack - Traditional,1 roll - 1 oz - 28 g,80,1.5,0,0,0,180,15,1,1,3,0,0,0,4,0,0,0
+131827,22428,Ciabatta Roll Traditional,1 roll - 1 oz - 28 g,80,0.5,0,0,0,180,17,1,1,3,0,0,0,6,0,0,0
+131828,22428,Italian Herb Focaccia,1/6 bread - 2 oz - 56 g,160,3,1,0,0,350,29,1,1,6,0,0,2,10,0,0,0
+131829,22428,Ciabatta Small (2 1/8'' Slice),2.2 oz - 61 g,180,1,0,0,0,390,37,1,1,6,0,0,0,10,0,0,0
+131830,22428,Ciabatta Large,2 slices - 2 oz - 56 g,160,0.5,0,0,0,350,34,1,1,5,0,0,0,10,0,0,0
+131831,22428,Italian Herb Focaccia Round,1 round - 2.8 oz - 79 g,230,5,1.5,0,0,480,40,2,2,8,0,0,4,15,0,0,0
+131832,22428,Focaccia Square Rosemary Garlic,1 square - 2.6 oz - 74 g,220,4,1,0,0,480,40,2,2,7,0,0,0,15,0,0,0
+131833,22428,Tomato Basil Ciabatta,1 ciabatta - 2.9 oz - 82 g,220,0.5,0,0,0,490,46,2,3,9,0,4,2,20,0,0,0
+131834,22428,Focaccia Square Italian Spice,1 square - 3.4 oz - 96 g,260,2,1,0,0,530,50,2,2,9,0,0,4,15,0,0,0
+131835,22428,Ciabatta Rolls Variety Pack - Parmesan,1 roll - 1 oz - 28 g,90,1,0.5,0,5,180,15,1,0,4,0,0,4,6,0,0,0
+131836,22428,Ciabatta Rolls Variety Pack - Tomato Basil,1 roll - 1 oz - 28 g,80,0,0,0,0,170,16,1,1,3,0,0,0,8,0,0,0
+131837,22428,Ciabatta Rolls Variety Pack - Traditional,1 roll - 1 oz - 28 g,80,0.5,0,0,0,180,17,1,1,3,0,0,0,6,0,0,0
+131838,22429,Italian Herb,1 slice - 2 oz - 57 g,160,3,1,0,0,350,29,1,1,6,0,0,2,10,0,0,0
+131839,22429,Asiago Cheese And Garlic,1 slice - 2 oz - 57 g,160,3,1,0,5,280,27,1,1,6,0,0,6,10,0,0,0
+131840,22430,Russian Black Bread Sliced,1 slice - 1.5 oz - 43 g,120,1,0,0,0,330,24,3,1,5,0,0,2,8,0,0,0
+131841,22430,Parisian Loaf,2.5 slice - 2 oz - 56 g,160,0.5,0,0,0,340,33,1,1,6,4,0,0,10,0,0,0
+131842,22430,English Toasting Bread,1 slice - 2 oz - 57 g,140,0.5,0,0,0,400,29,1,4,5,0,0,0,10,0,0,0
+131843,22430,Portuguese Corn Bread Rolls,1 roll - 1.2 oz - 34 g,130,1.5,0,0,15,190,25,1,6,4,0,0,0,6,0,0,0
+131844,22430,Portuguese Corn Bread Mini Boule,1 1/4 slice - 2 oz - 56 g,170,2,0.5,0,20,250,32,1,8,6,0,0,0,8,0,0,0
+131845,22431,Sweet Potato Roll,1 roll - 1.7 oz - 48 g,170,1.5,0,0,0,290,35,1,11,6,0,4,4,10,0,0,0
+131846,22431,Dark Hearthstyle Demi Loaf,1 loaf - 2.6 oz - 74 g,270,6,2,0.5,40,350,49,2,10,8,0,0,0,15,0,0,0
+131847,22431,Honey Wheat Batard,4 slice - 2 oz - 57 g,160,1.5,0,0,0,300,31,2,5,6,0,0,0,10,0,0,0
+131848,22432,Midnight Layer,1/4 cake - 5.1 oz - 146 g,550,33,15,1,85,260,60,3,42,6,0,10,4,20,0,0,0
+131849,22432,Carrot Layer,1/14 cake - 4.4 oz - 126 g,530,37,15,1,90,350,45,1,30,6,0,50,6,8,0,0,0
+131850,22432,Velvet,1/12 cake - 3 oz - 85 g,360,23,13,0.5,95,70,35,2,30,5,0,8,4,15,0,0,0
+131851,22432,Black & White Espresso,1/14 cake - 4.9 oz - 138 g,490,29,13,1,105,240,57,2,42,5,0,10,4,10,0,0,0
+131852,22432,Mixed Berry Charlotte,1/16 cake - 2.3 oz - 66 g,160,9,5,0,35,70,18,1,14,2,6,6,4,0,0,0,0
+131853,22433,Midnight Layer,1 slice - 5.1 oz - 146 g,550,33,15,1,85,260,60,3,42,6,0,10,4,20,0,0,0
+131854,22433,Carrot Layer,1 slice - 4.4 oz - 126 g,530,37,15,1,90,350,45,1,30,6,0,50,6,8,0,0,0
+131855,22433,Raspberry Creme,1 slice - 3.5 oz - 99 g,290,14,7,0.5,60,135,37,1,27,4,0,8,6,4,0,0,0
+131856,22433,Key Lime Torte,1 slice - 3.8 oz - 110 g,440,33,19,1.5,90,150,32,0,26,3,2,20,4,0,0,0,0
+131857,22433,Citron Cake,1 slice - 3.6 oz - 103 g,330,19,9,9,70,200,38,0,29,4,13,8,4,0,0,0,0
+131858,22434,Lemon Coconut Cake,1 slice - 3.6 oz - 101 g,340,15,5,2,40,250,49,1,37,3,0,0,4,2,0,0,0
+131859,22434,Banana Chocolate Chip Cake,1 slice - 5.1 oz - 144 g,520,30,13,1,75,310,59,2,37,6,0,10,6,6,0,0,0
+131860,22434,Carrot Cake,1 slice - 5 oz - 142 g,600,42,18,1,100,380,50,2,34,7,0,50,6,8,0,0,0
+131861,22434,Chocolate Ganache Cake,1 slice - 5.4 oz - 152 g,530,22,5,2.5,35,330,82,5,58,6,0,0,2,15,0,0,0
+131862,22434,Chocolate Fudge Cake,1 slice - 5.4 oz - 152 g,590,27,8,2,60,300,86,4,61,7,0,0,4,25,0,0,0
+131863,22434,Strawberry Shortcake,1 slice - 4.3 oz - 122 g,390,23,12,2,60,300,45,1,33,3,10,15,6,4,0,0,0
+131864,22435,Mississippi Fudge,1/6 cake - 3.9 oz - 110 g,520,35,13,1,130,95,49,3,36,7,0,10,4,20,0,0,0
+131865,22435,Peanut Butter Chocolate Fudge Cake,1 piece cake - 3.6 oz - 103 g,440,27,9,0,50,190,43,2,35,9,0,6,6,8,0,0,0
+131866,22435,Caramel Fudge Pecan Cake,1/16 cake - 3.7 oz - 105 g,490,30,13,1.5,100,200,50,2,37,5,0,10,6,10,0,0,0
+131867,22436,Mississippi Fudge,1/16 cake - 3.9 oz - 110 g,520,35,13,1,130,95,49,3,36,7,0,10,4,20,0,0,0
+131868,22436,Peanut Butter Chocolate Fudge Cake,1 piece cake - 3.6 oz - 103 g,440,27,9,0,50,190,43,2,35,9,0,6,6,8,0,0,0
+131869,22437,Chocolate Berry Fusion,1 slice - 6.9 oz - 196 g,790,44,16,1,160,270,94,5,69,9,2,10,4,30,0,0,0
+131870,22437,Peanut Butter Blast,1 slice - 6.4 oz - 180 g,720,42,16,0,90,380,76,4,57,15,0,8,6,20,0,0,0
+131871,22437,Chocolate Madness,1 slice - 6.8 oz - 192 g,820,48,20,1.5,165,310,94,4,70,9,0,10,6,30,0,0,0
+131872,22438,Country,1/16 cheesecake - 3.8 oz - 101 g,410,28,15,1,130,290,34,0,23,7,0,15,8,4,0,0,0
+131873,22438,Strawberry,1/16 cheesecake - 4.4 oz - 124 g,400,24,13,1,115,290,40,1,25,6,0,10,4,6,0,0,0
+131874,22439,New York,1 slice - 3.5 oz - 99 g,340,24,14,0.5,155,200,24,0,21,7,0,15,6,4,0,0,0
+131875,22439,White Chocolate Swirl,1 slice - 3.5 oz - 99 g,380,27,16,0.5,95,190,28,0,23,7,0,10,10,4,0,0,0
+131876,22439,Strawberry Margarita Cheesecake,1 slice - 5 oz - 142 g,500,32,19,1,130,330,48,0,30,6,2,20,6,4,0,0,0
+131877,22440,Espresso Divine,1/12 cake - 5.1 oz - 144 g,590,37,19,1,95,220,59,3,43,7,0,10,4,25,0,0,0
+131878,22440,Hazelnut Grande,1/12 cake - 5.1 oz - 144 g,610,40,18,1,90,220,57,4,41,7,0,10,6,25,0,0,0
+131879,22440,Orange Imperial,1/12 cake - 5.1 oz - 144 g,580,36,18,1,95,230,60,3,44,7,0,10,4,25,0,0,0
+131880,22440,Raspberry Royale,1/12 cake - 5.1 oz - 144 g,580,36,18,1,95,230,60,3,44,6,0,10,4,25,0,0,0
+131881,22440,Truffle Cake - 8'' - Variety Pack - Espresso Divine,1/12 cake - 5.1 oz - 144 g,590,37,19,1,95,220,59,3,43,7,0,10,4,25,0,0,0
+131882,22440,Truffle Cake - 8'' - Variety Pack - Hazelnut Grande,1/12 cake - 5.1 oz - 144 g,610,40,18,1,90,220,57,4,41,7,0,10,6,25,0,0,0
+131883,22440,Truffle Cake - 8'' - Variety Pack - Orange Imperial,1/12 cake - 5.1 oz - 144 g,580,36,18,1,95,230,60,3,44,7,0,10,4,25,0,0,0
+131884,22440,Truffle Cake - 8'' - Variety Pack - Raspberry Royale,1/12 cake - 5.1 oz - 144 g,580,36,18,1,95,230,60,3,44,6,0,10,4,25,0,0,0
+131885,22441,Pecan Pie,1/12 pie - 3 oz - 85 g,430,27,6,2,65,110,43,2,26,4,0,4,0,4,0,0,0
+131886,22441,Deep Dish Chocolate Pecan Tarte,1 slice - 3.4 oz - 97 g,470,27,12,0,35,110,53,4,36,6,0,6,2,20,0,0,0
+131887,22441,Deep Dish Country Apple Tarte,1/12 tarte - 4.2 oz - 118 g,390,19,10,0.5,85,290,50,2,29,6,0,10,4,8,0,0,0
+131888,22441,Deep Dish Peach Tarte,1/12 tarte - 4.2 oz - 118 g,370,18,9,0.5,75,210,48,1,27,6,0,15,2,8,0,0,0
+131889,22441,Linzer Tarte,1/8 tarte - 3.8 oz - 106 g,450,25,11,0.5,75,190,56,3,32,6,0,10,4,6,0,0,0
+131890,22441,Very Berry Deep Dish Tarte,1/12 tarte - 4.2 oz - 118 g,390,18,9,0.5,75,210,52,2,31,6,0,10,4,8,0,0,0
+131891,22441,Apple Crumble Tarte,1 piece - 5 oz - 142 g,460,19,7,2,35,390,67,2,37,5,0,15,2,10,0,0,0
+131892,22441,Pear Port Wine Tarte,1 slice - 3.8 oz - 108 g,340,17,8,0,60,130,42,2,24,5,0,8,4,6,0,0,0
+131893,22442,Midnight Layer,1/6 cake - 6.2 oz - 175 g,670,42,19,1,95,290,72,4,51,7,0,15,4,25,0,0,0
+131894,22443,Very Berry Tarte,1/4 tarte - 4.5 oz - 128 g,430,18,10,0,80,170,67,3,39,6,0,10,4,10,0,0,0
+131895,22443,Peach Tarte,1/4 tarte - 4.5 oz - 128 g,410,17,10,0,80,170,60,2,33,6,0,15,2,8,0,0,0
+131896,22444,Pumpkin Ginger Torte Precut,1 slice - 3.8 oz - 106 g,380,28,17,1,80,130,28,1,22,4,0,70,4,4,0,0,0
+131897,22444,Pumpkin Cheesecake Precut,1/16 cake - 4.6 oz - 129 g,410,28,16,0.5,130,240,35,1,29,7,0,60,6,4,0,0,0
+131898,22444,Egg Nog Cheesecake Precut,1 slice - 5.6 oz - 159 g,600,39,21,1,160,310,52,0,37,9,0,20,10,6,0,0,0
+131899,22444,American Harvest,1 slice - 4.5 oz - 128 g,400,20,8,0,55,180,50,4,27,5,0,20,4,8,0,0,0
+131900,22445,Banana Split Cake,1 slice - 5.5 oz - 156 g,550,29,12,3,75,260,68,1,51,6,2,8,8,10,0,0,0
+131901,22445,Tin Roof Sundae,1 slice - 6.1 oz - 172 g,740,48,17,2,145,170,70,3,54,8,0,15,8,15,0,0,0
+131902,22445,Chocolate Malt,1 slice - 5.3 oz - 150 g,510,32,18,1.5,100,240,51,1,30,5,0,15,8,10,0,0,0
+131903,22445,Caramel Sundae,1 slice - 6.1 oz - 172 g,710,40,17,2,130,170,80,2,61,81,0,15,8,0,0,0,0
+131904,22445,Variety Pack - 9'' Banana Split Cake,1 slice - 5.5 oz - 156 g,550,29,12,3,75,260,68,1,51,6,2,8,8,10,0,0,0
+131905,22445,Variety Pack - 9'' Caramel Sundae Cake,1 slice - 6.1 oz - 172 g,710,40,17,2,130,170,80,2,61,81,0,15,8,0,0,0,0
+131906,22445,Variety Pack - 10'' Chocolate Malt Cake,1 slice - 5.3 oz - 150 g,510,32,18,1.5,100,240,51,1,30,5,0,15,8,10,0,0,0
+131907,22445,Variety Pack - 9'' Tin Roof Sundae Cake,1 slice - 6.1 oz - 172 g,740,48,17,2,145,170,70,3,54,8,0,15,8,15,0,0,0
+131908,22446,Apple Cinnamon,1 slice - 4.5 oz - 128 g,350,15,7,0,50,290,50,2,29,4,0,10,4,8,0,0,0
+131909,22446,Peach Berry,1 slice - 4.5 oz - 128 g,360,15,7,0,50,150,53,2,32,5,0,10,4,8,0,0,0
+131910,22446,Apple Cherry,1 slice - 4.5 oz - 128 g,410,15,7,0,50,250,68,3,41,5,0,25,4,8,0,0,0
+131911,22446,Stone Fruit,1 slice - 4.5 oz - 128 g,360,15,7,0,50,150,53,2,33,5,0,20,2,8,0,0,0
+131912,22446,Apple Cherry Rustic Tarte 10'' Variety Pack,1 slice - 4.5 oz - 128 g,410,15,7,0,50,250,68,3,41,5,0,25,4,8,0,0,0
+131913,22446,Apple Cinnamon Rustic Tarte 10'' Variety Pack,1 slice - 4.5 oz - 128 g,350,15,7,0,50,290,50,2,29,4,0,10,4,8,0,0,0
+131914,22446,Peach Berry Rustic Tarte 10'' Variety Pack,1 slice - 4.5 oz - 128 g,360,15,7,0,50,150,53,2,32,5,0,10,4,8,0,0,0
+131915,22446,Stone Fruit Rustic Tarte 10'' Variety Pack,1 slice - 4.5 oz - 128 g,360,15,7,0,50,150,53,2,33,5,0,20,2,8,0,0,0

@@ -1,0 +1,13 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+133939,22633,Urban Orange,16 oz,264,3,0,0,0,0,37,0,33,23,2,0,0,0,0,0,0
+133940,22633,Urban Orange,24 oz,330,3,0,0,0,0,52,0,47,23,136,0,0,0,0,0,0
+133941,22634,The Teeter,16 oz,583,9,0,0,0,0,84,0,63,45,0,0,0,0,0,0,0
+133942,22634,The Teeter,24 oz,651,9,0,0,0,0,100,0,70,45,62,0,0,0,0,0,0
+133943,22635,The Caffeinator,16 oz,687,10,0,0,0,0,109,0,89,31,0,0,0,0,0,0,0
+133944,22635,The Caffeinator,24 oz,767,10,0,0,0,0,127,0,107,31,75,0,0,0,0,0,0
+133945,22635,The City Slicker,16 oz,266,3,0,0,0,0,37,0,33,23,0,0,0,0,0,0,0
+133946,22635,The City Slicker,24 oz,330,3,0,0,0,0,52,0,47,23,75,0,0,0,0,0,0
+133947,22636,The Supercharger,16 oz,291,3,0,0,0,0,44,0,33,25,88,0,0,0,0,0,0
+133948,22636,The Supercharger,24 oz,355,3,0,0,0,0,59,0,47,25,88,0,0,0,0,0,0
+133949,22637,Strawberry Fields Lite,16 oz,220,3,0,0,0,0,26,0,23,23,0,0,0,0,0,0,0
+133950,22637,Strawberry Fields Lite,24 oz,220,3,0,0,0,0,26,0,23,23,0,0,0,0,0,0,0

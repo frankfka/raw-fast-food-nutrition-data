@@ -1,0 +1,11 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+38361,2924,Assorted Chocolate,160,9,4.5,0,10,35,20,1,16,2,0,2,2,2,0,0,0
+38362,2924,Black or Gold Truffles,180,11,6,0,10,25,23,1,13,2,0,0,2,2,0,0,0
+38363,2924,Chocolate & Variety,160,10,4.5,0,10,45,18,1,15,2,0,2,4,2,0,0,0
+38364,2924,Dark Chocolates,160,10,4.5,0,10,40,19,2,16,2,0,2,2,4,0,0,0
+38365,2924,Milk Chocolates,160,9,4.5,0,10,40,20,1,17,2,0,2,4,2,0,0,0
+38366,2924,1/2 lb Red Mint Truffles,210,12,7,0,15,30,27,1,23,2,0,2,4,0,0,0,0
+38367,2924,Solt Centers,170,9,5,0,10,40,25,1,22,1,2,2,2,2,0,0,0
+38368,2924,Truffles,180,11,6,0,10,25,23,1,17,2,2,2,2,2,0,0,0
+38369,2925,Lollypop Box,80,3,2,0,10,40,15,0,9,0,0,0,0,0,0,0,0
+38370,2926,Nuts & Chews,240,16,6,0,10,50,25,2,18,4,0,2,6,4,0,0,0

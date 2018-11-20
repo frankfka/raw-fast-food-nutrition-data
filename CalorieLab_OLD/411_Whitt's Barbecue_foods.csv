@@ -1,0 +1,12 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+43300,3147,Pork Sandwich,405,22,0,0,0,0,30,1,0,0,0,0,0,0,0,0,0
+43301,3147,Pork Sandwich,305,11,0,0,0,0,30,1,0,0,0,0,0,0,0,0,0
+43302,3147,Turkey Sandwich,312,13,0,0,0,0,25,1,0,0,0,0,0,0,0,0,0
+43303,3147,Turkey Sandwich,212,2,0,0,0,0,25,1,0,0,0,0,0,0,0,0,0
+43304,3147,Beef Sandwich,390,20,0,0,0,0,30,1,0,0,0,0,0,0,0,0,0
+43305,3147,Beef Sandwich,290,9,0,0,0,0,30,1,0,0,0,0,0,0,0,0,0
+43306,3147,Barbecue Sandwich,62,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43307,3147,Barbecue Sandwich,33,0.5,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0
+43308,3147,Barbecue Sandwich,56,3,0,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0
+43309,3148,Baked Beans,144,0.5,0,0,0,0,29,5,0,0,0,0,0,0,0,0,0
+43310,3148,Cole Slaw,100,0,0,0,0,0,23,2,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+132637,22538,New England Clam Chowder,2/3 cup - 15 oz,200,11,0,0,0,620,20,0,1,4,0,0,0,0,0,0,0
+132638,22538,Clam Chowder Gift Pack,2/3 cup - 45 oz,200,11,0,0,0,620,20,0,1,4,0,0,0,0,0,0,0
+132639,22539,Seafood Cocktail Sauce,1/4 cup - 7 oz,45,0.5,0,0,0,470,9,0,6,1,0,0,0,0,0,0,0
+132640,22539,Tartar Sauce,2 tbs - 7 oz,140,15,0,0,0,210,0,0,0,0,0,0,0,0,0,0,0
+132641,22539,Tartar Sauce,2 tbs - 7 oz,140,15,0,0,0,210,0,0,0,0,0,0,0,0,0,0,0
+132642,22540,Ginger Teriyaki Sauce,2 tbs - 14 oz,50,0,0,0,0,670,0,0,9,1,0,0,0,0,0,0,0
+132643,22541,Smoked Salmon Portions,2 oz,70,1,0,0,0,400,0,0,0,15,0,0,0,0,0,0,0
+132644,22541,Smoked Salmon Side,2 oz,70,1,0,0,0,400,0,0,0,15,0,0,0,0,0,0,0

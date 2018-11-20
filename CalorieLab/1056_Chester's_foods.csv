@@ -1,0 +1,4 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+105154,20367,One Leg,97 g,210,11,2.5,0,105,570,8,1,0.1,19,0,0,14.6,0.9,0,0,0
+105155,20367,Half Breast,103 g,230,13,3,0,75,590,7,2,0.1,23,0,0,23.9,0.5,0,0,0
+105156,20367,One Wing,105 g,200,8,1.5,0,55,610,11,1,0.1,22,0,0,9.2,0,0,0,0

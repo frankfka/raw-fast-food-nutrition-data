@@ -1,0 +1,290 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+3462,186,Bartlett Pear & Caramelized Walnut (Veg),180,12,2,0,5,220,13,2,10,4,0,0,0,0,0,0,0
+3463,186,BBQ Julienne Chopped with Chicken,190,10,2,0,20,430,20,3,5,5,0,0,0,0,0,0,0
+3464,186,BBQ Smokehouse with Bacon & Peanuts,190,10,3,0,10,530,19,3,4,6,0,0,0,0,0,0,0
+3465,186,Bombay Curry with Almonds & Coconut (Veg),210,16,4,0.5,10,85,17,4,11,3,0,0,0,0,0,0,0
+3466,186,Caesar Salad Asiago (Non-Veg),190,14,2,0,10,280,10,1,4,5,0,0,0,0,0,0,0
+3467,186,California Cobb with Bacon,180,14,4,0,55,350,5,2,1,5,0,0,0,0,0,0,0
+3468,186,Cape Cod Spinach with Walnuts & Bacon,170,14,2,0,5,270,6,4,5,4,0,0,0,0,0,0,0
+3469,186,Chicken Tortilla,180,10,3,0,20,300,16,2,4,6,0,0,0,0,0,0,0
+3470,186,Classic Antipasto with Peppered Salami,140,10,3,0,10,370,6,2,2,5,0,0,0,0,0,0,0
+3471,186,Classic Greek (Veg),120,9,3,0,10,320,4,2,2,3,0,0,0,0,0,0,0
+3472,186,Club Blue BLT with Bacon,250,16,4.5,0,25,600,20,3,4,6,0,0,0,0,0,0,0
+3473,186,Country French with Bacon,210,18,6,0,20,420,7,2,1,10,0,0,0,0,0,0,0
+3474,186,Ensalada Azteca with Turkey,130,9,3,0,15,230,7,4,3,6,0,0,0,0,0,0,0
+3475,186,Honey Minted Fruit Toss,140,6,3.5,0,0,80,20,3,15,1,0,0,0,0,0,0,0
+3476,186,Italian Sub with Turkey & Salami,260,17,6,0,20,470,18,2,5,9,0,0,0,0,0,0,0
+3477,186,Mandarin Spinach with Caramelized Walnuts (Veg),170,11,1,0,0,150,14,3,11,3,0,0,0,0,0,0,0
+3478,186,Mediterranean (Veg),150,11,1.5,0,5,430,9,4,2,4,0,0,0,0,0,0,0
+3479,186,Monterey Blue with Peanuts (Veg),200,12,4,0,5,330,20,2,5,3,0,0,0,0,0,0,0
+3480,186,Outrageous Orange with Cashews (Veg),200,14,1.5,0.5,10,95,16,2,8,3,0,0,0,0,0,0,0
+3481,186,Pesto Orzo with Pinenuts (Non-Veg),220,17,3,0,10,320,14,2,5,4,0,0,0,0,0,0,0
+3482,186,Cherry Chipotle Spinach (Veg),220,15,1.5,0,0,90,20,2,10,2,0,0,0,0,0,0,0
+3483,186,Ragin' Cajun (Veg),180,13,1.5,0,0,280,15,3,7,2,0,0,0,0,0,0,0
+3484,186,Ranch House BLT with Turkey & Bacon,180,11,4,0,15,390,10,6,2,6,0,0,0,0,0,0,0
+3485,186,Roasted Vegetables with Feta & Olives (Veg),140,11,2,0,5,240,7,2,2,2,0,0,0,0,0,0,0
+3486,186,"Roma Tomato, Mozzarella & Basil (Veg)",120,9,2,0,10,180,7,1,2,4,0,0,0,0,0,0,0
+3487,186,San Marino Spinach with Pumpkin Seeds & Cranberries (Veg),200,15,4,0,15,220,11,6,5,6,0,0,0,0,0,0,0
+3488,186,Sedona Green Chile & Chipotle (Non-Veg),200,15,2,0.5,5,380,14,3,3,2,0,0,0,0,0,0,0
+3489,186,Smoked Turkey & Spinach with Almonds,190,10,2,0,15,480,20,3,15,6,0,0,0,0,0,0,0
+3490,186,Sonoma Spinach with Honey Dijon Vinaigrette (Veg),210,14,3,0,10,270,16,2,8,5,0,0,0,0,0,0,0
+3491,186,Spiced Pecan & Roasted Vegetable with Bacon,180,11,3,0,15,390,15,2,7,5,0,0,0,0,0,0,0
+3492,186,Spinach Gorgonzola with Spiced Pecans & Bacon,210,19,4,0,10,430,5,4,3,5,0,0,0,0,0,0,0
+3493,186,Strawberry Fields with Caramelized Walnuts (Veg),130,8,0.5,0,0,75,15,3,12,3,0,0,0,0,0,0,0
+3494,186,Summer Lemon with Spiced Pecans (Veg),220,15,3,0,10,250,18,2,13,2,0,0,0,0,0,0,0
+3495,186,Thai Peanut & Red Pepper (Veg),190,10,1.5,0,5,410,21,5,14,7,0,0,0,0,0,0,0
+3496,186,Traditional Spinach with Bacon,160,11,4,0,40,310,7,3,3,5,0,0,0,0,0,0,0
+3497,186,Watercress & Orange (Non-Veg),90,4,1,0,0,90,12,2,6,1,0,0,0,0,0,0,0
+3498,186,Won Ton Chicken Happiness,150,8,1,0,10,220,12,2,4,6,0,0,0,0,0,0,0
+3499,187,Aunt Doris' Red Pepper Slaw (Fat-free/Veg),70,0,0,0,0,480,18,3,13,1,0,0,0,0,0,0,0
+3500,187,Marinated Summer Vegetables (Fat-free/Veg),80,0,0,0,0,210,19,4,14,1,0,0,0,0,0,0,0
+3501,187,Baja Bean & Cilantro (Low-fat/Veg),180,3,0,0,0,190,29,5,2,9,0,0,0,0,0,0,0
+3502,187,Carrot Raisin (Low-fat/Veg),90,3,0,0,5,80,17,2,15,1,0,0,0,0,0,0,0
+3503,187,Mandarin Noodles w/Broccoli & Sesame Seeds (Low-fat/Veg),120,3,0,0,0,380,19,2,5,3,0,0,0,0,0,0,0
+3504,187,Mandarin Shells with Almonds (Low-fat/Veg),120,3,0,0,0,360,19,2,4,3,0,0,0,0,0,0,0
+3505,187,Oriental Ginger Slaw with Krab (Low-fat),70,3,0,0,2,80,8,4,3,2,0,0,0,0,0,0,0
+3506,187,Penne Pasta with Chicken in a Citrus Vinaigrette (Low-fat),130,3,0,0,5,380,20,2,5,5,0,0,0,0,0,0,0
+3507,187,Southern Dill Potato (Low-fat/Veg),120,3,2,0,5,300,20,2,2,4,0,0,0,0,0,0,0
+3508,187,Southwestern Rice & Beans (Low-fat/Veg),90,3,0,0,0,480,15,3,2,1,0,0,0,0,0,0,0
+3509,187,Spicy Southwestern Pasta (Low-fat/Veg),130,3,0,0,0,350,21,4,3,5,0,0,0,0,0,0,0
+3510,187,Summer Barley with Black Beans (Low-fat/Veg),110,3,0,0,0,280,19,4,1,4,0,0,0,0,0,0,0
+3511,187,Ambrosia with Coconut (Non-Veg),170,6,3,0,5,80,30,2,20,1,0,0,0,0,0,0,0
+3512,187,Artichoke Rice (Veg),160,8,1,0,3,780,21,2,2,3,0,0,0,0,0,0,0
+3513,187,BBQ Potato (Veg),160,8,1,0,5,270,20,2,3,2,0,0,0,0,0,0,0
+3514,187,Carrot Ginger with Herb Vinaigrette (Veg),150,12,1,0,0,40,9,3,6,1,0,0,0,0,0,0,0
+3515,187,Chinese Krab,160,8,1,0,3,260,19,3,4,5,0,0,0,0,0,0,0
+3516,187,Citrus Noodles with Snow Peas (Veg),140,6,1,0,0,240,19,2,5,3,0,0,0,0,0,0,0
+3517,187,Confetti Avocado Slaw,120,7,1,0,5,150,12,3,3,1,0,0,0,0,0,0,0
+3518,187,Dijon Potato with Garlic Dill Vinaigrette (Veg),150,12,1,0,0,40,9,3,6,1,0,0,0,0,0,0,0
+3519,187,Field Corn & Very Wild Rice (Veg),170,9,1,0,0,420,19,3,3,4,0,0,0,0,0,0,0
+3520,187,German Potato (Non-Veg),140,5,1,0,0,270,21,2,4,2,0,0,0,0,0,0,0
+3521,187,Greek Couscous with Feta Cheese & Pinenuts (Veg),170,9,1,0,4,480,19,3,3,6,0,0,0,0,0,0,0
+3522,187,Italian Garden Vegetable (Veg),110,8,1,0,0,240,9,2,2,1,0,0,0,0,0,0,0
+3523,187,Italian White Bean (Veg),140,5,0,0,0,480,19,4,2,6,0,0,0,0,0,0,0
+3524,187,Jalapeño Potato (Veg),140,5,1,0,0,490,20,2,3,2,0,0,0,0,0,0,0
+3525,187,Joan's Broccoli Madness with Cashews (Non-Veg),180,14,3,0,10,250,11,3,9,2,0,0,0,0,0,0,0
+3526,187,Lemon Rice with Cashews (Veg),160,7,2,0,0,290,23,1,3,2,0,0,0,0,0,0,0
+3527,187,Old Fashioned Macaroni with Ham,180,11,2,0,10,360,15,3,3,4,0,0,0,0,0,0,0
+3528,187,Pesto Pasta (Veg),160,7,1,0,2,320,18,2,2,4,0,0,0,0,0,0,0
+3529,187,Picnic Potato (Veg),170,9,1,0,80,420,19,2,3,3,0,0,0,0,0,0,0
+3530,187,Pineapple Coconut Slaw (Veg),150,10,3,0,15,190,14,2,10,1,0,0,0,0,0,0,0
+3531,187,Poppyseed Coleslaw (Veg),120,9,1,0,10,130,9,3,5,1,0,0,0,0,0,0,0
+3532,187,Red Potato & Tomato (Veg),120,10,1.5,0,5,540,8,3,1,2,0,0,0,0,0,0,0
+3533,187,Roasted Potato with Chipotle Chile Vinaigrette (Veg),140,6,1,0,0,250,18,4,3,3,0,0,0,0,0,0,0
+3534,187,San Francisco Herb Rice (Non-Veg),170,5,2,0,5,380,25,1,1,4,0,0,0,0,0,0,0
+3535,187,Shrimp & Seafood Shells,200,11,2,0,20,380,20,2,3,5,0,0,0,0,0,0,0
+3536,187,Southern Black-Eyed Pea (Veg),130,6,0,0,0,220,18,3,4,2,0,0,0,0,0,0,0
+3537,187,Thai Noodle with Chicken & Peanut Sauce,170,8,1,0,0,310,17,3,4,5,0,0,0,0,0,0,0
+3538,187,Three Bean Marinade (Veg),170,6,1,0,0,320,27,3,11,4,0,0,0,0,0,0,0
+3539,187,Tomato Cucumber Marinade (Veg),80,5,0,0,0,220,8,1,2,0,0,0,0,0,0,0,0
+3540,187,Tuna Tarragon,240,14,2,0,10,480,21,3,3,6,0,0,0,0,0,0,0
+3541,187,Turkey Chutney Pasta,230,9,2,0,30,310,21,2,6,14,0,0,0,0,0,0,0
+3542,187,Wild Rice & Chicken,300,22,5,0,20,490,20,1,4,5,0,0,0,0,0,0,0
+3543,187,Zesty Tortellini (Veg),190,15,2,0,10,460,18,2,3,4,0,0,0,0,0,0,0
+3544,188,Honey Mustard Dressing (Fat-free),45,0,0,0,10,160,10,0,9,0,0,0,0,0,0,0,0
+3545,188,Italian Dressing (Fat-free),20,0,0,0,0,340,5,0,4,0,0,0,0,0,0,0,0
+3546,188,Ranch Dressing (Fat-free),50,0,0,0,0,180,2,0,1,1,0,0,0,0,0,0,0
+3547,188,Cucumber Dressing (Reduced Calorie),80,7,1,0,0,290,4,0,3,0,0,0,0,0,0,0,0
+3548,188,Bacon Dressing,120,11,2,0,0,320,5,0,5,1,0,0,0,0,0,0,0
+3549,188,Balsamic Vinaigrette (Non-Veg),180,19,2,0,0,190,1,0,1,0,0,0,0,0,0,0,0
+3550,188,Basil Vinaigrette,160,17,1,0,0,160,1,0,0,0,0,0,0,0,0,0,0
+3551,188,Blue Cheese Dressing,150,14,3,0,15,230,3,0,1,1,0,0,0,0,0,0,0
+3552,188,Creamy Italian Dressing,150,16,2,0,10,360,2,0,1,0,0,0,0,0,0,0,0
+3553,188,Honey Mustard Dressing,150,13,2,0,10,230,8,0,6,0,0,0,0,0,0,0,0
+3554,188,Kahlena French Dressing,120,9,1.5,0,0,520,10,0,9,0,0,0,0,0,0,0,0
+3555,188,Parmesan Pepper Cream Dressing,160,17,2.5,0,5,330,2,0,1,1,0,0,0,0,0,0,0
+3556,188,Ranch Dressing,130,13,2,0,10,180,1,0,1,1,0,0,0,0,0,0,0
+3557,188,Roasted Garlic Dressing,140,14,2,0,5,300,2,0,1,1,0,0,0,0,0,0,0
+3558,188,Sweet Maple Dressing,170,17,1.5,0,5,50,6,0,6,0,0,0,0,0,0,0,0
+3559,188,Thousand Island Dressing,110,11,1.5,0,5,190,3,0,2,0,0,0,0,0,0,0,0
+3560,188,Chow Mein Noodles,70,3,0.5,0,0,100,8.5,1,0,1,0,0,0,0,0,0,0
+3561,188,Garlic Parmesan Seasoned Croutons,40,3,1,0.5,2,160,2,0,2,2,0,0,0,0,0,0,0
+3562,188,Plain Croutons,35,0.5,0,0,0,120,7,0.5,0,1,0,0,0,0,0,0,0
+3563,188,Tomato Basil Croutons,45,3,0.8,0,0,90,3,0,0,1,0,0,0,0,0,0,0
+3564,189,Apple Medley (Fat-free),70,0,0,0,0,5,18,1,12,1,0,0,0,0,0,0,0
+3565,189,Banana Royale (Fat-free),80,0,0,3,0,5,20,1,12,1,0,0,0,0,0,0,0
+3566,189,Chocolate Frozen Yogurt (Fat-free),95,0,0,0,0,80,21,0,15,3,0,0,0,0,0,0,0
+3567,189,Chocolate Syrup (Fat-free),70,0,0,0,10,15,18,0,17,0,0,0,0,0,0,0,0
+3568,189,Cranberry Crush Lemonade (Fat-free),90,0,0,0,0,10,21,0,19,0,0,0,0,0,0,0,0
+3569,189,Jello (Flavored) (Fat-free),80,0,0,0,0,40,20,0,19,1,0,0,0,0,0,0,0
+3570,189,Jello (Flavored) (Fat Free/Sugar Free),10,0,0,0,0,10,0,0,0,1,0,0,0,0,0,0,0
+3571,189,Strawberry Lemonade (Fat-free),100,0,0,0,0,10,27,0,27,0,0,0,0,0,0,0,0
+3572,189,Butterscotch Pudding (Low-fat),140,3,0,0,10,160,24,0,24,4,0,0,0,0,0,0,0
+3573,189,Candy Sprinkles (Low-fat),70,2,0,0,0,0,11,0,11,0,0,0,0,0,0,0,0
+3574,189,Chocolate Pudding (Low-fat),140,3,0,0,10,220,23,0,23,4,0,0,0,0,0,0,0
+3575,189,Chocolate Pudding (Low-fat/No Sugar Added),90,1.5,1,0,5,430,21,1,6,4,0,0,0,0,0,0,0
+3576,189,Nutty Waldorf Salad (Low-fat),80,3,0,0,0,80,12,3,5,1,0,0,0,0,0,0,0
+3577,189,Rice Pudding (Low-fat),110,2,1,0,10,50,20,1,12,3,0,0,0,0,0,0,0
+3578,189,Tapioca Pudding (Low-fat),140,3,0,0,10,160,24,0,24,4,0,0,0,0,0,0,0
+3579,189,Vanilla Soft Serve (Reduced Fat),140,4,3,0,20,70,22,0,19,3,0,0,0,0,0,0,0
+3580,189,Apple Cobbler,350,10,2,3,0,160,64,1,10,2,0,0,0,0,0,0,0
+3581,189,Banana Pudding,160,4,0,0,10,220,27,1,26,4,0,0,0,0,0,0,0
+3582,189,Blissful Blueberry Cobbler,380,10,2,2,0,230,70,3,45,3,0,0,0,0,0,0,0
+3583,189,Butterscotch Toasted Coconut & Walnut Focaccia,190,7,3,0,5,170,27,1,8,4,0,0,0,0,0,0,0
+3584,189,Caramel Apple Cobbler,390,12,2.5,3,5,230,65,2,50,3,0,0,0,0,0,0,0
+3585,189,Cheery Cherry Cobbler,340,10,2,3,0,180,61,2,10,2,0,0,0,0,0,0,0
+3586,189,Chocolate Chip Cookie,70,3,1,1,5,90,10,0,6,1,0,0,0,0,0,0,0
+3587,189,Chocolate Chip Cookie Bar,90,4,1.5,1,5,120,13,0,7,1,0,0,0,0,0,0,0
+3588,189,Chocolate Lava Cake,295,8,1.5,2,0,290,55,0,40,2,0,0,0,0,0,0,0
+3589,189,Cranberry Apple Cobbler,370,10,2,3,0,210,58,3,42,3,0,0,0,0,0,0,0
+3590,189,Deep Chocolate Winter Mint Lava Cake,295,8,1.5,2,5,290,55,0,39,2,0,0,0,0,0,0,0
+3591,189,Georgia Peach Cobbler,360,10,2,2,0,220,65,2,40,2,0,0,0,0,0,0,0
+3592,189,Granola Topping,110,4,2,0,0,14,16,2,6,2,0,0,0,0,0,0,0
+3593,189,Raspberry Apple Cobbler,380,12,2.5,3,0,240,67,2,39,3,0,0,0,0,0,0,0
+3594,189,Shortcakes,260,6,2,5,0,730,46,0,12,6,0,0,0,0,0,0,0
+3595,189,S'More Focaccia,240,10,3,1,5,230,36,0.5,20,2,0,0,0,0,0,0,0
+3596,189,Strawberry Apple Cobbler,340,10,2,3,0,200,66,2,19,3,0,0,0,0,0,0,0
+3597,189,Vanilla Pudding,140,4,0,0,10,160,24,0,24,4,0,0,0,0,0,0,0
+3598,190,Oriental Green Bean & Noodle (Low-fat),240,3,0,0,0,780,45,2,4,7,0,0,0,0,0,0,0
+3599,190,Arizona Marinara (Veg),360,11,5,0,25,890,47,3,6,17,0,0,0,0,0,0,0
+3600,190,Beefy Meatball Stroganoff,340,21,11,0.5,75,590,28,2,4,9,0,0,0,0,0,0,0
+3601,190,Broccoli Alfredo with Basil (Veg),380,17,8,0,40,790,45,1,5,12,0,0,0,0,0,0,0
+3602,190,Bruschetta (Veg),260,4,2,0,10,450,41,3,3,10,0,0,0,0,0,0,0
+3603,190,Carbonara with Bacon,280,8,4,0.5,20,250,43,2,3,10,0,0,0,0,0,0,0
+3604,190,Chicken Tetrazzini,480,23,10,1.5,70,610,47,3,4,19,0,0,0,0,0,0,0
+3605,190,Cilantro Lime Pesto (Veg),370,21,3,0,20,760,36,2,3,9,0,0,0,0,0,0,0
+3606,190,Creamy Bruschetta (Veg),360,16,8,0,45,510,43,3,3,12,0,0,0,0,0,0,0
+3607,190,Creamy Herb Chicken,310,17,8,0.5,80,360,32,2,7,8,0,0,0,0,0,0,0
+3608,190,Creamy Pepper Jack (Veg),290,15,6,0.5,50,360,35,2,6,6,0,0,0,0,0,0,0
+3609,190,Fettuccine Alfredo (Veg),390,18,10,0.5,50,580,41,2,4,15,0,0,0,0,0,0,0
+3610,190,Fire-Roasted Tomato & Basil Alfredo (Veg),370,14,8,0.5,35,690,44,2,4,19,0,0,0,0,0,0,0
+3611,190,4-Cheese Alfredo (Veg),390,13,7,1,30,690,50,3,3,19,0,0,0,0,0,0,0
+3612,190,Garden Vegetable with Italian Sausage,300,10,3,0,20,540,42,3,2,12,0,0,0,0,0,0,0
+3613,190,Garden Vegetable with Meatballs,270,7,3,0,10,460,42,3,2,11,0,0,0,0,0,0,0
+3614,190,Greek Mediterranean (Veg),290,8,3,0,15,520,45,2,4,10,0,0,0,0,0,0,0
+3615,190,Italian Sausage with Red Pepper Puree,250,10,4,0,45,380,35,2,7,6,0,0,0,0,0,0,0
+3616,190,Italian Vegetable Beef,270,6,2,0,10,470,43,4,3,10,0,0,0,0,0,0,0
+3617,190,Lemon Cream & Asparagus (Non-Veg),230,9,2,1.5,0,470,34,1,4,6,0,0,0,0,0,0,0
+3618,190,Linguini with Clam Sauce,380,10,5,1,40,890,56,1,3,16,0,0,0,0,0,0,0
+3619,190,Macaroni & Cheese (Veg),260,6,3,0,15,480,40,2,2,10,0,0,0,0,0,0,0
+3620,190,Nutty Mushroom (Veg),390,20,9,1,45,410,42,2,4,12,0,0,0,0,0,0,0
+3621,190,Pasta Florentine (Non-Veg),360,10,4,0.5,15,920,54,7,4,18,0,0,0,0,0,0,0
+3622,190,Penne Arrabbiatta (Veg),340,10,6,0,20,710,43,3,3,18,0,0,0,0,0,0,0
+3623,190,Roasted Eggplant Marinara (Veg),340,10,6,0,20,700,43,3,3,18,0,0,0,0,0,0,0
+3624,190,Roasted Garlic & Asiago Alfredo (Veg),330,11,6,0.5,25,650,45,2,5,13,0,0,0,0,0,0,0
+3625,190,Roasted Mushroom Alfredo with Rosemary (Veg),380,14,8,0.5,35,850,44,2,4,19,0,0,0,0,0,0,0
+3626,190,Smoked Salmon & Dill,360,16,8,0.5,45,390,41,2,2,13,0,0,0,0,0,0,0
+3627,190,Southwestern Alfredo (Veg),350,16,9,0.5,50,420,42,1,3,10,0,0,0,0,0,0,0
+3628,190,Spicy Italian Sausage & Peppers,360,11,6,0,25,710,43,3,3,19,0,0,0,0,0,0,0
+3629,190,Tuscany Sausage with Capers & Olives,240,10,4,0,15,920,29,2,3,10,0,0,0,0,0,0,0
+3630,190,Vegetable Ragu (Veg),250,5,2,0.5,10,480,41,3,4,9,0,0,0,0,0,0,0
+3631,190,Vegetarian Marinara with Basil (Veg),260,4,2,0,10,750,44,3,3,10,0,0,0,0,0,0,0
+3632,190,Walnut Pesto (Veg),310,9,3,0,10,610,42,2,4,10,0,0,0,0,0,0,0
+3633,191,Apple Cinnamon Bran Muffin (96% Fat Free),80,0.5,0,0,0,110,17,1,13,2,0,0,0,0,0,0,0
+3634,191,Cranberry Orange or Fruit Medley Bran Muffin (96% Fat Free),80,0.5,0,0,0,110,17,1,15,2,0,0,0,0,0,0,0
+3635,191,Buttermilk Cornbread (Low-fat),140,2,0,0,10,270,27,2,4,3,0,0,0,0,0,0,0
+3636,191,Chile Corn Muffin (Low-fat),140,3,1,0,10,320,27,2,5,3,0,0,0,0,0,0,0
+3637,191,Indian Grain Bread (Low-fat),200,1.5,0,0,15,260,35,0,5,11,0,0,0,0,0,0,0
+3638,191,Sourdough Bread (Low-fat),150,0.5,0,0,0,240,27,0,0,9,0,0,0,0,0,0,0
+3639,191,Apple Raisin Nut Muffin,150,7,1,0,10,190,22,1,9,2,0,0,0,0,0,0,0
+3640,191,Banana Nut Muffin,150,7,1,0,10,190,22,1,9,2,0,0,0,0,0,0,0
+3641,191,Black Forest Muffin,230,9,2,0,10,190,36,1,19,2,0,0,0,0,0,0,0
+3642,191,Bruschetta Focaccia,130,6,1.5,0.5,5,260,15,1,1,4,0,0,0,0,0,0,0
+3643,191,Buttermilk Biscuits,230,6,1.5,3.5,0,740,39,0,4,6,0,0,0,0,0,0,0
+3644,191,Cappuccino Chip Muffin,160,4,2,0,25,160,28,1,15,3,0,0,0,0,0,0,0
+3645,191,Caribbean Key Lime Muffin with Coconut,170,6,1,0,10,210,28,1,15,2,0,0,0,0,0,0,0
+3646,191,Carrot Pineapple Muffin with Oat Bran,150,6,1,0,10,230,23,2,13,3,0,0,0,0,0,0,0
+3647,191,Cherry Nut Muffin,150,7,1,0,10,190,22,1,9,2,0,0,0,0,0,0,0
+3648,191,Chocolate Brownie Muffin,170,8,2,0,10,190,22,1,10,3,0,0,0,0,0,0,0
+3649,191,Chocolate Chip Muffin,170,8,2,0,10,190,22,1,10,3,0,0,0,0,0,0,0
+3650,191,Country Blackberry Muffin,170,6,2,0,15,190,27,1,13,2,0,0,0,0,0,0,0
+3651,191,French Quarter Praline Muffin,290,15,1.5,0,20,100,38,2,21,4,0,0,0,0,0,0,0
+3652,191,Garlic Asiago Focaccia,140,6,2,0,10,240,19,1,1,4,0,0,0,0,0,0,0
+3653,191,Georgia Peach Poppyseed Muffin,150,6,1,0,10,210,20,1,10,2,0,0,0,0,0,0,0
+3654,191,Grilled Cheese Focaccia,150,8,3,1,10,340,15,0,1,3,0,0,0,0,0,0,0
+3655,191,Macadamia Nut Spice Muffin,220,9,1.5,1,20,260,33,1,18,3,0,0,0,0,0,0,0
+3656,191,Mango Tropics Muffin with Coconut,180,7,2,0,10,200,28,1,17,2,0,0,0,0,0,0,0
+3657,191,Maple Walnut Muffin,230,10,2,0,5,230,33,1,21,3,0,0,0,0,0,0,0
+3658,191,Nutty Peanut Butter Muffin,170,8,1,0,10,210,21,1,9,4,0,0,0,0,0,0,0
+3659,191,Old World Greek Focaccia,150,6,1,0,5,310,19,1,1,3,0,0,0,0,0,0,0
+3660,191,Pauline's Apple Walnut Cake,180,7,3,0,25,180,28,1,21,2,0,0,0,0,0,0,0
+3661,191,Pepperoni Focaccia,160,7,3,0,15,340,19,1,1,5,0,0,0,0,0,0,0
+3662,191,Pesto & Sun-dried Tomato Focaccia,160,7,2,0,10,240,20,1,1,5,0,0,0,0,0,0,0
+3663,191,Pumpkin Raisin Muffin,150,6,1,0,10,210,25,1,14,2,0,0,0,0,0,0,0
+3664,191,Quattro Formaggio Focaccia,140,5,2,0,10,240,19,1,1,4,0,0,0,0,0,0,0
+3665,191,Roasted Potato Focaccia,150,6,2,0,10,220,17,2,1,6,0,0,0,0,0,0,0
+3666,191,Sauteed Vegetable Focaccia,150,7,2,1,10,230,18,1,3,3,0,0,0,0,0,0,0
+3667,191,Southwest Chipotle Focaccia,160,8,1.5,0,10,230,19,1,1,4,0,0,0,0,0,0,0
+3668,191,Spiced Pumpkin Muffin with Cranberries,180,7,1,0,25,170,29,1,18,2,0,0,0,0,0,0,0
+3669,191,Strawberry Buttermilk Muffin,140,6,1,0,10,210,21,1,8,2,0,0,0,0,0,0,0
+3670,191,Sweet Orange & Cranberry Muffin,200,7,1,0,5,220,33,1,20,2,0,0,0,0,0,0,0
+3671,191,Taffy Apple Muffin,160,6,1,0,10,190,25,1,18,2,0,0,0,0,0,0,0
+3672,191,Tangy Lemon Muffin,140,4,1,0,10,190,24,1,13,2,0,0,0,0,0,0,0
+3673,191,Thai Chicken Focaccia with Peanuts,160,6,1.5,0,10,220,20,1,1,7,0,0,0,0,0,0,0
+3674,191,Wildly Blue Blueberry Muffin-small,140,5,1,0,10,180,22,1,9,2,0,0,0,0,0,0,0
+3675,191,Wildly Blue Blueberry Muffin-large,310,12,2,0,20,380,46,2,20,5,0,0,0,0,0,0,0
+3676,191,Zucchini Nut Muffin,150,7,1,0,10,190,22,1,9,2,0,0,0,0,0,0,0
+3677,192,Albondigas Locas - A Meatball Soup,210,10,4,0,15,720,17,3,3,12,0,0,0,0,0,0,0
+3678,192,Autumn Root Vegetable with Wild Rice (Fat free/Veg),80,0,0,0,0,970,18,2,3,1,0,0,0,0,0,0,0
+3679,192,Baked Potato & Cheese with Bacon,290,18,10,1,50,670,22,2,6,11,0,0,0,0,0,0,0
+3680,192,Beef & Barley Stew,240,10,4,0,30,930,19,3,5,12,0,0,0,0,0,0,0
+3681,192,Better Than Mom's Beef Stew,270,17,6,1.5,35,"1,100",19,2,3,9,0,0,0,0,0,0,0
+3682,192,Big Chunk Chicken Noodle (Low-fat),160,3,2,0,20,480,17,2,3,15,0,0,0,0,0,0,0
+3683,192,Border Black Bean & Chorizo,230,9,3,1,15,830,27,6,6,11,0,0,0,0,0,0,0
+3684,192,Broccoli Cheese (Veg),280,20,11,1,50,810,15,2,7,11,0,0,0,0,0,0,0
+3685,192,Butternut Squash (Veg),140,6,4,0.5,17,670,15,4,4,3,0,0,0,0,0,0,0
+3686,192,Canadian Cheese with Smoked Ham,370,27,14,2,65,980,20,1,9,13,0,0,0,0,0,0,0
+3687,192,Cheese Stuffed Cappelletti (Non-Veg),130,3.5,1.5,0.5,10,"1,580",20,1,8,5,0,0,0,0,0,0,0
+3688,192,Chesapeake Corn Chowder (Non-Veg),280,16,8,1,35,750,30,2,8,7,0,0,0,0,0,0,0
+3689,192,Chicken Fajitas & Black Bean,280,7,2,1,20,980,33,7,4,22,0,0,0,0,0,0,0
+3690,192,Chicken Pot Pie Stew,310,21,9,1.5,60,750,21,2,7,8,0,0,0,0,0,0,0
+3691,192,Chicken Tortilla with Jalapeño Chiles & Tomatoes (Low-fat),100,3,1,0,20,990,5,1,2,12,0,0,0,0,0,0,0
+3692,192,Chunky Potato Cheese with Thyme (Veg),210,10,6,0.5,30,480,19,2,3,10,0,0,0,0,0,0,0
+3693,192,Classic Creamy Tomato,180,11,6,1,30,650,18,2,10,2,0,0,0,0,0,0,0
+3694,192,Classical French Onion (Non-Veg),130,5,2,0.5,5,"1,280",16,2,12,2,0,0,0,0,0,0,0
+3695,192,Classical Minestrone (Low-fat/Veg),120,2,0,0,0,510,20,3,4,4,0,0,0,0,0,0,0
+3696,192,Classical Shrimp Bisque,240,16,7,1,70,230,15,1,5,9,0,0,0,0,0,0,0
+3697,192,Country Corn & Red Potato Chowder (Non-Veg),160,6,3,1,15,330,24,4,6,3,0,0,0,0,0,0,0
+3698,192,Cream of Broccoli (Veg),220,16,7,2.5,35,960,15,3,2,4,0,0,0,0,0,0,0
+3699,192,Cream of Chicken,250,15,6,0.5,40,350,21,2,3,12,0,0,0,0,0,0,0
+3700,192,Cream of Mushroom (Non-Veg),290,21,8,1.5,30,820,15,2,3,10,0,0,0,0,0,0,0
+3701,192,Cream of Rosemary Potato (Non-Veg),270,19,10,1,50,790,22,2,4,3,0,0,0,0,0,0,0
+3702,192,Creamy Herbed Turkey,320,22,10,2,60,990,18,1,5,11,0,0,0,0,0,0,0
+3703,192,Creamy Vegetable Chowder (Veg),200,10,4,1,20,610,23,3,6,6,0,0,0,0,0,0,0
+3704,192,Deep Kettle House Chili (Low-fat/Non-Veg),230,3,2,0,15,560,26,7,4,15,0,0,0,0,0,0,0
+3705,192,Deep Kettle House Chili w/33% more meat,250,8,3,0,25,790,26,7,7,15,0,0,0,0,0,0,0
+3706,192,Deep Kettle House Chili w/50% more meat,290,10,3.5,0,40,670,29,6,5,17,0,0,0,0,0,0,0
+3707,192,8 Vegetable Chicken Stew,190,9,5,0,45,890,17,2,5,11,0,0,0,0,0,0,0
+3708,192,El Paso Lime & Chicken,160,4,1,0,15,"1,250",24,2,5,7,0,0,0,0,0,0,0
+3709,192,Field of Creams–Cauliflower with Proud to be American Cheese (Veg),280,21,9,3,40,990,17,1,3,5,0,0,0,0,0,0,0
+3710,192,Field of Creams–Fresh Celery (Veg),210,15,7,2,30,800,15,2,2,2,0,0,0,0,0,0,0
+3711,192,Field of Creams–Spinach (Veg),230,16,10,1.5,45,950,18,2,3,4,0,0,0,0,0,0,0
+3712,192,Field of Creams–Sweet Tomato Basil (Veg),220,15,7,1,30,990,20,2,4,3,0,0,0,0,0,0,0
+3713,192,Fire Roasted Green Chile & Corn Chowder w/Bacon,230,14,6,1,25,670,21,1,7,5,0,0,0,0,0,0,0
+3714,192,Garden Fresh Vegetable (Low-fat/Veg),110,1,0,0.5,0,890,22,4,4,4,0,0,0,0,0,0,0
+3715,192,Garden of Eatin' (Low-fat/Veg),150,3,0,0,0,770,25,6,6,5,0,0,0,0,0,0,0
+3716,192,Green Chile Stew with Pork,150,6,2,0,20,980,14,3,2,9,0,0,0,0,0,0,0
+3717,192,Hungarian Vegetable (Low-fat/Veg),120,2,0,0,0,520,20,2,5,2,0,0,0,0,0,0,0
+3718,192,Irish Potato Leek (Veg),260,16,8,1,35,680,23,3,7,5,0,0,0,0,0,0,0
+3719,192,Longhorn Beef Chili,190,6,3,0,20,790,25,4,5,10,0,0,0,0,0,0,0
+3720,192,Marvelous Minestrone with Bacon,210,7,1.5,0,5,950,31,5,7,8,0,0,0,0,0,0,0
+3721,192,Minestrone with Italian Sausage,210,11,4,1,20,890,14,5,3,13,0,0,0,0,0,0,0
+3722,192,Mulligatawny (Non-Veg),210,12,5,0,40,690,18,2,5,8,0,0,0,0,0,0,0
+3723,192,Navy Bean with Ham,340,10,4,0,40,980,30,6,3,35,0,0,0,0,0,0,0
+3724,192,Neighbor Joe's Gumbo (Non-Veg),220,11,5,0,30,"1,360",21,3,5,9,0,0,0,0,0,0,0
+3725,192,New Mexican Corn Tortilla with Chicken,200,10,3,1,30,990,20,2,3,8,0,0,0,0,0,0,0
+3726,192,New Orleans Jambalaya (Non-Veg),210,11,4,1,30,820,18,3,7,11,0,0,0,0,0,0,0
+3727,192,Old Fashion Vegetable (Low-fat/Veg),100,2,0,0,0,590,18,5,5,2,0,0,0,0,0,0,0
+3728,192,Posole with Pork,150,6,2,0,35,980,8,2,1,12,0,0,0,0,0,0,0
+3729,192,Ratatouille Provencale (Fat-free/Veg),110,0,0,0,0,600,25,2,3,2,0,0,0,0,0,0,0
+3730,192,Roasted Mushroom with Sage (Non-Veg),320,25,11,2,50,910,20,1,7,5,0,0,0,0,0,0,0
+3731,192,Rustic Tuscan Stew (Low-fat/Non Veg),140,2,0,0,5,620,25,4,3,6,0,0,0,0,0,0,0
+3732,192,Santa Fe Black Bean Chili (Low-fat/Veg),190,3,0,0,0,580,26,8,2,9,0,0,0,0,0,0,0
+3733,192,Savory Turkey Harvest,210,11,5,1,30,730,18,2,7,9,0,0,0,0,0,0,0
+3734,192,Southwest Tomato Cream (Veg),120,6,2,0,10,720,14,2,5,3,0,0,0,0,0,0,0
+3735,192,Southwest Turkey Chowder with Bacon,240,15,7,1.5,40,890,21,2,3,6,0,0,0,0,0,0,0
+3736,192,Spicy Sausage & Pasta,310,12,4.5,10,30,"1,270",36,5,8,15,0,0,0,0,0,0,0
+3737,192,Split Pea with Ham,350,10,4,0.5,40,980,32,6,3,36,0,0,0,0,0,0,0
+3738,192,Sweet Tomato Onion (Low-fat/Veg),90,3,0.5,1,0,620,11,2,5,2,0,0,0,0,0,0,0
+3739,192,Texas Red Chili (Non-Veg),190,6,2,1,15,990,23,5,6,8,0,0,0,0,0,0,0
+3740,192,Three-Bean Turkey Chili (Low-fat),170,3,1,0,25,710,24,7,6,13,0,0,0,0,0,0,0
+3741,192,Tomato Chipotle Bisque (Non-Veg),240,16,8,1,40,"1,140",21,2,7,5,0,0,0,0,0,0,0
+3742,192,Tomato Parmesan & Vegetables (Low-fat/Veg),120,3,1,0,5,460,18,3,3,4,0,0,0,0,0,0,0
+3743,192,Turkey Cassoulet with Bacon,360,12,6,1.5,40,780,32,5,3,35,0,0,0,0,0,0,0
+3744,192,Turkey Vegetable,180,8,3,1,30,140,15,2,4,10,0,0,0,0,0,0,0
+3745,192,U.S. Senate Bean with Smoked Ham,150,4,1,0,10,890,20,3,4,7,0,0,0,0,0,0,0
+3746,192,Vegetable Medley (Low-fat/Veg),90,1,0,0,0,520,14,3,2,2,0,0,0,0,0,0,0
+3747,192,Vegetarian Harvest (Veg),190,8,2,0.5,0,990,23,4,5,5,0,0,0,0,0,0,0
+3748,192,White Bean & Lime Chicken Chili,210,4,1,0.5,35,960,27,6,4,15,0,0,0,0,0,0,0
+3749,192,Yam & Sweet Potato Bisque (Veg),200,7,4,1,20,630,32,4,5,2,0,0,0,0,0,0,0
+3750,192,Yankee Clipper Clam Chowder with Bacon,330,20,10,1.5,80,630,21,2,3,18,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+47883,3464,Vanilla Marsala,120,2,1,0,10,60,21,0,21,4,0,0,0,0,0,0,0
+47884,3464,Choc Mint Milano,120,2.5,1.5,0,5,60,22,0,22,4,0,0,0,0,0,0,0
+47885,3464,Red Raspberry,130,1.5,1,0,10,60,25,0,23,4,0,0,0,0,0,0,0
+47886,3464,Apple Cinnamon,130,1.5,1,0,5,60,25,0,24,4,0,0,0,0,0,0,0
+47887,3464,Amaretto Chocolate,150,4.5,2,0,5,60,23,0,22,4,0,0,0,0,0,0,0
+47888,3464,Coffee Fudge Latte,130,2,1,0,10,70,22,0,22,4,0,0,0,0,0,0,0
+47889,3464,White Chocolate,130,3,1.5,0,5,60,23,0,23,4,0,0,0,0,0,0,0
+47890,3464,Almond Biscotti,150,3,1.5,0,5,75,26,0,23,4,0,0,0,0,0,0,0

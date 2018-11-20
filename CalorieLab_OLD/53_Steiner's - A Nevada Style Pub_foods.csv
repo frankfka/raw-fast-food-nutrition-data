@@ -1,0 +1,11 @@
+food_id,menu_id,food_name,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+5235,342,Sun City,170,2,0,0,0,210,37,5,22,5,0,0,0,0,0,0,0
+5236,342,Pyramid Shrimp Cocktail,180,2.5,1,0,215,"1,170",15,0,12,23,0,0,0,0,0,0,0
+5237,342,Silver Springs Oysters,175,4,1,0,75,915,19,0,9,15,0,0,0,0,0,0,0
+5238,342,Gazpacho Ala Elsie,40,0,0,0,0,"1,005",7,2,3,3,0,0,0,0,0,0,0
+5239,343,State Line Chinese Chicken Salad,650,26,5,0,170,580,33,6,5,69,0,0,0,0,0,0,0
+5240,344,Venetian Chicken Sandwich,635,20,6,0,185,910,40,5,10,73,0,0,0,0,0,0,0
+5241,344,Round Mountain,455,21,9,0,135,380,21,3,5,48,0,0,0,0,0,0,0
+5242,344,Rhyolite Sliced Turkey Sandwich,250,4,0,0,65,"1,230",25,4,4,30,0,0,0,0,0,0,0
+5243,345,Angel Hair Arabiata,715,24,3,0,5,"1,115",100,9,10,21,0,0,0,0,0,0,0
+5244,345,Broiled Salmon,595,23,6,0,160,165,38,4,2,58,0,0,0,0,0,0,0

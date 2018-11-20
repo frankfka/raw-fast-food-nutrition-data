@@ -1,0 +1,112 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+126955,22008,Just Bread - Wheat Sub (1/2 loaf),1 sandwich,340,2.5,0,0,0,750,67,2,0,11,0,0,0,3,0,0,0
+126956,22008,Just Bread - Sliced Wheat (per slice),1 sandwich,70,1.5,0,0,0,130,14,1,0,3,0,0,0,0,0,0,0
+126957,22008,Just Bread - White Sub 1/2 loaf,1 sandwich,350,0,0,0,0,750,70,0,0,15,0,0,0,6,0,0,0
+126958,22008,Just Fillings - Comet Morehouse,1 sandwich,193,12,4,0,55,795,5,1.6,0,16,0,0,0,2,0,0,0
+126959,22008,Just Fillings - Halleys Comet,1 sandwich,184,2,0,0,37,546,4,2,0,12,0,0,0,3,0,0,0
+126960,22008,Just Fillings - Bornk,1 sandwich,314,19,0,0,73,1265,7,2,0,27,0,0,0,3,0,0,0
+126961,22008,Just Fillings - Boney Billy,1 sandwich,83,1,0,0,31,402,5,2,0,14,0,0,0,2,0,0,0
+126962,22008,Just Fillings - Tappy,1 sandwich,349,25,10,0,68,1137,11,3,0,19,0,0,0,2,0,0,0
+126963,22008,Just Fillings - Jacob Bluefinger,1 sandwich,269,21,8,0,48,602,8,2,0,18,0,0,0,3,0,0,0
+126964,22008,Just Fillings - Shortcake,1 sandwich,262,16,6,0,82,1324,6,2,0,23,0,0,0,3,0,0,0
+126965,22008,Just Fillings - Comet Candy,1 sandwich,266,15,5,0,84,1485,6,2,0,27,0,0,0,4,0,0,0
+126966,22008,Just Fillings - Flash,1 sandwich,419,29,10,0,103,1667,12,3,0,26,0,0,0,3,0,0,0
+126967,22008,Just Fillings - Tullius,1 sandwich,271,12,4,0,85,1135,10,3,0,31,0,0,0,4,0,0,0
+126968,22008,Just Fillings - Girf,1 sandwich,249,13,4,0,78,1184,6,2,0,27,0,0,0,2,0,0,0
+126969,22008,Just Fillings - Narmer,1 sandwich,325,22,8,0,71,991,8,2,0,29,0,0,0,3,0,0,0
+126970,22008,Just Fillings - Geeter,1 sandwich,103,2,0,0,25,842,13,2,0,11,0,0,0,3,0,0,0
+126971,22008,Just Fillings - Pudder,1 sandwich,469,32,5,0,0,303,37,4,0,18,0,0,0,2,0,0,0
+126972,22008,Honey Wheat Sub - Comet Morehouse,1 sandwich,533,14.5,4,0,55,1545,72,3.6,0,27,0,0,0,5,0,0,0
+126973,22008,Honey Wheat Sub - Halleys Comet,1 sandwich,524,4.5,0,0,37,1296,71,4,0,23,0,0,0,6,0,0,0
+126974,22008,Honey Wheat Sub - Bornk,1 sandwich,654,21.5,0,0,73,2015,74,4,0,38,0,0,0,6,0,0,0
+126975,22008,Honey Wheat Sub - Boney Billy,1 sandwich,423,3.5,0,0,31,1152,72,4,0,25,0,0,0,5,0,0,0
+126976,22008,Honey Wheat Sub - Tappy,1 sandwich,689,27.5,10,0,68,1887,78,5,0,30,0,0,0,5,0,0,0
+126977,22008,Honey Wheat Sub - Jacob Bluefinger,1 sandwich,609,23.5,8,0,48,1352,75,4,0,29,0,0,0,6,0,0,0
+126978,22008,Honey Wheat Sub - Shortcake,1 sandwich,602,18.5,6,0,82,2074,73,4,0,34,0,0,0,6,0,0,0
+126979,22008,Honey Wheat Sub - Comet Candy,1 sandwich,606,17.5,5,0,84,2235,73,4,0,38,0,0,0,7,0,0,0
+126980,22008,Honey Wheat Sub - Flash,1 sandwich,759,31.5,10,0,103,2417,79,5,0,37,0,0,0,6,0,0,0
+126981,22008,Honey Wheat Sub - Tullius,1 sandwich,611,14.5,4,0,85,1885,77,5,0,42,0,0,0,7,0,0,0
+126982,22008,Honey Wheat Sub - Girf,1 sandwich,589,15.5,4,0,78,1934,73,4,0,38,0,0,0,5,0,0,0
+126983,22008,Honey Wheat Sub - Narmer,1 sandwich,665,24.5,8,0,71,1741,75,4,0,40,0,0,0,6,0,0,0
+126984,22008,Honey Wheat Sub - Geeter,1 sandwich,443,4.5,0,0,25,1592,80,4,0,22,0,0,0,6,0,0,0
+126985,22008,Honey Wheat Sub - Pudder,1 sandwich,809,34.5,5,0,0,1053,104,6,0,29,0,0,0,5,0,0,0
+126986,22008,Honey Wheat Sub - Add Regular Mayo,1 sandwich,164,18,2,0,8,131,0,0,0,0,0,0,0,0,0,0,0
+126987,22008,Honey Wheat Sub - Addlow Fat Mayo,1 sandwich,34,1,0,0,0,189,5,0,0,0,0,0,0,0,0,0,0
+126988,22008,Original French Sub - Comet Morehouse,1 sandwich,543,12,4,0,55,1545,75,1.6,0,31,0,0,0,8,0,0,0
+126989,22008,Original French Sub - Halleys Comet,1 sandwich,434,2,0,0,37,1296,74,2,0,27,0,0,0,9,0,0,0
+126990,22008,Original French Sub - Bornk,1 sandwich,664,19,0,0,73,2015,77,2,0,42,0,0,0,9,0,0,0
+126991,22008,Original French Sub - Boney Billy,1 sandwich,433,1,0,0,31,1152,75,2,0,29,0,0,0,8,0,0,0
+126992,22008,Original French Sub - Tappy,1 sandwich,699,25,10,0,68,1887,81,3,0,34,0,0,0,8,0,0,0
+126993,22008,Original French Sub - Jacob Bluefinger,1 sandwich,619,21,8,0,48,1352,78,2,0,33,0,0,0,9,0,0,0
+126994,22008,Original French Sub - Shortcake,1 sandwich,612,16,6,0,82,2074,76,2,0,38,0,0,0,9,0,0,0
+126995,22008,Original French Sub - Comet Candy,1 sandwich,616,15,5,0,84,2235,76,2,0,42,0,0,0,10,0,0,0
+126996,22008,Original French Sub - Flash,1 sandwich,769,29,10,0,103,2417,82,3,0,41,0,0,0,9,0,0,0
+126997,22008,Original French Sub - Tullius,1 sandwich,621,12,4,0,85,2085,80,3,0,46,0,0,0,10,0,0,0
+126998,22008,Original French Sub - Girf,1 sandwich,599,13,4,0,78,1934,76,2,0,42,0,0,0,8,0,0,0
+126999,22008,Original French Sub - Narmer,1 sandwich,675,22,8,0,71,1741,78,2,0,44,0,0,0,9,0,0,0
+127000,22008,Original French Sub - Geeter,1 sandwich,453,2,0,0,25,1592,83,2,0,26,0,0,0,9,0,0,0
+127001,22008,Original French Sub - Pudder,1 sandwich,819,32,5,0,0,1053,107,4,0,33,0,0,0,8,0,0,0
+127002,22008,Original French Sub - Add Regular Mayo,1 sandwich,164,18,2,0,8,131,0,0,0,0,0,0,0,0,0,0,0
+127003,22008,Original French Sub - Addlow Fat Mayo,1 sandwich,34,1,0,0,0,189,5,0,0,0,0,0,0,0,0,0,0
+127004,22008,Sliced Wheat Club - Comet Morehouse,1 sandwich,333,15,4,0,55,1055,33,3.6,0,22,0,0,0,2,0,0,0
+127005,22008,Sliced Wheat Club - Comet,1 sandwich,324,5,0,0,37,806,32,4,0,18,0,0,0,3,0,0,0
+127006,22008,Sliced Wheat Club - Bornk,1 sandwich,454,22,0,0,73,1525,35,4,0,33,0,0,0,3,0,0,0
+127007,22008,Sliced Wheat Club - Billy,1 sandwich,223,4,0,0,31,662,33,4,0,20,0,0,0,2,0,0,0
+127008,22008,Sliced Wheat Club - Tappy,1 sandwich,489,28,10,0,68,1397,39,5,0,25,0,0,0,2,0,0,0
+127009,22008,Sliced Wheat Club - Bluefinger,1 sandwich,409,24,8,0,48,862,36,4,0,24,0,0,0,3,0,0,0
+127010,22008,Sliced Wheat Club - Shortcake,1 sandwich,472,20.5,6,0,82,1714,48,5,0,32,0,0,0,3,0,0,0
+127011,22008,Sliced Wheat Club - Candy,1 sandwich,476,19.5,5,0,84,1875,48,5,0,36,0,0,0,4,0,0,0
+127012,22008,Sliced Wheat Club - Flash,1 sandwich,629,33.5,10,0,103,2057,54,6,0,35,0,0,0,3,0,0,0
+127013,22008,Sliced Wheat Club - Tullius,1 sandwich,481,16.5,4,0,85,1525,52,6,0,40,0,0,0,4,0,0,0
+127014,22008,Sliced Wheat Club - Girf,1 sandwich,459,17.5,4,0,78,1574,48,5,0,36,0,0,0,2,0,0,0
+127015,22008,Sliced Wheat Club - Narmer,1 sandwich,535,26.5,8,0,71,1381,50,5,0,38,0,0,0,3,0,0,0
+127016,22008,Sliced Wheat Club - Geeter,1 sandwich,243,5,0,0,25,1102,41,4,0,17,0,0,0,3,0,0,0
+127017,22008,Sliced Wheat Club - Pudder,1 sandwich,609,35,5,0,0,563,65,6,0,24,0,0,0,2,0,0,0
+127018,22008,Sliced Wheat Club - Add Regular Mayo,1 sandwich,164,18,2,0,8,131,0,0,0,0,0,0,0,0,0,0,0
+127019,22008,Sliced Wheat Club - Addlow Fat Mayo,1 sandwich,34,1,0,0,0,189,5,0,0,0,0,0,0,0,0,0,0
+127020,22009,Cheesy Chicken Tortilla Style Soup,12 oz,345,24,10.5,0,105,2190,18,1.5,0,12,0,0,0,0,0,0,0
+127021,22009,Chicken Gumbo,12 oz,165,3,0.8,0,30,1890,22.5,3,0,10.5,0,0,0,0,0,0,0
+127022,22009,California Medley,12 oz,255,13.5,9,0,45,1965,22.5,1.5,0,10.5,0,0,0,0,0,0,0
+127023,22009,Cream of Broccoli,12 oz,255,15,6.8,2.3,30,2130,22.5,0,0,7.5,0,0,0,0,0,0,0
+127024,22009,Garden Vegetable,12 oz,120,2.3,0,0,0,1170,24,1.5,0,3,0,0,0,0,0,0,0
+127025,22009,Wisconsin Cheese,12 oz,300,16.5,7.5,2.3,45,1470,28.5,0,0,12,0,0,0,0,0,0,0
+127026,22009,Chicken Noodle,12 oz,165,3.8,0,0,52.5,1740,24,1.5,0,13.5,0,0,0,0,0,0,0
+127027,22009,New England Clam Chowder,12 oz,210,13,5,1,15.5,472.1,17,0,0,6,0,0,0,0,0,0,0
+127028,22009,Texas Chili,12 oz,315,10.5,4.5,0,37.5,1695,36,9,0,19.5,0,0,0,0,0,0,0
+127029,22009,Minestrone,12 oz,165,6.8,0.8,0,0,1440,21,3,0,4.5,0,0,0,0,0,0,0
+127030,22009,Beer Cheese,12 oz,480,31.5,12,7.5,45,2040,31.5,0,0,13.5,0,0,0,0,0,0,0
+127031,22009,Vegetable Beef,12 oz,150,3,1.5,0,7.5,1635,24,3,0,7.5,0,0,0,0,0,0,0
+127032,22009,Chicken & Dumplings,12 oz,345,19.5,6.8,2.3,90,1650,31.5,1.5,0,13.5,0,0,0,0,0,0,0
+127033,22009,Spicy Black Bean,12 oz,225,4.5,0,0,0,1785,39,4.5,0,39,0,0,0,0,0,0,0
+127034,22009,Tortellini Alfredo,12 oz,405,22.5,13.5,0.8,60,1575,36,1.5,0,13.5,0,0,0,0,0,0,0
+127035,22009,Cheese Potato,12 oz,375,15,7.5,1.5,75,1860,42,0,0,12,0,0,0,0,0,0,0
+127036,22009,Chicken,12 oz,300,15,2.3,3.8,37.5,1650,33,1.5,0,7.5,0,0,0,0,0,0,0
+127037,22009,Frontier Chicken Chili,12 oz,345,13.5,3.8,0,82.5,2130,31.5,9,0,24,0,0,0,0,0,0,0
+127038,22009,Potato Chowder,12 oz,345,19.5,12,0,52.5,1605,36,1,0,6,0,0,0,0,0,0,0
+127039,22010,Cheesy Chicken Tortilla Style Soup,8 oz,230,16,7,0,70,1460,12,1,0,8,0,0,0,0,0,0,0
+127040,22010,Chicken Gumbo,8 oz,110,2,0.5,0,20,1260,15,2,0,7,0,0,0,0,0,0,0
+127041,22010,California Medley,8 oz,170,9,6,0,30,1310,15,1,0,7,0,0,0,0,0,0,0
+127042,22010,Cream of Broccoli,8 oz,170,10,4.5,1.5,20,1420,15,0,0,5,0,0,0,0,0,0,0
+127043,22010,Garden Vegetable,8 oz,80,1.5,0,0,0,780,16,1,0,2,0,0,0,0,0,0,0
+127044,22010,Wisconsin Cheese,8 oz,200,11,5,1.5,30,980,19,0,0,8,0,0,0,0,0,0,0
+127045,22010,Chicken Noodle,8 oz,110,2.5,0,0,35,1160,16,1,0,6,0,0,0,0,0,0,0
+127046,22010,New England Clam Chowder,8 oz,180,11,6,0.6,10.3,314.8,15,0,0,5,0,0,0,0,0,0,0
+127047,22010,Texas Chili,8 oz,210,7,3,0,25,1130,24,6,0,13,0,0,0,0,0,0,0
+127048,22010,Minestrone,8 oz,110,4.5,0.5,0,0,960,14,2,0,3,0,0,0,0,0,0,0
+127049,22010,Beer Cheese,8 oz,320,21,8,5,30,1360,21,0,0,9,0,0,0,0,0,0,0
+127050,22010,Vegetable Beef,8 oz,100,2,1,0,5,1090,16,2,0,5,0,0,0,0,0,0,0
+127051,22010,Chicken & Dumplings,8 oz,230,13,4.5,1.5,60,1100,21,1,0,9,0,0,0,0,0,0,0
+127052,22010,Spicy Black Bean,8 oz,150,3,0,0,0,1190,26,3,0,6,0,0,0,0,0,0,0
+127053,22010,Tortellini Alfredo,8 oz,270,15,9,0.5,40,1050,24,1,0,9,0,0,0,0,0,0,0
+127054,22010,Cheese Potato,8 oz,250,10,5,1,50,1260,28,0,0,8,0,0,0,0,0,0,0
+127055,22010,Chicken,8 oz,200,10,3.5,2.5,25,1650,22,1,0,5,0,0,0,0,0,0,0
+127056,22010,Frontier Chicken Chili,8 oz,230,9,2.5,0,55,1420,21,6,0,16,0,0,0,0,0,0,0
+127057,22010,Potato Chowder,8 oz,230,13,8,0,35,1070,24,0,0,4,0,0,0,0,0,0,0
+127058,22011,Choc Chip,1 cookie,180,9,3,0,15,105,26,1,0,2,0,0,0,0,0,0,0
+127059,22011,Chocolate Chip/MM,1 cookie,180,8,3,0,15,105,26,1,0,2,0,0,0,0,0,0,0
+127060,22011,Oatmeal Raisin,1 cookie,160,6,1.5,0,15,95,27,1,0,2,0,0,0,0,0,0,0
+127061,22011,Peanut Butter,1 cookie,200,12,3,0,15,90,22,0,0,3,0,0,0,0,0,0,0
+127062,22011,White Chocolate Chunk,1 cookie,190,11,4,0,15,110,23,0,0,2,0,0,0,0,0,0,0
+127063,22012,Pickles,1 pickle,30,0,0,0,0,1800,6,0,0,0,0,0,0,0,0,0,0
+127064,22013,Honey Wheat,1/4 loaf,170,1.5,0,0,0,375,33.5,1,0,5.5,0,0,0,1.5,0,0,0
+127065,22013,Original French,1/4 loaf,175,0,0,0,0,375,35,0,0,7.5,0,0,0,3,0,0,0

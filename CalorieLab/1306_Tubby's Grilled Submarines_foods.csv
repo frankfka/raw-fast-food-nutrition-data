@@ -1,0 +1,187 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf
+131418,22385,Deli Subs - Famous,small,464,28,7,0,0,0,39,3,0,19,0,0,0,0,0,0,0
+131419,22385,Deli Subs - Ham & Cheese,small,401,22,4,0,0,0,38,3,0,19,0,0,0,0,0,0,0
+131420,22385,Deli Subs - Turkey Club,small,476,27,6,0,0,0,36,3,0,23,0,0,0,0,0,0,0
+131421,22385,Deli Subs - Turkey & Cheese,small,423,23,5,0,0,0,36,3,0,20,0,0,0,0,0,0,0
+131422,22385,Deli Subs - Club Sub,small,481,29,6,0,0,0,36,3,0,22,0,0,0,0,0,0,0
+131423,22385,Deli Subs - Famous,regular,664,39,10,0,0,0,55,4,0,26,0,0,0,0,0,0,0
+131424,22385,Deli Subs - Ham & Cheese,regular,568,30,6,0,0,0,54,4,0,27,0,0,0,0,0,0,0
+131425,22385,Deli Subs - Turkey Club,regular,678,38,9,0,0,0,52,4,0,34,0,0,0,0,0,0,0
+131426,22385,Deli Subs - Turkey & Cheese,regular,598,32,7,0,0,0,51,4,0,29,0,0,0,0,0,0,0
+131427,22385,Deli Subs - Club Sub,regular,701,41,9,0,0,0,53,4,0,36,0,0,0,0,0,0,0
+131428,22385,Deli Subs - Famous,large,1007,64,14,0,0,0,78,6,0,28,0,0,0,0,0,0,0
+131429,22385,Deli Subs - Ham & Cheese,large,882,52,10,0,0,0,76,6,0,27,0,0,0,0,0,0,0
+131430,22385,Deli Subs - Turkey Club,large,1053,66,14,0,0,0,72,6,0,36,0,0,0,0,0,0,0
+131431,22385,Deli Subs - Turkey & Cheese,large,947,59,11,0,0,0,71,6,0,30,0,0,0,0,0,0,0
+131432,22385,Deli Subs - Club Sub,large,1094,70,14,0,0,0,73,6,0,41,0,0,0,0,0,0,0
+131433,22385,Steak Subs - Mushroom Steak,small,578,39,13,0,0,0,37,3,0,26,0,0,0,0,0,0,0
+131434,22385,Steak Subs - Pepper Steak,small,577,39,13,0,0,0,37,3,0,25,0,0,0,0,0,0,0
+131435,22385,Steak Subs - Pizza Steak,small,585,39,13,0,0,0,38,4,0,25,0,0,0,0,0,0,0
+131436,22385,Steak Subs - Steak & Cheese,small,571,39,18,0,0,0,36,3,0,25,0,0,0,0,0,0,0
+131437,22385,Steak Subs - Portabella Mushroom,small,503,28,12,0,0,0,39,4,0,27,0,0,0,0,0,0,0
+131438,22385,Steak Subs - Philly Cheesesteak,small,476,27,13,0,0,0,35,3,0,26,0,0,0,0,0,0,0
+131439,22385,Steak Subs - Steak Special,small,605,39,13,0,0,0,42,5,0,27,0,0,0,0,0,0,0
+131440,22385,Steak Subs - Steak & Cheddar,small,576,39,14,0,0,0,36,3,0,25,0,0,0,0,0,0,0
+131441,22385,Steak Subs - Mushroom Steak,regular,833,26,6,0,0,0,52,4,0,13,0,0,0,0,0,0,0
+131442,22385,Steak Subs - Pepper Steak,regular,709,46,15,0,0,0,52,4,0,29,0,0,0,0,0,0,0
+131443,22385,Steak Subs - Pizza Steak,regular,986,57,20,0,0,0,85,7,0,42,0,0,0,0,0,0,0
+131444,22385,Steak Subs - Steak & Cheese,regular,823,56,20,0,0,0,51,4,0,36,0,0,0,0,0,0,0
+131445,22385,Steak Subs - Portabella Mushroom,regular,801,48,22,0,0,0,54,5,0,43,0,0,0,0,0,0,0
+131446,22385,Steak Subs - Philly Cheesesteak,regular,685,40,19,0,0,0,49,4,0,37,0,0,0,0,0,0,0
+131447,22385,Steak Subs - Steak Special,regular,746,46,15,0,0,0,58,6,0,31,0,0,0,0,0,0,0
+131448,22385,Steak Subs - Steak & Cheddar,regular,833,56,20,0,0,0,52,4,0,37,0,0,0,0,0,0,0
+131449,22385,Steak Subs - Mushroom Steak,large,1235,86,28,0,0,0,74,6,0,41,0,0,0,0,0,0,0
+131450,22385,Steak Subs - Pepper Steak,large,1233,86,28,0,0,0,75,6,0,40,0,0,0,0,0,0,0
+131451,22385,Steak Subs - Pizza Steak,large,1259,87,28,0,0,0,79,7,0,40,0,0,0,0,0,0,0
+131452,22385,Steak Subs - Steak & Cheese,large,1221,86,28,0,0,0,72,6,0,39,0,0,0,0,0,0,0
+131453,22385,Steak Subs - Portabella Mushroom,large,1129,67,29,0,0,0,79,7,0,49,0,0,0,0,0,0,0
+131454,22385,Steak Subs - Philly Cheesesteak,large,902,50,23,0,0,0,70,6,0,39,0,0,0,0,0,0,0
+131455,22385,Steak Subs - Steak Special,large,1298,87,28,0,0,0,86,10,0,45,0,0,0,0,0,0,0
+131456,22385,Steak Subs - Steak & Cheddar,large,1728,91,28,0,0,0,180,13,0,47,0,0,0,0,0,0,0
+131457,22385,Burger Subs - Cheeseburger,small,591,41,14,0,0,0,36,3,0,25,0,0,0,0,0,0,0
+131458,22385,Burger Subs - Big Tub,small,476,45,16,0,0,0,41,3,0,24,0,0,0,0,0,0,0
+131459,22385,Burger Subs - Pizza Burger,small,605,41,14,0,0,0,38,4,0,25,0,0,0,0,0,0,0
+131460,22385,Burger Subs - All American Cheeseburger,small,551,32,16,0,0,0,40,3,0,27,0,0,0,0,0,0,0
+131461,22385,Burger Subs - Mushroom Burger,small,604,41,14,0,0,0,38,3,0,27,0,0,0,0,0,0,0
+131462,22385,Burger Subs - Burger Special,small,624,41,14,0,0,0,42,5,0,27,0,0,0,0,0,0,0
+131463,22385,Burger Subs - Taco,small,565,32,13,0,0,0,47,4,0,27,0,0,0,0,0,0,0
+131464,22385,Burger Subs - Cheeseburger,regular,911,60,21,0,0,0,59,9,0,42,0,0,0,0,0,0,0
+131465,22385,Burger Subs - Big Tub,regular,671,56,21,0,0,0,55,4,0,34,0,0,0,0,0,0,0
+131466,22385,Burger Subs - Pizza Burger,regular,929,60,21,0,0,0,62,10,0,43,0,0,0,0,0,0,0
+131467,22385,Burger Subs - All American Cheeseburger,regular,810,48,24,0,0,0,56,4,0,39,0,0,0,0,0,0,0
+131468,22385,Burger Subs - Mushroom Burger,regular,868,59,21,0,0,0,53,5,0,38,0,0,0,0,0,0,0
+131469,22385,Burger Subs - Burger Special,regular,898,59,21,0,0,0,59,6,0,39,0,0,0,0,0,0,0
+131470,22385,Burger Subs - Taco,regular,827,47,20,0,0,0,67,5,0,39,0,0,0,0,0,0,0
+131471,22385,Burger Subs - Cheeseburger,large,1262,90,29,0,0,0,72,6,0,39,0,0,0,0,0,0,0
+131472,22385,Burger Subs - Big Tub,large,1238,91,32,0,0,0,143,9,0,38,0,0,0,0,0,0,0
+131473,22385,Burger Subs - Pizza Burger,large,1299,91,30,0,0,0,79,7,0,40,0,0,0,0,0,0,0
+131474,22385,Burger Subs - All American Cheeseburger,large,1118,64,32,0,0,0,82,6,0,43,0,0,0,0,0,0,0
+131475,22385,Burger Subs - Mushroom Burger,large,1287,90,30,0,0,0,76,7,0,43,0,0,0,0,0,0,0
+131476,22385,Burger Subs - Burger Special,large,1337,91,30,0,0,0,86,10,0,45,0,0,0,0,0,0,0
+131477,22385,Burger Subs - Taco,large,1137,64,26,0,0,0,95,8,0,43,0,0,0,0,0,0,0
+131478,22385,Chicken Subs - Chicken Fajita,small,371,7,3,0,0,0,38,3,0,29,0,0,0,0,0,0,0
+131479,22385,Chicken Subs - Chicken & Broccoli,small,480,19,5,0,0,0,38,4,0,31,0,0,0,0,0,0,0
+131480,22385,Chicken Subs - Chicken & Cheddar,small,471,18,5,0,0,0,37,3,0,30,0,0,0,0,0,0,0
+131481,22385,Chicken Subs - Chicken Club,small,563,29,7,0,0,0,37,3,0,32,0,0,0,0,0,0,0
+131482,22385,Chicken Subs - Chicken Parmesan,small,354,9,3,0,0,0,35,3,0,28,0,0,0,0,0,0,0
+131483,22385,Chicken Subs - Grilled Chicken,small,302,2,0,0,0,0,34,3,0,25,0,0,0,0,0,0,0
+131484,22385,Chicken Subs - Chicken Fajita,regular,445,12,5,0,0,0,57,4,0,33,0,0,0,0,0,0,0
+131485,22385,Chicken Subs - Chicken & Broccoli,regular,552,23,6,0,0,0,56,5,0,35,0,0,0,0,0,0,0
+131486,22385,Chicken Subs - Chicken & Cheddar,regular,543,23,6,0,0,0,54,4,0,34,0,0,0,0,0,0,0
+131487,22385,Chicken Subs - Chicken Club,regular,705,41,10,0,0,0,53,4,0,37,0,0,0,0,0,0,0
+131488,22385,Chicken Subs - Chicken Parmesan,regular,426,14,5,0,0,0,51,4,0,32,0,0,0,0,0,0,0
+131489,22385,Chicken Subs - Grilled Chicken,regular,346,5,0.7,0,0,0,52,4,0,28,0,0,0,0,0,0,0
+131490,22385,Chicken Subs - Chicken Fajita,large,657,16,6,0,0,0,88,11,0,39,0,0,0,0,0,0,0
+131491,22385,Chicken Subs - Chicken & Broccoli,large,882,39,10,0,0,0,88,13,0,43,0,0,0,0,0,0,0
+131492,22385,Chicken Subs - Chicken & Cheddar,large,865,39,10,0,0,0,85,11,0,41,0,0,0,0,0,0,0
+131493,22385,Chicken Subs - Chicken Club,large,1140,72,15,0,0,0,81,11,0,45,0,0,0,0,0,0,0
+131494,22385,Chicken Subs - Chicken Parmesan,large,613,22,7,0,0,0,73,6,0,38,0,0,0,0,0,0,0
+131495,22385,Chicken Subs - Grilled Chicken,large,469,6,0.8,0,0,0,72,6,0,26,0,0,0,0,0,0,0
+131496,22385,Specialty Subs - BLT,small,466,31,6,0,0,0,35,3,0,15,0,0,0,0,0,0,0
+131497,22385,Specialty Subs - Italian Sausage,small,511,32,10,0,0,0,40,3,0,22,0,0,0,0,0,0,0
+131498,22385,Specialty Subs - Veggie Stir Fry,small,373,19,5,0,0,0,42,6,0,12,0,0,0,0,0,0,0
+131499,22385,Specialty Subs - Cold Veggie,small,265,5,3,0,0,0,45,5,0,13,0,0,0,0,0,0,0
+131500,22385,Specialty Subs - Tuna,small,295,13,3,0,0,0,33,3,0,28,0,0,0,0,0,0,0
+131501,22385,Specialty Subs - BLT,regular,636,42,8,0,0,0,50,4,0,21,0,0,0,0,0,0,0
+131502,22385,Specialty Subs - Italian Sausage,regular,729,45,14,0,0,0,56,4,0,32,0,0,0,0,0,0,0
+131503,22385,Specialty Subs - Veggie Stir Fry,regular,652,27,6,0,0,0,89,8,0,21,0,0,0,0,0,0,0
+131504,22385,Specialty Subs - Cold Veggie,regular,462,14,8,0,0,0,66,8,0,23,0,0,0,0,0,0,0
+131505,22385,Specialty Subs - Tuna,regular,417,18,4,0,0,0,47,4,0,38,0,0,0,0,0,0,0
+131506,22385,Specialty Subs - BLT,large,1176,76,14,0,0,0,101,7,0,26,0,0,0,0,0,0,0
+131507,22385,Specialty Subs - Italian Sausage,large,1101,72,21,0,0,0,80,6,0,33,0,0,0,0,0,0,0
+131508,22385,Specialty Subs - Veggie Stir Fry,large,962,48,10,0,0,0,117,12,0,18,0,0,0,0,0,0,0
+131509,22385,Specialty Subs - Cold Veggie,large,651,18,10,0,0,0,95,11,0,22,0,0,0,0,0,0,0
+131510,22385,Specialty Subs - Tuna,large,589,25,5,0,0,0,66,5,0,46,0,0,0,0,0,0,0
+131511,22386,Deli Subs - Famous,small,378,28,7,0,0,0,16,6,0,20,0,0,0,0,0,0,0
+131512,22386,Deli Subs - Ham & Cheese,small,315,22,4,0,0,0,15,6,0,20,0,0,0,0,0,0,0
+131513,22386,Deli Subs - Turkey Club,small,421,27,6,0,0,0,13,6,0,30,0,0,0,0,0,0,0
+131514,22386,Deli Subs - Turkey & Cheese,small,366,23,5,0,0,0,13,6,0,26,0,0,0,0,0,0,0
+131515,22386,Deli Subs - Club Sub,small,396,29,6,0,0,0,14,6,0,24,0,0,0,0,0,0,0
+131516,22386,Deli Subs - Famous,regular,570,40,9,0,0,0,26,11,0,33,0,0,0,0,0,0,0
+131517,22386,Deli Subs - Ham & Cheese,regular,476,31,6,0,0,0,25,11,0,32,0,0,0,0,0,0,0
+131518,22386,Deli Subs - Turkey Club,regular,614,38,9,0,0,0,23,11,0,45,0,0,0,0,0,0,0
+131519,22386,Deli Subs - Turkey & Cheese,regular,534,32,7,0,0,0,22,11,0,40,0,0,0,0,0,0,0
+131520,22386,Deli Subs - Club Sub,regular,591,41,9,0,0,0,23,11,0,38,0,0,0,0,0,0,0
+131521,22386,Deli Subs - Famous,large,835,64,14,0,0,0,32,12,0,40,0,0,0,0,0,0,0
+131522,22386,Deli Subs - Ham & Cheese,large,710,52,10,0,0,0,31,12,0,39,0,0,0,0,0,0,0
+131523,22386,Deli Subs - Turkey Club,large,912,67,14,0,0,0,26,12,0,54,0,0,0,0,0,0,0
+131524,22386,Deli Subs - Turkey & Cheese,large,805,59,11,0,0,0,25,12,0,47,0,0,0,0,0,0,0
+131525,22386,Deli Subs - Club Sub,large,952,70,14,0,0,0,28,12,0,58,0,0,0,0,0,0,0
+131526,22386,Steak Subs - Mushroom Steak,small,492,39,13,0,0,0,14,6,0,27,0,0,0,0,0,0,0
+131527,22386,Steak Subs - Pepper Steak,small,491,39,13,0,0,0,14,6,0,26,0,0,0,0,0,0,0
+131528,22386,Steak Subs - Pizza Steak,small,499,39,13,0,0,0,15,7,0,26,0,0,0,0,0,0,0
+131529,22386,Steak Subs - Steak & Cheese,small,485,39,13,0,0,0,13,6,0,26,0,0,0,0,0,0,0
+131530,22386,Steak Subs - Portabella Mushroom,small,610,33,14,0,0,0,47,8,0,36,0,0,0,0,0,0,0
+131531,22386,Steak Subs - Philly Cheesesteak,small,390,27,13,0,0,0,12,6,0,27,0,0,0,0,0,0,0
+131532,22386,Steak Subs - Steak Special,small,519,39,13,0,0,0,19,7,0,28,0,0,0,0,0,0,0
+131533,22386,Steak Subs - Steak & Cheddar,small,490,39,13,0,0,0,13,6,0,26,0,0,0,0,0,0,0
+131534,22386,Steak Subs - Mushroom Steak,regular,738,56,20,0,0,0,23,11,0,42,0,0,0,0,0,0,0
+131535,22386,Steak Subs - Pepper Steak,regular,617,46,15,0,0,0,23,11,0,34,0,0,0,0,0,0,0
+131536,22386,Steak Subs - Pizza Steak,regular,750,56,20,0,0,0,25,12,0,42,0,0,0,0,0,0,0
+131537,22386,Steak Subs - Steak & Cheese,regular,731,56,20,0,0,0,22,11,0,41,0,0,0,0,0,0,0
+131538,22386,Steak Subs - Portabella Mushroom,regular,709,48,21,0,0,0,25,12,0,48,0,0,0,0,0,0,0
+131539,22386,Steak Subs - Philly Cheesesteak,regular,593,40,19,0,0,0,20,11,0,43,0,0,0,0,0,0,0
+131540,22386,Steak Subs - Steak Special,regular,654,46,15,0,0,0,29,13,0,36,0,0,0,0,0,0,0
+131541,22386,Steak Subs - Steak & Cheddar,regular,741,57,20,0,0,0,23,11,0,42,0,0,0,0,0,0,0
+131542,22386,Steak Subs - Mushroom Steak,large,1063,86,28,0,0,0,28,12,0,53,0,0,0,0,0,0,0
+131543,22386,Steak Subs - Pepper Steak,large,1061,86,28,0,0,0,29,12,0,52,0,0,0,0,0,0,0
+131544,22386,Steak Subs - Pizza Steak,large,1087,87,28,0,0,0,33,14,0,52,0,0,0,0,0,0,0
+131545,22386,Steak Subs - Steak & Cheese,large,1050,86,28,0,0,0,26,12,0,51,0,0,0,0,0,0,0
+131546,22386,Steak Subs - Portabella Mushroom,large,957,67,29,0,0,0,34,13,0,61,0,0,0,0,0,0,0
+131547,22386,Steak Subs - Philly Cheesesteak,large,730,50,23,0,0,0,24,12,0,51,0,0,0,0,0,0,0
+131548,22386,Steak Subs - Steak Special,large,1126,87,28,0,0,0,40,16,0,57,0,0,0,0,0,0,0
+131549,22386,Steak Subs - Steak & Cheddar,large,1556,91,28,0,0,0,134,19,0,59,0,0,0,0,0,0,0
+131550,22386,Burger Subs - Cheeseburger,small,511,41,14,0,0,0,14,6,0,26,0,0,0,0,0,0,0
+131551,22386,Burger Subs - Big Tub,small,390,45,16,0,0,0,18,6,0,25,0,0,0,0,0,0,0
+131552,22386,Burger Subs - Pizza Burger,small,519,41,14,0,0,0,15,7,0,26,0,0,0,0,0,0,0
+131553,22386,Burger Subs - All American Cheeseburger,small,465,32,16,0,0,0,17,6,0,28,0,0,0,0,0,0,0
+131554,22386,Burger Subs - Mushroom Burger,small,518,41,14,0,0,0,15,6,0,28,0,0,0,0,0,0,0
+131555,22386,Burger Subs - Burger Special,small,538,41,14,0,0,0,19,7,0,28,0,0,0,0,0,0,0
+131556,22386,Burger Subs - Taco,small,479,32,13,0,0,0,24,7,0,28,0,0,0,0,0,0,0
+131557,22386,Burger Subs - Cheeseburger,regular,969,61,21,0,0,0,67,14,0,48,0,0,0,0,0,0,0
+131558,22386,Burger Subs - Big Tub,regular,579,57,21,0,0,0,26,11,0,39,0,0,0,0,0,0,0
+131559,22386,Burger Subs - Pizza Burger,regular,988,61,21,0,0,0,70,15,0,49,0,0,0,0,0,0,0
+131560,22386,Burger Subs - All American Cheeseburger,regular,660,48,24,0,0,0,19,6,0,38,0,0,0,0,0,0,0
+131561,22386,Burger Subs - Mushroom Burger,regular,776,59,21,0,0,0,24,11,0,43,0,0,0,0,0,0,0
+131562,22386,Burger Subs - Burger Special,regular,748,58,21,0,0,0,22,8,0,38,0,0,0,0,0,0,0
+131563,22386,Burger Subs - Taco,regular,734,48,19,0,0,0,38,12,0,44,0,0,0,0,0,0,0
+131564,22386,Burger Subs - Cheeseburger,large,1090,90,30,0,0,0,26,12,0,51,0,0,0,0,0,0,0
+131565,22386,Burger Subs - Big Tub,large,778,89,32,0,0,0,35,12,0,50,0,0,0,0,0,0,0
+131566,22386,Burger Subs - Pizza Burger,large,1127,91,30,0,0,0,33,13,0,52,0,0,0,0,0,0,0
+131567,22386,Burger Subs - All American Cheeseburger,large,946,64,32,0,0,0,36,11,0,55,0,0,0,0,0,0,0
+131568,22386,Burger Subs - Mushroom Burger,large,1115,90,30,0,0,0,30,13,0,55,0,0,0,0,0,0,0
+131569,22386,Burger Subs - Burger Special,large,1164,91,30,0,0,0,40,16,0,57,0,0,0,0,0,0,0
+131570,22386,Burger Subs - Taco,large,965,64,26,0,0,0,49,13,0,55,0,0,0,0,0,0,0
+131571,22386,Chicken Subs - Chicken Fajita,small,218,8,3,0,0,0,18,6,0,23,0,0,0,0,0,0,0
+131572,22386,Chicken Subs - Chicken & Broccoli,small,327,19,5,0,0,0,17,7,0,25,0,0,0,0,0,0,0
+131573,22386,Chicken Subs - Chicken & Cheddar,small,318,19,5,0,0,0,15,6,0,24,0,0,0,0,0,0,0
+131574,22386,Chicken Subs - Chicken Club,small,405,29,6,0,0,0,14,6,0,25,0,0,0,0,0,0,0
+131575,22386,Chicken Subs - Chicken Parmesan,small,200,10,3,0,0,0,12,6,0,22,0,0,0,0,0,0,0
+131576,22386,Chicken Subs - Grilled Chicken,small,149,3,0.4,0,0,0,13,6,0,19,0,0,0,0,0,0,0
+131577,22386,Chicken Subs - Chicken Fajita,regular,353,12,5,0,0,0,28,11,0,38,0,0,0,0,0,0,0
+131578,22386,Chicken Subs - Chicken & Broccoli,regular,552,23,6,0,0,0,56,5,0,35,0,0,0,0,0,0,0
+131579,22386,Chicken Subs - Chicken & Cheddar,regular,451,24,6,0,0,0,25,11,0,39,0,0,0,0,0,0,0
+131580,22386,Chicken Subs - Chicken Club,regular,613,42,10,0,0,0,24,11,0,42,0,0,0,0,0,0,0
+131581,22386,Chicken Subs - Chicken Parmesan,regular,334,15,5,0,0,0,22,11,0,37,0,0,0,0,0,0,0
+131582,22386,Chicken Subs - Grilled Chicken,regular,254,5,0.7,0,0,0,23,11,0,32,0,0,0,0,0,0,0
+131583,22386,Chicken Subs - Chicken Fajita,large,427,15,6,0,0,0,34,12,0,45,0,0,0,0,0,0,0
+131584,22386,Chicken Subs - Chicken & Broccoli,large,653,38,9,0,0,0,34,14,0,49,0,0,0,0,0,0,0
+131585,22386,Chicken Subs - Chicken & Cheddar,large,635,38,10,0,0,0,31,12,0,47,0,0,0,0,0,0,0
+131586,22386,Chicken Subs - Chicken Club,large,910,71,15,0,0,0,27,12,0,51,0,0,0,0,0,0,0
+131587,22386,Chicken Subs - Chicken Parmesan,large,441,22,7,0,0,0,27,12,0,50,0,0,0,0,0,0,0
+131588,22386,Chicken Subs - Grilled Chicken,large,297,6,0.8,0,0,0,26,12,0,38,0,0,0,0,0,0,0
+131589,22386,Specialty Subs - BLT,small,380,31,6,0,0,0,12,6,0,16,0,0,0,0,0,0,0
+131590,22386,Specialty Subs - Italian Sausage,small,425,32,10,0,0,0,17,6,0,23,0,0,0,0,0,0,0
+131591,22386,Specialty Subs - Veggie Stir Fry,small,278,19,4,0,0,0,19,8,0,12,0,0,0,0,0,0,0
+131592,22386,Specialty Subs - Cold Veggie,small,177,5,3,0,0,0,22,8,0,14,0,0,0,0,0,0,0
+131593,22386,Specialty Subs - Tuna,small,209,13,3,0,0,0,10,6,0,29,0,0,0,0,0,0,0
+131594,22386,Specialty Subs - BLT,regular,544,42,8,0,0,0,21,11,0,26,0,0,0,0,0,0,0
+131595,22386,Specialty Subs - Italian Sausage,regular,637,45,14,0,0,0,26,11,0,37,0,0,0,0,0,0,0
+131596,22386,Specialty Subs - Veggie Stir Fry,regular,416,26,6,0,0,0,29,13,0,21,0,0,0,0,0,0,0
+131597,22386,Specialty Subs - Cold Veggie,regular,370,14,8,0,0,0,37,15,0,28,0,0,0,0,0,0,0
+131598,22386,Specialty Subs - Tuna,regular,325,18,4,0,0,0,19,11,0,43,0,0,0,0,0,0,0
+131599,22386,Specialty Subs - BLT,large,861,75,14,0,0,0,24,11,0,33,0,0,0,0,0,0,0
+131600,22386,Specialty Subs - Italian Sausage,large,929,72,20,0,0,0,34,12,0,46,0,0,0,0,0,0,0
+131601,22386,Specialty Subs - Veggie Stir Fry,large,645,47,10,0,0,0,40,16,0,25,0,0,0,0,0,0,0
+131602,22386,Specialty Subs - Cold Veggie,large,479,18,10,0,0,0,49,17,0,34,0,0,0,0,0,0,0
+131603,22386,Specialty Subs - Tuna,large,417,25,5,0,0,0,20,11,0,58,0,0,0,0,0,0,0
