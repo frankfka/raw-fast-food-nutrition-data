@@ -1,0 +1,117 @@
+food_id	menu_id	food_name	serving_size	calories	fat	saturated_fat	trans_fat	cholesterol	sodium	carbohydrates	fiber	sugar	protein	vit_a	vit_c	calcium	iron	is_vegetarian	is_vegan	is_gf	
+143135	23057	Mixed Olives (85g)	1 Order	110	10	3.5	0	0	1020	3	0	0	0	0	0	0	0	1	1	1	0
+143136	23057	Portugese Garlic Bread (133g)	1 Order	510	31	8	18	0	850	51	2	2	7	0	0	0	0	0	0	0	0
+143137	23057	PERi-PERi Nuts (40g)	1 Order	220	19	3	0	0	410	12	1	3	7	0	0	0	0	0	0	1	0
+143138	23057	PERi-PERi Chicken sliders (288g)	1 Order	560	25	4	0	160	980	56	3	11	28	0	0	0	0	0	0	0	0
+143139	23057	Portobello Mushroom Sliders (3) (330g)	3 Pc	570	29	8	0.3	135	2110	62	4	12	19	0	0	0	0	0	0	0	0
+143140	23057	Whole Flame Grilled wings (3) (136g)	3 Pc	240	13	2.5	0	70	290	1	0	0	23	0	0	0	0	0	0	1	0
+143141	23057	Whole Flame Grilled Wings (5) (227g)	5 Pc	440	21	4	0	115	480	1	0	1	38	0	0	0	0	0	0	1	0
+143142	23057	Whole Flame Grilled Wings (10) (454g)	10 Pc	880	42	8	0	230	960	2	0	2	76	0	0	0	0	0	0	1	0
+143143	23057	Wing Roulette (454g)	1 Order	1000	44	9	0	230	1570	3	0	2	77	0	0	0	0	0	0	1	0
+143144	23057	PERi-PERi Crusted Wings (136g)	3 Pc	290	21	6	0.3	100	100	0	0	0	23	0	0	0	0	0	0	1	0
+143145	23057	PERi-PERi Crusted Wings (227g)	5 Pc	420	20	4	0	120	250	0	0	0	38	0	0	0	0	0	0	1	0
+143146	23057	PERi-PERi Crusted Wings (454g)	10 Pc	830	40	8	0	235	510	0	0	0	76	0	0	0	0	0	0	1	0
+143147	23057	PERi-PERi Chippers (462g)	1 Order	760	46	6	0	20	3170	71	7	4	6	0	0	0	0	0	0	0	0
+143148	23057	Hummus and Pita with PERi-PERi Drizzle (238g)	1 Order	590	24	0.2	0	0	1020	75	6	0	12	0	0	0	0	0	0	0	0
+143149	23057	Appeteaser Platter (258g)	1 Order	460	59	10	0	0	2270	56	4	6	19	0	0	0	0	0	0	0	0
+143150	23057	Casa Salad Regular (No Dressing) (98g)	1 Order	20	0	0	0	0	330	3	1	1	1	0	0	0	0	1	1	1	0
+143151	23057	Casa Salad Large (No Dressing) (234g)	1 Order	45	0	0	0	0	1280	8	3	2	4	0	0	0	0	1	1	1	1
+143152	23057	Caesar Salad Regular (107g)	1 Order	70	21	3	0	15	310	11	2	1	4	0	0	0	0	0	0	0	0
+143153	23057	Caesar Salad Large (321g)	1 Order	220	63	9	0.1	50	940	32	5	3	13	0	0	0	0	0	0	0	0
+143154	23057	Quinoa Salad (361g)	1 Order	730	33	7	0	30	1280	23	4	2	9	0	0	0	0	0	0	1	0
+143155	23057	Chicken and Halloumi Salad (428g)	1 Order	760	29	8	0	120	1960	38	6	4	33	0	0	0	0	0	0	0	0
+143156	23057	Garlic Table Sauce (100g)	1 Order	60	4	0.6	0	0	1878	5	2	2	1	0	0	0	0	1	1	1	0
+143157	23057	Medium Table Sauce (100g)	1 Order	60	5	0.6	0	0	2148	4	3	1	1	0	0	0	0	0	0	0	0
+143158	23057	Hot Table Sauce (100g)	1 Order	50	3.6	0.5	4	0	2865	4	2	2	1	0	0	0	0	1	0	0	0
+143159	23057	Extra Hot Table Sauce (100g)	1 Order	70	5	1	4.7	0	2504	5	3	2	1	0	0	0	0	1	1	1	0
+143160	23057	PERi-PERi-Tamer (100g)	1 Order	200	2	0	0	0	751	44	0	43	1	0	0	0	0	1	1	1	0
+143161	23057	House Dressing (28g)	1 Order	80	8	1	0	0	140	2	0	1	0	0	0	0	0	1	1	1	0
+143162	23057	Buttermilk Chive Dressing (28g)	1 Order	80	8	0.5	0	0	270	2	0	1	1	0	0	0	0	1	0	1	0
+143163	23057	1/4 Chicken Breast (243g)	1 Order	420	28	8	0	155	750	0	0	0	38	0	0	0	0	0	0	1	1
+143164	23057	1/4 Chicken Leg (200g)	1 Order	340	24	7	0	130	700	0	0	0	30	0	0	0	0	0	0	1	0
+143165	23057	Half Chicken (443g)	1 Order	760	52	15	0	285	1450	0	0	0	68	0	0	0	0	0	0	1	0
+143166	23057	Double Leg (400g)	1 Order	680	48	14	0	260	1400	0	0	0	60	0	0	0	0	0	0	1	0
+143167	23057	Double Skewer (220g)	1 Order	260	12	1.5	0	180	850	6	0	2	38	0	0	0	0	0	0	1	1
+143168	23057	Whole Chicken (885g)	1 Order	1520	104	30	1	565	2900	0	0	0	135	0	0	0	0	0	0	1	0
+143169	23057	Grilled Chicken Livers (283g)	1 Order	390	21	5	2	880	570	4	0	0	44	0	0	0	0	0	0	1	0
+143170	23057	Mango Lime Basting (100g)	1 Order	100	3	0.2	1	0	1041	17	0	15	0	0	0	0	0	0	0	1	1
+143171	23057	Lemon and Herb Basting  (100g)	1 Order	130	14	2	0	0	930	14	1	1	0	0	0	0	0	0	0	1	0
+143172	23057	Medium Basting (100g)	1 Order	150	16	2.2	0	3	842	14	1	1	0	0	0	0	0	0	0	1	0
+143173	23057	Hot Basting (100g)	1 Order	170	16.9	2	0	3	474	7	1	2	1	0	0	0	0	0	0	1	0
+143174	23057	Prego Basting (100g)	1 Order	170	17.1	2.3	0	2	470	25	1	1	0	0	0	0	0	0	0	1	0
+143175	23058	Nandino's Sliders (192g)	1 Order	310	16	2.5	0	105	650	37	2	7	19	0	0	0	0	0	0	0	0
+143176	23058	Nandino's Quarter Chicken Meal (200g)	1 Order	340	24	7	0	130	700	0	0	0	30	0	0	0	0	0	0	1	0
+143177	23058	Nandino's Wings (136g)	1 Order	240	13	2.5	0	70	290	1	0	0	23	0	0	0	0	0	0	1	0
+143178	23058	Nandino's Grilled Chicken Skewer (106g)	1 Order	160	8	2	0	65	270	0	0	0	23	0	0	0	0	0	0	1	0
+143179	23058	Nandino's Chicken Strips (106g)	1 Order	160	8	1.5	0	65	270	0	0	0	23	0	0	0	0	0	0	1	0
+143180	23058	PERi-PERi Chicken Caesar Wrap (281g)	1 Order	410	18	5	0	95	110	50	6	3	30	0	0	0	0	0	0	0	0
+143181	23058	PERi-PERi Chicken Sandwich (265g)	1 Order	410	11	1	0	100	1560	52	3	4	26	0	0	0	0	0	0	0	0
+143182	23058	Whole Wheat PERi-PERi Chicken Wrap (368g)	1 Order	460	24	6	0	125	1340	62	6	11	32	0	0	0	0	0	0	0	0
+143183	23058	Tabbouleh and Chicken Sandwich (246g)	1 Order	470	20	1	0	65	1490	4	0	25	15	0	0	0	0	0	0	0	0
+143184	23058	Veggie Sandwich (278g)	1 Order	450	12	1	0	10	1640	67	8	4	20	0	0	0	0	0	0	0	0
+143185	23058	Whole Wheat Veggie Wrap (426g)	1 Order	490	23	7	0	30	1420	55	8	6	15	0	0	0	0	0	0	0	0
+143186	23058	Portobello Mushroom Sandwich (295g)	1 Order	660	44	10	14	20	2040	56	3	11	13	0	0	0	0	0	0	0	0
+143187	23058	Portobello and Halloumi Wrap (317g)	1 Order	530	32	6	0.2	25	2030	63	7	11	17	0	0	0	0	0	0	0	0
+143188	23058	Tabbouleh Portobello Sandwich (274g)	1 Order	490	24	1.5	0	0	1810	67	6	5	11	0	0	0	0	0	0	0	0
+143189	23059	PERi-PERi Drizzle (5g)	1 Order	20	2	0.2	0	0	65	1	0	0	0	0	0	0	0	1	0	1	0
+143190	23059	Chili Jam (28g)	1 Order	45	0	0	0	0	45	11	0	8	0	0	0	0	0	1	0	1	0
+143191	23059	PERi-PERinase (28g)	1 Order	80	7	1	0	10	510	0	1	1	0	0	0	0	0	1	0	1	0
+143192	23059	Cheddar Cheese (30g)	1 Slice	120	10	7	0	30	210	0	0	0	7	0	0	0	0	1	0	1	0
+143193	23059	Grilled Pineapple (40g)	1 Slice	20	0	0	0	0	0	5	0	4	0	0	0	0	0	1	0	1	0
+143194	23059	Grilled Halloumi Cheese (22g)	1 Slice	100	3	5	0	30	360	0	0	0	6	0	0	0	0	0	0	1	0
+143195	23059	Single Chicken Skewer (106g)	1 Pc	160	8	1.5	0	65	270	0	0	0	23	0	0	0	0	0	0	1	0
+143196	23059	Boneless Breast (100g)	1 Order	100	3	0.5	0	90	430	3	0	1	19	0	0	0	0	0	0	0	0
+143197	23059	Portuguese Roll (90g)	1 Order	230	1	0	0	0	520	48	2	2	7	0	0	0	0	0	0	0	0
+143198	23059	Toasted Pita (60g)	1 Order	140	1	0	0	0	0	29	2	1	6	0	0	0	0	0	0	0	1
+143199	23059	Butter Pots (4.5g)	1 Order	30	4	2.5	0.1	10	35	0	0	0	0	0	0	0	0	0	0	0	0
+143200	23059	Coleslaw (reg) (113g)	Regular	210	19	1.5	0	0	440	8	2	1	1	0	0	0	0	1	0	1	0
+143201	23059	Coleslaw (large) (340g)	Large	620	57	5	0	0	1310	23	6	14	3	0	0	0	0	1	0	1	0
+143202	23059	Classic Fries (regular)  (214g)	Regular	420	23	1.5	0.2	0	930	48	4	0	4	0	0	0	0	1	0	1	0
+143203	23059	Classic fries (large) (366g)	Large	710	40	2.5	0.3	0	1600	82	6	0	0	0	0	0	0	1	0	1	0
+143204	23059	PERi-PERi fries (regular) (214g)	Regular	420	23	1.5	0.2	0	1480	48	4	0	4	0	0	0	0	1	0	1	0
+143205	23059	PERi-PERi fries (large) (366g)	Large	710	40	2.5	0.3	0	2410	82	6	0	7	0	0	0	0	1	0	1	0
+143206	23059	Macho Peas (regular) (170g)	Regular	280	20	10	0.4	40	330	20	6	8	8	0	0	0	0	0	0	1	0
+143207	23059	Macho Peas (large) (340g)	Large	570	39	19	0.5	75	670	40	12	15	15	0	0	0	0	0	0	1	0
+143208	23059	Classic Wedges (regular) (214g)	Regular	390	20	1.5	0.1	0	70	48	3	0	4	0	0	0	0	0	0	1	0
+143209	23059	Classic Wedges (Large) (366g)	Large	660	35	2.5	0.2	0	940	82	6	0	6	0	0	0	0	0	0	1	0
+143210	23059	PERi-PERi Wedges (Regular) (214g)	Regular	390	20	1.5	0.1	0	620	48	3	0	4	0	0	0	0	0	0	1	0
+143211	23059	PERi-PERi Wedges (Large) (366g)	Large	660	35	2.5	0.2	0	940	82	6	0	6	0	0	0	0	0	0	1	0
+143212	23059	Corn (Regular) (146g)	Regular	160	3.5	1.5	0	5	30	32	0	0	5	0	0	0	0	0	0	1	0
+143213	23059	Corn (Large) (292g)	Large	310	7	3	0	10	60	62	0	0	9	0	0	0	0	0	0	1	0
+143214	23059	PERi-PERi Vegetable Mix (170g)	1 Order	130	9	0.5	0	0	470	10	2	5	2	0	0	0	0	0	0	1	0
+143215	23059	Garlic Mash (Regular) (170g)	Regular	230	13	3	3.5	0	610	27	3	1	2	0	0	0	0	0	0	1	0
+143216	23059	Garlic Mash (Large) (340g)	Large	470	25	6	7	0	1220	54	7	2	5	0	0	0	0	0	0	1	0
+143217	23059	Spiced Rice (Regular) (170g)	Regular	240	5	2	0.5	0	650	44	1	0	4	0	0	0	0	1	1	1	0
+143218	23059	Spiced Rice (Large) (340g)	Large	480	11	3.5	1.5	15	1290	89	1	0	8	0	0	0	0	1	1	1	0
+143219	23059	Roasted Butternut and Grilled Corn (170g)	1 Order	130	3	0.4	0	0	460	26	3	11	2	0	0	0	0	0	0	1	0
+143220	23059	Super Grain with Avocado Dressing (184g)	1 Order	360	12	0.1	0	0	1750	48	12	2	12	0	0	0	0	0	0	1	0
+143221	23059	PERi-PERi Spinach (198g)	1 Order	60	4	0.5	0	0	320	9	1	3	1	0	0	0	0	1	1	1	0
+143222	23059	Share Spiced Rice (680g)	1 Order	970	22	7	3	30	2580	178	3	0	16	0	0	0	0	1	1	1	0
+143223	23059	Share Hearty Coleslaw (680g)	1 Order	1240	115	9	0	0	2610	45	11	29	6	0	0	0	0	0	0	1	0
+143224	23059	Share PERi-PERi Vegetables (680g)	1 Order	510	36	2	0	0	1870	41	10	19	8	0	0	0	0	1	1	1	0
+143225	23060	Cappuccino (260g)	1 Order	170	6	3.5	0.1	20	120	18	3	17	10	0	0	0	0	0	0	0	0
+143226	23060	Americano (260g)	1 Order	35	0.5	0.3	0	0	10	6	3	5	1	0	0	0	0	0	0	0	0
+143227	23060	Espresso (85g)	1 Order	35	0.5	0.3	0	0	3	6	3	5	1	0	0	0	0	0	0	0	0
+143228	23060	Galao (260g)	1 Order	170	6	3.5	0.1	20	120	18	3	17	10	0	0	0	0	0	0	0	0
+143229	23060	Hot Chocolate (200g)	1 Order	140	4	2.5	0.3	15	160	19	0	17	8	0	0	0	0	0	0	0	0
+143230	23060	Green Tea (200g)	1 Order	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0
+143231	23060	Earl Grey Tea (200g)	1 Order	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0
+143232	23060	Peppermint Tea (200g)	1 Order	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0
+143233	23060	Bottled Water (250g	1 Order	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+143234	23060	Orange Juice (450g)	1 Order	220	0	0	0	0	30	51	0	45	3	0	0	0	0	0	0	0	0
+143235	23060	Apple Juice (450g)	1 Order	210	0	0	0	0	40	52	0	48	0	0	0	0	0	0	0	0	0
+143236	23060	Regular Milk (237g)	1 Order	120	4.5	3	0.1	20	115	11	0	11	9	0	0	0	0	0	0	0	0
+143237	23060	Chocolate Milk (237g)	1 Order	160	2.5	1.5	0	10	0	25	0	25	9	0	0	0	0	0	0	0	0
+143238	23060	Bottled Beer	1 Bottle	341	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+143239	23060	Draught Beer (20oz)	20oz	568	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+143240	23060	Red Wine (5oz)	5oz	130	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+143241	23060	White Wine (5oz)	5oz	120	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+143242	23060	Sangria (6oz)	6oz	110	0	0	0	0	1	0	0	4	0	0	0	0	0	0	0	0	0
+143243	23061	Natas (75g)	1 Order	180	10	0.5	2	65	160	20	0	9	3	0	0	0	0	0	0	0	0
+143244	23061	Chocolate Kisses (127g)	1 Order	290	16	11	0	35	110	34	1	31	4	0	0	0	0	0	0	0	0
+143245	23061	Chocolate Frozen Yogurt (113g)	1 Order	110	1	0.5	0	5	40	25	2	22	4	0	0	0	0	0	0	0	0
+143246	23061	Vanilla Frozen Yogurt (113g)	1 Order	130	3	2	0	10	40	23	0	23	3	0	0	0	0	0	0	0	0
+143247	23061	Strawberry Frozen Yogurt (113g)	1 Order	100	0.4	0.3	0	5	40	20	0	20	3	0	0	0	0	0	0	0	0
+143248	23061	Chocolate Devotion Cake (175g)	1 Order	550	23	0	0	50	650	83	4	60	6	0	0	0	0	0	0	0	0
+143249	23061	New York Cheese Cake (106g)	1 Order	340	21	12	0.4	0	250	32	0	22	6	0	0	0	0	0	0	0	0
+143250	23061	Chili Cookie (1.7g)	1 Order	330	27	15	0	155	270	83	5	65	9	0	0	0	0	0	0	0	0

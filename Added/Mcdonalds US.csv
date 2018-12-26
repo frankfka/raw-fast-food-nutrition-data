@@ -1,0 +1,744 @@
+food_id,menu_id,food_name,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein,vit_a,vit_c,calcium,iron,is_vegetarian,is_vegan,is_gf,is_featured
+142096,23035,Triple Cheeseburger,1 Order,520,28,14,1.5,110,1180,35,2,7,32,0,0,0,0,0,0,0,0
+142097,23035,Cheddar Bacon Onion Grilled Chicken Sandwich,1 Order,650,26,10,0.5,155,2130,50,4,14,53,0,0,0,0,0,0,0,0
+142098,23035,Bacon Clubhouse Burger,1 Order,740,41,16,1.5,120,1420,51,4,14,40,0,0,0,0,0,0,0,0
+142099,23035,Premium Grilled Chicken Bacon Clubhouse Sandwich,1 Order,630,26,8,0,145,1830,50,4,14,48,0,0,0,0,0,0,0,0
+142100,23035,Double Filet-O-Fish,1 Order,540,26,6,0,80,780,48,2,5,28,0,0,0,0,0,0,0,0
+142101,23035,Premium Buttermilk Crispy Chicken Bacon Clubhouse Sandwich,1 Order,790,40,10,0.5,105,1720,69,5,14,39,0,0,0,0,0,0,0,0
+142102,23035,Buffalo Ranch McChicken,1 Order,360,16,3,0,40,800,40,2,5,15,0,0,0,0,0,0,0,0
+142103,23035,Bacon Buffalo Ranch McChicken,1 Order,430,21,4.5,0,55,1040,40,2,6,20,0,0,0,0,0,0,0,0
+142104,23035,Bacon Cheddar McChicken,1 Order,550,32,9,0,80,950,41,2,6,24,0,0,0,0,0,0,0,0
+142105,23035,Southern Style Buttermilk Crispy Chicken Sandwich,1 Order,470,20,4.5,0,65,950,48,3,5,25,0,0,0,0,0,0,0,0
+142106,23035,Big Mac,1 Order,540,28,10,1,80,950,45,3,9,25,0,0,0,0,0,0,0,0
+142107,23035,Quarter Pounder,1 Order,430,20,8,1,75,700,38,2,9,26,0,0,0,0,0,0,0,0
+142108,23035,Quarter Pounder with Cheese,1 Order,530,27,13,1.5,100,1090,41,3,10,31,0,0,0,0,0,0,0,0
+142109,23035,Quarter Pounder Bacon & Cheese,1 Order,590,29,13,1.5,105,1330,48,3,12,36,0,0,0,0,0,0,0,0
+142110,23035,Double Quarter Pounder with Cheese,1 Order,770,45,21,2.5,175,1290,42,3,10,51,0,0,0,0,0,0,0,0
+142111,23035,Hamburger,1 Order,250,8,3,0,30,480,31,1,6,13,0,0,0,0,0,0,0,0
+142112,23035,Hot 'n Spicy McChicken,1 Order,420,22,4,0,45,590,39,3,5,14,0,0,0,0,0,0,0,0
+142113,23035,Cheeseburger,1 Order,300,12,6,0.5,40,680,33,2,7,15,0,0,0,0,0,0,0,0
+142114,23035,BBQ Ranch Burger,1 Order,350,15,6,0.5,45,670,37,3,7,16,0,0,0,0,0,0,0,0
+142115,23035,Grilled Onion Cheddar,1 Order,310,13,6,0.5,45,640,32,2,6,15,0,0,0,0,0,0,0,0
+142116,23035,Double Cheeseburger,1 Order,440,22,11,1,85,1050,34,2,7,25,0,0,0,0,0,0,0,0
+142117,23035,McDouble,1 Order,390,18,8,1,70,850,33,2,7,22,0,0,0,0,0,0,0,0
+142118,23035,Bacon McDouble,1 Order,450,23,10,1,85,1090,34,2,7,28,0,0,0,0,0,0,0,0
+142119,23035,Bacon Cheddar Hot 'n Spicy McChicken,1 Order,550,32,9,0.5,80,960,41,3,6,24,0,0,0,0,0,0,0,0
+142120,23035,Daily Double,1 Order,480,29,10,1,80,750,33,2,7,23,0,0,0,0,0,0,0,0
+142121,23035,Ranch Snack Wrap (Buttermilk Crispy),1 Order,380,20,6,0,45,830,34,2,2,16,0,0,0,0,0,0,0,0
+142122,23035,Ranch Snack Wrap (Grilled),1 Order,300,13,4.5,0,65,890,25,1,2,21,0,0,0,0,0,0,0,0
+142123,23035,Mac Snack Wrap,1 Order,340,20,7,1,50,660,26,2,2,15,0,0,0,0,0,0,0,0
+142124,23035,Jalapeno Double,1 Order,440,24,9,1,75,980,35,2,6,23,0,0,0,0,0,0,0,0
+142125,23035,Quarter Pounder Deluxe,1 Order,640,39,15,1.5,110,1170,41,3,11,31,0,0,0,0,0,0,0,0
+142126,23035,McTeri Deluxe,1 Order,610,31,10,1,85,1190,56,3,25,27,0,0,0,0,0,0,0,0
+142127,23035,Double Homestyle Burger,1 Order,690,39,16,2.5,150,920,38,3,7,46,0,0,0,0,0,0,0,0
+142128,23035,Bacon Double Cheeseburger,1 Order,500,26,12,1,100,1280,36,3,8,30,0,0,0,0,0,0,0,0
+142129,23035,Denali Big Mac,1 Order,850,51,20,2.5,170,1090,47,3,9,50,0,0,0,0,0,0,0,0
+142130,23035,Green Chili Double Cheeseburger,1 Order,390,18,8,1,70,760,34,2,7,23,0,0,0,0,0,0,0,0
+142131,23035,Quarter Pounder Cheddar Bacon Onion,1 Order,770,43,18,2,135,1670,52,4,14,44,0,0,0,0,0,0,0,0
+142132,23035,Daily Double Burger Mustard Style,1 Order,380,18,8,1,70,720,33,2,6,23,0,0,0,0,0,0,0,0
+142133,23035,Double Grilled Onion Cheddar Burger,1 Order,390,19,9,1,70,760,32,2,6,23,0,0,0,0,0,0,0,0
+142134,23035,Grilled Onion Cheddar Burger Triple,1 Order,530,29,14,1.5,115,1080,35,2,6,32,0,0,0,0,0,0,0,0
+142135,23035,Big Mac with Butter,1 Order,560,31,12,1,85,950,46,3,9,25,0,0,0,0,0,0,0,0
+142136,23035,Homestyle Burger,1 Order,440,21,8,1,75,630,36,3,6,26,0,0,0,0,0,0,0,0
+142137,23035,Bacon Cheeseburger,1 Order,360,16,7,0.5,55,920,34,2,7,21,0,0,0,0,0,0,0,0
+142138,23035,Triple Bacon Cheeseburger,1 Order,590,32,15,1.5,125,1400,37,3,8,38,0,0,0,0,0,0,0,0
+142139,23035,Signature Sriracha Burger on Artisan Roll,1 Order,680,35,13,1.5,95,1040,57,3,13,32,0,0,0,0,0,0,0,0
+142140,23035,Double Lone Star Stack Burger,1 Order,960,53,24,3,200,2040,60,3,18,61,0,0,0,0,0,0,0,0
+142141,23035,Lone Star Stack Burger,1 Order,720,36,16,1.5,125,1850,59,3,18,41,0,0,0,0,0,0,0,0
+142142,23035,Buffalo Bacon Burger on Artisan Roll,1 Order,620,33,13,1.5,105,1170,46,3,11,37,0,0,0,0,0,0,0,0
+142143,23035,Swiss Mushroom Melt Burger on Artisan Roll,1 Order,620,33,17,1.5,115,570,47,3,11,36,0,0,0,0,0,0,0,0
+142144,23035,Bacon Quarter Pounder With Cheese,1 Order,630,34,15,1.5,125,1450,42,3,10,39,0,0,0,0,0,0,0,0
+142145,23035,Bacon Smokehouse Burger on Artisan Roll,1 Order,840,45,17,1.5,130,1580,62,2,18,46,0,0,0,0,0,0,0,0
+142146,23035,Double Bacon Smokehouse Burger on Artisan Roll,1 Order,1130,600,103,136,220,73,80,21,14,70,0,0,0,0,0,0,0,0
+142147,23036,Cheddar Bacon Onion Grilled Chicken Sandwich,1 Order,650,26,10,0.5,155,2130,50,4,14,53,0,0,0,0,0,0,0,0
+142148,23036,Premium Grilled Chicken Bacon Clubhouse Sandwich,1 Order,630,26,8,0,145,1830,50,4,14,48,0,0,0,0,0,0,0,0
+142149,23036,Double Filet-O-Fish,1 Order,540,26,6,0,80,780,48,2,5,28,0,0,0,0,0,0,0,0
+142150,23036,Premium Buttermilk Crispy Chicken Bacon Clubhouse Sandwich,1 Order,790,40,10,0.5,105,1720,69,5,14,39,0,0,0,0,0,0,0,0
+142151,23036,McChicken,1 Order,410,22,4,0,45,590,39,2,5,15,0,0,0,0,0,0,0,0
+142152,23036,Buffalo Ranch McChicken,1 Order,360,16,3,0,40,800,40,2,5,15,0,0,0,0,0,0,0,0
+142153,23036,Bacon Buffalo Ranch McChicken,1 Order,430,21,4.5,0,55,1040,40,2,6,20,0,0,0,0,0,0,0,0
+142154,23036,Bacon Cheddar McChicken,1 Order,550,32,9,0,80,950,41,2,6,24,0,0,0,0,0,0,0,0
+142155,23036,Southern Style Buttermilk Crispy Chicken Sandwich,1 Order,470,20,4.5,0,65,950,48,3,5,25,0,0,0,0,0,0,0,0
+142156,23036,Filet-O-Fish,1 Order,390,19,4,0,45,560,38,2,5,17,0,0,0,0,0,0,0,0
+142157,23036,Hot 'n Spicy McChicken,1 Order,420,22,4,0,45,590,39,3,5,14,0,0,0,0,0,0,0,0
+142158,23036,Bacon Cheddar Hot 'n Spicy McChicken,1 Order,550,32,9,0.5,80,960,41,3,6,24,0,0,0,0,0,0,0,0
+142159,23036,Chicken McNuggets (10 piece),1 Order,440,27,4.5,0,75,840,26,2,0,24,0,0,0,0,0,0,0,0
+142160,23036,Ranch Snack Wrap (Buttermilk Crispy),1 Order,380,20,6,0,45,830,34,2,2,16,0,0,0,0,0,0,0,0
+142161,23036,Chicken McNuggets (20 piece),1 Order,890,53,9,0,145,1680,53,4,0,49,0,0,0,0,0,0,0,0
+142162,23036,Chicken McNuggets (6 piece),1 Order,270,16,2.5,0,45,510,16,1,0,15,0,0,0,0,0,0,0,0
+142163,23036,Chicken McNuggets (40 piece),1 Order,1770,107,18,0.5,295,3370,105,7,1,98,0,0,0,0,0,0,0,0
+142164,23036,Premium Bacon Ranch Salad (without chicken),1 Order,190,12,5,0,40,500,9,3,3,14,0,0,0,0,0,0,1,0
+142165,23036,Premium Southwest Salad (without chicken),1 Order,160,7,3,0,15,200,19,5,4,8,0,0,0,0,0,0,1,0
+142166,23036,Premium Bacon Ranch Salad with Buttermilk Crispy Chicken,1 Order,490,28,8,0,95,1120,28,4,4,33,0,0,0,0,0,0,0,0
+142167,23036,Ranch Snack Wrap (Grilled),1 Order,300,13,4.5,0,65,890,25,1,2,21,0,0,0,0,0,0,0,1
+142168,23036,Premium Bacon Ranch Salad with Grilled Chicken,1 Order,320,14,6,0,135,1230,9,3,4,42,0,0,0,0,0,0,1,1
+142169,23036,Premium Southwest Salad with Buttermilk Crispy Chicken,1 Order,520,25,6,0,75,960,46,8,9,28,0,0,0,0,0,0,0,0
+142170,23036,Premium Southwest Salad with Grilled Chicken,1 Order,350,11,4.5,0,110,1070,27,6,9,37,0,0,0,0,0,0,1,0
+142171,23036,Chicken McNuggets (4 piece),1 Order,180,11,2,0,30,340,11,1,0,10,0,0,0,0,0,0,0,0
+142172,23036,Artisan Grilled Chicken Sandwich,1 Order,380,7,2,0,95,1110,44,3,11,37,0,0,0,0,0,0,0,0
+142173,23036,Buttermilk Crispy Chicken Sandwich,1 Order,630,29,5,0,70,1030,63,4,11,28,0,0,0,0,0,0,0,0
+142174,23036,Veggie McWrap,1 Order,480,19,6,0.5,20,870,63,8,14,15,0,0,0,0,1,0,0,1
+142175,23036,Chicken McNuggets (50 Piece),1 Order,2210,133,22,1,370,4210,132,9,1,122,0,0,0,0,0,0,0,0
+142176,23036,Lobster Roll,1 Order,290,5,1.5,0,65,630,35,2,3,24,0,0,0,0,0,0,0,0
+142177,23036,McChicken Deluxe,1 Order,510,28,7,0,65,740,44,3,6,20,0,0,0,0,0,0,0,0
+142178,23036,Old Bay Double Filet-O-Fish Sandwich,1 Order,540,25,6,0,80,760,49,3,5,29,0,0,0,0,0,0,0,0
+142179,23036,Old Bay Filet-O-Fish Sandwich,1 Order,390,18,3.5,0,45,540,40,2,5,17,0,0,0,0,0,0,0,0
+142180,23036,Jalapeno McChicken,1 Order,430,20,5,0,55,1030,44,3,6,18,0,0,0,0,0,0,0,0
+142181,23036,Hot N' Spicy McChicken Deluxe,1 Order,510,29,8,0,65,750,45,4,6,20,0,0,0,0,0,0,0,0
+142182,23036,McChicken Scratch Biscuit,1 Order,450,22,9,0,75,1080,49,3,3,15,0,0,0,0,0,0,0,0
+142183,23036,McGriddles Buttermilk Crispy Chicken,1 Order,540,22,6,0,60,1320,61,3,14,24,0,0,0,0,0,0,0,0
+142184,23036,Southern Style Chicken McGriddles,1 Order,410,15,4.5,0,30,1160,51,1,16,16,0,0,0,0,0,0,0,0
+142185,23036,Southern Style Chicken Biscuit Pressure Fried,1 Order,440,22,8,0,40,1140,46,2,4,15,0,0,0,0,0,0,0,0
+142186,23036,Buttermilk Crispy Chicken Biscuit,1 Order,570,28,10,0,60,1380,55,3,2,24,0,0,0,0,0,0,0,0
+142187,23036,Southern Style Chicken Scratch Biscuit Pressure Fried,1 Order,460,23,8,0,75,1160,49,2,4,15,0,0,0,0,0,0,0,0
+142188,23036,Hot N Spicy McChicken Scratch Biscuit,1 Order,460,23,9,0,75,1090,49,3,3,14,0,0,0,0,0,0,0,0
+142189,23036,Buttermilk Crispy Tenders 2 pc,1 Order,250,13,2,0,55,700,13,0,0,20,0,0,0,0,0,0,0,0
+142190,23036,Buttermilk Crispy Tenders 4 pc,1 Order,500,27,4,0,110,1390,25,0,1,39,0,0,0,0,0,0,0,0
+142191,23036,Buttermilk Crispy Tenders 10 pc,1 Order,1250,67,10,0,270,3480,63,1,2,98,0,0,0,0,0,0,0,0
+142192,23036,Signature Sriracha Buttermilk Crispy Chicken on Artisan Roll,1 Order,760,36,9,0.5,85,1430,75,5,13,34,0,0,0,0,0,0,0,0
+142193,23036,Signature Sriracha Artisan Grilled Chicken on Artisan Roll,1 Order,590,22,7,0,125,1390,56,3,14,43,0,0,0,0,0,0,0,0
+142194,23036,Buttermilk Crispy Tenders 6 pc,1 Order,750,40,6,0,160,2090,38,1,1,59,0,0,0,0,0,0,0,0
+142195,23036,Buttermilk Crispy Chicken Tenders (20 piece),1 Order,2500,135,20,1,540,6950,126,2,3,195,0,0,0,0,0,0,0,0
+142196,23036,Buttermilk Crispy Chicken Tenders Pressure Fried (4 piece),1 Order,480,24,3.5,0,110,1430,22,0,0,42,0,0,0,0,0,0,0,0
+142197,23036,Buttermilk Crispy Chicken Tenders Pressure Fried (10 piece),1 Order,1190,60,9,0,280,3570,56,1,0,105,0,0,0,0,0,0,0,0
+142198,23036,Buttermilk Crispy Chicken Tenders Pressure Fried (2 piece),1 Order,240,12,2,0,55,710,11,0,0,21,0,0,0,0,0,0,0,0
+142199,23036,Buttermilk Crispy Chicken Tenders Pressure Fried (6 piece),1 Order,710,36,5,0,170,2140,34,1,0,63,0,0,0,0,0,0,0,0
+142200,23036,Buttermilk Crispy Chicken Tenders Pressure Fried (20 piece),1 Order,2380,121,18,1,560,7130,112,2,1,210,0,0,0,0,0,0,0,0
+142201,23036,Buffalo Bacon Artisan Grilled Chicken on Artisan Roll,1 Order,520,17,5,0,125,1710,45,3,11,45,0,0,0,0,0,0,0,0
+142202,23036,Swiss Mushroom Melt Buttermilk Crispy Chicken on Artisan Roll,1 Order,700,32,12,0.5,105,1120,66,5,11,37,0,0,0,0,0,0,0,0
+142203,23036,Swiss Mushroom Melt Artisan Grilled on Artisan Roll,1 Order,540,19,10,0.5,140,1240,47,3,12,46,0,0,0,0,0,0,0,0
+142204,23036,Buffalo Bacon Buttermilk Crispy Chicken on Artisan Roll,1 Order,680,31,7,0,90,1600,64,4,11,36,0,0,0,0,0,0,0,0
+142205,23036,Classic Chicken Sandwich,1 Order,510,24,4,0,65,1040,49,3,6,25,0,0,0,0,0,0,0,0
+142206,23036,Ranch Snack Wrap Buttermilk Chicken Tender,1 Order,360,19,5,0,45,870,31,1,2,16,0,0,0,0,0,0,0,0
+142207,23036,Bacon Smokehouse Buttermilk Crispy Chicken on Artisan Roll,1 Order,920,45,12,0.5,120,1980,81,4,18,46,0,0,0,0,0,0,0,0
+142208,23036,Bacon Smokehouse Artisan Grilled Chicken on Artisan Roll,1 Order,750,31,10,0.5,155,1940,62,2,18,55,0,0,0,0,0,0,0,0
+142209,23037,Fruit 'n Yogurt Parfait with Chobani,1 Order,120,0.5,0,0,5,65,21,1,16,8,0,0,0,0,1,0,1,0
+142210,23037,Apple Slices,1 Order,15,0,0,0,0,0,4,0,3,0,0,0,0,1,1,1,0,0
+142211,23037,Side Salad,1 Order,15,0,0,0,0,15,3,1,1,1,0,0,0,1,1,0,0,0
+142212,23037,Large French Fries,1 Order,510,24,3.5,0,0,350,66,6,0,7,0,0,0,1,0,0,0,0
+142213,23037,Kids Fries,1 Order,110,5,1,0,0,80,15,1,0,1,0,0,0,0,0,0,0,0
+142214,23037,Ranch Snack Wrap (Buttermilk Crispy),1 Order,380,20,6,0,45,830,34,2,2,16,0,0,0,0,0,0,0,0
+142215,23037,Ranch Snack Wrap (Grilled),1 Order,300,13,4.5,0,65,890,25,1,2,21,0,0,0,0,0,0,0,0
+142216,23037,Mac Snack Wrap,1 Order,340,20,7,1,50,660,26,2,2,15,0,0,0,0,0,0,0,0
+142217,23037,Go-GURT Strawberry Flavored Low Fat Yogurt Tube,1 Order,50,0.5,0,0,5,30,8,0,6,3,0,0,0,0,0,0,0,0
+142218,23037,Mozzarella Sticks (3 Piece),1 Order,190,10,4,0,20,460,18,1,1,8,0,0,0,0,0,0,0,0
+142219,23037,Basket of Fries,1 Order,670,32,4.5,0,0,460,87,8,0,9,0,0,0,1,0,0,0,0
+142220,23037,Pineapple Side,1 Order,60,0,0,0,0,0,15,2,11,1,0,0,0,0,0,0,0,0
+142221,23037,McCheddar Potato Bites (12 piece),1 Order,400,20,5,0,15,1070,47,3,3,9,0,0,0,0,0,0,0,0
+142222,23037,Popcorn (Large),1 Order,500,33,3,0,0,1250,45,3,0,6,0,0,0,0,0,0,0,0
+142223,23037,Medium French Fries,1 Order,340,16,2,0,0,230,44,4,0,4,0,0,0,1,0,0,0,0
+142224,23037,Portuguese Sausage Side Order,1 Order,220,19,7,0,50,570,2,0,1,10,0,0,0,0,0,0,0,0
+#REF!,23037,Popcorn (Small),1 Order,230,15,1.5,0,0,580,21,1,0,3,0,0,0,0,0,0,0,0
+#REF!,23037,McCheddar Potato Bites (8 piece),1 Order,270,13,3.5,0,10,710,31,2,2,6,0,0,0,0,0,0,0,0
+#REF!,23037,Gourmet Twist Hot Pretzel with Butter Salt,1 Order,450,4.5,0,0,0,960,85,3,3,12,0,0,0,0,0,0,0,0
+#REF!,23037,Plain Gourmet Pretzel Twist,1 Order,440,3.5,0,0,0,460,85,3,3,12,0,0,0,0,0,0,0,0
+#REF!,23037,Gilroy Garlic Fries (Large),1 Order,600,31,6,0,0,620,70,7,1,10,0,0,0,0,0,0,0,0
+#REF!,23037,Gilroy Garlic Fries (Medium),1 Order,420,23,4.5,0,0,500,48,5,1,8,0,0,0,0,0,0,0,0
+#REF!,23037,Fruit 'N Yogurt Parfait (Large),1 Order,300,4.5,2.5,0,15,110,58,1,45,8,0,0,0,0,0,0,0,0
+#REF!,23037,Cheese Curds,1 Order,440,30,15,1,80,970,18,2,1,24,0,0,0,0,0,0,0,0
+#REF!,23042,Signature Sriracha Burger on Artisan Roll,1 Order,680,35,13,1.5,95,1040,57,3,13,32,0,0,0,0,0,0,0,0
+#REF!,23042,Sweet BBQ Bacon Burger on Sesame Seed Bun,1 Order,700,38,14,1.5,110,1310,52,3,14,38,0,0,0,0,0,0,0,0
+#REF!,23042,Sweet BBQ Bacon Artisan Grilled Chicken on Sesame Seed Bun,1 Order,600,23,7,0,135,1850,52,3,14,46,0,0,0,0,0,0,0,0
+#REF!,23042,Sweet BBQ Bacon Buttermilk Crispy Chicken on Artisan Roll,1 Order,830,39,11,0.5,105,1760,80,5,18,42,0,0,0,0,0,0,0,0
+#REF!,23042,Sweet BBQ Bacon Burger on Artisan Roll,1 Order,770,40,16,1.5,120,1340,62,3,18,42,0,0,0,0,0,0,0,0
+#REF!,23042,Sweet BBQ Bacon Artisan Grilled Chicken on Artisan Roll,1 Order,670,25,9,0.5,140,1870,61,3,18,50,0,0,0,0,0,0,0,0
+#REF!,23042,Pico Guacamole Burger on Artisan Roll,1 Order,660,36,14,1.5,100,950,51,4,11,34,0,0,0,0,0,0,0,0
+#REF!,23042,Pico Guacamole Burger on Sesame Seed Bun,1 Order,580,33,12,1.5,95,920,41,4,7,29,0,0,0,0,0,0,0,0
+#REF!,23042,Sweet BBQ Bacon Buttermilk Crispy Chicken on Sesame Seed Bun,1 Order,760,36,9,0,95,1740,71,5,14,37,0,0,0,0,0,0,0,0
+#REF!,23042,Pico Guacamole Artisan Grilled Chicken on Sesame Seed Bun,1 Order,470,18,5,0,115,1450,40,3,7,38,0,0,0,0,0,0,0,0
+#REF!,23042,Pico Guacamole Artisan Grilled Chicken on Artisan Roll,1 Order,550,20,7,0,120,1340,50,4,11,42,0,0,0,0,0,0,0,0
+#REF!,23042,Signature Sriracha Buttermilk Crispy Chicken on Artisan Roll,1 Order,760,36,9,0.5,85,1430,75,5,13,34,0,0,0,0,0,0,0,0
+#REF!,23042,Pico Guacamole Buttermilk Crispy Chicken on Sesame Seed Bun,1 Order,630,32,7,0,80,1340,59,5,7,29,0,0,0,0,0,0,0,0
+#REF!,23042,Signature Sriracha Artisan Grilled Chicken on Artisan Roll,1 Order,590,22,7,0,125,1390,56,3,14,43,0,0,0,0,0,0,0,0
+#REF!,23042,Pico Guacamole Buttermilk Crispy Chicken on Artisan Roll,1 Order,720,34,9,0,85,1380,69,6,11,33,0,0,0,0,0,0,0,0
+#REF!,23042,Sweet BBQ Bacon Buttermilk Crispy Chicken on Texas Toast,1 Order,800,36,9,0,95,1850,80,5,17,39,0,0,0,0,0,0,0,0
+#REF!,23042,Pico Guacamole Artisan Grilled Chicken on Texas Toast,1 Order,510,17,5,0,115,1570,49,4,10,40,0,0,0,0,0,0,0,0
+#REF!,23042,Sweet BBQ Bacon Burger on Texas Toast,1 Order,740,38,14,1.5,110,1430,61,3,16,40,0,0,0,0,0,0,0,0
+#REF!,23042,Sweet BBQ Bacon Artisan Grilled Chicken on Texas Toast,1 Order,640,22,7,0,135,1970,61,3,17,48,0,0,0,0,0,0,0,0
+#REF!,23042,Pico Guacamole Buttermilk Crispy Chicken on Texas Toast,1 Order,680,31,7,0,80,1460,68,5,10,31,0,0,0,0,0,0,0,0
+#REF!,23042,Buffalo Bacon Burger on Artisan Roll,1 Order,620,33,13,1.5,105,1170,46,3,11,37,0,0,0,0,0,0,0,0
+#REF!,23042,Swiss Mushroom Melt Burger on Artisan Roll,1 Order,620,33,17,1.5,115,570,47,3,11,36,0,0,0,0,0,0,0,0
+#REF!,23042,Buffalo Bacon Artisan Grilled Chicken on Artisan Roll,1 Order,520,17,5,0,125,1710,45,3,11,45,0,0,0,0,0,0,0,0
+#REF!,23042,Swiss Mushroom Melt Buttermilk Crispy Chicken on Artisan Roll,1 Order,700,32,12,0.5,105,1120,66,5,11,37,0,0,0,0,0,0,0,0
+#REF!,23042,Swiss Mushroom Melt Artisan Grilled on Artisan Roll,1 Order,540,19,10,0.5,140,1240,47,3,12,46,0,0,0,0,0,0,0,0
+#REF!,23042,Buffalo Bacon Buttermilk Crispy Chicken on Artisan Roll,1 Order,680,31,7,0,90,1600,64,4,11,36,0,0,0,0,0,0,0,0
+#REF!,23042,Garlic White Cheddar Double Burger on Artisan Roll,1 Order,920,55,23,3,185,1130,49,3,11,57,0,0,0,0,0,0,0,0
+#REF!,23042,Garlic White Cheddar Artisan Grilled Chicken on Texas Toast,1 Order,530,19,6,0,125,1170,47,3,10,42,0,0,0,0,0,0,0,0
+#REF!,23042,Garlic White Cheddar Buttermilk Crispy Chicken on Texas Toast,1 Order,690,33,8,0,85,1220,66,4,10,33,0,0,0,0,0,0,0,0
+#REF!,23042,Garlic White Cheddar Burger on Texas Toast,1 Order,610,33,13,1.5,95,820,47,3,10,31,0,0,0,0,0,0,0,0
+#REF!,23042,Garlic White Cheddar Buttermilk Crispy Chicken on Artisan Roll,1 Order,700,34,9,0,85,1190,67,5,11,33,0,0,0,0,0,0,0,0
+#REF!,23042,Garlic White Cheddar Burger on Artisan Roll,1 Order,640,35,14,1.5,100,760,49,3,11,33,0,0,0,0,0,0,0,0
+#REF!,23042,Garlic White Cheddar Artisan Grilled Chicken on Artisan Roll,1 Order,530,180,30,33,125,41,48,16,13,42,0,0,0,0,0,0,0,0
+#REF!,23038,Fruit 'n Yogurt Parfait,1 Order,150,2,1,0,5,75,30,1,22,4,0,0,0,0,0,0,0,0
+#REF!,23038,Steak & Egg Burrito,1 Order,350,15,6,0.5,115,950,38,2,3,16,0,0,0,0,0,0,0,0
+#REF!,23038,Steak Egg & Cheese Bagel,1 Order,630,31,14,1.5,255,1450,54,4,7,32,0,0,0,0,0,0,0,0
+#REF!,23038,Steak Egg & Cheese Biscuit,1 Order,530,30,15,1,230,1500,40,3,4,25,0,0,0,0,0,0,0,0
+#REF!,23038,Sausage McMuffin with Egg,1 Order,470,30,12,0,275,810,30,2,3,21,0,0,0,0,0,0,0,0
+#REF!,23038,Hotcakes and Sausage,1 Order,790,35,13,0,80,890,103,2,45,16,0,0,0,0,0,0,0,0
+#REF!,23038,Southern Style Chicken Biscuit,1 Order,440,21,8,0,35,1220,45,2,4,16,0,0,0,0,0,0,0,0
+#REF!,23038,Sausage Burrito,1 Order,300,16,6,0,165,780,26,1,2,13,0,0,0,0,0,0,0,0
+#REF!,23038,Fruit & Maple Oatmeal,1 Order,310,4,1.5,0,5,140,62,5,33,6,0,0,0,0,0,0,0,0
+#REF!,23038,Egg McMuffin,1 Order,300,12,6,0,245,730,30,2,3,18,0,0,0,0,0,0,0,0
+#REF!,23038,Bacon Egg & Cheese Biscuit,1 Order,450,24,12,0,200,1300,40,2,3,18,0,0,0,0,0,0,0,0
+#REF!,23038,Sausage Biscuit,1 Order,460,30,13,0,40,1050,36,2,3,11,0,0,0,0,0,0,0,0
+#REF!,23038,Sausage Biscuit with Egg,1 Order,530,34,15,0,205,1140,38,2,3,17,0,0,0,0,0,0,0,0
+#REF!,23038,Bacon Egg & Cheese McGriddles,1 Order,420,18,8,0,195,1240,45,2,15,18,0,0,0,0,0,0,0,0
+#REF!,23038,Sausage McGriddles,1 Order,430,24,9,0,35,990,42,1,15,11,0,0,0,0,0,0,0,0
+#REF!,23038,Sausage Egg & Cheese McGriddles,1 Order,550,32,13,0,220,1290,45,2,15,20,0,0,0,0,0,0,0,0
+#REF!,23038,Bacon Egg & Cheese Bagel with Egg Whites,1 Order,510,22,10,0.5,65,1240,53,3,7,25,0,0,0,0,0,0,0,0
+#REF!,23038,Big Breakfast,1 Order,750,49,18,0,465,1490,53,3,3,25,0,0,0,0,0,0,0,0
+#REF!,23038,Big Breakfast with Hotcakes,1 Order,1350,65,25,0.5,510,2100,155,6,48,35,0,0,0,0,0,0,0,0
+#REF!,23038,Cinnamon Melts,1 Order,460,19,9,0,15,370,66,3,32,6,0,0,0,0,0,0,0,0
+#REF!,23038,Hotcakes,1 Order,600,16,7,0,45,610,102,2,45,9,0,0,0,0,0,0,0,0
+#REF!,23038,Egg White Delight,1 Order,280,10,6,0,40,680,29,2,2,18,0,0,0,0,0,0,0,0
+#REF!,23038,Hash Browns,1 Order,150,9,1.5,0,0,320,16,1,0,1,0,0,0,0,0,0,0,0
+#REF!,23038,Bacon Egg & Cheese Scratch Biscuit,1 Order,480,25,12,0,235,1310,43,3,4,19,0,0,0,0,0,0,0,0
+#REF!,23038,Sausage Scratch Biscuit,1 Order,490,32,13,0,75,1070,39,2,3,12,0,0,0,0,0,0,0,0
+#REF!,23038,Sausage Scratch Biscuit with Egg,1 Order,550,36,15,0,240,1160,41,2,4,18,0,0,0,0,0,0,0,0
+#REF!,23038,Southern Style Chicken Scratch Biscuit,1 Order,460,23,8,0,70,1240,48,2,5,16,0,0,0,0,0,0,0,0
+#REF!,23038,Sausage McMuffin with Egg Whites,1 Order,430,26,11,0,60,830,29,2,3,20,0,0,0,0,0,0,0,0
+#REF!,23038,Bacon Egg & Cheese McGriddles with Egg Whites,1 Order,380,15,7,0,35,1230,44,2,15,18,0,0,0,0,0,0,0,0
+#REF!,23038,Bacon Egg & Cheese Biscuit with Egg Whites,1 Order,410,21,11,0,40,1290,39,2,3,18,0,0,0,0,0,0,0,0
+#REF!,23038,Big Breakfast with Egg Whites,1 Order,670,40,15,0,50,1540,52,3,3,24,0,0,0,0,0,0,0,0
+#REF!,23038,Big Breakfast with Hotcakes and Egg Whites,1 Order,1270,57,22,0.5,95,2150,154,6,48,33,0,0,0,0,0,0,0,0
+#REF!,23038,Fruit & Maple Oatmeal without Brown Sugar,1 Order,260,4,1.5,0,5,115,49,5,18,6,0,0,0,0,0,0,0,1
+#REF!,23038,Sausage Biscuit with Egg Whites,1 Order,490,31,14,0,45,1140,36,2,3,17,0,0,0,0,0,0,0,0
+#REF!,23038,Sausage Egg & Cheese McGriddles with Egg Whites,1 Order,510,29,12,0,55,1270,44,2,15,19,0,0,0,0,0,0,0,0
+#REF!,23038,Bacon Egg & Cheese Bagel,1 Order,500,22,9,0,210,1070,52,3,7,23,0,0,0,0,0,0,0,0
+#REF!,23038,Steak Egg & Cheese McMuffin,1 Order,430,22,10,1,285,970,30,2,3,26,0,0,0,0,0,0,0,1
+#REF!,23038,Sausage McMuffin,1 Order,400,25,10,0,55,740,29,2,3,14,0,0,0,0,0,0,0,0
+#REF!,23038,Biscuit and Sausage Gravy,1 Order,440,26,10,0,25,1210,43,2,3,9,0,0,0,0,0,0,0,0
+#REF!,23038,Chorizo Burrito,1 Order,310,15,6,0,175,820,28,2,3,16,0,0,0,0,0,0,0,0
+#REF!,23038,Chicken McGriddles,1 Order,390,15,4.5,0,35,1000,51,2,14,14,0,0,0,0,0,0,0,0
+#REF!,23038,Egg and Cheese Bagel,1 Order,480,20,9,0.5,210,1020,53,4,7,20,0,0,0,0,0,0,0,0
+#REF!,23038,Blueberry Muffin Main Street Gourmet,1 Order,400,15,3,0,45,340,60,2,34,7,0,0,0,0,0,0,0,0
+#REF!,23038,Big Breakfast Two Bacon Hotcakes Scrambled Egg and Biscuit,1 Order,1290,56,22,0.5,505,2300,156,6,48,39,0,0,0,0,0,0,0,0
+#REF!,23038,Bacon and White Cheddar Cheese McMuffin,1 Order,350,16,7,0,255,770,30,2,3,20,0,0,0,0,0,0,0,0
+#REF!,23038,Steak and Egg Biscuit,1 Order,480,27,13,1,215,1300,38,2,3,22,0,0,0,0,0,0,0,0
+#REF!,23038,Steak Egg and Cheese McGriddles,1 Order,500,24,11,1,225,1430,46,3,16,25,0,0,0,0,0,0,0,0
+#REF!,23038,Apple Cinnamon Muffin,1 Order,300,2.5,0.5,0,0,520,61,3,30,7,0,0,0,0,0,0,0,0
+#REF!,23038,Sausage Egg and Cheese Bagel,1 Order,670,39,16,0.5,245,1300,54,4,7,27,0,0,0,0,0,0,0,0
+#REF!,23038,Chicken Sausage and Egg McMuffin,1 Order,360,17,7,0,285,870,30,2,2,23,0,0,0,0,0,0,0,0
+#REF!,23038,Big Breakfast Sausage Scrambled with Hotcakes and Muffin,1 Order,1240,57,20,0.5,510,1600,146,5,47,35,0,0,0,0,0,0,0,0
+#REF!,23038,Double Sausage McMuffin with Egg and Cheese,1 Order,670,48,18,0.5,310,1100,30,2,3,28,0,0,0,0,0,0,0,0
+#REF!,23038,Cranberry Orange Muffin,1 Order,380,9,1.5,0,0,430,70,3,35,6,0,0,0,0,0,0,0,0
+#REF!,23038,Spam Eggs and Rice,1 Order,480,25,9,0,470,780,36,0,1,24,0,0,0,0,0,0,0,0
+#REF!,23038,Bagel With Cream Cheese,1 Order,310,8,4,0,25,570,49,3,6,10,0,0,0,0,0,0,0,0
+#REF!,23038,Blueberry Biscuit,1 Order,230,8,4,0,0,470,36,1,11,3,0,0,0,0,0,0,0,0
+#REF!,23038,Biscuit Sausage Egg and Cheese,1 Order,580,38,17,0,220,1340,39,3,3,20,0,0,0,0,0,0,0,0
+#REF!,23038,Big Breakfast Sausage and English Muffin,1 Order,640,40,13,0,470,990,44,3,2,26,0,0,0,0,0,0,0,0
+#REF!,23038,McChicken Biscuit,1 Order,430,21,9,0,40,1060,45,2,2,14,0,0,0,0,0,0,0,0
+#REF!,23038,Biscuit Sausage Gravy Platter,1 Order,890,52,20,0,50,2410,87,3,6,19,0,0,0,0,0,0,0,0
+#REF!,23038,McGriddles Chicken Sausage,1 Order,320,11,4.5,0,45,1050,42,1,14,13,0,0,0,0,0,0,0,0
+#REF!,23038,Cinnamon Sweet Cheese Pastry,1 Order,150,8,5,0,35,160,16,0,7,3,0,0,0,0,0,0,0,0
+#REF!,23038,Raspberry Pastry,1 Order,110,5,2.5,0,15,105,14,1,4,2,0,0,0,0,0,0,0,0
+#REF!,23038,Bacon Biscuit,1 Order,340,17,9,0,20,1010,36,2,3,10,0,0,0,0,0,0,0,0
+#REF!,23038,Bagel Plain,1 Order,250,2,0,0,0,480,48,3,5,9,0,0,0,0,0,0,0,0
+#REF!,23038,Country Ham Biscuit,1 Order,340,14,8,0,35,1600,36,2,2,15,0,0,0,0,0,0,0,0
+#REF!,23038,Big Breakfast Steak Hotcakes Scrambled with Biscuit,1 Order,1290,57,23,1.5,515,2190,155,6,47,40,0,0,0,0,0,0,0,0
+#REF!,23038,Biscuit Chicken Sausage,1 Order,350,17,8,0,50,1110,36,2,2,13,0,0,0,0,0,0,0,0
+#REF!,23038,Berry Bran Muffin,1 Order,410,15,1.5,0,0,480,62,7,28,7,0,0,0,0,0,0,0,0
+#REF!,23038,Grits,1 Order,140,6,3.5,0,15,75,19,2,0,2,0,0,0,0,0,0,0,0
+#REF!,23038,Local Deluxe Breakfast,1 Order,900,45,16,0,520,1340,82,1,2,38,0,0,0,0,0,0,0,0
+#REF!,23038,Double Chocolate Muffin,1 Order,450,15,3.5,0,0,600,74,4,42,8,0,0,0,0,0,0,0,0
+#REF!,23038,Blueberry Muffin,1 Order,450,17,1.5,0,0,360,67,3,32,7,0,0,0,0,0,0,0,0
+#REF!,23038,Cinnamon Coffee Cake,1 Order,160,7,2,0,20,125,22,1,13,2,0,0,0,0,0,0,0,0
+#REF!,23038,Steak Egg and Cheese Bagel with Slivered Onions,1 Order,620,30,13,1,255,1390,54,4,7,32,0,0,0,0,0,0,0,0
+#REF!,23038,Big Breakfast Bacon Scrambled and Biscuit,1 Order,690,40,15,0,460,1690,54,3,3,30,0,0,0,0,0,0,0,0
+#REF!,23038,Country Ham and Egg Biscuit,1 Order,400,18,9,0,205,1690,38,2,2,21,0,0,0,0,0,0,0,0
+#REF!,23038,Chicken Sausage McMuffin,1 Order,290,12,6,0,65,800,29,2,2,16,0,0,0,0,0,0,0,0
+#REF!,23038,Big Breakfast Bacon Sausage Scrambled with Hotcakes and Muffin,1 Order,1310,61,22,0.5,525,1840,147,5,48,40,0,0,0,0,0,0,0,0
+#REF!,23038,Biscuit Sausage and Cheese,1 Order,510,34,16,0,55,1250,38,2,3,14,0,0,0,0,0,0,0,0
+#REF!,23038,Spam Side Order,1 Order,190,16,6,0,45,660,1,0,1,8,0,0,0,0,0,0,0,0
+#REF!,23038,Portuguese Sausage Eggs and Rice,1 Order,520,29,10,0,475,690,37,1,2,26,0,0,0,0,0,0,0,0
+#REF!,23038,Fruit and Maple Oatmeal with Maple Sugar Packet,1 Order,270,4,1.5,0,5,115,53,5,22,7,0,0,0,0,0,0,0,0
+#REF!,23038,Egg and Chorizo Breakfast Bowl,1 Order,460,29,9,0,500,1060,23,3,2,27,0,0,0,0,0,0,0,0
+#REF!,23038,Hot N Spicy McChicken Biscuit,1 Order,430,22,9,0,40,1070,46,3,2,14,0,0,0,0,0,0,0,0
+#REF!,23038,Big Breakfast Steak Scrambled with Biscuit,1 Order,710,41,16,1,475,1640,53,3,3,31,0,0,0,0,0,0,0,0
+#REF!,23038,McGriddles Spam,1 Order,450,21,9,0,205,1320,45,2,15,17,0,0,0,0,0,0,0,0
+#REF!,23038,Green Chile Bacon Burrito,1 Order,690,35,12,1,410,1640,66,3,5,29,0,0,0,0,0,0,0,0
+#REF!,23038,Green Chile Sausage Burrito,1 Order,820,48,17,1,430,1680,66,3,5,30,0,0,0,0,0,0,0,0
+#REF!,23038,Scratch Biscuit and Gravy,1 Order,470,27,10,0,55,1290,47,2,4,10,0,0,0,0,0,0,0,0
+#REF!,23038,Biscuit Scratch Sausage and Cheese,1 Order,540,35,15,0,90,1270,41,2,4,14,0,0,0,0,0,0,0,0
+#REF!,23038,Lemon Poppy Seed Muffin Topper,1 Order,150,7,1.5,0,15,120,22,1,13,2,0,0,0,0,0,0,0,0
+#REF!,23038,Chocolate Coffee Cake,1 Order,170,8,2.5,0,20,180,21,1,13,2,0,0,0,0,0,0,0,0
+#REF!,23038,Blueberry Muffin Topper,1 Order,160,7,2,0,20,150,22,0,12,2,0,0,0,0,0,0,0,0
+#REF!,23038,Double Chocolate Muffin Topper,1 Order,170,8,2.5,0,20,140,23,1,14,2,0,0,0,0,0,0,0,0
+#REF!,23038,Carrot Muffin,1 Order,440,17,1.5,0,0,370,67,2,35,6,0,0,0,0,0,0,0,0
+#REF!,23038,Mini Butter Croissant,1 Order,140,7,4.5,0,30,180,16,1,2,3,0,0,0,0,0,0,0,0
+#REF!,23038,Turkey Sausage and Tomatillo Scramble Bowl,1 Order,330,200,34,41,575,191,29,2,5,29,0,0,0,0,0,0,0,0
+#REF!,23038,Broccoli Cheese Soup,1 Order,190,11,3,0,25,1340,14,0,3,6,0,0,0,0,0,0,0,0
+#REF!,23038,Chicken Noodle Soup,1 Order,110,2,0.5,0,25,830,15,0,1,10,0,0,0,0,0,0,0,0
+#REF!,23039,Mocha (Small),1 Order,340,12,7,0,35,140,49,2,45,9,0,0,0,0,0,0,0,0
+#REF!,23039,Coffee (Small),1 Order,0,0,0,0,0,20,1,0,0,2,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Latte (Small),1 Order,120,6,3.5,0,20,85,10,0,9,6,0,0,0,0,0,0,0,0
+#REF!,23039,Chocolate Shake (Small),1 Order,530,15,9,0.5,60,260,87,1,74,12,0,0,0,0,0,0,0,0
+#REF!,23039,Vanilla Shake (Small),1 Order,490,14,9,0.5,60,230,79,0,59,11,0,0,0,0,0,0,0,0
+#REF!,23039,Strawberry Shake (Small),1 Order,500,15,9,0.5,60,190,80,0,71,12,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Coffee (Small),1 Order,140,5,3.5,0,20,50,24,0,22,2,0,0,0,0,0,0,0,0
+#REF!,23039,Mocha Caramel (Small),1 Order,310,11,7,0,35,230,44,0,40,9,0,0,0,0,0,0,0,0
+#REF!,23039,Frappe Mocha (Small),1 Order,420,17,11,0.5,60,120,60,1,54,7,0,0,0,0,0,0,0,0
+#REF!,23039,Frappe Caramel (Small),1 Order,420,18,11,1,65,125,60,0,55,7,0,0,0,0,0,0,0,0
+#REF!,23039,Strawberry Banana Smoothie (Small),1 Order,190,0.5,0,0,5,40,44,2,39,2,0,0,0,0,0,0,0,0
+#REF!,23039,Mango Pineapple Smoothie (Small),1 Order,200,0.5,0,0,5,35,45,1,42,2,0,0,0,0,0,0,0,0
+#REF!,23039,Hot Chocolate (Small),1 Order,370,14,8,0,40,170,51,1,48,11,0,0,0,0,0,0,0,0
+#REF!,23039,Caramel Cappuccino (Small),1 Order,210,5,3,0,15,300,35,0,32,6,0,0,0,0,0,0,0,0
+#REF!,23039,Vanilla Cappuccino (Small),1 Order,190,5,3,0,15,70,30,0,29,6,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Caramel Latte (Small),1 Order,180,5,3,0,15,250,28,0,26,6,0,0,0,0,0,0,0,0
+#REF!,23039,Iced French Vanilla Latte (Small),1 Order,190,6,3.5,0,20,85,28,0,26,7,0,0,0,0,0,0,0,0
+#REF!,23039,Latte (Small),1 Order,140,8,4.5,0,25,100,12,0,11,7,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Mocha (Small),1 Order,290,11,7,0,35,120,40,1,36,7,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Caramel Mocha (Small),1 Order,280,11,6,0,35,180,37,0,32,7,0,0,0,0,0,0,0,0
+#REF!,23039,Cappuccino (Small),1 Order,120,6,3.5,0,20,80,9,0,9,6,0,0,0,0,0,0,0,0
+#REF!,23039,Mocha Caramel (Medium),1 Order,380,14,8,0,40,280,54,0,49,11,0,0,0,0,0,0,0,0
+#REF!,23039,Mocha Caramel (Large),1 Order,460,17,10,0,50,350,64,0,59,14,0,0,0,0,0,0,0,0
+#REF!,23039,Hot Chocolate (Medium),1 Order,450,17,10,0,50,210,63,2,58,14,0,0,0,0,0,0,0,0
+#REF!,23039,Strawberry Banana Smoothie (Large),1 Order,330,1,0.5,0,5,70,76,4,68,4,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Coffee Caramel (Small),1 Order,140,5,3.5,0,20,220,23,0,20,3,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Coffee French Vanilla (Small),1 Order,120,5,3.5,0,20,50,19,0,17,2,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Coffee (Large),1 Order,260,9,6,0,35,90,45,0,42,3,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Coffee (Medium),1 Order,180,7,4.5,0,25,65,30,0,28,2,0,0,0,0,0,0,0,0
+#REF!,23039,Hot Chocolate (Large),1 Order,540,20,12,0.5,60,280,73,1,68,17,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Mocha (Large),1 Order,490,17,10,0,50,210,71,2,65,13,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Mocha (Medium),1 Order,350,13,8,0,40,150,50,2,46,9,0,0,0,0,0,0,0,0
+#REF!,23039,Mocha (Medium),1 Order,380,12,7,0,35,160,57,2,52,10,0,0,0,0,0,0,0,0
+#REF!,23039,Mocha (Large),1 Order,500,17,10,0,50,220,72,2,66,15,0,0,0,0,0,0,0,0
+#REF!,23039,Latte (Medium),1 Order,190,10,6,0,30,135,15,0,15,10,0,0,0,0,0,0,0,0
+#REF!,23039,Latte Caramel (Small),1 Order,250,7,4,0,25,330,38,0,35,8,0,0,0,0,0,0,0,0
+#REF!,23039,Latte French Vanilla (Small),1 Order,230,7,4,0,20,100,33,0,32,8,0,0,0,0,0,0,0,0
+#REF!,23039,Espresso Americano Coffee (Small),1 Order,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Latte Iced (Medium),1 Order,120,6,3.5,0,20,90,10,0,9,6,0,0,0,0,0,0,0,0
+#REF!,23039,Caramel Macchiato (Small),1 Order,260,7,4,0,25,340,41,0,37,8,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Caramel Macchiato (Medium),1 Order,250,6,3.5,0,20,330,40,0,36,8,0,0,0,0,0,0,0,0
+#REF!,23039,Latte Iced (Large),1 Order,170,9,5,0,30,125,14,0,13,9,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Caramel Macchiato (Large),1 Order,370,10,6,0,30,490,58,0,53,11,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Caramel Macchiato (Small),1 Order,210,6,3.5,0,20,260,32,0,29,6,0,0,0,0,0,0,0,0
+#REF!,23039,Cold Brew Frappe (Small),1 Order,360,15,10,0.5,55,135,49,0,40,6,0,0,0,0,0,0,0,0
+#REF!,23039,Cold Brew Frozen Coffee (Small),1 Order,290,11,7,0,40,120,41,0,34,6,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola Zero Sugar (Large),1 Order,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Lemonade (Extra Small),1 Order,110,0,0,0,0,70,28,0,27,0,0,0,0,0,0,0,0,0
+#REF!,23039,Chocolate Shake (Small),1 Order,530,15,9,0.5,60,260,87,1,74,12,0,0,0,0,0,0,0,0
+#REF!,23039,Vanilla Shake (Small),1 Order,490,14,9,0.5,60,230,79,0,59,11,0,0,0,0,0,0,0,0
+#REF!,23039,Strawberry Shake (Small),1 Order,500,15,9,0.5,60,190,80,0,71,12,0,0,0,0,0,0,0,0
+#REF!,23039,Egg Nog Shake (Small),1 Order,450,13,8,0.5,55,160,74,0,63,10,0,0,0,0,0,0,0,0
+#REF!,23039,Hot Chocolate (Small),1 Order,370,14,8,0,40,170,51,1,48,11,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola Zero Sugar (Extra Small),1 Order,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola Zero Sugar (Medium),1 Order,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola Zero Sugar (Small),1 Order,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Coffee (Large),1 Order,260,9,6,0,35,90,45,0,42,3,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Coffee (Medium),1 Order,180,7,4.5,0,25,65,30,0,28,2,0,0,0,0,0,0,0,0
+#REF!,23039,Fat Free Chocolate Milk Jug,1 Order,130,0,0,0,5,135,23,0,22,9,0,0,0,0,0,0,0,0
+#REF!,23039,Dasani Water,1 Order,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,One-percent Low Fat Milk Jug,1 Order,100,2.5,1.5,0,10,125,12,0,12,8,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola (Small),1 Order,150,0,0,0,0,35,40,0,40,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Coke (Small),1 Order,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Dr Pepper (Small),1 Order,140,0,0,0,0,40,38,0,37,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Dr Pepper (Small),1 Order,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite (Small),1 Order,150,0,0,0,0,70,39,0,38,0,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Tea (Small),1 Order,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sweet Tea (Small),1 Order,90,0,0,0,0,15,21,0,21,0,0,0,0,0,0,0,0,0
+#REF!,23039,POWERADE Mountain Berry Blast (Small),1 Order,90,0,0,0,0,110,22,0,22,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sweet Tea (Medium),1 Order,110,0,0,0,0,20,28,0,28,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola (Extra Small),1 Order,110,0,0,0,0,25,30,0,30,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola (Large),1 Order,290,0,0,0,0,70,77,0,77,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola (Medium),1 Order,220,0,0,0,0,55,59,0,59,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Coke (Extra Small),1 Order,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Coke (Large),1 Order,0,0,0,0,0,20,1,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Coke (Medium),1 Order,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Dr Pepper (Extra Small),1 Order,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Dr Pepper (Large),1 Order,0,0,0,0,0,140,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Dr Pepper (Medium),1 Order,0,0,0,0,0,105,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Dr Pepper (Extra Small),1 Order,100,0,0,0,0,30,27,0,27,0,0,0,0,0,0,0,0,0
+#REF!,23039,Dr Pepper (Large),1 Order,280,0,0,0,0,80,75,0,73,0,0,0,0,0,0,0,0,0
+#REF!,23039,Dr Pepper (Medium),1 Order,200,0,0,0,0,55,54,0,53,0,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Tea (Extra Small),1 Order,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Tea (Large),1 Order,5,0,0,0,0,20,0,0,0,1,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Tea (Medium),1 Order,0,0,0,0,0,15,0,0,0,1,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Orange Juice (Large),1 Order,280,0,0,0,0,5,65,0,58,4,0,0,0,0,0,0,0,0
+#REF!,23039,POWERADE Mountain Berry Blast (Extra Small),1 Order,70,0,0,0,0,85,16,0,16,0,0,0,0,0,0,0,0,0
+#REF!,23039,POWERADE Mountain Berry Blast (Large),1 Order,170,0,0,0,0,210,42,0,42,0,0,0,0,0,0,0,0,0
+#REF!,23039,POWERADE Mountain Berry Blast (Medium),1 Order,120,0,0,0,0,160,31,0,31,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite (Extra Small),1 Order,110,0,0,0,0,50,29,0,29,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite (Large),1 Order,280,0,0,0,0,130,74,0,73,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite (Medium),1 Order,210,0,0,0,0,95,55,0,54,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sweet Tea (Extra Small),1 Order,60,0,0,0,0,10,15,0,15,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sweet Tea (Large),1 Order,160,0,0,0,0,25,38,0,38,1,0,0,0,0,0,0,0,0
+#REF!,23039,Red Flash (Extra Small),1 Order,120,0,0,0,0,30,31,0,31,0,0,0,0,0,0,0,0,0
+#REF!,23039,Red Flash (Small),1 Order,160,0,0,0,0,40,41,0,41,0,0,0,0,0,0,0,0,0
+#REF!,23039,Red Flash (Medium),1 Order,230,0,0,0,0,60,59,0,59,0,0,0,0,0,0,0,0,0
+#REF!,23039,Red Flash (Large),1 Order,300,0,0,0,0,80,79,0,79,0,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Classic Lemonade (Small),1 Order,100,0,0,0,0,10,25,1,21,0,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Classic Lemonade (Medium),1 Order,130,0,0,0,0,15,32,1,28,0,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Classic Lemonade (Large),1 Order,170,0,0,0,0,15,43,1,37,1,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Strawberry Lemonade (Small),1 Order,120,0,0,0,0,10,33,1,28,1,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Strawberry Lemonade (Medium),1 Order,160,0,0,0,0,15,43,1,37,1,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Strawberry Lemonade (Large),1 Order,220,0,0,0,0,20,57,1,50,1,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Grape (Medium),1 Order,240,0,0,0,0,75,63,0,61,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Grape (Medium) No Ice,1 Order,300,0,0,0,0,95,77,0,76,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite Zero (Extra Small) No Ice,1 Order,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite Zero (Extra Small),1 Order,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vitamin Water XXX Zero (Small),1 Order,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Blue Raspberry ICEE (Small),1 Order,130,0,0,0,0,60,34,0,34,0,0,0,0,0,0,0,0,0
+#REF!,23039,Orange Crush (Large),1 Order,310,0,0,0,0,95,84,0,83,0,0,0,0,0,0,0,0,0
+#REF!,23039,Dr Pepper (Medium) No Ice,1 Order,250,0,0,0,0,75,68,0,67,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Coke (Large) No Ice,1 Order,0,0,0,0,0,125,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Orange Crush (Extra Small) No Ice,1 Order,160,0,0,0,0,45,44,0,43,0,0,0,0,0,0,0,0,0
+#REF!,23039,Orange Crush (Extra Small),1 Order,110,0,0,0,0,35,31,0,30,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Dr Pepper (Large) No Ice,1 Order,0,0,0,0,0,180,1,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Root Beer (Large) No Ice,1 Order,420,0,0,0,0,135,109,0,109,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Root Beer (Large),1 Order,320,0,0,0,0,100,84,0,83,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Strawberry (Small) No Ice,1 Order,230,0,0,0,0,70,60,0,59,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Strawberry (Small),1 Order,50,0,0,0,0,10,14,0,14,0,0,0,0,0,0,0,0,0
+#REF!,23039,Caffeine Free Diet Coke (Large),1 Order,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Dr Pepper (Large) No Ice,1 Order,360,0,0,0,0,110,98,0,96,0,0,0,0,0,0,0,0,0
+#REF!,23039,Caffeine Free Diet Coke (Large) No Ice,1 Order,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite (Large) No Ice,1 Order,370,0,0,0,0,170,97,0,95,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Lemonade (Small),1 Order,140,0,0,0,0,95,38,0,36,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Lemonade (Small) No Ice,1 Order,190,0,0,0,0,130,50,0,48,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Light Lemonade (Small),1 Order,5,0,0,0,0,45,2,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Light Lemonade (Small) No Ice,1 Order,10,0,0,0,0,55,3,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Orange Juice (Small),1 Order,150,0,0,0,0,0,36,0,32,2,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Root Beer (Small) No Ice,1 Order,220,0,0,0,0,70,58,0,58,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Root Beer (Small),1 Order,170,0,0,0,0,55,44,0,44,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Grape (Large) No Ice,1 Order,420,0,0,0,0,135,110,0,108,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Grape (Large),1 Order,330,0,0,0,0,100,85,0,83,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vitamin Water XXX Zero (Extra Small),1 Order,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Grape (Small),1 Order,170,0,0,0,0,55,44,0,43,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Grape (Small) No Ice,1 Order,230,0,0,0,0,70,59,0,58,0,0,0,0,0,0,0,0,0
+#REF!,23039,Red Flash (Large) No Ice,1 Order,400,0,0,0,0,100,103,0,103,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola Zero Sugar (Extra Small) No Ice,1 Order,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite Zero (Large),1 Order,5,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite Zero (Large) No Ice,1 Order,10,0,0,0,0,110,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vitamin Water XXX Zero (Medium),1 Order,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,FUZE Raspberry Tea (Small) No Ice,1 Order,120,0,0,0,0,65,31,0,30,0,0,0,0,0,0,0,0,0
+#REF!,23039,FUZE Raspberry Tea (Small),1 Order,90,0,0,0,0,50,23,0,22,0,0,0,0,0,0,0,0,0
+#REF!,23039,Red Flash (Extra Small) No Ice,1 Order,160,0,0,0,0,40,41,0,41,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Coke (Small) No Ice,1 Order,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Strawberry Punch (Small) No Ice,1 Order,210,0,0,0,0,70,57,0,56,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Strawberry Punch (Small),1 Order,160,0,0,0,0,50,43,0,42,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola Zero Sugar (Large) No Ice,1 Order,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola (Medium) No Ice,1 Order,270,0,0,0,0,60,70,0,70,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Dr Pepper (Medium ) No Ice,1 Order,0,0,0,0,0,125,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Dr Pepper (Small) No Ice,1 Order,190,0,0,0,0,60,52,0,51,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Strawberry Punch (Medium) No Ice,1 Order,280,0,0,0,0,90,75,0,73,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Strawberry Punch (Medium),1 Order,220,0,0,0,0,70,61,0,59,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Lemonade (Large) No Ice,1 Order,360,0,0,0,0,240,95,0,90,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Lemonade (Large),1 Order,270,0,0,0,0,180,72,0,69,0,0,0,0,0,0,0,0,0
+#REF!,23039,Orange Crush (Small),1 Order,160,0,0,0,0,50,43,0,42,0,0,0,0,0,0,0,0,0
+#REF!,23039,Orange Crush (Small) No Ice,1 Order,220,0,0,0,0,65,59,0,58,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Strawberry (Extra Small),1 Order,130,0,0,0,0,40,33,0,33,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Strawberry (Extra Small) No Ice,1 Order,170,0,0,0,0,55,45,0,44,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite (Medium) No Ice,1 Order,260,0,0,0,0,120,68,0,67,0,0,0,0,0,0,0,0,0
+#REF!,23039,Blue Raspberry ICEE (Medium),1 Order,170,0,0,0,0,80,44,0,44,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Orange Juice (Medium),1 Order,200,0,0,0,0,0,45,0,41,3,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Light Lemonade (Medium),1 Order,10,0,0,0,0,60,3,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Light Lemonade (Medium) No Ice,1 Order,10,0,0,0,0,75,3,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,POWERADE Mountain Berry Blast (Medium) No Ice,1 Order,150,0,0,0,0,200,38,0,38,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Grape (Extra Small),1 Order,130,0,0,0,0,40,33,0,33,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Grape (Extra Small) No Ice,1 Order,170,0,0,0,0,55,44,0,43,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coke ICEE (Medium),1 Order,170,0,0,0,0,70,47,0,47,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola (Large) No Ice,1 Order,380,0,0,0,0,90,100,0,100,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Dr Pepper (Small) No Ice,1 Order,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,FUZE Raspberry Tea (Extra Small),1 Order,70,0,0,0,0,40,17,0,17,0,0,0,0,0,0,0,0,0
+#REF!,23039,FUZE Raspberry Tea (Extra Small) No Ice,1 Order,90,0,0,0,0,50,23,0,22,0,0,0,0,0,0,0,0,0
+#REF!,23039,Wild Cherry ICEE (Small),1 Order,130,0,0,0,0,60,34,0,34,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Lemonade (Medium) No Ice,1 Order,250,0,0,0,0,170,66,0,63,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Lemonade (Medium),1 Order,200,0,0,0,0,135,54,0,51,0,0,0,0,0,0,0,0,0
+#REF!,23039,Iced Tea (Gallon),1 Order,40,0,0,0,0,75,0,0,0,5,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Strawberry Punch (Large) No Ice,1 Order,400,0,0,0,0,125,108,0,104,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Strawberry Punch (Large),1 Order,300,0,0,0,0,95,83,0,80,0,0,0,0,0,0,0,0,0
+#REF!,23039,One-percent Low Fat Milk Jug California,1 Order,130,2.5,1.5,0,15,160,16,0,15,11,0,0,0,0,0,0,0,0
+#REF!,23039,POWERADE Mountain Berry Blast (Extra Small) No Ice,1 Order,90,0,0,0,0,110,22,0,22,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mello Yello (Extra Small),1 Order,120,0,0,0,0,40,33,0,33,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mello Yello (Extra Small) No Ice,1 Order,160,0,0,0,0,50,44,0,44,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Fruit Punch (Large) No Ice,1 Order,400,0,0,0,0,150,104,0,102,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Fruit Punch (Large),1 Order,300,0,0,0,0,110,80,0,78,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mello Yello (Small),1 Order,160,0,0,0,0,50,44,0,44,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mello Yello (Small) No Ice,1 Order,220,0,0,0,0,65,58,0,58,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Fruit Punch (Small) No Ice,1 Order,210,0,0,0,0,80,55,0,55,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Fruit Punch (Small),1 Order,160,0,0,0,0,60,42,0,41,0,0,0,0,0,0,0,0,0
+#REF!,23039,Red Flash (Small) No Ice,1 Order,210,0,0,0,0,55,55,0,55,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mello Yello (Medium) No Ice,1 Order,290,0,0,0,0,90,76,0,76,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mello Yello (Medium),1 Order,230,0,0,0,0,70,62,0,62,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Fruit Punch (Extra Small) No Ice,1 Order,160,0,0,0,0,50,43,0,42,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Strawberry Punch (Extra Small),1 Order,120,0,0,0,0,40,32,0,31,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Fruit Punch (Extra Small) No Ice,1 Order,160,0,0,0,0,60,42,0,41,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Coke (Extra Small) No Ice,1 Order,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Fruit Punch (Extra Small),1 Order,120,0,0,0,0,45,31,0,31,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Strawberry (Medium) No Ice,1 Order,300,0,0,0,0,95,78,0,77,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Strawberry (Medium),1 Order,240,0,0,0,0,75,63,0,63,0,0,0,0,0,0,0,0,0
+#REF!,23039,Caffeine Free Diet Coke (Small),1 Order,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Caffeine Free Diet Coke (Small) No Ice,1 Order,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coke ICEE (Small),1 Order,130,0,0,0,0,55,35,0,35,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Fruit Punch (Medium),1 Order,230,0,0,0,0,80,59,0,58,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Fruit Punch (Medium) No Ice,1 Order,280,0,0,0,0,100,73,0,72,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite Zero (Medium) No Ice,1 Order,5,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite Zero (Medium),1 Order,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,POWERADE Mountain Berry Blast (Large) No Ice,1 Order,220,0,0,0,0,280,55,0,55,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite Zero (Small) No Ice,1 Order,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite Zero (Small),1 Order,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Strawberry (Large) No Ice,1 Order,430,0,0,0,0,135,112,0,110,0,0,0,0,0,0,0,0,0
+#REF!,23039,Fanta Strawberry (Large),1 Order,90,0,0,0,0,20,26,0,26,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Root Beer (Medium),1 Order,240,0,0,0,0,75,62,0,62,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Root Beer (Medium) No Ice,1 Order,290,0,0,0,0,95,76,0,76,0,0,0,0,0,0,0,0,0
+#REF!,23039,Wild Cherry ICEE (Medium),1 Order,180,0,0,0,0,80,45,0,45,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vitamin Water XXX Zero (Large),1 Order,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Dr Pepper (Extra Small) No Ice,1 Order,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Orange Crush (Medium) No Ice,1 Order,290,0,0,0,0,80,77,0,76,0,0,0,0,0,0,0,0,0
+#REF!,23039,Orange Crush (Medium),1 Order,230,0,0,0,0,70,61,0,60,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola (Extra Small) No Ice,1 Order,150,0,0,0,0,35,40,0,40,0,0,0,0,0,0,0,0,0
+#REF!,23039,FUZE Raspberry Tea (Medium),1 Order,120,0,0,0,0,70,32,0,31,0,0,0,0,0,0,0,0,0
+#REF!,23039,FUZE Raspberry Tea (Medium) No Ice,1 Order,150,0,0,0,0,90,40,0,39,0,0,0,0,0,0,0,0,0
+#REF!,23039,POWERADE Mountain Berry Blast (Small) No Ice,1 Order,120,0,0,0,0,150,29,0,29,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite (Extra Small) No Ice,1 Order,150,0,0,0,0,70,39,0,38,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola Zero Sugar (Small) No Ice,1 Order,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Red Flash (Medium) No Ice,1 Order,280,0,0,0,0,70,72,0,72,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Light Lemonade (Extra Small),1 Order,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Light Lemonade (Extra Small) No Ice,1 Order,5,0,0,0,0,45,2,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Dr Pepper (Extra Small) No Ice,1 Order,140,0,0,0,0,45,39,0,38,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola Zero Sugar (Medium) No Ice,1 Order,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coca-Cola (Small) No Ice,1 Order,200,0,0,0,0,50,53,0,53,0,0,0,0,0,0,0,0,0
+#REF!,23039,Caffeine Free Diet Coke (Extra Small),1 Order,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Caffeine Free Diet Coke (Extra Small) No Ice,1 Order,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Light Lemonade (Large),1 Order,15,0,0,0,0,80,4,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Light Lemonade (Large) No Ice,1 Order,15,0,0,0,0,105,5,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Caffeine Free Diet Coke (Medium),1 Order,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Caffeine Free Diet Coke (Medium) No Ice,1 Order,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,FUZE Raspberry Tea (Large) No Ice,1 Order,220,0,0,0,0,125,57,0,55,0,0,0,0,0,0,0,0,0
+#REF!,23039,FUZE Raspberry Tea (Large),1 Order,170,0,0,0,0,95,44,0,43,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sprite (Small) No Ice,1 Order,200,0,0,0,0,90,51,0,51,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mello Yello (Large) No Ice,1 Order,410,0,0,0,0,125,109,0,109,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mello Yello (Large),1 Order,310,0,0,0,0,95,83,0,83,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Root Beer (Extra Small),1 Order,130,0,0,0,0,40,33,0,33,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Root Beer (Extra Small) No Ice,1 Order,170,0,0,0,0,55,44,0,44,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Orange Juice (Value),1 Order,110,0,0,0,0,0,27,0,24,2,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Coke (Medium) No Ice,1 Order,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Coke ICEE (Large),1 Order,240,0,0,0,0,100,67,0,67,0,0,0,0,0,0,0,0,0
+#REF!,23039,Wild Cherry ICEE (Large),1 Order,250,0,0,0,0,115,64,0,64,0,0,0,0,0,0,0,0,0
+#REF!,23039,Blue Raspberry ICEE (Large),1 Order,240,0,0,0,0,115,63,0,63,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vernor's Ginger Ale (Medium),1 Order,200,0,0,0,0,65,55,0,54,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vernor's Ginger Ale (Medium) No Ice,1 Order,250,0,0,0,0,85,68,0,67,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vernor's Ginger Ale (Extra Small) No Ice,1 Order,140,0,0,0,0,45,39,0,38,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vernor's Ginger Ale (Extra Small),1 Order,100,0,0,0,0,35,27,0,27,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vernor's Ginger Ale (Small),1 Order,140,0,0,0,0,45,38,0,37,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vernor's Ginger Ale (Small) No Ice,1 Order,190,0,0,0,0,65,52,0,51,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vernor's Ginger Ale (Large),1 Order,280,0,0,0,0,90,75,0,74,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vernor's Ginger Ale (Large) No Ice,1 Order,360,0,0,0,0,120,97,0,96,0,0,0,0,0,0,0,0,0
+#REF!,23039,Frozen Fanta Blue Raspberry (Medium),1 Order,130,0,0,0,0,60,34,0,34,0,0,0,0,0,0,0,0,0
+#REF!,23039,Frozen Fanta Blue Raspberry (Small),1 Order,90,0,0,0,0,45,25,0,25,0,0,0,0,0,0,0,0,0
+#REF!,23039,Frozen Fanta Blue Raspberry (Large),1 Order,170,0,0,0,0,85,46,0,46,0,0,0,0,0,0,0,0,0
+#REF!,23039,Hot Tea (Large),1 Order,5,0,0,0,0,15,2,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Hot Tea (Small),1 Order,0,0,0,0,0,10,1,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Southern Style Sweet Tea (Extra Small),1 Order,80,0,0,0,0,10,20,0,20,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sweet Tea (Extra Small) No Ice,1 Order,110,0,0,0,0,10,28,0,28,0,0,0,0,0,0,0,0,0
+#REF!,23039,Southern Style Sweet Tea (Small),1 Order,110,0,0,0,0,15,27,0,27,0,0,0,0,0,0,0,0,0
+#REF!,23039,Southern Style Sweet Tea (Large),1 Order,200,0,0,0,0,30,50,0,50,1,0,0,0,0,0,0,0,0
+#REF!,23039,Southern Style Sweet Tea (Medium),1 Order,150,0,0,0,0,20,36,0,36,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sweet Tea (Small) No Ice,1 Order,170,0,0,0,0,15,42,0,42,1,0,0,0,0,0,0,0,0
+#REF!,23039,Sweet Tea (Medium) No Ice,1 Order,200,0,0,0,0,20,49,0,49,1,0,0,0,0,0,0,0,0
+#REF!,23039,Southern Style Sweet Tea (Gallon),1 Order,2110,0,0,0,0,140,521,0,521,4,0,0,0,0,0,0,0,0
+#REF!,23039,Cherry Coca-Cola (Medium),1 Order,230,0,0,0,0,60,59,0,59,0,0,0,0,0,0,0,0,0
+#REF!,23039,Cherry Coca-Cola (Extra Small) No Ice,1 Order,160,0,0,0,0,40,42,0,42,0,0,0,0,0,0,0,0,0
+#REF!,23039,Cherry Coca-Cola (Extra Small),1 Order,120,0,0,0,0,30,31,0,31,0,0,0,0,0,0,0,0,0
+#REF!,23039,Cherry Coca-Cola (Medium) No Ice,1 Order,280,0,0,0,0,70,73,0,73,0,0,0,0,0,0,0,0,0
+#REF!,23039,Cherry Coke (Small) No Ice,1 Order,210,0,0,0,0,55,56,0,56,0,0,0,0,0,0,0,0,0
+#REF!,23039,Cherry Coca-Cola (Small),1 Order,160,0,0,0,0,40,42,0,42,0,0,0,0,0,0,0,0,0
+#REF!,23039,Cherry Coca-Cola (Large) No Ice,1 Order,400,0,0,0,0,105,105,0,105,0,0,0,0,0,0,0,0,0
+#REF!,23039,Cherry Coca-Cola (Large),1 Order,310,0,0,0,0,80,80,0,80,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mr. Pibb Xtra (Large),1 Order,290,0,0,0,0,45,79,0,79,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mr. Pibb Xtra (Large) No Ice,1 Order,350,0,0,0,0,50,94,0,94,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mr. Pibb Xtra (Extra Small) No Ice,1 Order,140,0,0,0,0,20,38,0,38,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mr. Pibb Xtra (Extra Small),1 Order,120,0,0,0,0,20,32,0,32,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mr. Pibb Xtra (Small),1 Order,170,0,0,0,0,25,45,0,45,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mr. Pibb Xtra (Small) No Ice,1 Order,210,0,0,0,0,30,57,0,57,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mr. Pibb Xtra (Medium),1 Order,210,0,0,0,0,35,58,0,58,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mr. Pibb Xtra (Medium) No Ice,1 Order,250,0,0,0,0,35,67,0,67,0,0,0,0,0,0,0,0,0
+#REF!,23039,Frozen Fanta Wild Cherry (Small),1 Order,90,0,0,0,0,45,24,0,24,0,0,0,0,0,0,0,0,0
+#REF!,23039,Frozen Fanta Wild Cherry (Medium),1 Order,130,0,0,0,0,60,34,0,34,0,0,0,0,0,0,0,0,0
+#REF!,23039,Frozen Fanta Wild Cherry (Large),1 Order,170,0,0,0,0,80,45,0,45,0,0,0,0,0,0,0,0,0
+#REF!,23039,Pepsi (Extra Small),1 Order,110,0,0,0,0,25,29,0,29,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Pepsi (Extra Small),1 Order,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mist Twist (Extra Small),1 Order,110,0,0,0,0,25,28,0,28,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Pepsi (Large) No Ice,1 Order,0,0,0,0,0,140,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Pepsi (Medium),1 Order,220,0,0,0,0,45,59,0,58,0,0,0,0,0,0,0,0,0
+#REF!,23039,Pepsi (Medium) No Ice,1 Order,270,0,0,0,0,55,73,0,72,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Pepsi (Small) No Ice,1 Order,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Pepsi (Small),1 Order,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Pepsi (Large) No Ice,1 Order,380,0,0,0,0,80,104,0,103,0,0,0,0,0,0,0,0,0
+#REF!,23039,Pepsi (Large),1 Order,290,0,0,0,0,60,79,0,79,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Pepsi (Medium) No Ice,1 Order,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Pepsi (Small),1 Order,150,0,0,0,0,30,40,0,40,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Pepsi (Medium),1 Order,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Pepsi (Small) No Ice,1 Order,200,0,0,0,0,45,55,0,55,0,0,0,0,0,0,0,0,0
+#REF!,23039,Pepsi (Extra Small) No Ice,1 Order,150,0,0,0,0,30,41,0,41,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Pepsi (Extra Small) No Ice,1 Order,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mist Twist (Medium),1 Order,220,0,0,0,0,45,57,0,57,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mist Twist (Medium) No Ice,1 Order,270,0,0,0,0,60,71,0,71,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mist Twist (Large) No Ice,1 Order,380,0,0,0,0,80,101,0,101,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mist Twist (Large),1 Order,290,0,0,0,0,65,78,0,78,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mist Twist (Small),1 Order,150,0,0,0,0,30,39,0,39,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mist Twist (Small) No Ice,1 Order,200,0,0,0,0,45,54,0,54,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mist Twist (Extra Small) No Ice,1 Order,150,0,0,0,0,35,41,0,41,0,0,0,0,0,0,0,0,0
+#REF!,23039,Tropicana Pink Lemonade (Large) No Ice,1 Order,110,0,0,0,0,110,28,0,28,0,0,0,0,0,0,0,0,0
+#REF!,23039,Tropicana Pink Lemonade (Medium) No Ice,1 Order,270,0,0,0,0,270,70,0,70,0,0,0,0,0,0,0,0,0
+#REF!,23039,Tropicana Pink Lemonade (Medium),1 Order,220,0,0,0,0,220,56,0,56,0,0,0,0,0,0,0,0,0
+#REF!,23039,Tropicana Pink Lemonade (Large),1 Order,300,0,0,0,0,300,77,0,77,0,0,0,0,0,0,0,0,0
+#REF!,23039,Tropicana Pink Lemonade (Small),1 Order,150,0,0,0,0,150,39,0,39,0,0,0,0,0,0,0,0,0
+#REF!,23039,Tropicana Pink Lemonade (Small) No Ice,1 Order,60,0,0,0,0,60,15,0,15,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vitamin Water XXX Zero (Medium) No Ice,1 Order,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Southern Style Sweet Tea (Extra Small) No Ice,1 Order,150,0,0,0,0,10,37,0,37,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vitamin Water XXX Zero (Small) No Ice,1 Order,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Southern Style Sweet Tea (Small) No Ice,1 Order,230,0,0,0,0,15,56,0,56,1,0,0,0,0,0,0,0,0
+#REF!,23039,Southern Style Sweet Tea (Medium) No Ice,1 Order,270,0,0,0,0,20,66,0,66,1,0,0,0,0,0,0,0,0
+#REF!,23039,Vitamin Water XXX Zero (Large) No Ice,1 Order,5,0,0,0,0,100,1,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Sweet Tea (Large) No Ice,1 Order,560,0,0,0,0,35,141,0,141,0,0,0,0,0,0,0,0,0
+#REF!,23039,Vitamin Water XXX Zero (Extra Small) No Ice,1 Order,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Lemonade (Extra Small) No Ice,1 Order,40,0,0,0,0,25,12,0,11,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mountain Dew (Medium),1 Order,230,0,0,0,0,75,61,0,61,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mountain Dew (Medium) No Ice,1 Order,80,0,0,0,0,25,22,0,22,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mountain Dew (Large) No Ice,1 Order,410,0,0,0,0,125,110,0,109,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mountain Dew (Large),1 Order,310,0,0,0,0,100,84,0,84,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mountain Dew (Extra Small),1 Order,110,0,0,0,0,40,31,0,31,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mountain Dew (Extra Small) No Ice,1 Order,160,0,0,0,0,50,44,0,44,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mountain Dew (Small),1 Order,160,0,0,0,0,50,42,0,42,0,0,0,0,0,0,0,0,0
+#REF!,23039,Mountain Dew (Small) No Ice,1 Order,220,0,0,0,0,70,59,0,58,0,0,0,0,0,0,0,0,0
+#REF!,23039,Hawaiian Punch Fruit Juicy Red (Medium),1 Order,240,0,0,0,0,75,64,0,63,0,0,0,0,0,0,0,0,0
+#REF!,23039,Hawaiian Punch Fruit Juicy Red (Medium) No Ice,1 Order,300,0,0,0,0,95,79,0,78,0,0,0,0,0,0,0,0,0
+#REF!,23039,Diet Pepsi (Large),1 Order,0,0,0,0,0,110,1,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Tropicana Pink Lemonade (Extra Small) No Ice,1 Order,150,0,0,0,0,160,40,0,40,0,0,0,0,0,0,0,0,0
+#REF!,23039,Tropicana Pink Lemonade (Extra Small),1 Order,30,0,0,0,0,30,8,0,8,0,0,0,0,0,0,0,0,0
+#REF!,23039,Hawaiian Punch Fruit Juicy Red (Large),1 Order,320,0,0,0,0,105,86,0,85,0,0,0,0,0,0,0,0,0
+#REF!,23039,Hawaiian Punch Fruit Juicy Red (Large) No Ice,1 Order,420,0,0,0,0,135,113,0,111,0,0,0,0,0,0,0,0,0
+#REF!,23039,Hawaiian Punch Fruit Juicy Red (Extra Small),1 Order,120,0,0,0,0,40,32,0,31,0,0,0,0,0,0,0,0,0
+#REF!,23039,Hawaiian Punch Fruit Juicy Red (Extra Small) No Ice,1 Order,170,0,0,0,0,55,45,0,44,0,0,0,0,0,0,0,0,0
+#REF!,23039,Hawaiian Punch Fruit Juicy Red (Small),1 Order,160,0,0,0,0,50,44,0,43,0,0,0,0,0,0,0,0,0
+#REF!,23039,Hawaiian Punch Fruit Juicy Red (Small) No Ice,1 Order,230,0,0,0,0,70,60,0,59,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Caffeine Free Root Beer (Medium) No Ice,1 Order,290,0,0,0,0,120,76,0,76,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Caffeine Free Root Beer (Medium),1 Order,240,0,0,0,0,95,62,0,61,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Caffeine Free Root Beer (Small),1 Order,170,0,0,0,0,70,44,0,43,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Caffeine Free Root Beer (Small) No Ice,1 Order,220,0,0,0,0,90,58,0,58,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Caffeine Free Root Beer (Large),1 Order,320,0,0,0,0,130,83,0,83,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Caffeine Free Root Beer (Large) No Ice,1 Order,420,0,0,0,0,170,109,0,108,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Caffeine Free Root Beer (Extra Small),1 Order,120,0,0,0,0,50,33,0,33,0,0,0,0,0,0,0,0,0
+#REF!,23039,Barq's Caffeine Free Root Beer (Extra Small) No Ice,1 Order,170,0,0,0,0,70,44,0,43,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Orangeade Slushie (Medium),1 Order,230,0,0,0,0,30,60,0,59,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Cherry Limeade Slushie (Medium),1 Order,250,0,0,0,0,20,67,0,64,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Fruit Punch Slushie (Large),1 Order,300,0,0,0,0,35,79,0,77,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Fruit Punch Slushie (Medium),1 Order,220,0,0,0,0,25,57,0,55,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Fruit Punch Slushie (Small),1 Order,170,0,0,0,0,20,44,0,43,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Orangeade Slushie (Large),1 Order,320,0,0,0,0,40,84,0,82,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Orangeade Slushie (Small),1 Order,180,0,0,0,0,20,47,0,46,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Cherry Limeade Slushie (Large),1 Order,340,0,0,0,0,30,94,0,90,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Cherry Limeade Slushie (Small),1 Order,190,0,0,0,0,15,52,0,50,0,0,0,0,0,0,0,0,0
+#REF!,23039,Hot Tea (Medium),1 Order,5,0,0,0,0,15,2,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23039,Honest Kids Appley Ever After (Box 6 fl oz Drink Box),1 Order,35,0,0,0,0,10,9,0,8,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Blue Raspberry Slushie (Large),1 Order,340,0,0,0,0,25,91,0,88,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Blue Raspberry Slushie (Small),1 Order,190,0,0,0,0,15,51,0,49,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Blue Raspberry Slushie (Medium),1 Order,240,0,0,0,0,15,65,0,63,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Tropic Twist Slushie (Medium),1 Order,230,0,0,0,0,30,62,0,59,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Tropic Twist Slushie (Large),1 Order,330,0,0,0,0,45,87,0,83,0,0,0,0,0,0,0,0,0
+#REF!,23039,Minute Maid Tropic Twist Slushie (Small),1 Order,180,0,0,0,0,25,49,0,47,0,0,0,0,0,0,0,0,0
+#REF!,23039,Orange Crush (Large) No Ice,1 Order,120,0,0,0,0,0,1,10,0,0,0,0,0,0,0,0,0,0
+#REF!,23040,Grape Jam,1 Order,40,0,0,0,0,0,9,0,7,0,0,0,0,0,0,0,0,0
+#REF!,23040,Strawberry Preserves,1 Order,35,0,0,0,0,0,9,0,9,0,0,0,0,0,0,0,0,0
+#REF!,23040,Sugar Packet,1 Order,15,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0
+#REF!,23040,Calorie Sweetener,1 Order,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+#REF!,23040,Splenda No Calorie Sweetener,1 Order,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+#REF!,23040,Picante Sauce Packet (Hot),1 Order,0,0,0,0,0,140,1,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23040,Picante Sauce Packet (Mild),1 Order,0,0,0,0,0,130,1,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23040,Hot Mustard Sauce,1 Order,60,2.5,0,0,5,230,8,1,6,1,0,0,0,0,0,0,0,0
+#REF!,23040,Habanero Ranch Sauce,1 Order,80,7,1,0,10,160,5,0,1,1,0,0,0,0,0,0,0,0
+#REF!,23040,Ketchup Packet,1 Order,10,0,0,0,0,90,2,0,2,0,0,0,0,0,0,0,0,0
+#REF!,23040,Spicy Buffalo Sauce,1 Order,30,3,0,0,0,510,1,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23040,Newman's Own Low Fat Balsamic Vinaigrette,1 Order,35,2,0,0,0,400,4,0,3,0,0,0,0,0,0,0,1,0
+#REF!,23040,Newman's Own Creamy Southwest Dressing,1 Order,110,7,1.5,0,15,300,12,1,3,1,0,0,0,0,0,0,0,0
+#REF!,23040,Newman's Own Low Fat Family Recipe Italian Dressing,1 Order,50,1.5,0,0,0,380,8,1,2,0,0,0,0,0,0,0,0,0
+#REF!,23040,Salt Packet,1 Order,0,0,0,0,0,290,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23040,Honey,1 Order,50,0,0,0,0,0,12,0,11,0,0,0,0,0,0,0,0,0
+#REF!,23040,Newman's Own Ranch Dressing,1 Order,190,16,2.5,0,20,500,11,1,4,1,0,0,0,0,0,0,1,0
+#REF!,23040,Sweet 'N Sour Sauce,1 Order,50,0,0,0,0,160,11,0,10,1,0,0,0,0,0,0,0,0
+#REF!,23040,Hotcake Syrup,1 Order,190,0,0,0,0,0,46,0,33,0,0,0,0,0,0,0,0,0
+#REF!,23040,Peanuts Packet (for Sundaes),1 Order,45,4,0.5,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0
+#REF!,23040,Tangy Barbeque Sauce,1 Order,45,0,0,0,0,250,11,0,9,0,0,0,0,0,0,0,0,0
+#REF!,23040,Buffalo Ranch McChicken,1 Order,360,16,3,0,40,800,40,2,5,15,0,0,0,0,0,0,0,0
+#REF!,23040,Whipped Butter (1 pat),1 Order,40,4.5,2.5,0,15,35,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23040,Mayonnaise Packet,1 Order,90,10,1.5,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23040,Low Fat Crunchy Granola Packet,1 Order,30,0,0,0,0,40,6,0,2,1,0,0,0,0,0,0,0,0
+#REF!,23040,Black Pepper Packet,1 Order,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23040,Newman's Own Creamy French Dressing (Package),1 Order,300,23,3.5,0,0,450,22,1,22,0,0,0,0,0,0,0,0,0
+#REF!,23040,Big Mac Sauce,1 Order,70,7,1,0,5,75,1,0,1,0,0,0,0,0,0,0,0,0
+#REF!,23040,Mustard Packet,1 Order,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0
+#REF!,23040,White Buttermints,1 Order,15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+#REF!,23041,Baked Apple Pie,1 Order,240,11,6,0,0,95,35,4,16,2,0,0,0,0,0,0,0,0
+#REF!,23041,Chocolate Chip Cookie,1 Order,170,7,3.5,0,10,90,23,1,15,2,0,0,0,0,0,0,0,0
+#REF!,23041,Oatmeal Raisin Cookie,1 Order,140,5,2.5,0,10,125,22,1,12,2,0,0,0,0,0,0,0,0
+#REF!,23041,Chocolate Shake (Medium),1 Order,630,17,11,1,70,310,104,1,89,14,0,0,0,0,0,0,0,0
+#REF!,23041,Chocolate Shake (Large),1 Order,840,22,14,1,90,420,142,1,122,19,0,0,0,0,0,0,0,0
+#REF!,23041,Vanilla Cone,1 Order,200,5,3.5,0,20,80,32,0,24,5,0,0,0,0,0,0,0,0
+#REF!,23041,Kiddie Cone,1 Order,45,1,0.5,0,5,20,8,0,6,1,0,0,0,0,0,0,0,0
+#REF!,23041,Hot Fudge Sundae,1 Order,380,14,8,0,25,180,53,3,47,10,0,0,0,0,0,0,0,0
+#REF!,23041,Hot Caramel Sundae,1 Order,380,12,6,0,30,160,61,1,44,9,0,0,0,0,0,0,0,0
+#REF!,23041,Strawberry Sundae,1 Order,320,10,4.5,0,25,95,50,1,45,8,0,0,0,0,0,0,0,0
+#REF!,23041,McFlurry with M&M'S Chocolate Candies,1 Order,630,22,14,0.5,50,200,96,2,86,13,0,0,0,0,0,0,0,0
+#REF!,23041,McFlurry with Oreo Cookies,1 Order,510,17,9,0.5,45,280,80,1,64,12,0,0,0,0,0,0,0,0
+#REF!,23041,Chocolate Shake (Small),1 Order,530,15,9,0.5,60,260,87,1,74,12,0,0,0,0,0,0,0,0
+#REF!,23041,Vanilla Shake (Small),1 Order,490,14,9,0.5,60,230,79,0,59,11,0,0,0,0,0,0,0,0
+#REF!,23041,Strawberry Shake (Small),1 Order,500,15,9,0.5,60,190,80,0,71,12,0,0,0,0,0,0,0,0
+#REF!,23041,Egg Nog Shake (Small),1 Order,450,13,8,0.5,55,160,74,0,63,10,0,0,0,0,0,0,0,0
+#REF!,23041,Strawberry & Crème Pie,1 Order,290,15,9,0,10,160,34,2,13,3,0,0,0,0,0,0,0,0
+#REF!,23041,Sugar Cookie,1 Order,150,7,3,0,10,115,21,0,11,2,0,0,0,0,0,0,0,0
+#REF!,23041,Shamrock Shake (Small),1 Order,460,13,8,0.5,55,150,74,0,63,10,0,0,0,0,0,0,0,0
+#REF!,23041,McFlurry with M&M'S Chocolate Candies (Snack Size),1 Order,420,15,9,0,35,130,64,1,58,9,0,0,0,0,0,0,0,0
+#REF!,23041,McFlurry with Oreo Cookies (Snack Size),1 Order,340,11,6,0,30,180,53,0,42,8,0,0,0,0,0,0,0,0
+#REF!,23041,Strawberry Shake (Medium),1 Order,590,18,11,1,70,230,95,0,84,14,0,0,0,0,0,0,0,0
+#REF!,23041,Strawberry Shake (Large),1 Order,800,23,14,1,95,310,130,0,115,19,0,0,0,0,0,0,0,0
+#REF!,23041,Vanilla Shake (Medium),1 Order,590,17,11,1,70,270,96,0,72,13,0,0,0,0,0,0,0,0
+#REF!,23041,Vanilla Shake (Large),1 Order,800,22,14,1,90,370,131,0,99,18,0,0,0,0,0,0,0,0
+#REF!,23041,Egg Nog Shake (Medium),1 Order,560,16,10,1,65,200,91,0,78,12,0,0,0,0,0,0,0,0
+#REF!,23041,Egg Nog Shake (Large),1 Order,800,22,14,1,90,290,132,0,114,19,0,0,0,0,0,0,0,0
+#REF!,23041,Shamrock Shake (Medium),1 Order,560,16,10,1,65,190,91,0,78,12,0,0,0,0,0,0,0,0
+#REF!,23041,Shamrock Shake (Large),1 Order,800,22,14,1,90,290,131,0,113,19,0,0,0,0,0,0,0,0
+#REF!,23041,McFlurry with Reese's Peanut Butter Cup,1 Order,610,24,11,0.5,45,320,86,2,76,16,0,0,0,0,0,0,0,0
+#REF!,23041,Sweet Potato and Creme Pie,1 Order,290,16,9,0,10,170,32,1,13,3,0,0,0,0,0,0,0,0
+#REF!,23041,Pumpkin and Creme Pie,1 Order,280,16,9,0,10,170,31,1,13,3,0,0,0,0,0,0,0,0
+#REF!,23041,McFlurry with Twix,1 Order,640,17,10,0.5,45,460,107,1,89,13,0,0,0,0,0,0,0,0
+#REF!,23041,McFlurry with Twix (Snack Size),1 Order,460,12,7,0,30,380,80,0,67,9,0,0,0,0,0,0,0,0
+#REF!,23041,Twist Cone,1 Order,160,4,2.5,0,15,55,26,1,19,4,0,0,0,0,0,0,0,0
+#REF!,23041,Mint Chocolate Chip Ice Cream (1 scoop),1 Order,330,19,12,0,40,90,34,1,21,5,0,0,0,0,0,0,0,0
+#REF!,23041,Fried Coconut (Haupia) Pie,1 Order,270,17,6,0,0,220,29,1,7,2,0,0,0,0,0,0,0,0
+#REF!,23041,Chocolate Ice Cream (1 scoop),1 Order,260,15,9,0,40,80,30,1,19,5,0,0,0,0,0,0,0,0
+#REF!,23041,Chocolate Cone (Large),1 Order,330,9,6,0,35,105,53,2,43,9,0,0,0,0,0,0,0,0
+#REF!,23041,Peaches and Creme Pie,1 Order,300,16,9,0,15,150,36,1,14,3,0,0,0,0,0,0,0,0
+#REF!,23041,Plain Sundae,1 Order,210,6,4,0,25,85,32,0,28,6,0,0,0,0,0,0,0,0
+#REF!,23041,Waffle Cone Sundae With Fudge Topping,1 Order,430,12,8,0,30,210,73,3,51,9,0,0,0,0,0,0,0,0
+#REF!,23041,Udderly Chocolate Ice Cream (1 scoop),1 Order,320,17,11,0,40,115,37,1,26,5,0,0,0,0,0,0,0,0
+#REF!,23041,Orange Sherbet (1 scoop),1 Order,190,3,2,0,5,35,42,0,23,2,0,0,0,0,0,0,0,0
+#REF!,23041,Vanilla Bean Ice Cream (1 scoop),1 Order,290,17,11,0,45,100,30,0,17,5,0,0,0,0,0,0,0,0
+#REF!,23041,Fried Taro Pie,1 Order,240,11,3,0,0,120,34,2,11,2,0,0,0,0,0,0,0,0
+#REF!,23041,Marionberry Pie Ice Cream (1 scoop),1 Order,300,17,10,0,55,75,33,0,30,5,0,0,0,0,0,0,0,0
+#REF!,23041,Chocolate Cone,1 Order,180,4.5,3,0,15,55,29,1,22,5,0,0,0,0,0,0,0,0
+#REF!,23041,Caramel Butter Pecan Ice Cream (1 scoop),1 Order,330,20,10,0,40,125,34,1,23,5,0,0,0,0,0,0,0,0
+#REF!,23041,Guava and Creme Pie,1 Order,290,15,9,0,10,140,35,2,14,3,0,0,0,0,0,0,0,0
+#REF!,23041,Vanilla Cone (Large),1 Order,300,8,5,0,35,125,48,0,39,8,0,0,0,0,0,0,0,0
+#REF!,23041,Twist Cone (Large),1 Order,300,8,5,0,30,110,48,1,39,8,0,0,0,0,0,0,0,0
+#REF!,23041,Oregon Strawberry Ice Cream (1 scoop no cone),1 Order,280,16,10,0,40,90,37,1,18,5,0,0,0,0,0,0,0,0
+#REF!,23041,Turtle Brownie Sundae,1 Order,620,23,12,0.5,50,300,93,3,70,10,0,0,0,0,0,0,0,0
+#REF!,23041,Chocolate Peanut Butter Ice Cream (1 scoop),1 Order,340,21,11,0,40,140,35,2,18,6,0,0,0,0,0,0,0,0
+#REF!,23041,McFlurry with Kit Kat (Regular),1 Order,680,25,17,0.5,50,260,101,2,87,15,0,0,0,0,0,0,0,0
+#REF!,23041,Strawberry Shortcake Sundae,1 Order,390,12,6,0,50,180,65,1,54,7,0,0,0,0,0,0,0,0
+#REF!,23041,Birthday Cake Dipped Cone,1 Order,270,12,9,0,15,90,35,0,27,5,0,0,0,0,0,0,0,0
+#REF!,23041,Coffee Almond Fudge Ice Cream (1 scoop),1 Order,160,18,10,0,40,105,32,1,22,5,0,0,0,0,0,0,0,0
+#REF!,23041,Cookie Dough Ice Cream (1 scoop),1 Order,330,17,11,0,40,125,40,1,29,5,0,0,0,0,0,0,0,0
+#REF!,23041,Caramel Sundae Waffle Cone,1 Order,420,8,5,0,30,190,78,1,50,8,0,0,0,0,0,0,0,0
+#REF!,23041,Hot Fudge Sundae Compostable Packaging,1 Order,330,13,7,0,20,160,46,3,40,8,0,0,0,0,0,0,0,0
+#REF!,23041,Cinnamon Coffee Cake Muffin,1 Order,450,19,4.5,0,40,380,67,2,39,4,0,0,0,0,0,0,0,0
+#REF!,23041,Tuxedo Coffee Cake,1 Order,170,8,2.5,0,30,135,21,1,12,2,0,0,0,0,0,0,0,0
+#REF!,23041,Fried Guava Pie,1 Order,210,7,3,0,0,140,35,1,16,2,0,0,0,0,0,0,0,0
+#REF!,23041,Mixed Berry and Lemon Creme Pie,1 Order,290,16,9,0,15,170,35,2,13,3,0,0,0,0,0,0,0,0
+#REF!,23041,Chocolate Dipped Twist Ice Cream Cone,1 Order,310,11,9,0,20,80,41,1,32,6,0,0,0,0,0,0,0,0
+#REF!,23041,Chocolate Dipped Chocolate Ice Cream Cone,1 Order,310,11,9,0,20,75,42,2,33,6,0,0,0,0,0,0,0,0
+#REF!,23041,Baked Cherry and Creme Pie,1 Order,290,15,9,0,10,160,35,1,14,3,0,0,0,0,0,0,0,0
+#REF!,23041,Oreo McFlurry Sandwich,1 Order,670,26,13,0,50,370,99,2,71,12,0,0,0,0,0,0,0,0
+#REF!,23041,M&M McFlurry Sandwich,1 Order,750,29,16,0,55,320,110,3,87,13,0,0,0,0,0,0,0,0
+#REF!,23041,Hot Caramel Sundae Compostable Packaging,1 Order,340,10,5,0,25,140,54,1,38,7,0,0,0,0,0,0,0,0
+#REF!,23041,Strawberry Sundae Compostable Packaging,1 Order,270,80,13,18,20,6,3,14,3,6,0,0,0,0,0,0,0,0

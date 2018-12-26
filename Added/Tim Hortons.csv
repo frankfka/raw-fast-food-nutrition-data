@@ -1,0 +1,148 @@
+food_id	menu_id	food_name	serving_size	calories	fat	saturated_fat	trans_fat	cholesterol	sodium	carbohydrates	fiber	sugar	protein	vit_a	vit_c	calcium	iron	is_vegetarian	is_vegan	is_gf	is_featured
+142839	23043	Artisan-Style Grilled Cheese Sandwich	162 g	490	24	15	0.5	65	1070	45	4	2	29	20	0	60	25	1	0	0	0
+142840	23043	BLT Sandwich	197 g	420	15	4	0.1	20	770	56	3	2	17	2	15	2	30	0	0	0	0
+142841	23043	Chicken Salad Croissant Sandwich	215 g	430	23	8	0.2	40	830	35	3	5	20	0	20	4	25	0	0	0	0
+142842	23043	Chipotle Chicken Grilled Wrap	270 g	430	18	7	0.3	70	1070	41	3	4	27	15	45	30	30	0	0	0	0
+142843	23043	Chipotle Steak Grilled Wrap	270 g	460	22	9	0.5	65	1010	40	3	5	28	10	40	40	20	0	0	0	0
+142844	23043	Cold Cut Trio Sandwich	235 g	540	28	11	0.3	70	1570	48	3	6	26	6	15	15	25	0	0	0	0
+142845	23043	Crispy Chicken Sandwich	254 g	460	16	1	0	55	1180	57	3	3	22	0	15	2	30	0	0	0	0
+142846	23043	Ham & Cheddar Sandwich	263 g	470	15	6	0.3	55	1220	58	3	2	25	8	15	20	35	0	0	0	0
+142847	23043	Chipotle Steak Sandwich	291 g	560	25	8	0.4	70	1160	61	3	4	28	6	20	15	50	0	0	0	0
+142848	23043	"Turkey, Bacon Club Sandwich"	261 g	400	11	4	0	50	1250	51	5	5	26	2	40	2	25	0	0	0	1
+142849	23043	Chili	284 mL	290	16	7	0	60	1180	20	5	5	18	4	10	8	25	0	0	0	0
+142850	23043	Bistro French Onion Soup	284 mL	230	9	4.5	0.2	20	960	26	1	6	10	6	2	20	8	1	0	0	0
+142851	23043	Classic Chicken Noodle Soup	284 mL	120	1.5	0.5	0	5	710	21	1	2	5	4	40	2	4	0	0	0	0
+142852	23043	Cream of Broccoli Soup	284 mL	150	7	2.5	0.2	10	680	16	2	6	6	25	25	15	4	0	0	0	0
+142853	23043	East Coast Clam Chowder	284 mL	190	7	2	0.2	20	680	23	1	6	9	4	25	15	15	0	0	0	0
+142854	23043	Harvest Vegetable Soup	284 mL	80	0.4	0.1	0	0	590	14	2	3	4	25	20	4	6	1	1	0	1
+142855	23043	Hearty Potato Bacon Soup	284 mL	230	13	6	0.2	30	760	22	1	5	6	15	2	10	4	0	0	0	0
+142856	23043	Caesar Salad (with dressing)	137 g	310	24	7	0.3	35	830	14	1	3	11	4	20	15	8	0	0	0	0
+142857	23043	Garden Salad (with dressing)	212 g	140	11	1	0.1	0	310	11	2	7	2	0	30	4	8	1	0	1	0
+142858	23043	Savoury Potato Wedges	170 g	250	10	1	0.1	0	670	37	3	2	3	0	10	2	6	1	1	0	0
+142859	23043	White Homestyle Bun	105 g	280	4	0.5	0	0	430	52	2	0	10	0	0	2	25	1	1	0	0
+142860	23043	Whole Wheat Homestyle Bun	105 g	280	4	0.5	0	0	420	50	5	1	10	0	0	2	20	1	1	0	1
+142861	23044	Apple Fritter	1 Donut	310	8	3.5	0	0	330	53	2	19	7	0	4	4	15	1	0	0	0
+142862	23044	Caramel Apple Fritter	1 Donut	340	8	3.5	0	0	390	61	2	26	7	0	4	4	15	1	0	0	0
+142863	23044	Chocolate Dip	1 Donut	200	6	2.5	0	0	210	34	1	13	4	0	0	2	10	1	0	0	0
+142864	23044	Honey Dip	1 Donut	220	6	2.5	0	0	210	39	1	19	4	0	0	2	10	1	0	0	0
+142865	23044	Maple Dip	1 Donut	200	6	2.5	0	0	210	34	1	14	4	0	0	2	10	1	0	0	0
+142866	23044	Vanilla Dip	1 Donut	250	6	2.5	0	0	210	44	1	22	4	0	0	2	10	1	0	0	0
+142867	23044	Chocolate Glazed	1 Donut	280	14	6	0.1	5	320	37	1	19	4	0	0	2	15	1	0	0	0
+142868	23044	Chocolate Toasted Coconut	1 Donut	320	16	9	0.1	5	330	41	2	22	4	0	0	2	15	1	0	0	0
+142869	23044	Double Chocolate	1 Donut	260	14	6	0.1	5	320	32	1	14	4	0	0	2	15	1	0	0	0
+142870	23044	Old Fashion Dip	1 Donut	240	10	5	0.1	15	270	33	1	15	3	0	0	4	10	1	0	0	0
+142871	23044	Old Fashion Glazed	1 Donut	260	10	5	0.1	15	270	37	1	19	3	0	0	4	10	1	0	0	0
+142872	23044	Old Fashion Plain	1 Donut	210	10	5	0.1	15	260	25	1	8	3	0	0	4	10	1	0	0	0
+142873	23044	Sour Cream Glazed	1 Donut	320	16	8	0.1	10	220	40	1	23	3	0	0	2	8	1	0	0	0
+142874	23044	Sour Cream Plain	1 Donut	270	16	8	0.1	10	210	27	1	11	3	0	0	2	8	1	0	0	0
+142875	23044	Boston Cream	1 Donut	220	6	2.5	0	0	250	37	1	15	5	0	0	2	10	1	0	0	0
+142876	23044	Canadian Maple	1 Donut	210	6	2.5	0	0	250	37	1	16	5	0	0	2	10	1	0	0	0
+142877	23044	Raspberry	1 Donut	200	5	2	0	0	220	33	1	12	4	0	0	2	10	1	0	0	0
+142878	23044	Strawberry Vanilla	1 Donut	230	5	2	0	0	230	41	1	20	5	0	0	2	15	1	0	0	0
+142879	23044	Honey Cruller	1 Donut	280	18	9	0.3	50	200	27	0	12	2	0	0	2	2	1	0	0	0
+142880	23044	Apple Fritter Timbit	1 Timbit	50	1.5	1	0	0	40	9	0	4	1	0	0	0	2	1	0	0	0
+142881	23044	Honey Dip Timbit	1 Timbit	45	1	0.5	0	0	30	8	0	4	1	0	0	0	2	1	0	0	0
+142882	23044	Birthday Cake Timbit	1 Timbit	80	3	1.5	0	5	60	12	0	8	1	0	0	0	2	1	0	0	0
+142883	23044	Chocolate Glazed Timbit	1 Timbit	90	3	1.5	0	0	85	14	0	8	1	0	0	0	4	1	0	0	0
+142884	23044	Old Fashion Glazed Timbit	1 Timbit	80	2.5	1	0	5	75	14	0	9	1	0	0	0	2	1	0	0	0
+142885	23044	Old Fashion Plain Timbit	1 Timbit	50	2.5	1	0	5	75	7	0	2	1	0	0	0	2	1	0	0	0
+142886	23044	Old Fashion Sugar Timbit	1 Timbit	60	2.5	1	0	5	75	8	0	3	1	0	0	0	2	1	0	0	0
+142887	23044	Sour Cream Glazed Timbit	1 Timbit	90	4.5	2	0	5	55	11	0	7	1	0	0	0	2	1	0	0	0
+142888	23044	Sour Cream Plain Timbit	1 Timbit	70	4.5	2	0	5	55	7	0	3	1	0	0	0	2	1	0	0	0
+142889	23044	Chocolate Toasted Coconut Timbit	1 Timbit	80	4	2	0	0	85	10	0	5	1	0	0	0	4	1	0	0	0
+142890	23044	Raspberry Timbit	1 Timbit	45	1	0.5	0	0	35	8	0	4	1	0	0	0	2	1	0	0	0
+142891	23044	Strawberry Timbit	1 Timbit	50	1	0.5	0	0	35	8	0	4	1	0	0	0	2	1	0	0	0
+142892	23044	Venetian Cream Timbit	1 Timbit	45	1.5	0.5	0	0	40	7	0	2	1	0	0	0	2	1	0	0	0
+142893	23044	Honey Cruller Timbit	1 Timbit	70	3	1.5	0.1	10	35	10	0	7	0.2	0	0	0	0	1	0	0	0
+142894	23046	Original Blend Coffee (Black)	286 mL	3	0	0	0	0	5	0	0	0	0.3	0	0	0	0	1	0	0	0
+142895	23046	Dark Roast Coffee (Black)	286 mL	3	0	0	0	0	5	0	0	0	0.3	0	0	0	0	1	0	0	0
+142896	23046	Decaffeinated Coffee	286 mL	3	0	0	0	0	5	0	0	0	0.3	0	0	0	0	1	0	0	0
+142897	23046	"Original Blend Coffee (1 Cream, 1 Sugar)"	286 mL	70	3.5	2	0.1	15	20	9	0	9	1	2	0	4	0	1	0	0	0
+142898	23046	Steeped Tea made with Whole Leaf	286 mL	0	0	0	0	0	5	0	0	0	0	0	0	0	0	1	0	0	0
+142899	23046	Specialty Tea	286 mL	0	0	0	0	0	5	0	0	0	0	0	0	0	0	1	0	0	0
+142900	23046	"Tea (1 Milk, 1 Sugar)"	286 mL	40	0.4	0.3	0	0	10	8	0	8	1	0	0	2	0	1	0	0	0
+142901	23046	Hot Chocolate	286 mL	240	6	5	0.2	0	320	45	2	38	2	0	0	2	15	1	0	0	0
+142902	23046	White Hot Chocolate	286 mL	260	9	9	0	0	250	42	0	35	1	0	0	15	2	1	0	0	0
+142903	23046	Apple Cider	286 mL	210	0	0	0	0	5	52	0	52	0	0	0	0	0	1	0	0	0
+142904	23046	Latte	425 mL	150	6	3.5	0.1	20	140	13	0	13	10	10	0	35	0	1	0	0	0
+142905	23046	Caramel Latte	425 mL	270	7	4	0.1	25	180	41	0	38	11	10	0	35	0	1	0	0	0
+142906	23046	Vanilla Latte	425 mL	200	6	3.5	0.1	20	140	28	0	27	10	10	0	35	0	1	0	0	0
+142907	23046	Mocha Latte	425 mL	240	6	3.5	0.1	20	390	37	1	35	11	10	0	35	10	1	0	0	0
+142908	23046	Americano	425 mL	1	0.1	0	0	0	15	0	0	0	0.1	0	0	0	0	1	0	0	0
+142909	23046	Cappuccino	425 mL	120	4.5	3	0.1	20	120	11	0	11	8	10	0	30	0	1	0	0	0
+142910	23046	French Vanilla	286 mL	250	8	7	0.1	5	210	41	1	31	4	0	0	10	2	1	0	0	0
+142911	23046	Café Mocha	286 mL	100	1	1	0.1	0	75	20	1	14	1	0	0	0	6	1	0	0	0
+142912	23046	Iced Capp® (Cream)	380 mL	250	11	6	0.4	45	50	33	0	33	2	8	0	10	2	1	0	0	0
+142913	23046	Iced Capp® Light (Milk)	380 mL	150	1.5	1	0	5	35	32	0	32	3	2	0	8	2	1	0	0	0
+142914	23046	Iced Capp® (Chocolate Milk)	380 mL	160	0.5	0.4	0	5	60	36	0	36	3	2	0	6	2	1	0	0	0
+142915	23046	Mocha Iced Capp® (Cream)	380 mL	290	11	7	0.4	45	60	42	0	38	2	8	0	10	6	1	0	0	0
+142916	23046	Iced Coffee (Cream)	380 mL	120	7	4	0.3	25	60	12	0	8	1	6	0	6	0	1	0	0	0
+142917	23046	Iced Coffee (Milk)	380 mL	70	1	0.5	0	5	55	12	0	8	2	2	0	8	0	1	0	0	0
+142918	23046	Iced Coffee (Chocolate Milk)	380 mL	80	0.5	0.3	0	0	80	16	0	12	2	2	0	6	0	1	0	0	0
+142919	23046	Mocha Iced Coffee (Cream)	380 mL	160	7	4.5	0.3	25	75	21	0	13	2	6	0	6	6	1	0	0	0
+142920	23046	Iced Latte	515 mL	100	4	2.5	0.1	15	100	9	0	9	7	8	0	25	0	1	0	0	0
+142921	23046	Caramel Iced Latte	515 mL	220	5	3	0.1	20	140	37	0	34	8	8	0	25	0	1	0	0	0
+142922	23046	Vanilla Iced Latte	515 mL	160	4	2.5	0.1	15	100	24	0	23	7	8	0	25	0	1	0	0	0
+142923	23046	Mocha Iced Latte	515 mL	200	4.5	2.5	0.1	15	350	33	1	31	8	8	0	25	10	1	0	0	0
+142924	23046	Strawberry Banana Fruit Smoothie with Greek Yogurt	380 mL	140	1	0.5	0	5	30	30	0	27	3	0	0	10	0	1	0	0	0
+142925	23046	Frozen Lemonade (Original)	380 mL	120	0.1	0	0	0	10	28	0	26	0	0	2	0	0	1	0	0	0
+142926	23046	Espresso Shot	30 mL	1	0.1	0	0	0	4	0	0	0	0	0	0	0	0	1	0	0	0
+142927	23046	Whipped Topping	21 g	80	5	5	0	0	20	8	0	8	0.4	0	0	0	0	1	0	0	0
+142928	23044	Chocolate Chip Muffin	115 g	420	16	4.5	0.1	35	330	66	2	35	6	0	0	4	30	1	0	0	0
+142929	23044	Fruit Explosion Muffin	122 g	340	10	1.5	0.1	30	470	58	2	25	5	0	6	6	15	1	0	0	0
+142930	23044	Raisin Bran Muffin	115 g	370	12	2	0.1	20	370	63	4	36	5	0	0	4	20	1	0	0	0
+142931	23044	Carrot Cake with Walnuts Muffin	115 g	350	13	2.5	0.2	30	360	53	2	27	5	45	4	10	15	1	0	0	0
+142932	23044	Whole Grain Pecan Banana Bread Muffin	115 g	350	11	1.5	0.1	30	400	60	5	27	6	0	0	4	20	1	0	0	0
+142933	23044	Wild Blueberry Muffin	115 g	340	11	2	0.1	30	430	57	2	25	5	0	0	2	15	1	0	0	0
+142934	23044	Chocolate Chunk Cookie	52 g	240	10	6	0.4	25	250	34	1	19	3	0	0	2	15	1	0	0	0
+142935	23044	Oatmeal Raisin Spice Cookie	52 g	210	8	4.5	0.1	20	190	32	1	19	3	8	0	2	8	1	0	0	0
+142936	23044	Peanut Butter Cookie	52 g	280	17	8	0.4	25	240	27	2	16	6	0	0	2	8	1	0	0	0
+142937	23045	12 Grain Bagel	113 g	330	9	1.5	0	0	450	55	6	8	10	0	0	6	25	1	1	0	0
+142938	23045	Cinnamon Raisin Bagel	113 g	300	2	0.3	0	0	390	63	3	11	9	0	0	6	25	1	1	0	0
+142939	23045	Everything Bagel	113 g	300	3	0.5	0	0	410	60	3	6	10	0	0	4	25	1	1	0	0
+142940	23045	Plain Bagel	113 g	290	2	0.4	0	0	440	58	2	4	9	0	0	4	25	1	1	0	1
+142941	23045	Pretzel-Style Bagel	114 g	300	3	0.5	0	0	850	60	2	4	11	0	0	4	35	1	1	0	0
+142942	23045	Sesame Seed Bagel	113 g	300	3	0.5	0	0	420	59	3	5	11	0	0	4	25	1	1	0	0
+142943	23045	Marble Rye Bagel	113 g	310	3	0.5	0	0	510	62	3	4	10	0	8	2	25	0	0	0	0
+142944	23045	Cheese and Chive Bagel	122 g	330	5	2	0.1	5	550	58	3	4	12	2	0	10	25	0	0	0	0
+142945	23045	Four Cheese Bagel	122 g	320	5	2	0.1	5	580	57	2	3	12	0	0	10	30	0	0	0	0
+142946	23045	Jalapeno Asiago Mozzarella Bagel	123 g	310	3.5	1.5	0.1	5	730	58	3	2	12	2	0	10	30	0	0	0	0
+142947	23045	Maple Cinnamon French Toast Bagel	123 g	350	4	1.5	0.2	5	540	67	2	15	10	0	0	8	25	0	0	0	0
+142948	23045	Sundried Tomato Asiago Parm Bagel	123 g	320	4.5	2	0.1	5	860	59	3	4	12	2	0	15	30	0	0	0	0
+142949	23045	Plain Cream Cheese Spread 	43 g	130	11	7	0.3	45	170	3	0	3	3	10	0	6	0	0	0	0	0
+142950	23045	Light Plain Cream Cheese Spread	43 g	100	8	5	0.3	30	220	2	0	2	4	10	0	4	0	0	0	0	0
+142951	23045	Light Strawberry Cream Cheese Spread	43 g	130	10	6	0.2	30	140	9	0	7	2	8	0	6	0	0	0	0	0
+142952	23045	Herb and Garlic Cream Cheese Spread	43 g	140	13	8	0.3	50	120	2	0	2	1	0	0	4	2	0	0	0	0
+142953	23045	Butter	10 g	70	8	5	0.3	20	85	0	0	0	0.1	6	0	0	0	0	0	0	0
+142954	23045	Margarine	7 g	50	6	1	0	0	50	0	0	0	0	6	0	0	0	0	0	0	0
+142955	23045	Strawberry Jam	16 mL	50	0	0	0	0	3	14	0	11	0.1	0	0	0	0	1	1	0	0
+142956	23045	Peanut Butter	18 g	100	9	1.5	0	0	75	4	1	2	4	0	0	0	2	1	1	1	0
+142957	23043	"Biscuit, Sausage, Egg, Cheese"	177 g	500	33	16	0.5	170	1030	33	2	4	19	10	0	15	25	0	0	0	0
+142958	23043	"Biscuit, Bacon, Egg, Cheese"	152 g	400	22	12	0.4	155	1000	33	2	4	18	10	0	15	25	0	0	0	0
+142959	23043	"Biscuit, Egg, Cheese"	140 g	340	17	11	0.4	145	860	32	2	4	15	10	0	15	20	0	0	0	0
+142960	23043	"English Muffin, Sausage, Egg, Cheese"	164 g	440	26	10	0.3	170	740	28	1	3	18	10	0	20	20	0	0	0	0
+142961	23043	"English Muffin, Bacon, Egg, Cheese"	139 g	330	15	7	0.1	155	710	28	1	3	17	10	0	20	20	0	0	0	0
+142962	23043	"English Muffin, Egg, Cheese"	127 g	270	11	5	0.1	145	570	28	1	2	13	10	0	20	15	0	0	0	1
+142963	23043	"Croissant, Sausage, Egg, Cheese"	181 g	570	40	18	0.5	190	880	35	2	5	19	10	20	15	20	0	0	0	0
+142964	23043	"Croissant, Bacon, Egg, Cheese"	156 g	470	29	14	0.5	175	850	35	1	5	18	10	20	15	20	0	0	0	0
+142965	23043	"Croissant, Egg, Cheese"	144 g	410	24	12	0.5	165	700	35	1	5	14	10	20	15	20	0	0	0	0
+142966	23043	"Plain Bagel, Sausage, Egg, Cheese"	220 g	560	25	10	0.1	170	1120	61	2	5	23	10	0	15	35	0	0	0	0
+142967	23043	"Plain Bagel, Bacon, Egg, Cheese"	195 g	450	16	6	0.1	155	1030	55	2	8	21	10	0	15	25	0	0	0	0
+142968	23043	"Plain Bagel, Egg, Cheese"	183 g	390	11	4.5	0.1	145	890	55	2	8	18	10	0	15	25	0	0	0	0
+142969	23043	Bacon Grilled Breakfast Wrap	155 g	420	23	8	0.2	160	870	37	2	3	18	10	0	25	20	0	0	0	0
+142970	23043	Sausage Grilled Breakfast Wrap	179 g	530	34	12	0.4	175	910	37	2	3	19	10	2	25	25	1	1	1	0
+142971	23043	Hash Brown	54 g	130	7	0.5	0.1	0	280	16	1	0	1	0	2	2	2	0	0	0	0
+142972	23043	Oatmeal - Maple	308 g	220	2.5	0.5	0	0	220	49	4	20	5	0	0	4	15	1	1	0	0
+142973	23043	Oatmeal - Mixed Berries	327 g	210	3	0.5	0	0	220	44	6	14	6	0	10	4	15	1	1	0	1
+142974	23043	Bagel B.E.L.T. ® (12 Grain Bagel)	263 g	530	24	7	0.2	155	1040	61	7	11	24	10	15	20	30	0	0	0	0
+142975	23043	Vanilla Parfait	198 g	270	5	0.3	0	0	90	40	3	25	15	6	15	35	40	1	0	0	0
+142976	23043	Strawberry Parfait	198 g	270	5	0.3	0	0	90	40	3	25	15	6	15	35	40	1	0	0	0
+142977	23044	Cinnamon Roll - Frosted	108 g	370	14	5	0.1	0	280	56	2	23	7	0	0	4	15	0	0	0	0
+142978	23044	Cinnamon Roll - Glazed	96 g	320	12	5	0.1	0	250	47	2	15	7	0	0	4	15	0	0	0	0
+142979	23045	Croissant - Cheese	75 g	290	15	7	0.1	5	300	29	1	4	7	10	8	6	15	0	0	0	0
+142980	23045	Croissant - Plain	68 g	260	14	6	0.1	0	250	29	1	4	5	8	8	2	15	0	0	0	0
+142981	23044	Danish - Cherry Cheese	89 g	300	16	7	0.2	0	410	36	1	14	4	0	15	0	10	0	0	0	0
+142982	23044	Danish - Maple Pecan	85 g	370	21	7	0.1	5	250	43	2	14	5	6	8	2	15	0	0	0	0
+142983	23045	Homestyle Biscuit	70 g	210	8	6	0.2	0	420	29	2	3	6	2	0	2	15	0	0	0	0
+142984	23045	Tea Biscuit - Cheese	80 g	260	11	3.5	0.2	10	540	31	1	5	8	4	0	10	15	0	0	0	0
+142985	23045	Tea Biscuit - Raisin	80 g	250	8	1.5	0	0	430	39	2	12	5	0	0	4	15	0	0	0	0

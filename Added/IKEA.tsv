@@ -1,0 +1,126 @@
+food_id	menu_id	food_name	serving_size	calories	fat	saturated_fat	trans_fat	cholesterol	sodium	carbohydrates	fiber	sugar	protein	vit_a	vit_c	calcium	iron	is_vegetarian	is_vegan	is_gf	
+143010	23047	Broccoli Cheddar	10.5 oz.	390	29	18	0	85	910	18	1	1	13	20	30	35	20	0	0	1	0
+143011	23047	Hearty Chicken Noodle Soup	10.5 oz.	110	3	0.5	0	35	750	11	1	2	11	100	4	2	0	0	0	0	1
+143012	23047	Moroccan Lentil with Harissa	10.5 oz.	210	7	1	0	0	690	30	11	4	10	0	0	6	20	1	1	1	0
+143013	23047	Mushroom Bisque	10.5 oz.	280	19	7	6	30	780	21	2	5	6	45	0	4	6	0	0	1	0
+143014	23047	Pasta Fagioli	10.5 oz.	260	7	2	0	10	910	49	6	4	19	10	15	20	30	0	0	0	0
+143015	23047	Tomato Bisque	10.5 oz.	190	13	8	0	45	630	21	4	10	5	35	4	6	15	0	0	1	0
+143016	23047	Tomato Soup with Brown Rice	10.5 oz.	120	3.5	2.5	0	5	570	18	2	7	4	35	6	2	0	0	0	1	0
+143017	23047	White Chicken Chili	10.5 oz.	390	16	6	0	80	800	49	20	5	31	0	0	10	30	0	0	1	0
+143018	23048	Harvest Salad		220	13	3	0	10	260	19	3	13	7	80	4	10	6	1	1	1	0
+143019	23048	Harvest Salad with Chicken		330	16	3.5	0	75	710	19	3	13	28	80	6	15	10	0	0	0	0
+143020	23048	Harvest Salad with Salmon		450	29	6	0	20	280	19	3	13	31	80	8	20	6	0	0	0	1
+143021	23048	Hot Smoked Salmon with Bean Salad		460	290	4	0	10	110	11	5	7	41	15	15	15	10	0	0	0	0
+143022	23048	Iceberg Wedge Salad		290	26	6	0	35	620	7	1	2	7	15	10	2	2	0	0	0	0
+143023	23048	Marinated Salmon		360	26	2.5	0	5	750	14	1	10	19	40	25	2	8	0	0	0	0
+143024	23048	Najad Salmon		240	14	2.5	0	0	5	8	3	6	20	8	15	4	6	0	0	0	0
+143025	23048	Side Salad		15	0	0	0	0	15	4	1	2	1	35	10	2	2	0	0	0	0
+143026	23050	Bacon - pre-cooked (3 strips)		80	8	2.5	0	15	270	0	0	0	5	0	0	0	0	0	0	1	0
+143027	23050	Gravad Lax with Bagel		390	14	4.5	0	15	900	39	1	4	25	2	0	8	10	0	0	0	0
+143028	23050	Gravad Lax with Rye Crispbread		290	14	5	0	15	800	19	4	2	21	2	0	2	2	0	0	0	0
+143029	23050	Hash Browns	6 oz.	390	19	2	0	0	980	48	5	0	6	0	0	0	0	0	0	0	0
+143030	23050	Kid's Pancake and Chicken Sausage		230	10	3	0	110	510	22	2	3	11	2	0	6	6	0	0	0	0
+143031	23050	Regular Breakfast		420	25	5	0	415	990	28	0	1	22	10	8	8	10	0	0	0	0
+143032	23050	Scrambled Eggs	4 oz.	170	12	3.5	0	375	170	3	0	1	11	10	0	6	10	0	0	1	0
+143033	23050	Swedish American Breakfast		680	34	8	0	505	1350	62	3	16	30	10	10	15	15	0	0	0	0
+143034	23050	Swedish Pancakes (3) w Strawberry Jam (1 oz.)		390	15	4	0	155	590	49	4	15	12	2	0	15	6	0	0	0	0
+143035	23051	Braised Beef Tenderloin w/Mashed Potatoes and Fall Medley		540	29	11	1	130	1110	26	4	5	46	0	0	8	40	0	0	0	0
+143036	23051	Chicken Artichoke Parmesan w/Brussels		470	18	5	0	115	1020	28	11	5	46	0	10	15	15	0	0	0	0
+143037	23051	Chicken Cordon Blue w/Mashed Potatoes and Fall Medley		530	19	6	0	115	620	39	5	4	47	6	25	15	6	0	0	0	0
+143038	23051	Chicken Meatball Plate w Fall Medley Blend (8)		460	22	6	0	85	1210	46	9	15	19	0	0	6	10	0	0	0	0
+143039	23051	Chicken Meatball Plate w Fall Medley Blend (12)		560	29	8	0	120	1490	49	10	15	27	0	0	6	15	0	0	0	0
+143040	23051	Chicken Tenders (4) with Fries		900	62	13	0	65	2040	58	5	1	35	0	15	45	25	0	0	0	0
+143041	23051	Organic Pasta and Sauce		380	3	0	0	0	670	76	5	7	13	15	20	6	15	0	0	0	0
+143042	23051	Organic Pasta and Sauce w/Veggie Balls		520	10	1	0	0	1170	89	9	10	20	15	20	8	25	1	1	0	0
+143043	23051	Organic Pasta and Sauce w/Swedish Meatballs		560	16	5	0	40	1000	80	5	8	23	15	20	6	20	0	0	0	0
+143044	23051	Organic Pasta and Sauce w/Chicken Meatballs		520	12	2.5	0	50	1030	79	7	8	23	15	20	6	20	0	0	0	0
+143045	23051	Salmon Fillet w/Lemon Dill Sauce and Fall Medley Blend		610	39	16	0	60	1490	32	6	5	30	0	0	15	6	0	0	0	1
+143046	23051	Swedish Meatball Plate w/Fall Medley Blend (8)		560	32	11	1	80	1230	47	6	16	21	0	0	6	15	0	0	0	0
+143047	23051	Swedish Meatball Plate w/Fall Medley Blend (12)		710	43	15	1	120	1520	51	7	16	30	0	0	6	20	1	1	0	0
+143048	23051	"Veggie Balls w/Thai Coconut Curry, Brown Rice Blend and Fall Medley Blend (8 pc)"		450	17	2.5	0	0	1350	58	11	9	16	0	0	8	30	1	1	0	0
+143049	23051	"Veggie Balls w/Tomato-Spinach Ragout, Brown Rice Blend and Fall Medley Blend (8pc)"		520	26	7	0	1	1432	57	12	11	17	30	28	9	29	1	1	0	0
+143050	23051	"Veggie Balls w/Thai Coconut Curry, Brown Rice Blend and Fall Medley Blend (12 pc)"		560	22	3	0	0	1750	69	15	11	21	0	0	10	35	1	1	0	0
+143051	23051	Barbecue Chicken Wrap		520	15	4	0	70	1910	61	4	9	36	4	10	20	20	0	0	0	0
+143052	23051	BBQ Pulled Pork Sandwich w/French Fries		1030	44	7	0	70	2160	126	6	29	32	15	40	15	15	0	0	0	0
+143053	23051	Fried Chicken Sandwich w/French Fries		1020	36	4.5	0	65	2520	117	7	4	33	0	0	2	35	0	0	0	0
+143054	23051	Marinated Salmon Wrap		390	17	3.5	0	5	960	42	2	6	19	8	8	15	10	0	0	0	0
+143055	23051	Shrimp Sandwich		320	18	3.5	0	280	740	21	3	2	21	30	20	10	15	0	0	0	0
+143056	23051	Smoked Salmon Sandwich		310	8	1.5	0	60	470	37	3	6	20	2	4	15	6	0	0	0	0
+143057	23051	Vegetarian Wrap with Hummus		560	13	4.5	0	0	1170	83	10	5	16	120	35	30	40	0	0	0	0
+143058	23052	Kid's Chicken Tenders and Fries		450	31	7	0	30	1020	29	3	0	17	0	6	20	15	0	0	0	0
+143059	23052	Kid's Mac and Cheese and Vegetables		200	7	3	0	10	520	24	4	5	9	45	35	15	8	0	0	0	0
+143060	23052	Kid's Chicken Meatballs and Mashed Potatoes w/Fall Medley Blend		230	12	3	0	45	680	21	5	2	10	0	0	4	6	0	0	0	0
+143061	23052	Kid's Grilled Chicken with Grapes		210	8	4	0	50	520	18	2	12	19	180	10	25	4	0	0	0	0
+143062	23052	Kid's Grilled Chicken with Melon		190	8	4	0	50	530	12	2	8	19	220	45	25	2	0	0	0	0
+143063	23052	Kid's Grilled Chicken with Strawberries		190	8	4	0	50	520	12	3	6	19	180	60	25	2	0	0	0	0
+143064	23052	Kid's Organic Pasta and Sauce		250	1.5	0	0	0	340	49	3	4	9	8	10	4	10	0	0	0	0
+143065	23052	Kid's Swedish Meatballs and Mashed Potatoes w/Fall Medley Blend		280	16	5	0	40	690	22	3	3	11	0	0	4	10	0	0	0	0
+143066	23052	"Kid's Veggie Balls w/Thai Coconut Curry, Brown Rice Blend and Fall Medley Blend"		240	9	1	0	0	670	33	6	5	9	0	0	4	15	1	1	0	0
+143067	23048	"Carrots, shredded"	1 oz.	10	0	0	0	0	20	3	0	1	0	90	2	0	0	1	1	1	0
+143068	23048	Celery	1 oz.	5	0	0	0	0	25	1	0	0	0	2	2	2	0	1	1	1	0
+143069	23048	Cucumber	1 oz.	0	0	0	0	0	0	1	0	0	0	0	2	0	0	1	1	1	0
+143070	23048	"Lettuce, Iceberg"	1 oz.	0	0	0	0	0	0	1	0	0	0	2	2	0	0	1	1	1	0
+143071	23048	"Lettuce, Romaine"	1 oz.	5	0	0	0	0	0	1	0	0	0	50	2	0	2	1	1	1	0
+143072	23048	"Mushrooms, sliced"	1 oz.	5	0	0	0	0	0	1	0	0	1	0	2	0	0	1	1	1	0
+143073	23048	"Onions, chopped"	1 oz.	10	0	0	0	0	0	3	0	1	0	0	4	0	0	1	1	1	0
+143074	23048	"Peppers, green bell"	1 oz.	5	0	0	0	0	0	1	0	0	0	2	40	0	0	1	1	1	0
+143075	23048	"Radish, sliced"	1 oz.	5	0	0	0	0	10	1	0	0	0	0	6	0	0	1	1	1	0
+143076	23048	Spinach	1 oz.	5	0	0	0	0	20	1	0	0	1	50	15	2	4	1	1	1	0
+143077	23048	Spring mix salad greens	1 oz.	5	0	0	0	0	30	1	0	0	0	30	20	2	5	1	1	1	0
+143078	23048	Tomatoes	1 oz.	5	0	0	0	0	0	1	0	0	0	4	6	0	0	1	1	1	0
+143079	23048	Blue Cheese Dressing	1.5 oz.	200	20	4.5	0	20	370	3	0	0	1	0	0	4	0	0	0	0	0
+143080	23048	Honey Mustard Dressing	1.5 oz.	130	7	1	0	5	400	14	0	13	0	0	0	0	0	0	0	0	0
+143081	23048	Ranch Dressing	1.5 oz.	110	11	1.5	0	0	380	3	0	1	0	0	0	0	0	0	0	0	0
+143082	23048	Coleslaw	3 oz.	170	14	2.5	0	10	170	12	1	10	1	10	8	4	2	0	0	0	0
+143083	23053	Cornbread	1 piece	140	7	1	0	25	125	19	0	8	2	2	0	2	4	0	0	0	0
+143084	23053	French Fries	6 oz.	480	32	7	0	0	700	44	4	0	4	0	15	0	10	1	1	0	0
+143085	23053	Fruit Cup	8 oz.	110	0	0	0	0	20	23	2	22	2	25	50	4	0	1	1	0	0
+143086	23053	Garlic Toast	1 piece	90	3	1	0	0	200	14	1	1	2	0	2	2	4	0	0	0	0
+143087	23053	Macaroni & Cheese	8 oz.	300	13	6	0	25	950	32	1	5	15	6	0	30	6	0	0	0	0
+143088	23053	Mashed Potatoes	4 oz.	100	3	0.5	0	0	310	16	2	1	2	0	10	2	2	0	0	0	0
+143089	23053	Multigrain Crispbread	1 piece	45	1	0	0	0	65	7	2	0	2	0	0	0	0	1	1	0	0
+143090	23053	Rye Crispbread	1 piece	40	0	0	0	0	80	8	2	0	1	0	0	0	0	1	1	0	0
+143091	23053	Swedish Meatballs (4)	4	140	10	4	0	35	270	3	1	0	8	0	0	0	4	0	0	0	0
+143092	23053	Vegetable Medallions		130	8	5	0	19	200	11	2	1	2	0	0	7	0	0	0	0	0
+143093	23053	Veggie Balls (4)	4	110	6	0.5	0	0	400	10	3	2	5	2	2	2	8	0	0	0	0
+143094	23053	Chicken Meatballs (4)	4	110	7	2	0	40	290	3	2	0	8	2	2	0	4	0	0	0	1
+143095	23053	Chicken Sausage (4)	4	120	6	1.5	0	80	650	1	0	0	16	0	0	2	6	0	0	0	0
+143096	23054	Almond Cake		300	21	9	0	110	110	26	2	19	10	6	0	10	6	0	0	1	0
+143097	23054	Almond Cake with Choco Butterscotch		320	18	7	0	70	115	32	2	24	8	4	0	8	6	0	0	0	0
+143098	23054	Blueberry Raspberry Cheesecake		390	22	12	0	70	180	41	2	26	6	0	4	70	30	0	0	0	0
+143099	23054	Butterscotch Cookie		530	22	11	0	35	670	77	2	48	5	15	0	6	110	0	0	0	0
+143100	23054	Chocolate Conspiracy Cake		540	33	15	0	55	330	60	4	42	6	2	0	2	15	0	0	0	0
+143101	23054	Cream Cake w/Marzipan		310	16	9	0	20	110	40	1	31	3	6	0	6	2	0	0	0	0
+143102	23054	Nordic Mousse Dessert		210	9	5	0	10	70	28	1	22	3	0	0	4	4	0	0	0	0
+143103	23054	Oat Pastry w/ Coconut Sprinkles		200	12	7	0	120	80	20	2	13	2	0	0	0	0	0	0	0	0
+143104	23054	Pastry w/ Almond Paste		190	10	5	0	40	50	24	1	11	2	0	0	0	0	0	0	0	0
+143105	23054	Swedish Apple Cake		380	15	6	0	0	150	55	3	31	5	0	8	8	4	0	0	0	0
+143106	23055	Bottled Water	16.9 oz.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+143107	23055	Coffee	12 oz.	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+143108	23055	Cola	10 oz.	56	0	0	0	0	8	14	0	14	0	0	0	0	0	0	0	0	0
+143109	23055	"Cola, sugar free"	10 oz.	1	0	0	0	0	0	0.3	0	0	0	0	0	0	0	0	0	0	0
+143110	23055	Lingonberry Drink	10 oz.	61	0	0	0	0	3	14	0	14	0	0	0	0	0	0	0	0	0
+143111	23055	"Nordic Water, Lemon"	10 oz.	58	0	0	0	0	3	14	0	14	0	0	0	0	0	0	0	0	0
+143112	23055	"Nordic Water, Pear"	10 oz.	58	0	0	0	0	0	14	0	14	0	0	0	0	0	0	0	0	0
+143113	23055	"Nordic Water, Raspberry"	10 oz.	58	0	0	0	0	3	14	0	14	0	0	0	0	0	0	0	0	0
+143114	23055	Americano	6 oz.	9	0.3	0	0	0	0	12	0	1.5	0	0	0	0	0	0	0	0	0
+143115	23055	Cappuccino	6 oz.	40	1	1	0	5	0	42	0	5	0.2	5	3	0	0	0	0	0	0
+143116	23055	"Coffee, Brewed Drip"	12 oz.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+143117	23055	Cola	16 oz.	90	0	0	0	0	0	13	0	22	0	22	0	0	0	0	0	0	0
+143118	23055	"Cola, sugar free"	16 oz.	2	0	0	0	0	0	29	0	1	0	0	0	0	0	0	0	0	0
+143119	23055	Espresso	3 oz.	9	0.3	0	0	0	0	12	0	1.5	0	0	0	0	0	0	0	0	0
+143120	23055	"Frozen Carbonated Beverage, Blue-Raspberry"	20.4 oz.	165	0	0	0	0	0	9	0	43	0	41	0	0	0	0	0	0	0
+143121	23055	"Frozen Carbonated Beverage, Cherry"	20.4 oz.	165	0	0	0	0	0	9	0	43	0	41	0	0	0	0	0	0	0
+143122	23055	"Frozen Carbonated Beverage, Cola"	20.4 oz.	165	0	0	0	0	0	9	0	43	0	41	0	0	0	0	0	0	0
+143123	23055	"Frozen Carbonated Beverage, Lemonade"	20.4 oz.	165	0	0	0	0	0	26	0	43	0	41	0	0	0	0	0	0	0
+143124	23055	"Frozen Carbonated Beverage, Lemon-Lime"	20.4 oz.	165	0	0	0	0	0	17	0	43	0	41	0	0	0	0	0	0	0
+143125	23055	"Frozen Carbonated Beverage, Lingonberry"	20.4 oz.	165	0	0	0	0	0	9	0	43	0	41	0	0	0	0	0	0	0
+143126	23055	Latte	6 oz.	43	1	1	0	4.5	0	50	0	5	0	5	3	0	0	0	0	0	0
+143127	23055	Lingonberry Drink	16 oz.	98	0	0	0	0	0	6	0	22	0	22	0	0	0	0	0	0	0
+143128	23055	"Nordic Water, Lemon"	16 oz.	93	0	0	0	0	0	5	0	22	0	22	0	0	0	0	0	0	0
+143129	23055	"Nordic Water, Pear"	16 oz.	93	0	0	0	0	0	0	0	22	0	22	0	0	0	0	0	0	0
+143130	23055	"Nordic Water, Raspberry"	16 oz.	93	0	0	0	0	0	6	0	22	0	22	0	0	0	0	0	0	0
+143131	23056	Cheese Pizza Slice		400	15	8	0	40	950	47	3	4	17	15	20	35	20	0	0	0	0
+143132	23056	Cinnamon Bun		390	9	5	0	0	280	64	2	33	7	15	4	4	15	0	0	0	0
+143133	23056	Frozen Yogurt w/Cone		130	0	0	0	0	65	28	0	18	5	0	2	15	2	0	0	0	0
+143134	23056	Hot Dog w/Bun		280	16	6	0.5	40	750	23	0	3	11	0	0	0	4	0	0	0	0

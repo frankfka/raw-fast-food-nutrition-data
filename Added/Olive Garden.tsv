@@ -1,0 +1,336 @@
+food_id	menu_id	food_name	serving_size	calories	fat	saturated_fat	trans_fat	cholesterol	sodium	carbohydrates	fiber	sugar	protein	vit_a	vit_c	calcium	iron	is_vegetarian	is_vegan	is_gf	
+132229	23065	Angel Hair	1 Serving	430	3.5	0	0	0	10	84	4	3	15	0	0	0	0	1	1	0	0
+132230	23065	Cavatappi	1 Serving	430	4	0.5	0	0	10	83	3	4	15	0	0	0	0	1	1	0	0
+132231	23065	Fettucine	1 Serving	430	3.5	0	0	0	10	84	4	3	15	0	0	0	0	1	1	0	0
+132232	23065	Rigatoni	1 Serving	440	6	0.5	0	0	10	83	3	5	14	0	0	0	0	1	1	0	0
+132233	23065	Rotini	1 Serving	430	6	0.5	0	0	0	87	2	0	8	0	0	0	0	1	1	0	0
+132234	23065	Spaghetti	1 Serving	430	4	0	0	0	15	83	3	5	15	0	0	0	0	1	1	0	0
+132235	23065	Whole grain linguine	1 Serving	350	6	0	0	0	10	57	14	2	17	0	0	0	0	1	1	0	0
+132236	23065	Alfredo Sauce	1 Serving	660	65	41	1.5	215	900	8	0	2	11	0	0	0	0	0	0	0	0
+132237	23065	Creamy Mushroom Sauce	1 Serving	650	65	40	1.5	185	820	10	0	5	8	0	0	0	0	0	0	0	0
+132238	23065	Creamy Spinach & Artichoke Sauce	1 Serving	820	82	51	3	235	1070	14	2	6	11	0	0	0	0	0	0	0	0
+132239	23065	Five Cheese Marinara Sayce	1 Serving	330	26	13	0	70	810	16	2	9	8	0	0	0	0	0	0	0	0
+132240	23065	Marinara Sauce	1 Serving	140	7	0.5	0	0	720	17	2	10	2	0	0	0	0	1	1	0	0
+132241	23065	Meat sauce	1 Serving	300	19	7	0	60	1040	19	2	13	14	0	0	0	0	0	0	0	0
+132242	23065	Chicken Fritta Topping	1 Serving	240	12	1.5	0	50	730	14	1	0	20	0	0	0	0	0	0	0	0
+132243	23065	Garden Veggies Topping	1 Serving	35	0	0	0	0	35	6	2	3	2	0	0	0	0	1	1	0	0
+132244	23065	Grilled Chicken Topping	1 Serving	310	10	2	0	145	470	1	1	0	54	0	0	0	0	0	0	0	0
+132245	23065	Italian sausage (2)	2	470	39	14	0	115	1140	2	0	2	27	0	0	0	0	0	0	0	0
+132246	23065	Meatballs (2)	2	320	27	13	1.5	45	710	5	2	0	16	0	0	0	0	0	0	0	0
+132247	23065	Shrimp Fritta Topping	1 Serving	160	10	1	0	75	440	11	0	0	9	0	0	0	0	0	0	0	0
+132248	23068	Cheese Ravioli with Marinara	1 Serving	780	39	20	0	125	2140	68	5	11	41	0	0	0	0	0	0	0	0
+132249	23068	Cheese Ravioli with Meat Sauce	1 Serving	860	46	24	0	170	2190	65	4	11	50	0	0	0	0	0	0	0	0
+132250	23068	Chicken Parmigiana	1 Serving	660	29	7	0	75	1740	65	5	12	35	0	0	0	0	0	0	0	0
+132251	23068	Chicken Piccata	1 Serving	370	22	10	0	105	1250	12	3	3	32	0	0	0	0	0	0	0	0
+132252	23068	Eggplant Parmigiana	1 Serving	1060	54	12	0	45	1990	113	11	23	30	0	0	0	0	0	0	0	0
+132253	23068	Fettuccine Alfredo	1 Serving	1010	56	34	1.5	155	850	97	7	5	30	0	0	0	0	0	0	0	0
+132254	23068	Five Cheese Ziti al Forno	1 Serving	1220	71	36	1	185	2160	103	6	19	45	0	0	0	0	0	0	0	0
+132255	23068	Grilled Chicken Parmigiana	1 Serving	530	20	5	0	90	1200	49	5	10	41	0	0	0	0	0	0	0	0
+132256	23068	Lasagna Classico	1 Serving	640	36	20	1	145	1430	39	5	12	40	0	0	0	0	0	0	0	0
+132257	23068	Ravioli di Portobello	1 Serving	820	46	24	1	160	1150	73	6	8	27	0	0	0	0	0	0	0	0
+132258	23068	Spaghetti with Meat Sauce	1 Serving	640	22	7	0	60	1050	85	4	17	26	0	0	0	0	0	0	0	0
+132259	23067	Breadstick with garlic topping	1	140	2.5	0.5	0	0	460	25	0	1	4	0	0	0	0	1	1	0	0
+132260	23067	Alfredo Dipping Sauce	1 Serving	440	43	27	1	140	600	5	0	1	8	0	0	0	0	0	0	0	0
+132261	23067	Five Cheese Marinara Dipping Sauce	1 Serving	220	17	9	0	45	540	11	1	6	5	0	0	0	0	0	0	0	0
+132262	23067	Marinara Dipping Sauce	1 Serving	90	5	0	0	0	480	11	2	6	1	0	0	0	0	0	0	0	0
+132263	23067	Lasagna Dip with Pasta Chips	1 Serving	950	62	22	0	120	1210	56	4	8	41	0	0	0	0	0	0	0	0
+132264	23067	Spinach Artichoke Dip with Pasta Chips	1 Serving	800	51	17	1	75	1400	59	7	5	28	0	0	0	0	0	0	0	0
+132265	23067	Five Italian Cheese Fonduta with Breadstick Crostini	1 Serving	780	52	23	0	95	1910	39	2	2	32	0	0	0	0	0	0	0	0
+132266	23067	Calamari	1 Serving	870	56	5	0	320	2400	67	6	3	24	0	0	0	0	0	0	0	0
+132267	23067	Calamari (Sampler)	1 Serving	430	28	2.5	0	160	1200	34	3	1	12	0	0	0	0	0	0	0	0
+132268	23067	Marinara Sauce	1 Serving	45	2.5	0	0	0	240	6	0	3	0	0	0	0	0	0	0	0	0
+132269	23067	Creamy Ranch Sauce	1 Serving	210	21	3.5	0	15	430	3	0	2	1	0	0	0	0	0	0	0	0
+132270	23067	Chicken Fingers	1 Serving	220	11	1	0	50	430	12	0	0	19	0	0	0	0	0	0	0	0
+132271	23067	Fried Mozzarella	1 Serving	860	59	28	1.5	135	1870	48	3	4	34	0	0	0	0	0	0	0	0
+132272	23067	Fried Mozzarella (Sampler)	1 Serving	320	21	9	0	45	740	20	1	1	14	0	0	0	0	0	0	0	0
+132273	23067	Lasagna Fritta	1 Serving	1070	71	29	1.5	160	1650	73	5	4	35	0	0	0	0	0	0	0	0
+132274	23067	Lasagna Fritta (Sampler)	1 Serving	530	31	10	0.5	60	730	43	3	0	20	0	0	0	0	0	0	0	0
+132275	23067	Loaded Pasta Chips	1 Serving	1410	92	29	1	165	2790	94	7	9	55	0	0	0	0	0	0	0	0
+132276	23067	Loaded Pasta Chips (Sampler)	1 Serving	730	51	20	1	115	1660	38	3	5	30	0	0	0	0	0	0	0	0
+132277	23067	Parmesan Zucchini Bites	1 Serving	510	30	10	0	100	940	39	2	5	22	0	0	0	0	0	0	0	0
+132278	23067	Parmesan Zucchini Bites (Sampler)	1 Serving	290	17	6	0	55	530	22	1	3	12	0	0	0	0	0	0	0	0
+132279	23067	Shrimp Scampi Fritta - Classic	1 Serving	580	36	11	0	220	1870	36	0	3	22	0	0	0	0	0	0	0	0
+132280	23067	Shrimp Scampi Fritta - Spicy	1 Serving	560	37	6	0	200	1920	34	0	2	22	0	0	0	0	0	0	0	0
+132281	23067	Spicy Calabrian Chicken Tenders	1 Serving	900	67	15	0.5	185	2250	19	4	0	56	0	0	0	0	0	0	0	0
+132282	23067	Gorgonzola Sauce	1 Serving	170	17	4	0	20	350	2	0	1	2	0	0	0	0	0	0	0	0
+132283	23067	Stuffed Mushrooms	1 Serving	380	30	8	0	20	860	13	1	3	15	0	0	0	0	0	0	0	0
+132284	23067	Toasted Beef & Pork Ravioli	1 Serving	340	15	2.5	0	15	750	39	3	3	12	0	0	0	0	0	0	0	0
+132285	23067	Chicken & Gnocchi	1 Serving	230	12	4.5	0	55	1290	22	1	4	11	0	0	0	0	0	0	0	0
+132286	23067	Minestrone	1 Serving	110	1	0	0	0	810	17	4	4	5	0	0	0	0	0	0	0	0
+132287	23067	Zuppa Toscana	1 Serving	220	15	7	0	40	790	15	2	2	7	0	0	0	0	0	0	0	0
+132288	23067	Pasta e Fagioli	1 Serving	150	5	2	0	15	710	16	3	4	8	0	0	0	0	0	0	0	0
+132289	23067	Famous House Salad with signature Italian dressing	1 Serving	150	10	1.5	0	0	770	13	2	4	3	0	0	0	0	1	0	0	0
+132290	23067	Famous House Salad without dressing	1 Serving	70	2	0	0	0	250	11	2	2	2	0	0	0	0	1	1	1	0
+132291	23067	Italian dressing	1 Serving	80	8	1.5	0	0	520	2	0	2	0	0	0	0	0	0	0	0	0
+132292	23067	Low-fat Italian dressing	1 Serving	30	2	0	0	5	410	2	0	2	0	0	0	0	0	0	0	0	0
+132293	23066	Angel Hair	1 Serving	350	2.5	0	0	0	10	67	3	2	12	0	0	0	0	1	1	0	0
+132294	23066	Cavatappi	1 Serving	430	4	0.5	0	0	10	83	3	4	15	0	0	0	0	1	1	0	0
+132295	23066	Gluten-Free Rotini	1 Serving	430	6	0.5	0	0	0	87	2	0	8	0	0	0	0	1	1	1	0
+132296	23066	Rigatoni	1 Serving	440	6	0.5	0	0	10	83	3	5	14	0	0	0	0	1	1	0	0
+132297	23066	Spaghetti	1 Serving	340	3.5	0	0	0	10	67	3	4	12	0	0	0	0	1	1	0	0
+132298	23066	Whole Grain Linguine	1 Serving	350	6	0	0	0	10	57	14	2	17	0	0	0	0	1	1	0	0
+132299	23066	Creamy Pesto Sauce	1 Serving	810	82	43	1.5	215	1240	9	0	2	13	0	0	0	0	0	0	0	0
+132300	23066	Creamy Mushroom Sauce	1 Serving	860	87	54	2	250	1090	13	0	7	10	0	0	0	0	0	0	0	0
+132301	23066	Five Cheese Marinara	1 Serving	440	35	18	0.5	90	1080	22	3	12	10	0	0	0	0	0	0	0	0
+132302	23066	Traditional Marinara	1 Serving	190	10	1	0	0	960	22	3	13	3	0	0	0	0	1	1	1	0
+132303	23066	Traditional Meat Sauce	1 Serving	300	19	7	0	60	1040	19	2	13	14	0	0	0	0	0	0	0	0
+132304	23066	Garden Veggies	1 Serving	35	0	0	0	0	35	6	2	3	2	0	0	0	0	1	1	0	0
+132305	23066	Crispy Chicken Fritta	1 Serving	240	12	1.5	0	50	730	14	1	0	20	0	0	0	0	0	0	0	0
+132306	23066	Grilled Chicken	1 Serving	150	5	1	0	75	240	0	0	0	27	0	0	0	0	0	0	0	0
+132307	23066	Italian Sausage	2 Links	470	39	14	0	115	1140	2	0	2	27	0	0	0	0	0	0	0	0
+132308	23066	Meatballs 	3 Meatballs	480	40	19	2	65	1060	7	3	0	23	0	0	0	0	0	0	0	0
+132309	23066	Sautéed Shrimp	1 Serving	60	0	0	0	130	580	0	0	0	14	0	0	0	0	0	0	0	0
+132310	23068	Chicken & Cheese Piadina	1 Serving	710	49	16	0	95	1660	40	3	2	30	0	0	0	0	0	0	0	0
+132311	23068	Grilled Vegetable & Cheese Piadina	1 Serving	630	37	12	0.5	50	990	52	5	7	22	0	0	0	0	0	0	0	1
+132312	23068	Marinara Sauce	1 Serving	45	2.5	0	0	0	240	6	0	3	0	0	0	0	0	0	0	0	0
+132313	23068	Meatball Pizza Bowl	1 Serving	950	56	29	0.5	150	2500	64	5	7	46	0	0	0	0	0	0	0	0
+132314	23068	Chicken Parmigiana Sandwich	1 Serving	630	33	10	0	85	1760	49	3	4	37	0	0	0	0	0	0	0	0
+132315	23068	Eggplant Parmigiana Sandwich	1 Serving	650	36	10	0	40	1330	63	5	8	22	0	0	0	0	1	0	0	0
+132316	23068	Italian Meatball Sandwich	1 Serving	650	45	20	1.5	75	1420	37	3	2	27	0	0	0	0	0	0	0	0
+132317	23068	Spicy Calabrian Chicken Sandwich	1 Serving	520	30	8	0	65	1190	38	2	2	26	0	0	0	0	0	0	0	0
+132318	23068	Added Fries	1 Serving	270	12	1	0	0	720	36	3	0	3	0	0	0	0	0	0	0	0
+132319	23068	Added Ketchup	1 Serving	80	0	0	0	0	640	20	0	16	0	0	0	0	0	0	0	0	0
+132320	23068	Chicken Giardino	1 Serving	600	17	7	0	115	2240	70	5	9	41	0	0	0	0	0	0	0	0
+132321	23068	Chicken Margherita (lunch)	1 Serving	400	25	9	0	105	790	11	2	5	36	0	0	0	0	0	0	0	0
+132322	23068	Chicken Margherita (dinner)	1 Serving	570	30	10	0	210	1340	13	4	4	64	0	0	0	0	0	0	0	0
+132323	23068	Chicken Piccata (lunch)	1 Serving	370	22	10	0	105	1250	12	3	3	32	0	0	0	0	0	0	0	0
+132324	23068	Chicken Piccata (dinner)	1 Serving	530	27	11	0	175	1480	12	3	4	60	0	0	0	0	0	0	0	0
+132325	23068	Herb-Grilled Salmon	1 Serving	460	29	8	0	120	960	9	5	3	45	0	0	0	0	0	0	0	0
+132326	23068	Ravioli di Portobello (lunch)	1 Serving	570	31	16	0.5	110	790	52	4	6	19	0	0	0	0	0	0	0	0
+132327	23068	Salmon Piccata	1 Serving	580	40	12	0	135	1560	12	3	3	45	0	0	0	0	0	0	0	1
+132328	23068	Shrimp Scampi Mini Pasta Bowl (lunch)	1 Serving	480	19	7	0.5	105	850	53	4	5	20	0	0	0	0	0	0	0	0
+132329	23068	Shrimp Scampi (dinner)	1 Serving	510	20	7	0.5	165	960	54	4	5	29	0	0	0	0	0	0	0	0
+132330	23068	LTO! Stuffed Fettuccine Alfredo (Regional)	1 Serving	1860	132	83	5	425	3140	100	5	8	72	0	0	0	0	1	0	0	0
+132331	23068	LTO! Stuffed Fettuccine Alfredo with Chicken (Regional)	1 Serving	2170	141	85	5	575	3610	101	6	9	126	0	0	0	0	0	0	0	0
+132332	23068	LTO! Stuffed Fettuccine Alfredo with Shrimp (Regional)	1 Serving	1920	132	83	5	555	3720	100	5	9	86	0	0	0	0	0	0	0	0
+132333	23068	Cheese Ravioli with Marinara Sauce	1 Serving	780	39	20	0	125	2140	68	5	11	41	0	0	0	0	1	0	0	0
+132334	23068	Cheese Ravioli with Meat Sauce	1 Serving	860	46	24	0	170	2190	65	4	11	50	0	0	0	0	0	0	0	0
+132335	23068	Chicken Parmigiana	1 Serving	1060	52	14	0	155	2980	86	7	16	63	0	0	0	0	0	0	0	0
+132336	23068	Grilled Chicken Parmigiana	1 Serving	780	32	10	0	180	1850	54	6	12	74	0	0	0	0	0	0	0	1
+132337	23068	Eggplant Parmigiana	1 Serving	1060	54	12	0	45	1990	113	11	23	30	0	0	0	0	1	0	0	0
+132338	23068	Fettuccine Alfredo Mini Pasta Bowl (lunch)	1 Serving	650	45	27	1	140	610	47	2	3	15	0	0	0	0	1	0	0	0
+132339	23068	Fettuccine Alfredo (dinner)	1 Serving	1010	56	34	1.5	155	850	97	7	5	30	0	0	0	0	1	0	0	0
+132340	23068	Five Cheese Ziti al Forno	1 Serving	1220	71	36	1	185	2160	103	6	19	45	0	0	0	0	1	0	0	0
+132341	23068	Lasagna Classico (lunch)	1 Serving	640	36	20	1	145	1430	39	5	12	40	0	0	0	0	0	0	0	0
+132342	23068	Lasagna Classico (dinner)	1 Serving	930	53	28	1.5	210	2070	56	8	18	58	0	0	0	0	0	0	0	0
+132343	23068	Ravioli di Portobello (dinner)	1 Serving	820	46	24	1	160	1150	73	6	8	27	0	0	0	0	0	0	0	0
+132344	23068	Spaghetti with Meat Sauce Mini Pasta Bowl (lunch)	1 Serving	360	12	3.5	0	30	530	51	3	9	14	0	0	0	0	0	0	0	0
+132345	23068	Tour of Italy	1 Serving	1520	96	48	1.5	340	3250	92	6	19	75	0	0	0	0	0	0	0	0
+132346	23069	Chicken & Shrimp Carbonara	1 Serving	1390	94	50	3	405	2050	75	3	10	64	0	0	0	0	0	0	0	0
+132347	23069	Chicken Alfredo	1 Serving	1620	100	57	2	430	1680	96	5	6	84	0	0	0	0	0	0	0	0
+132348	23069	Chicken Scampi	1 Serving	1260	72	28	0	200	1990	105	4	7	49	0	0	0	0	0	0	0	0
+132349	23069	Stuffed Chicken Marsala	1 Serving	930	58	26	1	245	1920	33	4	8	71	0	0	0	0	0	0	0	0
+132350	23069	Seafood Alfredo	1 Serving	1250	75	45	2	310	1480	95	4	8	49	0	0	0	0	0	0	0	0
+132351	23069	Shrimp Alfredo	1 Serving	1150	69	41	1.5	340	1490	92	4	5	40	0	0	0	0	0	0	0	0
+132352	23069	LTO! Braised Beef Bolognese	1 Serving	1040	46	21	0.5	145	2240	106	6	11	51	0	0	0	0	0	0	0	0
+132353	23069	6 oz. Sirloin with Fettucine Alfredo	1 Serving	980	60	32	1.5	240	2000	54	4	6	58	0	0	0	0	0	0	0	0
+132354	23069	Braised Beef & Tortelloni	1 Serving	1120	58	24	1.5	230	2370	83	6	16	67	0	0	0	0	0	0	0	0
+132355	23069	Steak Gorgonzola-Alfredo	1 Serving	1380	85	51	2	330	2810	88	6	8	68	0	0	0	0	0	0	0	0
+132356	23067	Garlic Parmesan Fries	1 Serving	270	12	1	0	0	720	36	3	0	3	0	0	0	0	1	0	0	0
+132357	23067	Garlic Mashed Potatoes	1 Serving	150	8	3	0	10	460	17	2	3	3	0	0	0	0	1	0	0	0
+132358	23067	Parmesan Crusted Zucchini	1 Serving	90	7	2	0	5	190	5	1	3	4	0	0	0	0	1	0	0	0
+132359	23067	Steamed Broccoli	1 Serving	35	0	0	0	0	35	7	4	3	4	0	0	0	0	1	1	1	1
+132360	23070	Chocolate Chunkin' Pumpkin Cheesecake	1 Serving	760	47	25	1.5	170	490	79	3	58	11	0	0	0	0	1	0	0	0
+132361	23070	S'mores Layer Cake	1 Serving	720	38	20	0	195	300	93	2	63	7	0	0	0	0	0	0	0	0
+132362	23070	Black Tie Mousse Cake	1 Serving	750	50	30	1	155	290	76	4	59	9	0	0	0	0	1	0	0	0
+132363	23070	"Cannoli, traditional"	1 Serving	280	14	7	0	20	45	33	0	18	5	0	0	0	0	1	0	0	0
+132364	23070	"Cannoli, strawberry"	1 Serving	280	14	6	0	20	45	33	0	18	5	0	0	0	0	1	0	0	0
+132365	23070	"Cannoli, chocolate"	1 Serving	300	14	8	0	20	50	33	0	18	5	0	0	0	0	1	0	0	0
+132366	23070	Lemon Cream Cake	1 Serving	550	31	17	0	70	440	60	0	45	6	0	0	0	0	0	0	0	0
+132367	23070	Seasonal Sicilian Cheesecake	1 Serving	730	42	26	1.5	155	440	78	2	64	12	0	0	0	0	1	0	0	0
+132368	23070	Tiramisu	1 Serving	470	27	17	0	215	125	54	0	35	6	0	0	0	0	1	0	0	0
+132369	23070	Warm Apple Crostata	1 Serving	630	29	15	0	35	420	83	2	41	7	0	0	0	0	1	0	0	0
+132370	23070	Zeppoli (no sauce)	1 Serving	810	28	3.5	0	0	510	119	6	25	20	0	0	0	0	0	0	0	0
+132371	23070	add chocolate sauce	1 Serving	220	3	2	0	10	110	48	0	42	2	0	0	0	0	0	0	0	0
+132372	23070	add raspberry sauce	1 Serving	210	0	0	0	0	10	51	0	35	0	0	0	0	0	0	0	0	0
+132373	23070	Amaretto Tiramisu	1 Serving	220	17	10	0	90	65	14	0	11	3	0	0	0	0	0	0	0	0
+132374	23070	Chocolate Mousse	1 Serving	240	18	10	0	55	125	18	1	12	2	0	0	0	0	0	0	0	0
+132375	23070	Dark Chocolate Caramel Cream	1 Serving	240	16	8	0	50	110	23	0	17	2	0	0	0	0	0	0	0	0
+132376	23070	Limoncello Mousse	1 Serving	240	15	10	0	45	85	26	0	20	2	0	0	0	0	0	0	0	0
+132377	23070	Strawberry & White Chocolate	1 Serving	190	11	6	0	30	100	23	0	18	1	0	0	0	0	0	0	0	0
+132378	23071	Fettuccine	1 Serving	170	1.5	0	0	0	0	34	1	1	6	0	0	0	0	0	0	0	0
+132379	23071	Small Shells	1 Serving	210	2	0	0	0	5	42	2	2	7	0	0	0	0	0	0	0	0
+132380	23071	Spaghetti	1 Serving	170	1.5	0	0	0	5	33	1	2	6	0	0	0	0	0	0	0	0
+132381	23071	Whole Grain Linguine	1 Serving	220	3.5	0	0	0	5	36	9	1	11	0	0	0	0	0	0	0	0
+132382	23071	Alfredo Sauce	1 Serving	330	32	20	1	105	450	4	0	0	6	0	0	0	0	0	0	0	0
+132383	23071	Five Cheese Marinara	1 Serving	160	13	7	0	35	400	8	0	5	4	0	0	0	0	0	0	0	0
+132384	23071	Meat Sauce	1 Serving	110	7	2.5	0	25	390	7	0	5	5	0	0	0	0	0	0	0	0
+132385	23071	Tomato Sauce	1 Serving	80	5	0.5	0	0	420	8	1	5	1	0	0	0	0	0	0	0	0
+132386	23071	Grilled Chicken	1 Serving	150	5	1	0	75	240	0	0	0	27	0	0	0	0	0	0	0	0
+132387	23071	Meatball	1 Serving	160	13	6	0.5	20	350	2	0	0	8	0	0	0	0	0	0	0	0
+132388	23071	Shrimp	1 Serving	30	0	0	0	65	290	0	0	0	7	0	0	0	0	0	0	0	0
+132389	23071	Cheese Pizza	1 Serving	400	13	7	0	25	720	54	3	4	17	0	0	0	0	1	0	0	0
+132390	23071	Pepperoni Topping	1 Serving	60	5	2	0	10	240	0	0	0	2	0	0	0	0	0	0	0	0
+132391	23071	Cheese Ravioli	1 Serving	340	16	8	0	50	980	33	3	6	17	0	0	0	0	1	0	0	0
+132392	23071	Cheese Tortelloni	1 Serving	350	14	4.5	0	85	860	44	1	6	13	0	0	0	0	1	0	0	0
+132393	23071	Chicken Fingers & Pasta	1 Serving	400	16	1.5	0	50	720	42	2	5	24	0	0	0	0	0	0	0	0
+132394	23071	Macaroni & Cheese	1 Serving	360	14	8	0	40	870	45	2	6	16	0	0	0	0	1	0	0	0
+132395	23071	Grapes	1 Serving	40	0	0	0	0	0	11	0	9	0	0	0	0	0	1	1	0	0
+132396	23071	Steamed Broccoli	1 Serving	35	0	0	0	0	35	7	4	3	4	0	0	0	0	0	0	0	0
+132397	23071	French Fries	1 Serving	250	11	1	0	0	360	36	3	0	3	0	0	0	0	0	0	0	0
+132398	23071	Ketchup	1 Serving	80	0	0	0	0	640	20	0	16	0	0	0	0	0	0	0	0	0
+132399	23071	Spaghetti with tomato sauce	1 Serving	180	4.5	0.5	0	0	290	30	2	5	5	0	0	0	0	0	0	0	0
+132400	23071	Italian Ice Milkshake	1 Serving	220	11	7	0	35	55	28	0	23	2	0	0	0	0	0	0	0	0
+132401	23071	"Milk, 1% low fat"	1 Serving	100	2.5	1.5	0	10	105	12	0	12	8	0	0	0	0	0	0	0	0
+132402	23071	"Chocolate Milk, 1% low fat"	1 Serving	180	2.5	1.5	0	10	135	31	0	29	8	0	0	0	0	0	0	0	0
+132403	23071	Raspberry Lemonade	1 Serving	110	0	0	0	0	10	7	0	6	0	0	0	0	0	0	0	0	0
+132404	23071	"Juice, Apple"	1 Serving	170	0	0	0	0	50	42	0	42	0	0	0	0	0	0	0	0	0
+132405	23071	"Juice, Cranberry"	1 Serving	180	0	0	0	0	50	45	0	45	0	0	0	0	0	0	0	0	0
+132406	23071	"Juice, Orange"	1 Serving	180	0	0	0	0	10	40	0	36	3	0	0	0	0	0	0	0	0
+132407	23071	"Juice, Pineapple"	1 Serving	200	0	0	0	0	5	48	0	45	1	0	0	0	0	0	0	0	0
+132408	23071	"Smoothie, Strawberry-Banana"	1 Serving	120	0	0	0	0	30	30	2	22	0	0	0	0	0	0	0	0	0
+132409	23071	"Smoothie, Peach-Mango"	1 Serving	120	0	0	0	0	15	29	0	23	0	0	0	0	0	0	0	0	0
+132410	23071	Sundae with chocolate sauce	1 Serving	190	8	5	0	30	45	28	0	22	2	0	0	0	0	0	0	0	0
+132411	23072	Zuppa Toscana (U.S. only)	1 Serving	220	15	7	0	40	790	15	2	2	7	0	0	0	0	0	0	1	0
+132412	23072	Famous House Salad without croutons	1 Serving	110	8	1.5	0	0	670	7	2	3	2	0	0	0	0	0	0	1	0
+132413	23072	Tuscan Sirloin	1 Serving	420	16	7	0.5	105	1940	26	7	6	46	0	0	0	0	0	0	1	0
+132414	23072	Herb-Grilled Salmon	1 Serving	460	29	8	0	120	960	9	5	3	45	0	0	0	0	0	0	1	0
+132415	23072	Rotini with Marinara sauce	1 Serving	610	15	1.5	0	0	970	109	5	13	10	0	0	0	0	0	0	1	0
+132416	23072	Rotini with Meat sauce	1 Serving	730	25	8	0	60	1040	106	4	13	22	0	0	0	0	0	0	1	0
+132417	23072	Grilled Chicken	1 Serving	150	5	1	0	75	240	0	0	0	27	0	0	0	0	0	0	1	0
+132418	23072	Italian Sausage	1 Serving	470	39	14	0	115	1140	2	0	2	27	0	0	0	0	0	0	1	0
+132419	23072	Shrimp	1 Serving	70	0	0	0	120	200	0	0	0	16	0	0	0	0	0	0	1	0
+132420	23072	Kids Rotini with Marinara & Grilled Chicken (with grapes)	1 Serving	500	13	2	0	75	720	66	4	16	33	0	0	0	0	0	0	1	0
+132421	23072	Kids Rotini with Marinara sauce	1 Serving	310	8	0.5	0	0	480	55	3	6	5	0	0	0	0	0	0	1	0
+132422	23072	Kids Rotini with Meat sauce	1 Serving	360	12	4	0	30	520	53	2	7	11	0	0	0	0	0	0	1	0
+132423	23073	Whites and Rosé 	Glass	150	0	0	0	0	10	4	0	2	0	0	0	0	0	0	0	0	0
+132424	23073	Whites and Rosé 	Quartino	220	0	0	0	0	15	6	0	3	0	0	0	0	0	0	0	0	0
+132425	23073	Whites and Rosé 	Bottle	630	0	0	0	0	35	16	0	7	0	0	0	0	0	0	0	0	0
+132426	23073	Whites and Rosé 	Magnum Bottle	1250	0	0	0	0	75	32	0	14	1	0	0	0	0	0	0	0	0
+132427	23073	Reds 	Glass	160	0	0	0	0	0	5	0	1	0	0	0	0	0	0	0	0	0
+132428	23073	Reds 	Quartino	230	0	0	0	0	0	8	0	2	0	0	0	0	0	0	0	0	0
+132429	23073	Reds 	Bottle	660	0	0	0	0	0	21	0	5	0	0	0	0	0	0	0	0	0
+132430	23073	Reds 	Magnum Bottle	1310	0	0	0	0	0	43	0	11	1	0	0	0	0	0	0	0	0
+132431	23073	Sparkling Prosecco 	Glass	160	0	0	0	0	10	10	0	10	0	0	0	0	0	0	0	0	0
+132432	23073	Sparkling Prosecco	Bottle	660	0	0	0	0	0	21	0	5	0	0	0	0	0	0	0	0	0
+132433	23073	Makers Black Cherry Coke	Coke	220	0	0	0	0	20	36	0	34	0	0	0	0	0	0	0	0	0
+132434	23073	Berry Sangria	Glass	210	0	0	0	0	5	30	0	27	0	0	0	0	0	0	0	0	0
+132435	23073	Berry Sangria 	Pitcher	870	0	0	0	0	25	126	3	112	1	0	0	0	0	0	0	0	0
+132436	23073	Green Apple Moscato Sangria	Glass	200	0	0	0	0	15	39	0	37	0	0	0	0	0	0	0	0	0
+132437	23073	Green Apple Moscato Sangria	Pitcher	830	0	0	0	0	50	161	3	150	2	0	0	0	0	0	0	0	0
+132438	23073	Peach Sangria	Glass	230	0	0	0	0	5	35	0	32	0	0	0	0	0	0	0	0	0
+132439	23073	Peach Sangria	Pitcher	940	0	0	0	0	25	143	3	130	1	0	0	0	0	0	0	0	0
+132440	23073	Watermelon Moscato Sangria 	Glass	180	0	0	0	0	15	34	0	31	0	0	0	0	0	0	0	0	0
+132441	23073	Watermelon Moscato Sangria 	Pitcher	720	0	0	0	0	60	138	3	128	0	0	0	0	0	0	0	0	0
+132442	23073	Frozen Blackberry-Pineapple Margarita	Glass	230	0	0	0	0	20	36	2	32	0	0	0	0	0	0	0	0	0
+132443	23073	Frozen Strawberry Margarita	Glass	290	0	0	0	0	20	52	4	42	0	0	0	0	0	0	0	0	0
+132444	23073	Frozen Strawberry-Mango Margarita	Glass	340	0	0	0	0	20	65	4	52	0	0	0	0	0	0	0	0	0
+132445	23073	Italian Margarita	Glass	380	0	0	0	0	30	58	4	49	0	0	0	0	0	0	0	0	0
+132446	23073	Traditional Margarita	Glass	290	0	0	0	0	25	48	4	39	0	0	0	0	0	0	0	0	0
+132447	23073	Watermelon Margarita	Glass	180	0	0	0	0	10	29	1	25	0	0	0	0	0	0	0	0	0
+132448	23073	Antipasto Bloody Mary	Glass	150	3	0.5	0	0	1200	8	0	3	2	0	0	0	0	0	0	0	0
+132449	23073	Bacardi & Coke	Glass	100	0	0	0	0	5	6	0	6	0	0	0	0	0	0	0	0	0
+132450	23073	Classic Martini	Glass	200	2	0	0	0	390	2	0	0	0	0	0	0	0	0	0	0	0
+132451	23073	Daiquiri	Glass	210	0	0	0	0	20	31	3	25	0	0	0	0	0	0	0	0	0
+132452	23073	Daiquiri - Mango	Glass	280	0	0	0	0	5	51	2	41	0	0	0	0	0	0	0	0	0
+132453	23073	Daiquiri - Peach	Glass	290	0	0	0	0	0	52	2	47	0	0	0	0	0	0	0	0	0
+132454	23073	Daiquiri - Strawberry	Glass	290	0	0	0	0	5	52	3	42	0	0	0	0	0	0	0	0	0
+132455	23073	Long Island Iced Tea	Glass	210	0	0	0	0	20	25	2	21	0	0	0	0	0	0	0	0	0
+132456	23073	Long Island Limoncello	Glass	230	0	0	0	0	20	31	2	27	0	0	0	0	0	0	0	0	0
+132457	23073	Manhattan	Glass	180	0	0	0	0	5	6	0	4	0	0	0	0	0	0	0	0	0
+132458	23073	Milan Mai Tai	Glass	260	0	0	0	0	20	42	1	38	0	0	0	0	0	0	0	0	0
+132459	23073	Mojito	Glass	220	0	0	0	0	25	33	1	28	0	0	0	0	0	0	0	0	0
+132460	23073	Moscato Citrus Berry Cocktail	Glass	200	0	0	0	0	45	37	0	31	0	0	0	0	0	0	0	0	0
+132461	23073	Moscow Mule	Glass	170	0	0	0	0	5	17	1	15	0	0	0	0	0	0	0	0	0
+132462	23073	Peach Bellini	Glass	240	0	0	0	0	0	41	0	36	0	0	0	0	0	0	0	0	0
+132463	23073	Pina Colada	Glass	330	3.5	3.5	0	0	20	53	4	47	1	0	0	0	0	0	0	0	0
+132464	23073	Raspberry Italian Ice Mule	Glass	230	0	0	0	0	0	27	0	26	0	0	0	0	0	0	0	0	0
+132465	23073	Spiked Strawberry Lemonade	Glass	160	0	0	0	0	15	24	0	22	0	0	0	0	0	0	0	0	0
+132466	23073	Cappuccino Viva Italiano	Glass	220	5	2.5	0	25	65	21	0	17	9	0	0	0	0	0	0	0	0
+132467	23073	Caramel Amaretto Macchiato	Glass	290	2.5	1	0	15	30	48	0	42	5	0	0	0	0	0	0	0	0
+132468	23073	Chocolate Almond Amoré	Glass	540	19	12	0	60	90	62	0	124	5	0	0	0	0	0	0	0	0
+132469	23073	Espresso Martini	Glass	310	9	5	0	30	20	32	0	23	1	0	0	0	0	0	0	0	0
+132470	23073	Frozen Tiramisu	Glass	500	12	7	0	45	65	64	0	57	8	0	0	0	0	0	0	0	0
+132471	23073	Irish Coffee	Glass	100	1	0.5	0	0	5	1	0	0	0	0	0	0	0	0	0	0	0
+132472	23073	Mudslide	Glass	530	19	12	0.5	60	110	64	1	54	5	0	0	0	0	0	0	0	0
+132473	23073	White Russian	Glass	200	3	2	0	10	20	14	0	11	0	0	0	0	0	0	0	0	0
+132474	23073	Light Draft	16 fl oz	140	0	0	0	0	15	6	0	6	1	0	0	0	0	0	0	0	0
+132475	23073	Light Draft 	22 fl oz	190	0	0	0	0	20	8	0	8	2	0	0	0	0	0	0	0	0
+132476	23073	Regular Draft 	16 fl oz	230	0	0	0	0	5	16	0	14	3	0	0	0	0	0	0	0	0
+132477	23073	Regular Draft	22 fl oz	310	0	0	0	0	5	22	0	20	4	0	0	0	0	0	0	0	0
+132478	23073	Light Beer	Bottle	100	0	0	0	0	10	5	0	5	0	0	0	0	0	0	0	0	0
+132479	23073	Regular Beer	Bottle	150	0	0	0	0	10	11	0	11	1	0	0	0	0	0	0	0	0
+132480	23073	Angry Orchard Hard Cider	Bottle	220	0	0	0	0	10	31	0	23	0	0	0	0	0	0	0	0	0
+132481	23073	Non-Alcoholic Beer	Bottle	70	0	0	0	0	10	13	0	13	0	0	0	0	0	0	0	0	0
+132482	23073	Italian Ice Milkshake	Glass	310	16	10	0.5	50	80	40	0	34	4	0	0	0	0	0	0	0	0
+132483	23073	"Limonata, Blueberry"	Glass	160	0	0	0	0	30	41	0	39	0	0	0	0	0	0	0	0	0
+132484	23073	"Limonata, Kiwi-Melon"	Glass	160	0	0	0	0	35	43	0	39	0	0	0	0	0	0	0	0	0
+132485	23073	"Limonata, Strawberry-Passion Fruit"	Glass	130	0	0	0	0	40	34	0	32	0	0	0	0	0	0	0	0	0
+132486	23073	Mixed Berry Sparkling Water	Glass	30	0	0	0	0	55	7	0	6	0	0	0	0	0	0	0	0	0
+132487	23073	"Smoothie, Peach-Mango"	Glass	180	0	0	0	0	20	44	1	34	1	0	0	0	0	0	0	0	0
+132488	23073	"Smoothie, Strawberry-Banana"	Glass	190	0	0	0	0	45	45	3	33	1	0	0	0	0	0	0	0	0
+132489	23073	Caffé Latte	Glass	180	7	4	0	30	100	18	0	15	11	0	0	0	0	0	0	0	0
+132490	23073	Caffé Mocha	Glass	230	7	3.5	0	30	85	34	2	27	10	0	0	0	0	0	0	0	0
+132491	23073	Cappuccino	Glass	140	5	2.5	0	25	70	15	0	12	9	0	0	0	0	0	0	0	0
+132492	23073	Cappuccino with Whipped Cream	Glass	150	6	3	0	30	70	13	0	10	9	0	0	0	0	0	0	0	0
+132493	23073	Caramel Hazelnut Macchiato	Glass	220	2.5	1	0	15	30	44	0	39	5	0	0	0	0	0	0	0	0
+132494	23073	Frozen Cappuccino - Caramel	Glass	320	11	7	0	35	55	54	0	51	3	0	0	0	0	0	0	0	0
+132495	23073	Frozen Cappuccino - Traditional	Glass	370	11	7	0	35	55	67	0	63	3	0	0	0	0	0	0	0	0
+132496	23073	Frozen Cappuccino - Vanilla	Glass	320	11	7	0	35	55	53	0	50	3	0	0	0	0	0	0	0	0
+132497	23073	Iced Coffee - Caramel	Glass	250	7	4	0	20	90	40	0	31	7	0	0	0	0	0	0	0	0
+132498	23073	Iced Coffee - Traditional	Glass	210	7	4	0	20	90	29	0	21	7	0	0	0	0	0	0	0	0
+132499	23073	Iced Coffee - Vanilla	Glass	240	7	4	0	20	90	38	0	30	7	0	0	0	0	0	0	0	0
+132500	23073	Lavazza Espresso	Glass	60	1.5	0	0	15	15	6	0	3	5	0	0	0	0	0	0	0	0
+132501	23073	Coffee	Glass	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+132502	23073	Hot Tea	Glass	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0
+132503	23073	Hot Chocolate	Glass	360	8	4	0	30	105	63	3	52	11	0	0	0	0	0	0	0	0
+132504	23073	"Iced Tea, Bellini Peach-Raspberry"	Glass	80	0	0	0	0	10	18	0	17	0	0	0	0	0	0	0	0	0
+132505	23073	"Iced Tea, Blackberry-Pineapple"	Glass	100	0	0	0	0	15	24	0	23	0	0	0	0	0	0	0	0	0
+132506	23073	"Iced Tea, Mango-Strawberry"	Glass	100	0	0	0	0	10	24	0	22	0	0	0	0	0	0	0	0	0
+132507	23073	"Iced Tea, Fresh Brewed (unsweetened)"	Glass	0	0	0	0	0	10	1	0	0	0	0	0	0	0	0	0	0	0
+132508	23073	"Iced Tea, Raspberry"	Glass	80	0	0	0	0	10	20	0	18	0	0	0	0	0	0	0	0	0
+132509	23073	Italian Bottled Water	Glass	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+132510	23073	Raspberry Lemonade	Glass	170	0	0	0	0	10	10	0	9	0	0	0	0	0	0	0	0	0
+132511	23073	Coke	Glass	140	0	0	0	0	45	39	0	39	0	0	0	0	0	0	0	0	0
+132512	23073	Coke Zero	Glass	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0
+132513	23073	Diet Coke	Glass	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0
+132514	23073	Dr. Pepper	Glass	150	0	0	0	0	55	41	0	41	0	0	0	0	0	0	0	0	0
+132515	23073	Minute Maid Limeade	Glass	180	0	0	0	0	25	49	0	47	0	0	0	0	0	0	0	0	0
+132516	23073	Sprite	Glass	140	0	0	0	0	65	38	0	38	0	0	0	0	0	0	0	0	0
+132517	23073	"Juice, Apple"	Glass	210	0	0	0	0	65	53	0	53	0	0	0	0	0	0	0	0	0
+132518	23073	"Juice, Cranberry"	Glass	230	0	0	0	0	65	56	0	56	0	0	0	0	0	0	0	0	0
+132519	23073	"Juice, Grapefruit"	Glass	190	0	0	0	0	45	42	0	32	4	0	0	0	0	0	0	0	0
+132520	23073	"Juice, Orange"	Glass	230	0	0	0	0	10	51	0	45	4	0	0	0	0	0	0	0	0
+132521	23073	"Juice, Pineapple"	Glass	250	0.5	0	0	0	10	60	0	56	2	0	0	0	0	0	0	0	0
+132522	23073	"Juice, Tomato"	Glass	90	0	0	0	0	1280	19	4	13	4	0	0	0	0	0	0	0	0
+132523	23074	Breadstick	1 Stick	140	2.5	0.5	0	0	460	25	0	1	4	0	0	0	0	0	0	0	0
+132524	23074	Famous House Salad To Go	1 Serving	290	17	2.5	0	10	1380	30	6	10	8	0	0	0	0	0	0	0	0
+132525	23074	Chicken & Gnocchi	1/2 Order	230	12	4.5	0	55	1290	22	1	4	11	0	0	0	0	0	0	0	0
+132526	23074	Minestrone	1/2 Order	110	1	0	0	0	810	17	4	4	5	0	0	0	0	0	0	0	0
+132527	23074	Pasta e Fagioli	1/2 Order	150	5	2	0	15	710	16	3	4	8	0	0	0	0	0	0	0	0
+132528	23074	Zuppa Toscana 	1/2 Order	220	15	7	0	40	790	15	2	2	7	0	0	0	0	0	0	0	0
+132529	23074	Lasagna Dip with Pasta Chips	1 Order (Serves 4-6)	1890	124	45	1	240	2410	111	7	16	81	0	0	0	0	0	0	0	0
+132530	23074	Spinach & Artichoke Dip with Pasta Chips	1 Order (Serves 4-6)	1590	103	33	1.5	155	2800	118	14	11	55	0	0	0	0	0	0	0	0
+132531	23074	Chicken & Cheese Piadina	1 Order (Serves 4-6)	2140	146	49	1	285	4980	120	8	6	91	0	0	0	0	0	0	0	0
+132532	23074	Marinara sauce	1 Order (Serves 4-6)	140	7	0.5	0	0	720	17	2	10	2	0	0	0	0	0	0	0	0
+132533	23074	Fried Mozzarella	1 Order (Serves 4-6)	3200	206	90	5	425	7370	201	14	14	136	0	0	0	0	0	0	0	0
+132534	23074	Alfredo sauce	1 Order (Serves 4-6)	440	43	27	1	140	600	5	0	1	8	0	0	0	0	0	0	0	0
+132535	23074	Parmesan Zucchini Bites	1 Order (Serves 4-6)	1540	90	31	1.5	295	2830	116	6	14	67	0	0	0	0	0	0	0	0
+132536	23074	Spicy Calabrian Chicken	1 Order (Serves 4-6)	2700	201	46	2	560	6740	56	12	3	169	0	0	0	0	0	0	0	0
+132537	23074	Gorgonzola Sauce	1 Order (Serves 4-6)	500	50	12	1.5	60	1060	5	0	3	7	0	0	0	0	0	0	0	0
+132538	23074	Stuffed Mushrooms	1 Order (Serves 4-6)	1510	121	31	1	80	3450	53	6	11	58	0	0	0	0	0	0	0	0
+132539	23074	Toasted Beef & Pork Ravioli	1 Order (Serves 4-6)	2770	125	21	1	135	6190	315	22	24	98	0	0	0	0	0	0	0	0
+132540	23074	Alfredo sauce	1 Pint	1750	173	109	4	570	2400	21	0	4	30	0	0	0	0	0	0	0	0
+132541	23074	Five Cheese Marinara sauce	1 Pint	870	70	35	1	180	2150	43	5	25	20	0	0	0	0	0	0	0	0
+132542	23074	Marinara sauce	1 Pint	370	19	1.5	0	0	1920	45	7	25	5	0	0	0	0	0	0	0	0
+132543	23074	Meat sauce	1 Pint	600	38	14	0.5	125	2070	37	3	26	28	0	0	0	0	0	0	0	0
+132544	23074	Jumbo Famous House Salad 	1 Order (Serves 4-6)	1650	114	17	1.5	55	8260	134	17	36	30	0	0	0	0	0	0	0	0
+132545	23074	Chicken & Gnocchi	1/2 Gallon	1870	93	38	2	460	10280	177	10	31	88	0	0	0	0	0	0	0	0
+132546	23074	Minestrone	1/2 Gallon	850	9	1.5	0	0	6460	140	31	31	40	0	0	0	0	0	0	0	0
+132547	23074	Pasta e Fagioli	1/2 Gallon	1170	44	17	2	140	5690	131	24	29	62	0	0	0	0	0	0	0	0
+132548	23074	Zuppa Toscana	1/2 Gallon	1760	117	52	1.5	300	6350	123	15	17	59	0	0	0	0	0	0	0	0
+132549	23074	Cheese Ravioli with Marinara sauce	1 Order (Serves 4-6)	3170	172	80	1	500	9220	256	23	36	167	0	0	0	0	0	0	0	0
+132550	23074	Cheese Ravioli with Meat sauce 	1 Order (Serves 4-6)	3510	198	98	2	660	9790	246	16	22	195	0	0	0	0	0	0	0	0
+132551	23074	Fettuccine Alfredo 	1 Order (Serves 4-6)	5010	339	205	8	1065	4550	376	15	20	116	0	0	0	0	0	0	0	0
+132552	23074	Five Cheese Ziti al Forno	1 Order (Serves 4-6)	4800	290	151	5	715	8780	388	25	65	187	0	0	0	0	0	0	0	0
+132553	23074	Ravioli di Portobello	1 Order (Serves 4-6)	3410	204	104	4	590	4690	292	23	38	109	0	0	0	0	0	0	0	0
+132554	23074	Rotini with Marinara sauce	1 Order (Serves 4-6)	2460	61	5	0	0	3860	438	21	51	42	0	0	0	0	0	0	0	0
+132555	23074	Rotini with Meat sauce	1 Order (Serves 4-6)	2910	99	31	1.5	245	4160	423	15	53	88	0	0	0	0	0	0	0	0
+132556	23074	Spaghetti with Marinara sauce 	1 Order (Serves 4-6)	2410	52	3.5	0	0	3660	417	26	66	68	0	0	0	0	0	0	0	0
+132557	23074	Spaghetti with Marinara sauce & Meatballs	1 Order (Serves 4-6)	4150	193	69	7	225	7920	458	37	76	149	0	0	0	0	0	0	0	0
+132558	23074	Spaghetti with Marinara sauce & Italian Sausage	1 Order (Serves 4-6)	4430	217	58	0	465	8950	443	31	83	176	0	0	0	0	0	0	0	0
+132559	23074	Spaghetti with Meat sauce 	1 Order (Serves 4-6)	2840	88	27	1	230	3950	403	20	68	112	0	0	0	0	0	0	0	0
+132560	23074	Spaghetti with Meat sauce & Meatballs (Serves 4 - 6)	1 Order (Serves 4-6)	4570	229	93	8	455	8210	444	31	78	192	0	0	0	0	0	0	0	0
+132561	23074	Spaghetti with Meat sauce & Italian Sausage 	1 Order (Serves 4-6)	4860	253	82	1	695	9230	429	25	85	220	0	0	0	0	0	0	0	0
+132562	23074	Lasagna Classico 	1 Order (Serves 8)	4980	313	174	6	1290	12550	262	19	49	292	0	0	0	0	0	0	0	0
+132563	23074	Lasagna Classico	1 Order (Serves 12)	7310	459	256	8	1900	18130	385	28	70	430	0	0	0	0	0	0	0	0

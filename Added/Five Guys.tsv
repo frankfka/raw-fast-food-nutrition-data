@@ -1,0 +1,25 @@
+food_id	menu_id	food_name	serving_size	calories	fat	saturated_fat	trans_fat	cholesterol	sodium	carbohydrates	fiber	sugar	protein	vit_a	vit_c	calcium	iron	is_vegetarian	is_vegan	is_gf	is_featured
+142986	23032	Bacon	2 Pc	80	7	3	0	15	260	0	0	0	4	0	0	0	0	0	0	1	0
+142987	23032	Hamburger Patty	1 Patty	220	17	8	1	60	50	0	0	0	16	0	0	0	0	0	0	1	1
+142988	23032	Hot Dog	1 Hot Dog	240	20	9	1	45	1040	2	0	1	11	0	0	0	0	0	0	1	0
+142989	23032	Five Guys Bun	1 Bun	260	9	3.5	0	5	330	39	2	8	7	0	0	0	0	0	0	0	1
+142990	23033	Little	1 Order	526	23	4	0.5	0	531	72	8	2	8	0	0	0	0	1	1	1	0
+142991	23033	Regular	1 Order	953	41	7	1	0	962	131	15	4	15	0	0	0	0	1	1	1	0
+142992	23033	Large	1 Order	1314	57	10	1	0	1327	181	21	6	20	0	0	0	0	1	1	1	0
+142993	23033	Poutine Curd	1 Order	368	28	17	0	99	708	3	0	0	23	0	0	0	0	1	0	1	0
+142994	23033	Poutine Sauce Mix	1 Order	475	9	4	1	0	9824	84	1	9	9	0	0	0	0	0	0	1	0
+142995	23034	A.1® Sauce	1 Order	15	0	0	0	0	280	3	0	2	0	0	0	0	0	1	1	1	0
+142996	23034	Bar-B-Q Sauce	1 Order	60	0	0	0	0	400	15	0	10	0	0	0	0	0	1	1	1	0
+142997	23034	Cheese	1 Pc	70	6	4	0	15	360	0	0	0	4	0	0	0	0	1	1	1	0
+142998	23034	Green Peppers	1 Order	5	0	0	0	0	1	1	0	0	0	0	0	0	0	1	1	1	1
+142999	23034	Grilled Mushrooms	1 Order	5	0	0	0	0	55	1	0	1	0	0	0	0	0	1	1	1	1
+143000	23034	Hot Sauce	1 Order	0	0	0	0	0	200	0	0	0	0	0	0	0	0	1	1	1	0
+143001	23034	Jalapeño Peppers	1 Order	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0
+143002	23034	Ketchup	1 Order	20	0	0	0	0	160	5	0	4	0	0	0	0	0	1	1	1	0
+143003	23034	Lettuce	1 Order	4	0	0	0	0	3	1	0	0	0	0	0	0	0	1	1	1	1
+143004	23034	Mayonnaise	1 Order	100	11	2	0	10	75	0	0	0	0	0	0	0	0	1	0	1	0
+143005	23034	Mustard	1 Order	0	0	0	0	0	55	0	0	0	0	0	0	0	0	1	1	1	0
+143006	23034	Onions / Grilled Onions	1 Order	10	0	0	0	0	1	2	0	0	0	0	0	0	0	1	1	1	0
+143007	23034	Pickles	1 Order	3	0	0	0	0	258	1	0	0	0	0	0	0	0	1	1	1	0
+143008	23034	Relish	1 Order	10	0	0	0	0	105	3	0	3	0	0	0	0	0	1	1	1	0
+143009	23034	Tomatoes	1 Order	9	0	0	0	0	3	2	0	1	0	0	0	0	0	1	1	1	1
